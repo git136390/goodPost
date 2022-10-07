@@ -1,0 +1,2 @@
+# Multiplication to find the maximum value between lca and any two points on the tree
+[Multiplication to find the maximum value between lca and any two points on the tree](https://aiwithcloud.com/2022/09/15/multiplication_to_find_the_maximum_value_between_lca_and_any_two_points_on_the_tree/)

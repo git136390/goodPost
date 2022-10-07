@@ -1,0 +1,2 @@
+# Implementation of direct string interception on WeChat applet WXML page
+[Implementation of direct string interception on WeChat applet WXML page](https://aiwithcloud.com/2022/09/15/implementation_of_direct_string_interception_on_wechat_applet_wxml_page/)

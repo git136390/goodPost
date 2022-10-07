@@ -1,0 +1,2 @@
+# Linux system - Linux introduction and environment construction
+[Linux system - Linux introduction and environment construction](https://aiwithcloud.com/2022/09/16/linux_system___linux_introduction_and_environment_construction/)

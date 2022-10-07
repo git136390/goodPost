@@ -1,0 +1,2 @@
+# A brief introduction to the new Camera FWHAL architecture under Android Camera API 2.0
+[A brief introduction to the new Camera FWHAL architecture under Android Camera API 2.0](https://aiwithcloud.com/2022/09/15/a_brief_introduction_to_the_new_camera_fwhal_architecture_under_android_camera_api_2-0/)

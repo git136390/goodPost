@@ -1,0 +1,2 @@
+# Laya Tutorial - Docking with Douyin Mini Game SDK (10 minutes to master)
+[Laya Tutorial - Docking with Douyin Mini Game SDK (10 minutes to master)](https://aiwithcloud.com/2022/09/15/laya_tutorial___docking_with_douyin_mini_game_sdk_10_minutes_to_master/)

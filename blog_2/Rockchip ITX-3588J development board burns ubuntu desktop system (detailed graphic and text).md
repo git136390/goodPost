@@ -1,0 +1,2 @@
+# Rockchip ITX-3588J development board burns ubuntu desktop system (detailed graphic and text)
+[Rockchip ITX-3588J development board burns ubuntu desktop system (detailed graphic and text)](https://aiwithcloud.com/2022/09/15/rockchip_itx_3588j_development_board_burns_ubuntu_desktop_system_detailed_graphic_and_text/)

@@ -1,0 +1,2 @@
+# The SpringBoot interceptor gets the body data of the Request
+[The SpringBoot interceptor gets the body data of the Request](https://aiwithcloud.com/2022/09/19/the_springboot_interceptor_gets_the_body_data_of_the_request/)

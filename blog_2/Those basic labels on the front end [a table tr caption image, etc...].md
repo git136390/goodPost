@@ -1,0 +1,2 @@
+# Those basic labels on the front end [a table tr caption image, etc...]
+[Those basic labels on the front end [a table tr caption image, etc...]](https://aiwithcloud.com/2022/09/15/those_basic_labels_on_the_front_end_a_table_tr_caption_image_etc/)

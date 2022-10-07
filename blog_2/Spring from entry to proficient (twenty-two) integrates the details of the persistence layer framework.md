@@ -1,0 +1,2 @@
+# Spring from entry to proficient (twenty-two) integrates the details of the persistence layer framework
+[Spring from entry to proficient (twenty-two) integrates the details of the persistence layer framework](https://aiwithcloud.com/2022/09/15/spring_from_entry_to_proficient_twenty_two_integrates_the_details_of_the_persistence_layer_framework/)

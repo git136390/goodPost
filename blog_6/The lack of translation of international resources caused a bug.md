@@ -1,0 +1,2 @@
+# The lack of translation of international resources caused a bug
+[The lack of translation of international resources caused a bug](https://aiwithcloud.com/2022/09/16/the_lack_of_translation_of_international_resources_caused_a_bug/)

@@ -1,0 +1,2 @@
+# Principles of computer composition exam questions and answers
+[Principles of computer composition exam questions and answers](https://aiwithcloud.com/2022/09/19/principles_of_computer_composition_exam_questions_and_answers/)

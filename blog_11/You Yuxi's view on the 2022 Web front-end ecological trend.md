@@ -1,0 +1,2 @@
+# You Yuxi's view on the 2022 Web front-end ecological trend
+[You Yuxi's view on the 2022 Web front-end ecological trend](https://aiwithcloud.com/2022/09/19/you_yuxis_view_on_the_2022_web_front_end_ecological_trend/)

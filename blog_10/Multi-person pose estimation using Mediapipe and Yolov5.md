@@ -1,0 +1,2 @@
+# Multi-person pose estimation using Mediapipe and Yolov5
+[Multi-person pose estimation using Mediapipe and Yolov5](https://aiwithcloud.com/2022/09/19/multi_person_pose_estimation_using_mediapipe_and_yolov5/)

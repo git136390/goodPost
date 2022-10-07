@@ -1,0 +1,2 @@
+# Three ways to achieve the centering of child elements in parent elements (collector's edition)
+[Three ways to achieve the centering of child elements in parent elements (collector's edition)](https://aiwithcloud.com/2022/09/19/three_ways_to_achieve_the_centering_of_child_elements_in_parent_elements_collectors_edition/)

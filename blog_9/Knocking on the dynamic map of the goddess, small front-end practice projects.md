@@ -1,0 +1,2 @@
+# Knocking on the dynamic map of the goddess, small front-end practice projects
+[Knocking on the dynamic map of the goddess, small front-end practice projects](https://aiwithcloud.com/2022/09/19/knocking_on_the_dynamic_map_of_the_goddess_small_front_end_practice_projects/)

@@ -1,0 +1,2 @@
+# [Blockchain Expansion] Sidechain Technology Plasma (Layer 2)
+[[Blockchain Expansion] Sidechain Technology Plasma (Layer 2)](https://aiwithcloud.com/2022/09/16/blockchain_expansion_sidechain_technology_plasma_layer_2/)

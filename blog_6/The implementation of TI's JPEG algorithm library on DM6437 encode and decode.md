@@ -1,0 +1,2 @@
+# The implementation of TI's JPEG algorithm library on DM6437 encode and decode
+[The implementation of TI's JPEG algorithm library on DM6437 encode and decode](https://aiwithcloud.com/2022/09/16/the_implementation_of_tis_jpeg_algorithm_library_on_dm6437_encode_and_decode/)

@@ -1,0 +1,2 @@
+# Fix 'E Unable to get lock varlibdpkglock-frontend - open (11 Resource temporarily unavailable)' issue
+[Fix 'E Unable to get lock varlibdpkglock-frontend - open (11 Resource temporarily unavailable)' issue](https://aiwithcloud.com/2022/09/19/fix_e_unable_to_get_lock_varlibdpkglock_frontend___open_11_resource_temporarily_unavailable_issue/)

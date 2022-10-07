@@ -1,0 +1,2 @@
+# All employees with the top three highest salaries in the LeetCode 185 department (MySQL)
+[All employees with the top three highest salaries in the LeetCode 185 department (MySQL)](https://aiwithcloud.com/2022/09/15/all_employees_with_the_top_three_highest_salaries_in_the_leetcode_185_department_mysql/)

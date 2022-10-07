@@ -1,0 +1,2 @@
+# Python study notes exception handling try, except, finally usage
+[Python study notes exception handling try, except, finally usage](https://aiwithcloud.com/2022/09/15/python_study_notes_exception_handling_try_except_finally_usage/)

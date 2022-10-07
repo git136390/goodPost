@@ -1,0 +1,2 @@
+# Crawler (3) - 5 small instances of the Requests library
+[Crawler (3) - 5 small instances of the Requests library](https://aiwithcloud.com/2022/09/15/crawler_3___5_small_instances_of_the_requests_library/)

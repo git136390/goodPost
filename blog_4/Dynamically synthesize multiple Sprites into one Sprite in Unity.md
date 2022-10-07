@@ -1,0 +1,2 @@
+# Dynamically synthesize multiple Sprites into one Sprite in Unity
+[Dynamically synthesize multiple Sprites into one Sprite in Unity](https://aiwithcloud.com/2022/09/15/dynamically_synthesize_multiple_sprites_into_one_sprite_in_unity/)

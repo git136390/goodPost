@@ -1,0 +1,2 @@
+# The Controller layer code is written like this, concise and elegant!
+[The Controller layer code is written like this, concise and elegant!](https://aiwithcloud.com/2022/09/19/the_controller_layer_code_is_written_like_this_concise_and_elegant/)

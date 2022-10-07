@@ -1,0 +1,2 @@
+# Use pyinstall to package the py file of python+qt as exe
+[Use pyinstall to package the py file of python+qt as exe](https://aiwithcloud.com/2022/09/16/use_pyinstall_to_package_the_py_file_of_pythonqt_as_exe/)

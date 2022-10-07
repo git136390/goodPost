@@ -1,0 +1,2 @@
+# STM32CubeMX realizes serial port interrupt communication
+[STM32CubeMX realizes serial port interrupt communication](https://aiwithcloud.com/2022/09/15/stm32cubemx_realizes_serial_port_interrupt_communication/)

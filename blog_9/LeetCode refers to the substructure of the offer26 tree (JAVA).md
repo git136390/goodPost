@@ -1,0 +1,2 @@
+# LeetCode refers to the substructure of the offer26 tree (JAVA)
+[LeetCode refers to the substructure of the offer26 tree (JAVA)](https://aiwithcloud.com/2022/09/19/leetcode_refers_to_the_substructure_of_the_offer26_tree_java/)

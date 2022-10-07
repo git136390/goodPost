@@ -1,0 +1,2 @@
+# 价格OR配套，11项指标盘点国内外AI算力GPU共享服务
+[价格OR配套，11项指标盘点国内外AI算力GPU共享服务](https://aiwithcloud.com/2021/02/05/%e4%bb%b7%e6%a0%bcor%e9%85%8d%e5%a5%97%ef%bc%8c11%e9%a1%b9%e6%8c%87%e6%a0%87%e7%9b%98%e7%82%b9%e5%9b%bd%e5%86%85%e5%a4%96ai%e7%ae%97%e5%8a%9bgpu%e5%85%b1%e4%ba%ab%e6%9c%8d%e5%8a%a1/)

@@ -1,0 +1,2 @@
+# The use and difference of React.Component, React.PureComponent, React.FC
+[The use and difference of React.Component, React.PureComponent, React.FC](https://aiwithcloud.com/2022/09/15/the_use_and_difference_of_react-component_react-purecomponent_react-fc/)

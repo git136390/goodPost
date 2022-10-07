@@ -1,0 +1,2 @@
+# [He Zhiyuan - 21 projects to play deep learning] - Chapter3-3.2 Data Preparation - Convert image data to tfrecord form
+[[He Zhiyuan - 21 projects to play deep learning] - Chapter3-3.2 Data Preparation - Convert image data to tfrecord form](https://aiwithcloud.com/2022/09/16/he_zhiyuan___21_projects_to_play_deep_learning___chapter3_3-2_data_preparation___convert_image_data_to_tfrecord_form/)

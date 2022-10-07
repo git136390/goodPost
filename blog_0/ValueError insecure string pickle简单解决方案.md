@@ -1,0 +1,2 @@
+# ValueError: insecure string pickle简单解决方案
+[ValueError: insecure string pickle简单解决方案](https://aiwithcloud.com/2021/05/04/valueerror-insecure-string-pickle%e7%ae%80%e5%8d%95%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/)

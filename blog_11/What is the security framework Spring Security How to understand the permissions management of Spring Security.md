@@ -1,0 +1,2 @@
+# What is the security framework Spring Security How to understand the permissions management of Spring Security
+[What is the security framework Spring Security How to understand the permissions management of Spring Security](https://aiwithcloud.com/2022/09/19/what_is_the_security_framework_spring_security_how_to_understand_the_permissions_management_of_spring_security/)

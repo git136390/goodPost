@@ -1,0 +1,2 @@
+# Java basics - tutorial on the use of enumeration classes
+[Java basics - tutorial on the use of enumeration classes](https://aiwithcloud.com/2022/09/19/java_basics___tutorial_on_the_use_of_enumeration_classes/)

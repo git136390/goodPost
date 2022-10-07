@@ -1,0 +1,2 @@
+# Three Algorithms for Subset Generation of Purple Books
+[Three Algorithms for Subset Generation of Purple Books](https://aiwithcloud.com/2022/09/16/three_algorithms_for_subset_generation_of_purple_books/)

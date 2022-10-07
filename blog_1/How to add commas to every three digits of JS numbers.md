@@ -1,0 +1,2 @@
+# How to add commas to every three digits of JS numbers
+[How to add commas to every three digits of JS numbers](https://aiwithcloud.com/2022/09/15/how_to_add_commas_to_every_three_digits_of_js_numbers/)

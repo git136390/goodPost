@@ -1,0 +1,2 @@
+# Microservices (2) have the HTTP protocol, why do you need to use a custom protocol in RPC
+[Microservices (2) have the HTTP protocol, why do you need to use a custom protocol in RPC](https://aiwithcloud.com/2022/09/19/microservices_2_have_the_http_protocol_why_do_you_need_to_use_a_custom_protocol_in_rpc/)

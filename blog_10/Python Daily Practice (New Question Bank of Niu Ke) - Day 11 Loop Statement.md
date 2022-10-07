@@ -1,0 +1,2 @@
+# Python Daily Practice (New Question Bank of Niu Ke) - Day 11 Loop Statement
+[Python Daily Practice (New Question Bank of Niu Ke) - Day 11 Loop Statement](https://aiwithcloud.com/2022/09/19/python_daily_practice_new_question_bank_of_niu_ke___day_11_loop_statement/)

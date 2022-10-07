@@ -1,0 +1,2 @@
+# Make a bootable U disk for Linux system and install centos 7.6
+[Make a bootable U disk for Linux system and install centos 7.6](https://aiwithcloud.com/2022/09/16/make_a_bootable_u_disk_for_linux_system_and_install_centos_7-6/)

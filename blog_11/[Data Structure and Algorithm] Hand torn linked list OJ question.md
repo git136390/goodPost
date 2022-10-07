@@ -1,0 +1,2 @@
+# [Data Structure and Algorithm] Hand torn linked list OJ question
+[[Data Structure and Algorithm] Hand torn linked list OJ question](https://aiwithcloud.com/2022/09/19/data_structure_and_algorithm_hand_torn_linked_list_oj_question/)

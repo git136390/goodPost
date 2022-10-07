@@ -1,0 +1,2 @@
+# Windows terminal integrated terminal + color matching to create a cool terminal, just for fun
+[Windows terminal integrated terminal + color matching to create a cool terminal, just for fun](https://aiwithcloud.com/2022/09/19/windows_terminal_integrated_terminal__color_matching_to_create_a_cool_terminal_just_for_fun/)

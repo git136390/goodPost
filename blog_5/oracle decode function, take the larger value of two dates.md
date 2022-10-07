@@ -1,0 +1,2 @@
+# oracle decode function, take the larger value of two dates
+[oracle decode function, take the larger value of two dates](https://aiwithcloud.com/2022/09/16/oracle_decode_function_take_the_larger_value_of_two_dates/)

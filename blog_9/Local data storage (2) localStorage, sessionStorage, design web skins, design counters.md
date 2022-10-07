@@ -1,0 +1,2 @@
+# Local data storage (2) localStorage, sessionStorage, design web skins, design counters
+[Local data storage (2) localStorage, sessionStorage, design web skins, design counters](https://aiwithcloud.com/2022/09/19/local_data_storage_2_localstorage_sessionstorage_design_web_skins_design_counters/)

@@ -1,0 +1,2 @@
+# How to perform multi-screen collaboration between non-Huawei computers and matepad pro, and how to deal with problems such as connection failure
+[How to perform multi-screen collaboration between non-Huawei computers and matepad pro, and how to deal with problems such as connection failure](https://aiwithcloud.com/2022/09/15/how_to_perform_multi_screen_collaboration_between_non_huawei_computers_and_matepad_pro_and_how_to_deal_with_problems_such_as_connection_failure/)

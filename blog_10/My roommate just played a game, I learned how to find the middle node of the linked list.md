@@ -1,0 +1,2 @@
+# My roommate just played a game, I learned how to find the middle node of the linked list
+[My roommate just played a game, I learned how to find the middle node of the linked list](https://aiwithcloud.com/2022/09/19/my_roommate_just_played_a_game_i_learned_how_to_find_the_middle_node_of_the_linked_list/)

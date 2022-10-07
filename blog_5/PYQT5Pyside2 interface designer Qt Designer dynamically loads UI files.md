@@ -1,0 +1,2 @@
+# PYQT5Pyside2 interface designer Qt Designer dynamically loads UI files
+[PYQT5Pyside2 interface designer Qt Designer dynamically loads UI files](https://aiwithcloud.com/2022/09/16/pyqt5pyside2_interface_designer_qt_designer_dynamically_loads_ui_files/)

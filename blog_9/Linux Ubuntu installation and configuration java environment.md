@@ -1,0 +1,2 @@
+# Linux Ubuntu installation and configuration java environment
+[Linux Ubuntu installation and configuration java environment](https://aiwithcloud.com/2022/09/19/linux_ubuntu_installation_and_configuration_java_environment/)

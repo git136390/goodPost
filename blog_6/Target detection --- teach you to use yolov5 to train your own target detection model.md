@@ -1,0 +1,2 @@
+# Target detection --- teach you to use yolov5 to train your own target detection model
+[Target detection --- teach you to use yolov5 to train your own target detection model](https://aiwithcloud.com/2022/09/16/target_detection_____teach_you_to_use_yolov5_to_train_your_own_target_detection_model/)

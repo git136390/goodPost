@@ -1,0 +1,2 @@
+# IDEA performance optimization settings (to solve the problem of freezing)
+[IDEA performance optimization settings (to solve the problem of freezing)](https://aiwithcloud.com/2022/09/15/idea_performance_optimization_settings_to_solve_the_problem_of_freezing/)

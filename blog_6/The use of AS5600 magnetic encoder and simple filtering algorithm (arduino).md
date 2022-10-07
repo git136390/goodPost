@@ -1,0 +1,2 @@
+# The use of AS5600 magnetic encoder and simple filtering algorithm (arduino)
+[The use of AS5600 magnetic encoder and simple filtering algorithm (arduino)](https://aiwithcloud.com/2022/09/16/the_use_of_as5600_magnetic_encoder_and_simple_filtering_algorithm_arduino/)

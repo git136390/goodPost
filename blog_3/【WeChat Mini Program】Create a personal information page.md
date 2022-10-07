@@ -1,0 +1,2 @@
+# 【WeChat Mini Program】Create a personal information page
+[【WeChat Mini Program】Create a personal information page](https://aiwithcloud.com/2022/09/15/%e3%80%90wechat_mini_program%e3%80%91create_a_personal_information_page/)

@@ -1,0 +1,2 @@
+# The el-select selector returns dynamic display content according to the background
+[The el-select selector returns dynamic display content according to the background](https://aiwithcloud.com/2022/09/16/the_el_select_selector_returns_dynamic_display_content_according_to_the_background/)

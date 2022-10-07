@@ -1,0 +1,2 @@
+# Springboot integrates full-text search engine Elasticsearch  Spring Boot 28
+[Springboot integrates full-text search engine Elasticsearch  Spring Boot 28](https://aiwithcloud.com/2022/09/16/springboot_integrates_full_text_search_engine_elasticsearch__spring_boot_28/)

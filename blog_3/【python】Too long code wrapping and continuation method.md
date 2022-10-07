@@ -1,0 +1,2 @@
+# 【python】Too long code wrapping and continuation method
+[【python】Too long code wrapping and continuation method](https://aiwithcloud.com/2022/09/15/%e3%80%90python%e3%80%91too_long_code_wrapping_and_continuation_method/)

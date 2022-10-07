@@ -1,0 +1,2 @@
+# I optimized the progress bar and the page performance increased by 70%
+[I optimized the progress bar and the page performance increased by 70%](https://aiwithcloud.com/2022/09/19/i_optimized_the_progress_bar_and_the_page_performance_increased_by_70/)

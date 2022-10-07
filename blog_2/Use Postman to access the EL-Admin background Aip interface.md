@@ -1,0 +1,2 @@
+# Use Postman to access the EL-Admin background Aip interface
+[Use Postman to access the EL-Admin background Aip interface](https://aiwithcloud.com/2022/09/15/use_postman_to_access_the_el_admin_background_aip_interface/)

@@ -1,0 +1,2 @@
+# [21-day python check-in] Basic skills on the 9th day (2)
+[[21-day python check-in] Basic skills on the 9th day (2)](https://aiwithcloud.com/2022/09/19/21_day_python_check_in_basic_skills_on_the_9th_day_2/)

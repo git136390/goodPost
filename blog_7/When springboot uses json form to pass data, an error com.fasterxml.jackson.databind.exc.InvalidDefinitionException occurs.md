@@ -1,0 +1,2 @@
+# When springboot uses json form to pass data, an error com.fasterxml.jackson.databind.exc.InvalidDefinitionException occurs
+[When springboot uses json form to pass data, an error com.fasterxml.jackson.databind.exc.InvalidDefinitionException occurs](https://aiwithcloud.com/2022/09/16/when_springboot_uses_json_form_to_pass_data_an_error_com-fasterxml-jackson-databind-exc-invaliddefinitionexception_occurs/)

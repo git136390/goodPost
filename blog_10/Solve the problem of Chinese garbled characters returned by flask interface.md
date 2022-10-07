@@ -1,0 +1,2 @@
+# Solve the problem of Chinese garbled characters returned by flask interface
+[Solve the problem of Chinese garbled characters returned by flask interface](https://aiwithcloud.com/2022/09/19/solve_the_problem_of_chinese_garbled_characters_returned_by_flask_interface/)

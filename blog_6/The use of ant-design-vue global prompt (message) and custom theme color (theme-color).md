@@ -1,0 +1,2 @@
+# The use of ant-design-vue global prompt (message) and custom theme color (theme-color)
+[The use of ant-design-vue global prompt (message) and custom theme color (theme-color)](https://aiwithcloud.com/2022/09/16/the_use_of_ant_design_vue_global_prompt_message_and_custom_theme_color_theme_color/)

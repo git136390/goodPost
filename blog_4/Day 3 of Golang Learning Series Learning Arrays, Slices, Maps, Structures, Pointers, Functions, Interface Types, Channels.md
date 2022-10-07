@@ -1,0 +1,2 @@
+# Day 3 of Golang Learning Series Learning Arrays, Slices, Maps, Structures, Pointers, Functions, Interface Types, Channels
+[Day 3 of Golang Learning Series Learning Arrays, Slices, Maps, Structures, Pointers, Functions, Interface Types, Channels](https://aiwithcloud.com/2022/09/15/day_3_of_golang_learning_series_learning_arrays_slices_maps_structures_pointers_functions_interface_types_channels/)

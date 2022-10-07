@@ -1,0 +1,2 @@
+# How do each component in the form access value through native js
+[How do each component in the form access value through native js](https://aiwithcloud.com/2022/09/15/how_do_each_component_in_the_form_access_value_through_native_js/)

@@ -1,0 +1,2 @@
+# Sorting Algorithms (python) - Insertion Sort and Shell Sort
+[Sorting Algorithms (python) - Insertion Sort and Shell Sort](https://aiwithcloud.com/2022/09/15/sorting_algorithms_python___insertion_sort_and_shell_sort/)

@@ -1,0 +1,2 @@
+# Understanding and Practice of Database-Stored Procedure
+[Understanding and Practice of Database-Stored Procedure](https://aiwithcloud.com/2022/09/19/understanding_and_practice_of_database_stored_procedure/)

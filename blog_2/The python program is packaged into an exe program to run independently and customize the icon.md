@@ -1,0 +1,2 @@
+# The python program is packaged into an exe program to run independently and customize the icon
+[The python program is packaged into an exe program to run independently and customize the icon](https://aiwithcloud.com/2022/09/15/the_python_program_is_packaged_into_an_exe_program_to_run_independently_and_customize_the_icon/)

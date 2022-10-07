@@ -1,0 +1,2 @@
+# Front-end Study Notes - Redux and Asynchronous Action
+[Front-end Study Notes - Redux and Asynchronous Action](https://aiwithcloud.com/2022/09/14/front_end_study_notes___redux_and_asynchronous_action/)

@@ -1,0 +1,2 @@
+# Spring from entry to proficient (thirteen) dynamic proxy detailed explanation
+[Spring from entry to proficient (thirteen) dynamic proxy detailed explanation](https://aiwithcloud.com/2022/09/15/spring_from_entry_to_proficient_thirteen_dynamic_proxy_detailed_explanation/)

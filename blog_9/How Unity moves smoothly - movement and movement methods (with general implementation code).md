@@ -1,0 +1,2 @@
+# How Unity moves smoothly - movement and movement methods (with general implementation code)
+[How Unity moves smoothly - movement and movement methods (with general implementation code)](https://aiwithcloud.com/2022/09/19/how_unity_moves_smoothly___movement_and_movement_methods_with_general_implementation_code/)

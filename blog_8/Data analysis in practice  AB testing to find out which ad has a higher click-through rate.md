@@ -1,0 +1,2 @@
+# Data analysis in practice  AB testing to find out which ad has a higher click-through rate
+[Data analysis in practice  AB testing to find out which ad has a higher click-through rate](https://aiwithcloud.com/2022/09/19/data_analysis_in_practice__ab_testing_to_find_out_which_ad_has_a_higher_click_through_rate/)

@@ -1,0 +1,2 @@
+# [Preparing for the Blue Bridge] Algorithm·Daily Question (Detailed + Multiple Solutions)--day1
+[[Preparing for the Blue Bridge] Algorithm·Daily Question (Detailed + Multiple Solutions)--day1](https://aiwithcloud.com/2022/09/16/preparing_for_the_blue_bridge_algorithm%c2%b7daily_question_detailed__multiple_solutions__day1/)

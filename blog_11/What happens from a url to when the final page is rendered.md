@@ -1,0 +1,2 @@
+# What happens from a url to when the final page is rendered
+[What happens from a url to when the final page is rendered](https://aiwithcloud.com/2022/09/19/what_happens_from_a_url_to_when_the_final_page_is_rendered/)

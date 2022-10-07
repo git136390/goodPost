@@ -1,0 +1,2 @@
+# Background_System_Scalability_Study_Notes_(14)_Asynchronous_Mechanism_and_MQ
+[Background_System_Scalability_Study_Notes_(14)_Asynchronous_Mechanism_and_MQ](https://aiwithcloud.com/2022/09/14/background_system_scalability_study_notes_14_asynchronous_mechanism_and_mq/)

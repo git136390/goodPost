@@ -1,0 +1,2 @@
+# Java common tool class - tool class that encapsulates various unique ID generation algorithms
+[Java common tool class - tool class that encapsulates various unique ID generation algorithms](https://aiwithcloud.com/2022/09/19/java_common_tool_class___tool_class_that_encapsulates_various_unique_id_generation_algorithms/)

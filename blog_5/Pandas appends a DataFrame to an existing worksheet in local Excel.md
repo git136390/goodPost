@@ -1,0 +1,2 @@
+# Pandas appends a DataFrame to an existing worksheet in local Excel
+[Pandas appends a DataFrame to an existing worksheet in local Excel](https://aiwithcloud.com/2022/09/16/pandas_appends_a_dataframe_to_an_existing_worksheet_in_local_excel/)

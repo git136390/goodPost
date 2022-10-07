@@ -1,0 +1,2 @@
+# Python's UnicodeEncodeError, UnicodeDecodeError solution
+[Python's UnicodeEncodeError, UnicodeDecodeError solution](https://aiwithcloud.com/2022/09/16/pythons_unicodeencodeerror_unicodedecodeerror_solution/)

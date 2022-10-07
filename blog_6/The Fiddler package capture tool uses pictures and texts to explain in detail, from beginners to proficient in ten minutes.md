@@ -1,0 +1,2 @@
+# The Fiddler package capture tool uses pictures and texts to explain in detail, from beginners to proficient in ten minutes
+[The Fiddler package capture tool uses pictures and texts to explain in detail, from beginners to proficient in ten minutes](https://aiwithcloud.com/2022/09/16/the_fiddler_package_capture_tool_uses_pictures_and_texts_to_explain_in_detail_from_beginners_to_proficient_in_ten_minutes/)

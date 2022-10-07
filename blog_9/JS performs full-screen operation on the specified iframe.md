@@ -1,0 +1,2 @@
+# JS performs full-screen operation on the specified iframe
+[JS performs full-screen operation on the specified iframe](https://aiwithcloud.com/2022/09/19/js_performs_full_screen_operation_on_the_specified_iframe/)

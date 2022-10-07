@@ -1,0 +1,2 @@
+# python-non-standard format json file reading error solution
+[python-non-standard format json file reading error solution](https://aiwithcloud.com/2022/09/15/python_non_standard_format_json_file_reading_error_solution/)

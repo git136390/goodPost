@@ -1,0 +1,2 @@
+# How does python determine whether a date is a day of the week  Python determines whether a day is a working day or a holiday
+[How does python determine whether a date is a day of the week  Python determines whether a day is a working day or a holiday](https://aiwithcloud.com/2022/09/19/how_does_python_determine_whether_a_date_is_a_day_of_the_week__python_determines_whether_a_day_is_a_working_day_or_a_holiday/)

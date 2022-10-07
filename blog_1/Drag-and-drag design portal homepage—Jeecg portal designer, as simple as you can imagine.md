@@ -1,0 +1,2 @@
+# Drag-and-drag design portal homepage—Jeecg portal designer, as simple as you can imagine
+[Drag-and-drag design portal homepage—Jeecg portal designer, as simple as you can imagine](https://aiwithcloud.com/2022/09/14/drag_and_drag_design_portal_homepage-jeecg_portal_designer_as_simple_as_you_can_imagine/)

@@ -1,0 +1,2 @@
+# Deploy the service on the public network nginx access permission settings to add a password to the request
+[Deploy the service on the public network nginx access permission settings to add a password to the request](https://aiwithcloud.com/2022/09/19/deploy_the_service_on_the_public_network_nginx_access_permission_settings_to_add_a_password_to_the_request/)

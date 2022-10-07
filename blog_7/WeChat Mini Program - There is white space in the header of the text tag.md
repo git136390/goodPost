@@ -1,0 +1,2 @@
+# WeChat Mini Program - There is white space in the header of the text tag
+[WeChat Mini Program - There is white space in the header of the text tag](https://aiwithcloud.com/2022/09/16/wechat_mini_program___there_is_white_space_in_the_header_of_the_text_tag/)

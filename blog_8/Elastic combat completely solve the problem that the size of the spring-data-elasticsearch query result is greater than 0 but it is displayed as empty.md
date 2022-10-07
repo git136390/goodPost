@@ -1,0 +1,2 @@
+# Elastic combat completely solve the problem that the size of the spring-data-elasticsearch query result is greater than 0 but it is displayed as empty
+[Elastic combat completely solve the problem that the size of the spring-data-elasticsearch query result is greater than 0 but it is displayed as empty](https://aiwithcloud.com/2022/09/19/elastic_combat_completely_solve_the_problem_that_the_size_of_the_spring_data_elasticsearch_query_result_is_greater_than_0_but_it_is_displayed_as_empty/)

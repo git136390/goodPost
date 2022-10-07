@@ -1,0 +1,2 @@
+# Error Parameter 'XXX' implicitly has an 'any' type. Solution
+[Error Parameter 'XXX' implicitly has an 'any' type. Solution](https://aiwithcloud.com/2022/09/15/error_parameter_xxx_implicitly_has_an_any_type-_solution/)

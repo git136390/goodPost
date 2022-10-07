@@ -1,0 +1,2 @@
+# [Cloud native  Learning Kubernetes from scratch] Nine, k8s node node selector and node node affinity
+[[Cloud native  Learning Kubernetes from scratch] Nine, k8s node node selector and node node affinity](https://aiwithcloud.com/2022/09/16/cloud_native__learning_kubernetes_from_scratch_nine_k8s_node_node_selector_and_node_node_affinity/)

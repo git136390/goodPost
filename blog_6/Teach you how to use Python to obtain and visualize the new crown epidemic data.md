@@ -1,0 +1,2 @@
+# Teach you how to use Python to obtain and visualize the new crown epidemic data
+[Teach you how to use Python to obtain and visualize the new crown epidemic data](https://aiwithcloud.com/2022/09/16/teach_you_how_to_use_python_to_obtain_and_visualize_the_new_crown_epidemic_data/)

@@ -1,0 +1,2 @@
+# Teach you to compile and run an IDEA plugin locally, chat, play chess, and fight landlords in IDEA!
+[Teach you to compile and run an IDEA plugin locally, chat, play chess, and fight landlords in IDEA!](https://aiwithcloud.com/2022/09/15/teach_you_to_compile_and_run_an_idea_plugin_locally_chat_play_chess_and_fight_landlords_in_idea/)

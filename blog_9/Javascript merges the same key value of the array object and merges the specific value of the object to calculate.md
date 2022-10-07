@@ -1,0 +1,2 @@
+# Javascript merges the same key value of the array object and merges the specific value of the object to calculate
+[Javascript merges the same key value of the array object and merges the specific value of the object to calculate](https://aiwithcloud.com/2022/09/19/javascript_merges_the_same_key_value_of_the_array_object_and_merges_the_specific_value_of_the_object_to_calculate/)

@@ -1,0 +1,2 @@
+# The idea of the complete backpack problem in leetcode - change exchange
+[The idea of the complete backpack problem in leetcode - change exchange](https://aiwithcloud.com/2022/09/16/the_idea_of_the_complete_backpack_problem_in_leetcode___change_exchange/)

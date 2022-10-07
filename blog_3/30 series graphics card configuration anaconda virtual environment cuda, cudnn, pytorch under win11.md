@@ -1,0 +1,2 @@
+# 30 series graphics card configuration anaconda virtual environment cuda, cudnn, pytorch under win11
+[30 series graphics card configuration anaconda virtual environment cuda, cudnn, pytorch under win11](https://aiwithcloud.com/2022/09/15/30_series_graphics_card_configuration_anaconda_virtual_environment_cuda_cudnn_pytorch_under_win11/)

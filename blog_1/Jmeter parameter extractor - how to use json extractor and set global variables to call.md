@@ -1,0 +1,2 @@
+# Jmeter parameter extractor - how to use json extractor and set global variables to call
+[Jmeter parameter extractor - how to use json extractor and set global variables to call](https://aiwithcloud.com/2022/09/15/jmeter_parameter_extractor___how_to_use_json_extractor_and_set_global_variables_to_call/)

@@ -1,0 +1,2 @@
+# Java implements number guessing game (Random application)
+[Java implements number guessing game (Random application)](https://aiwithcloud.com/2022/09/16/java_implements_number_guessing_game_random_application/)

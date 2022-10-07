@@ -1,0 +1,2 @@
+# Zero Foundation - Introduction to WeChat Mini Programs
+[Zero Foundation - Introduction to WeChat Mini Programs](https://aiwithcloud.com/2022/09/19/zero_foundation___introduction_to_wechat_mini_programs/)

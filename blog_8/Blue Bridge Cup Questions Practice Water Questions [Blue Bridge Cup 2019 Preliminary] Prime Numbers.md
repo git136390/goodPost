@@ -1,0 +1,2 @@
+# Blue Bridge Cup Questions Practice Water Questions [Blue Bridge Cup 2019 Preliminary] Prime Numbers
+[Blue Bridge Cup Questions Practice Water Questions [Blue Bridge Cup 2019 Preliminary] Prime Numbers](https://aiwithcloud.com/2022/09/19/blue_bridge_cup_questions_practice_water_questions_blue_bridge_cup_2019_preliminary_prime_numbers/)

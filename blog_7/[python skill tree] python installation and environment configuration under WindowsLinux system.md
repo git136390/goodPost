@@ -1,0 +1,2 @@
+# [python skill tree] python installation and environment configuration under WindowsLinux system
+[[python skill tree] python installation and environment configuration under WindowsLinux system](https://aiwithcloud.com/2022/09/19/python_skill_tree_python_installation_and_environment_configuration_under_windowslinux_system/)

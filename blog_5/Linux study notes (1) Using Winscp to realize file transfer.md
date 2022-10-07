@@ -1,0 +1,2 @@
+# Linux study notes (1) Using Winscp to realize file transfer
+[Linux study notes (1) Using Winscp to realize file transfer](https://aiwithcloud.com/2022/09/16/linux_study_notes_1_using_winscp_to_realize_file_transfer/)

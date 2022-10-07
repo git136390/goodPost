@@ -1,0 +1,2 @@
+# OpenGauss database source code analysis series of articles - Slow SQL Discovery of AI Technology
+[OpenGauss database source code analysis series of articles - Slow SQL Discovery of AI Technology](https://aiwithcloud.com/2022/09/16/opengauss_database_source_code_analysis_series_of_articles___slow_sql_discovery_of_ai_technology/)

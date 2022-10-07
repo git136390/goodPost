@@ -1,0 +1,2 @@
+# SwinUnet official code trains its own data set (single-channel grayscale image segmentation)
+[SwinUnet official code trains its own data set (single-channel grayscale image segmentation)](https://aiwithcloud.com/2022/09/16/swinunet_official_code_trains_its_own_data_set_single_channel_grayscale_image_segmentation/)

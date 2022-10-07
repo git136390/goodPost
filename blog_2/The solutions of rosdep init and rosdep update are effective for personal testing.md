@@ -1,0 +1,2 @@
+# The solutions of rosdep init and rosdep update are effective for personal testing
+[The solutions of rosdep init and rosdep update are effective for personal testing](https://aiwithcloud.com/2022/09/15/the_solutions_of_rosdep_init_and_rosdep_update_are_effective_for_personal_testing/)

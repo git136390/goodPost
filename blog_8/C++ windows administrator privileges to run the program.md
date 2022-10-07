@@ -1,0 +1,2 @@
+# C++ windows administrator privileges to run the program
+[C++ windows administrator privileges to run the program](https://aiwithcloud.com/2022/09/19/c_windows_administrator_privileges_to_run_the_program/)

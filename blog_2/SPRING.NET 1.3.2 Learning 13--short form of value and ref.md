@@ -1,0 +1,2 @@
+# SPRING.NET 1.3.2 Learning 13--short form of value and ref
+[SPRING.NET 1.3.2 Learning 13--short form of value and ref](https://aiwithcloud.com/2022/09/15/spring-net_1-3-2_learning_13__short_form_of_value_and_ref/)

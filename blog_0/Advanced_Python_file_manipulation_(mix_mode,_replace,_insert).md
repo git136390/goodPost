@@ -1,0 +1,2 @@
+# Advanced_Python_file_manipulation_(mix_mode,_replace,_insert)
+[Advanced_Python_file_manipulation_(mix_mode,_replace,_insert)](https://aiwithcloud.com/2022/09/14/advanced_python_file_manipulation_mix_mode_replace_insert/)

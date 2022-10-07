@@ -1,0 +1,2 @@
+# This article will take you to thoroughly understand the use of static and extern keywords in CC++ programming
+[This article will take you to thoroughly understand the use of static and extern keywords in CC++ programming](https://aiwithcloud.com/2022/09/16/this_article_will_take_you_to_thoroughly_understand_the_use_of_static_and_extern_keywords_in_cc_programming/)

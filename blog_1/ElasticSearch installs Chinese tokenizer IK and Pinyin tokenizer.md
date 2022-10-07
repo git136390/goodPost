@@ -1,0 +1,2 @@
+# ElasticSearch installs Chinese tokenizer IK and Pinyin tokenizer
+[ElasticSearch installs Chinese tokenizer IK and Pinyin tokenizer](https://aiwithcloud.com/2022/09/14/elasticsearch_installs_chinese_tokenizer_ik_and_pinyin_tokenizer/)

@@ -1,0 +1,2 @@
+# Knowledge of smart pointer make unique and make shared
+[Knowledge of smart pointer make unique and make shared](https://aiwithcloud.com/2022/09/19/knowledge_of_smart_pointer_make_unique_and_make_shared/)

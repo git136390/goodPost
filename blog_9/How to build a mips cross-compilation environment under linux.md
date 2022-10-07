@@ -1,0 +1,2 @@
+# How to build a mips cross-compilation environment under linux
+[How to build a mips cross-compilation environment under linux](https://aiwithcloud.com/2022/09/19/how_to_build_a_mips_cross_compilation_environment_under_linux/)

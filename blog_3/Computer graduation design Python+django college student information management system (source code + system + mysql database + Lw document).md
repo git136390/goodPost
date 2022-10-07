@@ -1,0 +1,2 @@
+# Computer graduation design Python+django college student information management system (source code + system + mysql database + Lw document)
+[Computer graduation design Python+django college student information management system (source code + system + mysql database + Lw document)](https://aiwithcloud.com/2022/09/15/computer_graduation_design_pythondjango_college_student_information_management_system_source_code__system__mysql_database__lw_document/)

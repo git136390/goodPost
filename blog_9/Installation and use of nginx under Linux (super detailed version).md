@@ -1,0 +1,2 @@
+# Installation and use of nginx under Linux (super detailed version)
+[Installation and use of nginx under Linux (super detailed version)](https://aiwithcloud.com/2022/09/19/installation_and_use_of_nginx_under_linux_super_detailed_version/)

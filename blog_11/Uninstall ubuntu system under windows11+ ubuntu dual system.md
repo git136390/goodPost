@@ -1,0 +1,2 @@
+# Uninstall ubuntu system under windows11+ ubuntu dual system
+[Uninstall ubuntu system under windows11+ ubuntu dual system](https://aiwithcloud.com/2022/09/19/uninstall_ubuntu_system_under_windows11_ubuntu_dual_system/)

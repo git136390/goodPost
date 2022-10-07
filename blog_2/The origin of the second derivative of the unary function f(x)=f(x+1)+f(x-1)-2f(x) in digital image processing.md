@@ -1,0 +1,2 @@
+# The origin of the second derivative of the unary function f(x)=f(x+1)+f(x-1)-2f(x) in digital image processing
+[The origin of the second derivative of the unary function f(x)=f(x+1)+f(x-1)-2f(x) in digital image processing](https://aiwithcloud.com/2022/09/15/the_origin_of_the_second_derivative_of_the_unary_function_fxfx1fx_1_2fx_in_digital_image_processing/)

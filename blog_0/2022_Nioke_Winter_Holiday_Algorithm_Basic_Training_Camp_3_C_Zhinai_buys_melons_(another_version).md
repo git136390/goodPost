@@ -1,0 +1,2 @@
+# 2022_Nioke_Winter_Holiday_Algorithm_Basic_Training_Camp_3_C_Zhinai_buys_melons_(another_version)
+[2022_Nioke_Winter_Holiday_Algorithm_Basic_Training_Camp_3_C_Zhinai_buys_melons_(another_version)](https://aiwithcloud.com/2022/09/14/2022_nioke_winter_holiday_algorithm_basic_training_camp_3_c_zhinai_buys_melons_another_version/)

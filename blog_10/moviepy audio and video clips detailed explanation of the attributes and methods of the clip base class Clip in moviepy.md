@@ -1,0 +1,2 @@
+# moviepy audio and video clips detailed explanation of the attributes and methods of the clip base class Clip in moviepy
+[moviepy audio and video clips detailed explanation of the attributes and methods of the clip base class Clip in moviepy](https://aiwithcloud.com/2022/09/19/moviepy_audio_and_video_clips_detailed_explanation_of_the_attributes_and_methods_of_the_clip_base_class_clip_in_moviepy/)

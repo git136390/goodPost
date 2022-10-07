@@ -1,0 +1,2 @@
+# My roommate just played a game, and I learned how to implement a quick responder
+[My roommate just played a game, and I learned how to implement a quick responder](https://aiwithcloud.com/2022/09/16/my_roommate_just_played_a_game_and_i_learned_how_to_implement_a_quick_responder/)

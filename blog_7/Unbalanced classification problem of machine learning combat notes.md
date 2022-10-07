@@ -1,0 +1,2 @@
+# Unbalanced classification problem of machine learning combat notes
+[Unbalanced classification problem of machine learning combat notes](https://aiwithcloud.com/2022/09/16/unbalanced_classification_problem_of_machine_learning_combat_notes/)

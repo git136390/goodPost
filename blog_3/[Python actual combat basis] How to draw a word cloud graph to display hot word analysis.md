@@ -1,0 +1,2 @@
+# [Python actual combat basis] How to draw a word cloud graph to display hot word analysis
+[[Python actual combat basis] How to draw a word cloud graph to display hot word analysis](https://aiwithcloud.com/2022/09/15/python_actual_combat_basis_how_to_draw_a_word_cloud_graph_to_display_hot_word_analysis/)

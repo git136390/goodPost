@@ -1,0 +1,2 @@
+# CFAR constant false alarm detection for signal processing
+[CFAR constant false alarm detection for signal processing](https://aiwithcloud.com/2022/09/19/cfar_constant_false_alarm_detection_for_signal_processing/)

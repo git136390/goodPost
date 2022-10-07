@@ -1,0 +1,2 @@
+# An efficient algorithm for constructing tree structure in JavaScript
+[An efficient algorithm for constructing tree structure in JavaScript](https://aiwithcloud.com/2022/09/19/an_efficient_algorithm_for_constructing_tree_structure_in_javascript/)

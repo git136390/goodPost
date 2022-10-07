@@ -1,0 +1,2 @@
+# const, static and inline member functions (variables) of C++ classes
+[const, static and inline member functions (variables) of C++ classes](https://aiwithcloud.com/2022/09/15/const_static_and_inline_member_functions_variables_of_c_classes/)

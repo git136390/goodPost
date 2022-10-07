@@ -1,0 +1,2 @@
+# WeChat applet - rpx and px are converted to each other, and the ratio of the pixelRatio value given by the system is incorrect
+[WeChat applet - rpx and px are converted to each other, and the ratio of the pixelRatio value given by the system is incorrect](https://aiwithcloud.com/2022/09/19/wechat_applet___rpx_and_px_are_converted_to_each_other_and_the_ratio_of_the_pixelratio_value_given_by_the_system_is_incorrect/)

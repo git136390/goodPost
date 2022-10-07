@@ -1,0 +1,2 @@
+# C++ memory management (2) - memory operation related functions
+[C++ memory management (2) - memory operation related functions](https://aiwithcloud.com/2022/09/14/c_memory_management_2___memory_operation_related_functions/)

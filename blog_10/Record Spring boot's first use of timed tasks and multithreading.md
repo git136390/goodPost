@@ -1,0 +1,2 @@
+# Record Spring boot's first use of timed tasks and multithreading
+[Record Spring boot's first use of timed tasks and multithreading](https://aiwithcloud.com/2022/09/19/record_spring_boots_first_use_of_timed_tasks_and_multithreading/)

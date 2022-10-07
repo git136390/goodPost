@@ -1,0 +1,2 @@
+# C language programming implements the decomposition of positive integers into prime factors
+[C language programming implements the decomposition of positive integers into prime factors](https://aiwithcloud.com/2022/09/15/c_language_programming_implements_the_decomposition_of_positive_integers_into_prime_factors/)

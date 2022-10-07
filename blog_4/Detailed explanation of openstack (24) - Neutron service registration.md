@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (24) - Neutron service registration
+[Detailed explanation of openstack (24) - Neutron service registration](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_openstack_24___neutron_service_registration/)

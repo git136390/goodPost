@@ -1,0 +1,2 @@
+# Python daily practice (New Question Bank of Niu Ke) - Day 17 Comprehensive Practice
+[Python daily practice (New Question Bank of Niu Ke) - Day 17 Comprehensive Practice](https://aiwithcloud.com/2022/09/19/python_daily_practice_new_question_bank_of_niu_ke___day_17_comprehensive_practice/)

@@ -1,0 +1,2 @@
+# The difference between tensorflow 1.X version and 2.X version sparse categorical crossentropy loss function stepping on thunder
+[The difference between tensorflow 1.X version and 2.X version sparse categorical crossentropy loss function stepping on thunder](https://aiwithcloud.com/2022/09/19/the_difference_between_tensorflow_1-x_version_and_2-x_version_sparse_categorical_crossentropy_loss_function_stepping_on_thunder/)

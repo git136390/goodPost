@@ -1,0 +1,2 @@
+# [Flask project] Install Redis database and Redis configuration under Linux (detailed steps)
+[[Flask project] Install Redis database and Redis configuration under Linux (detailed steps)](https://aiwithcloud.com/2022/09/19/flask_project_install_redis_database_and_redis_configuration_under_linux_detailed_steps/)

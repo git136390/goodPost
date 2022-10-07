@@ -1,0 +1,2 @@
+# SpringCloud GateWay gateway adds parameters in the GlobalFilter request header Header
+[SpringCloud GateWay gateway adds parameters in the GlobalFilter request header Header](https://aiwithcloud.com/2022/09/15/springcloud_gateway_gateway_adds_parameters_in_the_globalfilter_request_header_header/)

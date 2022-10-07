@@ -1,0 +1,2 @@
+# The couple's applet version 2.0 has been put on the agenda
+[The couple's applet version 2.0 has been put on the agenda](https://aiwithcloud.com/2022/09/19/the_couples_applet_version_2-0_has_been_put_on_the_agenda/)

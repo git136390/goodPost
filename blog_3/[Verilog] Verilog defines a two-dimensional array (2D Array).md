@@ -1,0 +1,2 @@
+# [Verilog] Verilog defines a two-dimensional array (2D Array)
+[[Verilog] Verilog defines a two-dimensional array (2D Array)](https://aiwithcloud.com/2022/09/15/verilog_verilog_defines_a_two_dimensional_array_2d_array/)

@@ -1,0 +1,2 @@
+# Konjac-kun's writing diary Day3 CF1C Ancient Berland Circus
+[Konjac-kun's writing diary Day3 CF1C Ancient Berland Circus](https://aiwithcloud.com/2022/09/16/konjac_kuns_writing_diary_day3_cf1c_ancient_berland_circus/)

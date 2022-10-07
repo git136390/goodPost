@@ -1,0 +1,2 @@
+# Merge two incrementally ordered singly linked lists A and B with head nodes into a single incrementally ordered singly linked list with head nodes
+[Merge two incrementally ordered singly linked lists A and B with head nodes into a single incrementally ordered singly linked list with head nodes](https://aiwithcloud.com/2022/09/15/merge_two_incrementally_ordered_singly_linked_lists_a_and_b_with_head_nodes_into_a_single_incrementally_ordered_singly_linked_list_with_head_nodes/)

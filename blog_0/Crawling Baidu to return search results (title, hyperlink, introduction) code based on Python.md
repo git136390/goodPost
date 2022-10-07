@@ -1,0 +1,2 @@
+# Crawling Baidu to return search results (title, hyperlink, introduction) code based on Python
+[Crawling Baidu to return search results (title, hyperlink, introduction) code based on Python](https://aiwithcloud.com/2022/09/14/crawling_baidu_to_return_search_results_title_hyperlink_introduction_code_based_on_python/)

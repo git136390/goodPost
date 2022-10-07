@@ -1,0 +1,2 @@
+# CentOS system root directory devmappercl-root 100% exhausted solution
+[CentOS system root directory devmappercl-root 100% exhausted solution](https://aiwithcloud.com/2022/09/15/centos_system_root_directory_devmappercl_root_100_exhausted_solution/)

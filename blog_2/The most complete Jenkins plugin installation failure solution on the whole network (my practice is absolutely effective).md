@@ -1,0 +1,2 @@
+# The most complete Jenkins plugin installation failure solution on the whole network (my practice is absolutely effective)
+[The most complete Jenkins plugin installation failure solution on the whole network (my practice is absolutely effective)](https://aiwithcloud.com/2022/09/15/the_most_complete_jenkins_plugin_installation_failure_solution_on_the_whole_network_my_practice_is_absolutely_effective/)

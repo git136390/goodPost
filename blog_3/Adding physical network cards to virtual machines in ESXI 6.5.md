@@ -1,0 +1,2 @@
+# Adding physical network cards to virtual machines in ESXI 6.5
+[Adding physical network cards to virtual machines in ESXI 6.5](https://aiwithcloud.com/2022/09/15/adding_physical_network_cards_to_virtual_machines_in_esxi_6-5/)

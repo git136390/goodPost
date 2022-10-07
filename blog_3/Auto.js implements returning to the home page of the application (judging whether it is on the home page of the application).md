@@ -1,0 +1,2 @@
+# Auto.js implements returning to the home page of the application (judging whether it is on the home page of the application)
+[Auto.js implements returning to the home page of the application (judging whether it is on the home page of the application)](https://aiwithcloud.com/2022/09/15/auto-js_implements_returning_to_the_home_page_of_the_application_judging_whether_it_is_on_the_home_page_of_the_application/)

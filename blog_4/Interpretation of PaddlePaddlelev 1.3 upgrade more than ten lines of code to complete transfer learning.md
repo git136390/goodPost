@@ -1,0 +1,2 @@
+# Interpretation of PaddlePaddlelev 1.3 upgrade more than ten lines of code to complete transfer learning
+[Interpretation of PaddlePaddlelev 1.3 upgrade more than ten lines of code to complete transfer learning](https://aiwithcloud.com/2022/09/15/interpretation_of_paddlepaddlelev_1-3_upgrade_more_than_ten_lines_of_code_to_complete_transfer_learning/)

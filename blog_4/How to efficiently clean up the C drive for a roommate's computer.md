@@ -1,0 +1,2 @@
+# How to efficiently clean up the C drive for a roommate's computer
+[How to efficiently clean up the C drive for a roommate's computer](https://aiwithcloud.com/2022/09/15/how_to_efficiently_clean_up_the_c_drive_for_a_roommates_computer/)

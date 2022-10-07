@@ -1,0 +1,2 @@
+# How VC++ uses the algorithm functions in the C++ STL standard template library (with source code)
+[How VC++ uses the algorithm functions in the C++ STL standard template library (with source code)](https://aiwithcloud.com/2022/09/19/how_vc_uses_the_algorithm_functions_in_the_c_stl_standard_template_library_with_source_code/)

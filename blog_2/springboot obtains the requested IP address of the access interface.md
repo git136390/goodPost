@@ -1,0 +1,2 @@
+# springboot obtains the requested IP address of the access interface
+[springboot obtains the requested IP address of the access interface](https://aiwithcloud.com/2022/09/15/springboot_obtains_the_requested_ip_address_of_the_access_interface/)

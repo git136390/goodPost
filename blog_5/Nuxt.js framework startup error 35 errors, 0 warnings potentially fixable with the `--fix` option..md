@@ -1,0 +1,2 @@
+# Nuxt.js framework startup error 35 errors, 0 warnings potentially fixable with the `--fix` option.
+[Nuxt.js framework startup error 35 errors, 0 warnings potentially fixable with the `--fix` option.](https://aiwithcloud.com/2022/09/16/nuxt-js_framework_startup_error_35_errors_0_warnings_potentially_fixable_with_the___fix_option/)

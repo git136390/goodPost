@@ -1,0 +1,2 @@
+# [JavaSE Basics] In-depth understanding of Java's pass-by-value and pass-by-reference
+[[JavaSE Basics] In-depth understanding of Java's pass-by-value and pass-by-reference](https://aiwithcloud.com/2022/09/19/javase_basics_in_depth_understanding_of_javas_pass_by_value_and_pass_by_reference/)

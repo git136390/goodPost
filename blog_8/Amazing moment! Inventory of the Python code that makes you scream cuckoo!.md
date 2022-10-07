@@ -1,0 +1,2 @@
+# Amazing moment! Inventory of the Python code that makes you scream cuckoo!
+[Amazing moment! Inventory of the Python code that makes you scream cuckoo!](https://aiwithcloud.com/2022/09/19/amazing_moment_inventory_of_the_python_code_that_makes_you_scream_cuckoo/)

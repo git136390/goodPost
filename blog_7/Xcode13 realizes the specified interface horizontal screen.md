@@ -1,0 +1,2 @@
+# Xcode13 realizes the specified interface horizontal screen
+[Xcode13 realizes the specified interface horizontal screen](https://aiwithcloud.com/2022/09/16/xcode13_realizes_the_specified_interface_horizontal_screen/)

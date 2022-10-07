@@ -1,0 +1,2 @@
+# Methods of storing, retrieving, and deleting data in browsers
+[Methods of storing, retrieving, and deleting data in browsers](https://aiwithcloud.com/2022/09/15/methods_of_storing_retrieving_and_deleting_data_in_browsers/)

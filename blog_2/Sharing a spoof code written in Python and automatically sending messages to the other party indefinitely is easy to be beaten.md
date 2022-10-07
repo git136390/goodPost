@@ -1,0 +1,2 @@
+# Sharing a spoof code written in Python and automatically sending messages to the other party indefinitely is easy to be beaten
+[Sharing a spoof code written in Python and automatically sending messages to the other party indefinitely is easy to be beaten](https://aiwithcloud.com/2022/09/15/sharing_a_spoof_code_written_in_python_and_automatically_sending_messages_to_the_other_party_indefinitely_is_easy_to_be_beaten/)

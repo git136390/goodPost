@@ -1,0 +1,2 @@
+# Inventory 23 VSCode plugins that improve development efficiency and aesthetics
+[Inventory 23 VSCode plugins that improve development efficiency and aesthetics](https://aiwithcloud.com/2022/09/19/inventory_23_vscode_plugins_that_improve_development_efficiency_and_aesthetics/)

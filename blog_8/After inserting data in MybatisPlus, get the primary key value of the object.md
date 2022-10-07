@@ -1,0 +1,2 @@
+# After inserting data in MybatisPlus, get the primary key value of the object
+[After inserting data in MybatisPlus, get the primary key value of the object](https://aiwithcloud.com/2022/09/19/after_inserting_data_in_mybatisplus_get_the_primary_key_value_of_the_object/)

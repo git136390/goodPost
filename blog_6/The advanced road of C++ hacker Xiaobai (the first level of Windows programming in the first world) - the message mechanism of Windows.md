@@ -1,0 +1,2 @@
+# The advanced road of C++ hacker Xiaobai (the first level of Windows programming in the first world) - the message mechanism of Windows
+[The advanced road of C++ hacker Xiaobai (the first level of Windows programming in the first world) - the message mechanism of Windows](https://aiwithcloud.com/2022/09/16/the_advanced_road_of_c_hacker_xiaobai_the_first_level_of_windows_programming_in_the_first_world___the_message_mechanism_of_windows/)

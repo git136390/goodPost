@@ -1,0 +1,2 @@
+# Solve the problem of clicking a row to upload an image in the element table, and all rows have uploaded images
+[Solve the problem of clicking a row to upload an image in the element table, and all rows have uploaded images](https://aiwithcloud.com/2022/09/15/solve_the_problem_of_clicking_a_row_to_upload_an_image_in_the_element_table_and_all_rows_have_uploaded_images/)

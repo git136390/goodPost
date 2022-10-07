@@ -1,0 +1,2 @@
+# Thoroughly understand the Activity startup mode-SingleTop, SingleTask, SingleInstance specific usage scenarios
+[Thoroughly understand the Activity startup mode-SingleTop, SingleTask, SingleInstance specific usage scenarios](https://aiwithcloud.com/2022/09/19/thoroughly_understand_the_activity_startup_mode_singletop_singletask_singleinstance_specific_usage_scenarios/)

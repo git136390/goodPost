@@ -1,0 +1,2 @@
+# The solution to the problem that Ubuntu22.04 cannot play MP4 format video
+[The solution to the problem that Ubuntu22.04 cannot play MP4 format video](https://aiwithcloud.com/2022/09/15/the_solution_to_the_problem_that_ubuntu22-04_cannot_play_mp4_format_video/)

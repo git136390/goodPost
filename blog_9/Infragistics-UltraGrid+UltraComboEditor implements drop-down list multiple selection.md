@@ -1,0 +1,2 @@
+# Infragistics-UltraGrid+UltraComboEditor implements drop-down list multiple selection
+[Infragistics-UltraGrid+UltraComboEditor implements drop-down list multiple selection](https://aiwithcloud.com/2022/09/19/infragistics_ultragridultracomboeditor_implements_drop_down_list_multiple_selection/)

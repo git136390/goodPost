@@ -1,0 +1,2 @@
+# LeetCode Novice Village [876 intermediate nodes of linked list, 1342 number of operations to turn numbers into 0] topic analysis
+[LeetCode Novice Village [876 intermediate nodes of linked list, 1342 number of operations to turn numbers into 0] topic analysis](https://aiwithcloud.com/2022/09/19/leetcode_novice_village_876_intermediate_nodes_of_linked_list_1342_number_of_operations_to_turn_numbers_into_0_topic_analysis/)

@@ -1,0 +1,2 @@
+# Face recognition based on OpenCv (full code in Python)
+[Face recognition based on OpenCv (full code in Python)](https://aiwithcloud.com/2022/09/19/face_recognition_based_on_opencv_full_code_in_python/)

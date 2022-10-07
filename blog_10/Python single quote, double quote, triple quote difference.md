@@ -1,0 +1,2 @@
+# Python single quote, double quote, triple quote difference
+[Python single quote, double quote, triple quote difference](https://aiwithcloud.com/2022/09/19/python_single_quote_double_quote_triple_quote_difference/)

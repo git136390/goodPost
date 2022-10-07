@@ -1,0 +1,2 @@
+# Installation and environment configuration of node.js and npm (latest version in 2021)
+[Installation and environment configuration of node.js and npm (latest version in 2021)](https://aiwithcloud.com/2022/09/15/installation_and_environment_configuration_of_node-js_and_npm_latest_version_in_2021/)

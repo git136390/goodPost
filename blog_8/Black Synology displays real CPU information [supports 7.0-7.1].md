@@ -1,0 +1,2 @@
+# Black Synology displays real CPU information [supports 7.0-7.1]
+[Black Synology displays real CPU information [supports 7.0-7.1]](https://aiwithcloud.com/2022/09/19/black_synology_displays_real_cpu_information_supports_7-0_7-1/)

@@ -1,0 +1,2 @@
+# Campus Epidemic Prevention and Control System Based on Sptingboot#Graduate Design
+[Campus Epidemic Prevention and Control System Based on Sptingboot#Graduate Design](https://aiwithcloud.com/2022/09/14/campus_epidemic_prevention_and_control_system_based_on_sptingbootgraduate_design/)

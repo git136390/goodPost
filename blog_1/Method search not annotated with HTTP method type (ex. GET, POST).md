@@ -1,0 +1,2 @@
+# Method search not annotated with HTTP method type (ex. GET, POST)
+[Method search not annotated with HTTP method type (ex. GET, POST)](https://aiwithcloud.com/2022/09/15/method_search_not_annotated_with_http_method_type_ex-_get_post/)

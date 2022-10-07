@@ -1,0 +1,2 @@
+# [Linux] Producer and Consumer Model, Semaphore, Deadlock
+[[Linux] Producer and Consumer Model, Semaphore, Deadlock](https://aiwithcloud.com/2022/09/19/linux_producer_and_consumer_model_semaphore_deadlock/)

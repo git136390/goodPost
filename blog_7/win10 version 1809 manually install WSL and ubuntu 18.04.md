@@ -1,0 +1,2 @@
+# win10 version 1809 manually install WSL and ubuntu 18.04
+[win10 version 1809 manually install WSL and ubuntu 18.04](https://aiwithcloud.com/2022/09/16/win10_version_1809_manually_install_wsl_and_ubuntu_18-04/)

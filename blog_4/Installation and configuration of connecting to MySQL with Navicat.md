@@ -1,0 +1,2 @@
+# Installation and configuration of connecting to MySQL with Navicat
+[Installation and configuration of connecting to MySQL with Navicat](https://aiwithcloud.com/2022/09/15/installation_and_configuration_of_connecting_to_mysql_with_navicat/)

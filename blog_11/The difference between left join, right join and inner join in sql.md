@@ -1,0 +1,2 @@
+# The difference between left join, right join and inner join in sql
+[The difference between left join, right join and inner join in sql](https://aiwithcloud.com/2022/09/19/the_difference_between_left_join_right_join_and_inner_join_in_sql/)

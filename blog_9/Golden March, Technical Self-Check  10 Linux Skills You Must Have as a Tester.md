@@ -1,0 +1,2 @@
+# Golden March, Technical Self-Check  10 Linux Skills You Must Have as a Tester
+[Golden March, Technical Self-Check  10 Linux Skills You Must Have as a Tester](https://aiwithcloud.com/2022/09/19/golden_march_technical_self_check__10_linux_skills_you_must_have_as_a_tester/)

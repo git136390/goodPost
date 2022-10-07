@@ -1,0 +1,2 @@
+# Java implements data structure 10 (custom dictionary tree of dictionary tree detailed code)
+[Java implements data structure 10 (custom dictionary tree of dictionary tree detailed code)](https://aiwithcloud.com/2022/09/16/java_implements_data_structure_10_custom_dictionary_tree_of_dictionary_tree_detailed_code/)

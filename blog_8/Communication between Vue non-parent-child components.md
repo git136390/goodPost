@@ -1,0 +1,2 @@
+# Communication between Vue non-parent-child components
+[Communication between Vue non-parent-child components](https://aiwithcloud.com/2022/09/19/communication_between_vue_non_parent_child_components/)

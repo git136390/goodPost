@@ -1,0 +1,2 @@
+# HarmonyOS Application Project Sharing My Hongmeng Design Task Kanban Platform Based on HarmonyOS [2] Project Construction and Preparation
+[HarmonyOS Application Project Sharing My Hongmeng Design Task Kanban Platform Based on HarmonyOS [2] Project Construction and Preparation](https://aiwithcloud.com/2022/09/19/harmonyos_application_project_sharing_my_hongmeng_design_task_kanban_platform_based_on_harmonyos_2_project_construction_and_preparation/)

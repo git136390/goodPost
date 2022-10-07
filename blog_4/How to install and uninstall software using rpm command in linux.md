@@ -1,0 +1,2 @@
+# How to install and uninstall software using rpm command in linux
+[How to install and uninstall software using rpm command in linux](https://aiwithcloud.com/2022/09/15/how_to_install_and_uninstall_software_using_rpm_command_in_linux/)

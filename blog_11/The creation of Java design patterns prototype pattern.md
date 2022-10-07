@@ -1,0 +1,2 @@
+# The creation of Java design patterns prototype pattern
+[The creation of Java design patterns prototype pattern](https://aiwithcloud.com/2022/09/19/the_creation_of_java_design_patterns_prototype_pattern/)

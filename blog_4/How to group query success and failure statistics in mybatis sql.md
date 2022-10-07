@@ -1,0 +1,2 @@
+# How to group query success and failure statistics in mybatis sql
+[How to group query success and failure statistics in mybatis sql](https://aiwithcloud.com/2022/09/15/how_to_group_query_success_and_failure_statistics_in_mybatis_sql/)

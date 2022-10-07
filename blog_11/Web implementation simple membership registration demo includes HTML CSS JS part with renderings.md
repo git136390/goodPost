@@ -1,0 +1,2 @@
+# Web implementation simple membership registration demo includes HTML CSS JS part with renderings
+[Web implementation simple membership registration demo includes HTML CSS JS part with renderings](https://aiwithcloud.com/2022/09/19/web_implementation_simple_membership_registration_demo_includes_html_css_js_part_with_renderings/)

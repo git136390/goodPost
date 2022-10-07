@@ -1,0 +1,2 @@
+# ubuntu 20.04 installed Sogou input method can not input Chinese, can only input the problem of English, because there is no installation dependencies
+[ubuntu 20.04 installed Sogou input method can not input Chinese, can only input the problem of English, because there is no installation dependencies](https://aiwithcloud.com/2022/09/19/ubuntu_20-04_installed_sogou_input_method_can_not_input_chinese_can_only_input_the_problem_of_english_because_there_is_no_installation_dependencies/)

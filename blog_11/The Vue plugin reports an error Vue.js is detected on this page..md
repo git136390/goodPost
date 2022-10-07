@@ -1,0 +1,2 @@
+# The Vue plugin reports an error Vue.js is detected on this page.
+[The Vue plugin reports an error Vue.js is detected on this page.](https://aiwithcloud.com/2022/09/19/the_vue_plugin_reports_an_error_vue-js_is_detected_on_this_page/)

@@ -1,0 +1,2 @@
+# [Zero-based web development] Lessons 18 and 19 contentEditable simple rich text box, data-attribute custom data
+[[Zero-based web development] Lessons 18 and 19 contentEditable simple rich text box, data-attribute custom data](https://aiwithcloud.com/2022/09/16/zero_based_web_development_lessons_18_and_19_contenteditable_simple_rich_text_box_data_attribute_custom_data/)

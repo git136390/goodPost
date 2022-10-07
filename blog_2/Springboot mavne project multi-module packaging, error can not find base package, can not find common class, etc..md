@@ -1,0 +1,2 @@
+# Springboot mavne project multi-module packaging, error can not find base package, can not find common class, etc.
+[Springboot mavne project multi-module packaging, error can not find base package, can not find common class, etc.](https://aiwithcloud.com/2022/09/15/springboot_mavne_project_multi_module_packaging_error_can_not_find_base_package_can_not_find_common_class_etc/)

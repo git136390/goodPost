@@ -1,0 +1,2 @@
+# (8) Introduction to Neural Networks - Linear Layers and Other Layers
+[(8) Introduction to Neural Networks - Linear Layers and Other Layers](https://aiwithcloud.com/2022/09/15/8_introduction_to_neural_networks___linear_layers_and_other_layers/)

@@ -1,0 +1,2 @@
+# Find the strongly connected components and shrink points of a directed graph (tarjan algorithm)
+[Find the strongly connected components and shrink points of a directed graph (tarjan algorithm)](https://aiwithcloud.com/2022/09/19/find_the_strongly_connected_components_and_shrink_points_of_a_directed_graph_tarjan_algorithm/)

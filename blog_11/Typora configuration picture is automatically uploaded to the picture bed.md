@@ -1,0 +1,2 @@
+# Typora configuration picture is automatically uploaded to the picture bed
+[Typora configuration picture is automatically uploaded to the picture bed](https://aiwithcloud.com/2022/09/19/typora_configuration_picture_is_automatically_uploaded_to_the_picture_bed/)

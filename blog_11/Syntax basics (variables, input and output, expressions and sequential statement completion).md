@@ -1,0 +1,2 @@
+# Syntax basics (variables, input and output, expressions and sequential statement completion)
+[Syntax basics (variables, input and output, expressions and sequential statement completion)](https://aiwithcloud.com/2022/09/19/syntax_basics_variables_input_and_output_expressions_and_sequential_statement_completion/)

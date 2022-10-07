@@ -1,0 +1,2 @@
+# springboot integrates MybatisPlus, the required import dependencies
+[springboot integrates MybatisPlus, the required import dependencies](https://aiwithcloud.com/2022/09/19/springboot_integrates_mybatisplus_the_required_import_dependencies/)

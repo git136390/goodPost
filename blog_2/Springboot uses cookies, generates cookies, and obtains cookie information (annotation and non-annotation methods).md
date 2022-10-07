@@ -1,0 +1,2 @@
+# Springboot uses cookies, generates cookies, and obtains cookie information (annotation and non-annotation methods)
+[Springboot uses cookies, generates cookies, and obtains cookie information (annotation and non-annotation methods)](https://aiwithcloud.com/2022/09/15/springboot_uses_cookies_generates_cookies_and_obtains_cookie_information_annotation_and_non_annotation_methods/)

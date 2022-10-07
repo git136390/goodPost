@@ -1,0 +1,2 @@
+# A simple understanding of database transactions and indexes
+[A simple understanding of database transactions and indexes](https://aiwithcloud.com/2022/09/19/a_simple_understanding_of_database_transactions_and_indexes/)

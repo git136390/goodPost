@@ -1,0 +1,2 @@
+# [Linux] Network Foundation (1)--Preparing for socket programming
+[[Linux] Network Foundation (1)--Preparing for socket programming](https://aiwithcloud.com/2022/09/19/linux_network_foundation_1__preparing_for_socket_programming/)

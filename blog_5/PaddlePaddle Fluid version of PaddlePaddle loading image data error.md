@@ -1,0 +1,2 @@
+# PaddlePaddle Fluid version of PaddlePaddle loading image data error
+[PaddlePaddle Fluid version of PaddlePaddle loading image data error](https://aiwithcloud.com/2022/09/16/paddlepaddle_fluid_version_of_paddlepaddle_loading_image_data_error/)

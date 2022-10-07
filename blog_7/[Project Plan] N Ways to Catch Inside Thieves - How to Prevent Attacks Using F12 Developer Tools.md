@@ -1,0 +1,2 @@
+# [Project Plan] N Ways to Catch Inside Thieves - How to Prevent Attacks Using F12 Developer Tools
+[[Project Plan] N Ways to Catch Inside Thieves - How to Prevent Attacks Using F12 Developer Tools](https://aiwithcloud.com/2022/09/16/project_plan_n_ways_to_catch_inside_thieves___how_to_prevent_attacks_using_f12_developer_tools/)

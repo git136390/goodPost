@@ -1,0 +1,2 @@
+# Caffe learning - detailed explanation of CMakeList.txt content
+[Caffe learning - detailed explanation of CMakeList.txt content](https://aiwithcloud.com/2022/09/15/caffe_learning___detailed_explanation_of_cmakelist-txt_content/)

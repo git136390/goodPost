@@ -1,0 +1,2 @@
+# js gets get parameters in the url and preview images, etc... Several
+[js gets get parameters in the url and preview images, etc... Several](https://aiwithcloud.com/2022/09/15/js_gets_get_parameters_in_the_url_and_preview_images_etc-_several/)

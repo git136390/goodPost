@@ -1,0 +1,2 @@
+# OpenHarmony Growth Plan #campus geek show #touch smart NFC punch card machine
+[OpenHarmony Growth Plan #campus geek show #touch smart NFC punch card machine](https://aiwithcloud.com/2022/09/19/openharmony_growth_plan_campus_geek_show_touch_smart_nfc_punch_card_machine/)

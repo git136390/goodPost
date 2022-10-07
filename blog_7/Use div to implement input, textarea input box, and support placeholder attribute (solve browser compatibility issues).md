@@ -1,0 +1,2 @@
+# Use div to implement input, textarea input box, and support placeholder attribute (solve browser compatibility issues)
+[Use div to implement input, textarea input box, and support placeholder attribute (solve browser compatibility issues)](https://aiwithcloud.com/2022/09/16/use_div_to_implement_input_textarea_input_box_and_support_placeholder_attribute_solve_browser_compatibility_issues/)

@@ -1,0 +1,2 @@
+# MYSQL installation and application (8.0.29) with SQlyog
+[MYSQL installation and application (8.0.29) with SQlyog](https://aiwithcloud.com/2022/09/15/mysql_installation_and_application_8-0-29_with_sqlyog/)

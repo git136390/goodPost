@@ -1,0 +1,2 @@
+# Initiate an ajax asynchronous request, and convert the string in the data returned by the request into an array
+[Initiate an ajax asynchronous request, and convert the string in the data returned by the request into an array](https://aiwithcloud.com/2022/09/15/initiate_an_ajax_asynchronous_request_and_convert_the_string_in_the_data_returned_by_the_request_into_an_array/)

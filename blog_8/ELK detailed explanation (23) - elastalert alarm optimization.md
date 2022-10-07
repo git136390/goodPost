@@ -1,0 +1,2 @@
+# ELK detailed explanation (23) - elastalert alarm optimization
+[ELK detailed explanation (23) - elastalert alarm optimization](https://aiwithcloud.com/2022/09/19/elk_detailed_explanation_23___elastalert_alarm_optimization/)

@@ -1,0 +1,2 @@
+# [Android -- Open Source Library] Basic use of VerticalTabLayout
+[[Android -- Open Source Library] Basic use of VerticalTabLayout](https://aiwithcloud.com/2022/09/16/android____open_source_library_basic_use_of_verticaltablayout/)

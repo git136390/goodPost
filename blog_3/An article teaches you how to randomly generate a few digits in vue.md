@@ -1,0 +1,2 @@
+# An article teaches you how to randomly generate a few digits in vue
+[An article teaches you how to randomly generate a few digits in vue](https://aiwithcloud.com/2022/09/15/an_article_teaches_you_how_to_randomly_generate_a_few_digits_in_vue/)

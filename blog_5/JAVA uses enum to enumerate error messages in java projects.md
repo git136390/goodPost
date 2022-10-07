@@ -1,0 +1,2 @@
+# JAVA uses enum to enumerate error messages in java projects
+[JAVA uses enum to enumerate error messages in java projects](https://aiwithcloud.com/2022/09/16/java_uses_enum_to_enumerate_error_messages_in_java_projects/)

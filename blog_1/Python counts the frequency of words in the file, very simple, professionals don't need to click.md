@@ -1,0 +1,2 @@
+# Python counts the frequency of words in the file, very simple, professionals don't need to click
+[Python counts the frequency of words in the file, very simple, professionals don't need to click](https://aiwithcloud.com/2022/09/15/python_counts_the_frequency_of_words_in_the_file_very_simple_professionals_dont_need_to_click/)

@@ -1,0 +1,2 @@
+# java long and long division result error is 1 or 0 solution
+[java long and long division result error is 1 or 0 solution](https://aiwithcloud.com/2022/09/15/java_long_and_long_division_result_error_is_1_or_0_solution/)

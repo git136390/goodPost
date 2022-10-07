@@ -1,0 +1,2 @@
+# Smart target detection 57 - Tensorflow2 builds the YoloV5 target detection platform
+[Smart target detection 57 - Tensorflow2 builds the YoloV5 target detection platform](https://aiwithcloud.com/2022/09/19/smart_target_detection_57___tensorflow2_builds_the_yolov5_target_detection_platform/)

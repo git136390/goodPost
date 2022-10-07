@@ -1,0 +1,2 @@
+# Python crawler example (including code) super detailed tutorial
+[Python crawler example (including code) super detailed tutorial](https://aiwithcloud.com/2022/09/19/python_crawler_example_including_code_super_detailed_tutorial/)

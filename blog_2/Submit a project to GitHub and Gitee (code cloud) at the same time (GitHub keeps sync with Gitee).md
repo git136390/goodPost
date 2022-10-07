@@ -1,0 +1,2 @@
+# Submit a project to GitHub and Gitee (code cloud) at the same time (GitHub keeps sync with Gitee)
+[Submit a project to GitHub and Gitee (code cloud) at the same time (GitHub keeps sync with Gitee)](https://aiwithcloud.com/2022/09/15/submit_a_project_to_github_and_gitee_code_cloud_at_the_same_time_github_keeps_sync_with_gitee/)

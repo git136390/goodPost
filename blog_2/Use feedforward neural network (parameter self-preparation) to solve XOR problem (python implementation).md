@@ -1,0 +1,2 @@
+# Use feedforward neural network (parameter self-preparation) to solve XOR problem (python implementation)
+[Use feedforward neural network (parameter self-preparation) to solve XOR problem (python implementation)](https://aiwithcloud.com/2022/09/15/use_feedforward_neural_network_parameter_self_preparation_to_solve_xor_problem_python_implementation/)

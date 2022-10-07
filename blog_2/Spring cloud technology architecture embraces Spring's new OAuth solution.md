@@ -1,0 +1,2 @@
+# Spring cloud technology architecture embraces Spring's new OAuth solution
+[Spring cloud technology architecture embraces Spring's new OAuth solution](https://aiwithcloud.com/2022/09/15/spring_cloud_technology_architecture_embraces_springs_new_oauth_solution/)

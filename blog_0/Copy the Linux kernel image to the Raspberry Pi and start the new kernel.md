@@ -1,0 +1,2 @@
+# Copy the Linux kernel image to the Raspberry Pi and start the new kernel
+[Copy the Linux kernel image to the Raspberry Pi and start the new kernel](https://aiwithcloud.com/2022/09/14/copy_the_linux_kernel_image_to_the_raspberry_pi_and_start_the_new_kernel/)

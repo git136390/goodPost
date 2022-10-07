@@ -1,0 +1,2 @@
+# The basics of CC++ pointers (the most complete and easy-to-understand pointer study guide in history!!!!)
+[The basics of CC++ pointers (the most complete and easy-to-understand pointer study guide in history!!!!)](https://aiwithcloud.com/2022/09/16/the_basics_of_cc_pointers_the_most_complete_and_easy_to_understand_pointer_study_guide_in_history/)

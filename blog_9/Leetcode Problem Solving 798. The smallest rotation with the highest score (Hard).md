@@ -1,0 +1,2 @@
+# Leetcode Problem Solving 798. The smallest rotation with the highest score (Hard)
+[Leetcode Problem Solving 798. The smallest rotation with the highest score (Hard)](https://aiwithcloud.com/2022/09/19/leetcode_problem_solving_798-_the_smallest_rotation_with_the_highest_score_hard/)

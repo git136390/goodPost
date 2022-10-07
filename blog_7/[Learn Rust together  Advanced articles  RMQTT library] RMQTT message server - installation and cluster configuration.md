@@ -1,0 +1,2 @@
+# [Learn Rust together  Advanced articles  RMQTT library] RMQTT message server - installation and cluster configuration
+[[Learn Rust together  Advanced articles  RMQTT library] RMQTT message server - installation and cluster configuration](https://aiwithcloud.com/2022/09/16/learn_rust_together__advanced_articles__rmqtt_library_rmqtt_message_server___installation_and_cluster_configuration/)

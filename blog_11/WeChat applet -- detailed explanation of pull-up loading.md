@@ -1,0 +1,2 @@
+# WeChat applet -- detailed explanation of pull-up loading
+[WeChat applet -- detailed explanation of pull-up loading](https://aiwithcloud.com/2022/09/19/wechat_applet____detailed_explanation_of_pull_up_loading/)

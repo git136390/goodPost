@@ -1,0 +1,2 @@
+# Detailed tutorial on installing JDK8 in centos7 environment (super detailed)
+[Detailed tutorial on installing JDK8 in centos7 environment (super detailed)](https://aiwithcloud.com/2022/09/19/detailed_tutorial_on_installing_jdk8_in_centos7_environment_super_detailed/)

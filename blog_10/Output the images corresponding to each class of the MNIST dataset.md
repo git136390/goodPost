@@ -1,0 +1,2 @@
+# Output the images corresponding to each class of the MNIST dataset
+[Output the images corresponding to each class of the MNIST dataset](https://aiwithcloud.com/2022/09/19/output_the_images_corresponding_to_each_class_of_the_mnist_dataset/)

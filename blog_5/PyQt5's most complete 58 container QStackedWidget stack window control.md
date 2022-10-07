@@ -1,0 +1,2 @@
+# PyQt5's most complete 58 container QStackedWidget stack window control
+[PyQt5's most complete 58 container QStackedWidget stack window control](https://aiwithcloud.com/2022/09/16/pyqt5s_most_complete_58_container_qstackedwidget_stack_window_control/)

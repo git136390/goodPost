@@ -1,0 +1,2 @@
+# Nuxt.js (Vue SSR) project configuration and development details
+[Nuxt.js (Vue SSR) project configuration and development details](https://aiwithcloud.com/2022/09/16/nuxt-js_vue_ssr_project_configuration_and_development_details/)

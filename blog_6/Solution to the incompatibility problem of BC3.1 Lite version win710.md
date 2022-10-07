@@ -1,0 +1,2 @@
+# Solution to the incompatibility problem of BC3.1 Lite version win710
+[Solution to the incompatibility problem of BC3.1 Lite version win710](https://aiwithcloud.com/2022/09/16/solution_to_the_incompatibility_problem_of_bc3-1_lite_version_win710/)

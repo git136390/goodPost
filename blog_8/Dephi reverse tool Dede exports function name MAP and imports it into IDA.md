@@ -1,0 +1,2 @@
+# Dephi reverse tool Dede exports function name MAP and imports it into IDA
+[Dephi reverse tool Dede exports function name MAP and imports it into IDA](https://aiwithcloud.com/2022/09/19/dephi_reverse_tool_dede_exports_function_name_map_and_imports_it_into_ida/)

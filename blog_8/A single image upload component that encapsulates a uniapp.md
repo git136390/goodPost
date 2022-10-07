@@ -1,0 +1,2 @@
+# A single image upload component that encapsulates a uniapp
+[A single image upload component that encapsulates a uniapp](https://aiwithcloud.com/2022/09/19/a_single_image_upload_component_that_encapsulates_a_uniapp/)

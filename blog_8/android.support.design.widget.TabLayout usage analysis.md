@@ -1,0 +1,2 @@
+# android.support.design.widget.TabLayout usage analysis
+[android.support.design.widget.TabLayout usage analysis](https://aiwithcloud.com/2022/09/19/android-support-design-widget-tablayout_usage_analysis/)

@@ -1,0 +1,2 @@
+# The mysql service failed to start under Windows The service did not report any errors.
+[The mysql service failed to start under Windows The service did not report any errors.](https://aiwithcloud.com/2022/09/19/the_mysql_service_failed_to_start_under_windows_the_service_did_not_report_any_errors/)

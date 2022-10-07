@@ -1,0 +1,2 @@
+# prettier+eslint unifies the team code style, so that the formatting configuration depends on the project, not on the editor!
+[prettier+eslint unifies the team code style, so that the formatting configuration depends on the project, not on the editor!](https://aiwithcloud.com/2022/09/16/prettiereslint_unifies_the_team_code_style_so_that_the_formatting_configuration_depends_on_the_project_not_on_the_editor/)

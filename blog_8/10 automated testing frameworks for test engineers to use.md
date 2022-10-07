@@ -1,0 +1,2 @@
+# 10 automated testing frameworks for test engineers to use
+[10 automated testing frameworks for test engineers to use](https://aiwithcloud.com/2022/09/19/10_automated_testing_frameworks_for_test_engineers_to_use/)

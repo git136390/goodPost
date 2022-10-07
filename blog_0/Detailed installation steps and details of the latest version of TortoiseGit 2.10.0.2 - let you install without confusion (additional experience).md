@@ -1,0 +1,2 @@
+# Detailed installation steps and details of the latest version of TortoiseGit 2.10.0.2 - let you install without confusion (additional experience)
+[Detailed installation steps and details of the latest version of TortoiseGit 2.10.0.2 - let you install without confusion (additional experience)](https://aiwithcloud.com/2022/09/14/detailed_installation_steps_and_details_of_the_latest_version_of_tortoisegit_2-10-0-2___let_you_install_without_confusion_additional_experience/)

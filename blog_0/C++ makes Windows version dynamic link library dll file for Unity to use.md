@@ -1,0 +1,2 @@
+# C++ makes Windows version dynamic link library dll file for Unity to use
+[C++ makes Windows version dynamic link library dll file for Unity to use](https://aiwithcloud.com/2022/09/14/c_makes_windows_version_dynamic_link_library_dll_file_for_unity_to_use/)

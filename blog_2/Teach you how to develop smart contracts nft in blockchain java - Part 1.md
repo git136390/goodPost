@@ -1,0 +1,2 @@
+# Teach you how to develop smart contracts nft in blockchain java - Part 1
+[Teach you how to develop smart contracts nft in blockchain java - Part 1](https://aiwithcloud.com/2022/09/15/teach_you_how_to_develop_smart_contracts_nft_in_blockchain_java___part_1/)

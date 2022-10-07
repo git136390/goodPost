@@ -1,0 +1,2 @@
+# Using Python to generate random passwords is very simple
+[Using Python to generate random passwords is very simple](https://aiwithcloud.com/2022/09/15/using_python_to_generate_random_passwords_is_very_simple/)

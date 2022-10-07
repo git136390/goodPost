@@ -1,0 +1,2 @@
+# [An Algorithm Question per Day] Merge two sorted linked lists
+[[An Algorithm Question per Day] Merge two sorted linked lists](https://aiwithcloud.com/2022/09/15/an_algorithm_question_per_day_merge_two_sorted_linked_lists/)

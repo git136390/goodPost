@@ -1,0 +1,2 @@
+# Tool  Interface Automation Test Framework RESTAssured Practice (3) Exporting Response Results
+[Tool  Interface Automation Test Framework RESTAssured Practice (3) Exporting Response Results](https://aiwithcloud.com/2022/09/16/tool__interface_automation_test_framework_restassured_practice_3_exporting_response_results/)

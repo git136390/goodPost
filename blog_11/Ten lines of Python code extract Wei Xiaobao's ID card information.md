@@ -1,0 +1,2 @@
+# Ten lines of Python code extract Wei Xiaobao's ID card information
+[Ten lines of Python code extract Wei Xiaobao's ID card information](https://aiwithcloud.com/2022/09/19/ten_lines_of_python_code_extract_wei_xiaobaos_id_card_information/)

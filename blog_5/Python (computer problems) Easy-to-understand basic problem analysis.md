@@ -1,0 +1,2 @@
+# Python (computer problems) Easy-to-understand basic problem analysis
+[Python (computer problems) Easy-to-understand basic problem analysis](https://aiwithcloud.com/2022/09/16/python_computer_problems_easy_to_understand_basic_problem_analysis/)

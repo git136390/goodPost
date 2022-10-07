@@ -1,0 +1,2 @@
+# HDU - 3986 Remove an edge to maximize the shortest path
+[HDU - 3986 Remove an edge to maximize the shortest path](https://aiwithcloud.com/2022/09/19/hdu___3986_remove_an_edge_to_maximize_the_shortest_path/)

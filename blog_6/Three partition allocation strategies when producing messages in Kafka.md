@@ -1,0 +1,2 @@
+# Three partition allocation strategies when producing messages in Kafka
+[Three partition allocation strategies when producing messages in Kafka](https://aiwithcloud.com/2022/09/16/three_partition_allocation_strategies_when_producing_messages_in_kafka/)

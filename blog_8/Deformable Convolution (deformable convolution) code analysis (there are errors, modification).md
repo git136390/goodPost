@@ -1,0 +1,2 @@
+# Deformable Convolution (deformable convolution) code analysis (there are errors, modification)
+[Deformable Convolution (deformable convolution) code analysis (there are errors, modification)](https://aiwithcloud.com/2022/09/19/deformable_convolution_deformable_convolution_code_analysis_there_are_errors_modification/)

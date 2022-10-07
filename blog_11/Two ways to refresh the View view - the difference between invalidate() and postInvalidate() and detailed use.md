@@ -1,0 +1,2 @@
+# Two ways to refresh the View view - the difference between invalidate() and postInvalidate() and detailed use
+[Two ways to refresh the View view - the difference between invalidate() and postInvalidate() and detailed use](https://aiwithcloud.com/2022/09/19/two_ways_to_refresh_the_view_view___the_difference_between_invalidate_and_postinvalidate_and_detailed_use/)

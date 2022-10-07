@@ -1,0 +1,2 @@
+# Why is the load factor in java Hashmap default to 0.75
+[Why is the load factor in java Hashmap default to 0.75](https://aiwithcloud.com/2022/09/19/why_is_the_load_factor_in_java_hashmap_default_to_0-75/)

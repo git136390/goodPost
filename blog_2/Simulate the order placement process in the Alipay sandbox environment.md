@@ -1,0 +1,2 @@
+# Simulate the order placement process in the Alipay sandbox environment
+[Simulate the order placement process in the Alipay sandbox environment](https://aiwithcloud.com/2022/09/15/simulate_the_order_placement_process_in_the_alipay_sandbox_environment/)

@@ -1,0 +1,2 @@
+# Raspberry Pi system installation and use (detailed steps)
+[Raspberry Pi system installation and use (detailed steps)](https://aiwithcloud.com/2022/09/16/raspberry_pi_system_installation_and_use_detailed_steps/)

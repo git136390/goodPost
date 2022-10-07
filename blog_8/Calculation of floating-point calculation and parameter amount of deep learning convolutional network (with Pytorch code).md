@@ -1,0 +1,2 @@
+# Calculation of floating-point calculation and parameter amount of deep learning convolutional network (with Pytorch code)
+[Calculation of floating-point calculation and parameter amount of deep learning convolutional network (with Pytorch code)](https://aiwithcloud.com/2022/09/19/calculation_of_floating_point_calculation_and_parameter_amount_of_deep_learning_convolutional_network_with_pytorch_code/)

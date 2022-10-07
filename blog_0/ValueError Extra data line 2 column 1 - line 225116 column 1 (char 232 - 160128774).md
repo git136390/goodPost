@@ -1,0 +1,2 @@
+# ValueError: Extra data: line 2 column 1 - line 225116 column 1 (char 232 - 160128774)
+[ValueError: Extra data: line 2 column 1 - line 225116 column 1 (char 232 - 160128774)](https://aiwithcloud.com/2021/12/14/valueerror-extra-data-line-2-column-1-line-225116-column-1-char-232-160128774/)

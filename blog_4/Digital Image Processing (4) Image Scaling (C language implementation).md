@@ -1,0 +1,2 @@
+# Digital Image Processing (4) Image Scaling (C language implementation)
+[Digital Image Processing (4) Image Scaling (C language implementation)](https://aiwithcloud.com/2022/09/15/digital_image_processing_4_image_scaling_c_language_implementation/)

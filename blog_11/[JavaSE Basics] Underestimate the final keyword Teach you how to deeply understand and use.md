@@ -1,0 +1,2 @@
+# [JavaSE Basics] Underestimate the final keyword Teach you how to deeply understand and use
+[[JavaSE Basics] Underestimate the final keyword Teach you how to deeply understand and use](https://aiwithcloud.com/2022/09/19/javase_basics_underestimate_the_final_keyword_teach_you_how_to_deeply_understand_and_use/)

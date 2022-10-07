@@ -1,0 +1,2 @@
+# ubantu installs opencv and configures environment variables
+[ubantu installs opencv and configures environment variables](https://aiwithcloud.com/2022/09/15/ubantu_installs_opencv_and_configures_environment_variables/)

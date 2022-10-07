@@ -1,0 +1,2 @@
+# springboot timing tasks (single-threaded and multi-threaded)
+[springboot timing tasks (single-threaded and multi-threaded)](https://aiwithcloud.com/2022/09/15/springboot_timing_tasks_single_threaded_and_multi_threaded/)

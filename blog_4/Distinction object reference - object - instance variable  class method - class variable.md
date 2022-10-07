@@ -1,0 +1,2 @@
+# Distinction object reference - object - instance variable  class method - class variable
+[Distinction object reference - object - instance variable  class method - class variable](https://aiwithcloud.com/2022/09/15/distinction_object_reference___object___instance_variable__class_method___class_variable/)

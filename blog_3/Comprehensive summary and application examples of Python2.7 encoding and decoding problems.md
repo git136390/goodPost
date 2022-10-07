@@ -1,0 +1,2 @@
+# Comprehensive summary and application examples of Python2.7 encoding and decoding problems
+[Comprehensive summary and application examples of Python2.7 encoding and decoding problems](https://aiwithcloud.com/2022/09/15/comprehensive_summary_and_application_examples_of_python2-7_encoding_and_decoding_problems/)

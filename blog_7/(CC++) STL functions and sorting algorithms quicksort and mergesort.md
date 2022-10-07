@@ -1,0 +1,2 @@
+# (CC++) STL functions and sorting algorithms quicksort and mergesort
+[(CC++) STL functions and sorting algorithms quicksort and mergesort](https://aiwithcloud.com/2022/09/19/cc_stl_functions_and_sorting_algorithms_quicksort_and_mergesort/)

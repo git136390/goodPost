@@ -1,0 +1,2 @@
+# [pandas] Delete the row where the element that meets the condition is located
+[[pandas] Delete the row where the element that meets the condition is located](https://aiwithcloud.com/2022/09/19/pandas_delete_the_row_where_the_element_that_meets_the_condition_is_located/)

@@ -1,0 +1,2 @@
+# [C language] Preliminary analysis of the keyword static
+[[C language] Preliminary analysis of the keyword static](https://aiwithcloud.com/2022/09/16/c_language_preliminary_analysis_of_the_keyword_static/)

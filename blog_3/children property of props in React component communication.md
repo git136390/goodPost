@@ -1,0 +1,2 @@
+# children property of props in React component communication
+[children property of props in React component communication](https://aiwithcloud.com/2022/09/15/children_property_of_props_in_react_component_communication/)

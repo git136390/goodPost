@@ -1,0 +1,2 @@
+# The image data is directly returned in the springBoot interface
+[The image data is directly returned in the springBoot interface](https://aiwithcloud.com/2022/09/19/the_image_data_is_directly_returned_in_the_springboot_interface/)

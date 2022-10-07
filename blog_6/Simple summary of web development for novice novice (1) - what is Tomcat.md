@@ -1,0 +1,2 @@
+# Simple summary of web development for novice novice (1) - what is Tomcat
+[Simple summary of web development for novice novice (1) - what is Tomcat](https://aiwithcloud.com/2022/09/16/simple_summary_of_web_development_for_novice_novice_1___what_is_tomcat/)

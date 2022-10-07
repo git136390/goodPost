@@ -1,0 +1,2 @@
+# Configuration and use of the second level cache of mybatis
+[Configuration and use of the second level cache of mybatis](https://aiwithcloud.com/2022/09/15/configuration_and_use_of_the_second_level_cache_of_mybatis/)

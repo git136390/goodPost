@@ -1,0 +1,2 @@
+# [Blue Bridge Java Question of the Day] - 13. Just reverse the letters
+[[Blue Bridge Java Question of the Day] - 13. Just reverse the letters](https://aiwithcloud.com/2022/09/15/blue_bridge_java_question_of_the_day___13-_just_reverse_the_letters/)

@@ -1,0 +1,2 @@
+# LeetCode training (2) sum of two numbers, merge two ordered arrays
+[LeetCode training (2) sum of two numbers, merge two ordered arrays](https://aiwithcloud.com/2022/09/19/leetcode_training_2_sum_of_two_numbers_merge_two_ordered_arrays/)

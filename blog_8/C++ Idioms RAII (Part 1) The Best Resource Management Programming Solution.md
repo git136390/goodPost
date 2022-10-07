@@ -1,0 +1,2 @@
+# C++ Idioms RAII (Part 1) The Best Resource Management Programming Solution
+[C++ Idioms RAII (Part 1) The Best Resource Management Programming Solution](https://aiwithcloud.com/2022/09/19/c_idioms_raii_part_1_the_best_resource_management_programming_solution/)

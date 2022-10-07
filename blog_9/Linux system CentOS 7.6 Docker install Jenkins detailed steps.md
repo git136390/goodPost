@@ -1,0 +1,2 @@
+# Linux system CentOS 7.6 Docker install Jenkins detailed steps
+[Linux system CentOS 7.6 Docker install Jenkins detailed steps](https://aiwithcloud.com/2022/09/19/linux_system_centos_7-6_docker_install_jenkins_detailed_steps/)

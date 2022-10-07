@@ -1,0 +1,2 @@
+# Four different methods of C language to judge leap year
+[Four different methods of C language to judge leap year](https://aiwithcloud.com/2022/09/15/four_different_methods_of_c_language_to_judge_leap_year/)

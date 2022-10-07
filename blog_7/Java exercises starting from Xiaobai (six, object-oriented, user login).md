@@ -1,0 +1,2 @@
+# Java exercises starting from Xiaobai (six, object-oriented, user login)
+[Java exercises starting from Xiaobai (six, object-oriented, user login)](https://aiwithcloud.com/2022/09/19/java_exercises_starting_from_xiaobai_six_object_oriented_user_login/)

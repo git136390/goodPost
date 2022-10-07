@@ -1,0 +1,2 @@
+# Linux stepping pit diary - CentOS6.x system fails to install software using yum
+[Linux stepping pit diary - CentOS6.x system fails to install software using yum](https://aiwithcloud.com/2022/09/16/linux_stepping_pit_diary___centos6-x_system_fails_to_install_software_using_yum/)

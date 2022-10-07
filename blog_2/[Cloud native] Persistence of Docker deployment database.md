@@ -1,0 +1,2 @@
+# [Cloud native] Persistence of Docker deployment database
+[[Cloud native] Persistence of Docker deployment database](https://aiwithcloud.com/2022/09/15/cloud_native_persistence_of_docker_deployment_database/)

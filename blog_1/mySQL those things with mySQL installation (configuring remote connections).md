@@ -1,0 +1,2 @@
+# mySQL those things with mySQL installation (configuring remote connections)
+[mySQL those things with mySQL installation (configuring remote connections)](https://aiwithcloud.com/2022/09/15/mysql_those_things_with_mysql_installation_configuring_remote_connections/)

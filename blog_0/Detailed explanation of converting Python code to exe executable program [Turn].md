@@ -1,0 +1,2 @@
+# Detailed explanation of converting Python code to exe executable program [Turn]
+[Detailed explanation of converting Python code to exe executable program [Turn]](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_converting_python_code_to_exe_executable_program_turn/)

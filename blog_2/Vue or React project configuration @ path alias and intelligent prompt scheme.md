@@ -1,0 +1,2 @@
+# Vue or React project configuration @ path alias and intelligent prompt scheme
+[Vue or React project configuration @ path alias and intelligent prompt scheme](https://aiwithcloud.com/2022/09/15/vue_or_react_project_configuration__path_alias_and_intelligent_prompt_scheme/)

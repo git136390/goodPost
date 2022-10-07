@@ -1,0 +1,2 @@
+# Deprecated alternative to StartActivityForResult method
+[Deprecated alternative to StartActivityForResult method](https://aiwithcloud.com/2022/09/15/deprecated_alternative_to_startactivityforresult_method/)

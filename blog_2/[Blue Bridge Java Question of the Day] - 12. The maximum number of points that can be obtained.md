@@ -1,0 +1,2 @@
+# [Blue Bridge Java Question of the Day] - 12. The maximum number of points that can be obtained
+[[Blue Bridge Java Question of the Day] - 12. The maximum number of points that can be obtained](https://aiwithcloud.com/2022/09/15/blue_bridge_java_question_of_the_day___12-_the_maximum_number_of_points_that_can_be_obtained/)

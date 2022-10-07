@@ -1,0 +1,2 @@
+# openGauss Kernel Analysis - Statistics and Row Count Estimation
+[openGauss Kernel Analysis - Statistics and Row Count Estimation](https://aiwithcloud.com/2022/09/15/opengauss_kernel_analysis___statistics_and_row_count_estimation/)

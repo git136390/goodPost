@@ -1,0 +1,2 @@
+# C language find the longest word in a string and output (two ideas of pointer and array assignment)
+[C language find the longest word in a string and output (two ideas of pointer and array assignment)](https://aiwithcloud.com/2022/09/19/c_language_find_the_longest_word_in_a_string_and_output_two_ideas_of_pointer_and_array_assignment/)

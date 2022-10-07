@@ -1,0 +1,2 @@
+# const top-level pointer and bottom-level pointer in C++
+[const top-level pointer and bottom-level pointer in C++](https://aiwithcloud.com/2022/09/15/const_top_level_pointer_and_bottom_level_pointer_in_c/)

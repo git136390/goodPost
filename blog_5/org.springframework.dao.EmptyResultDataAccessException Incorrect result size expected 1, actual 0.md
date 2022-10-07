@@ -1,0 +1,2 @@
+# org.springframework.dao.EmptyResultDataAccessException Incorrect result size expected 1, actual 0
+[org.springframework.dao.EmptyResultDataAccessException Incorrect result size expected 1, actual 0](https://aiwithcloud.com/2022/09/16/org-springframework-dao-emptyresultdataaccessexception_incorrect_result_size_expected_1_actual_0/)

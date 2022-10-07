@@ -1,0 +1,2 @@
+# [Algorithm brushing questions] -7.22 The application of simulation, examine the mathematical transformation, can you understand it, you might as well try it
+[[Algorithm brushing questions] -7.22 The application of simulation, examine the mathematical transformation, can you understand it, you might as well try it](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions__7-22_the_application_of_simulation_examine_the_mathematical_transformation_can_you_understand_it_you_might_as_well_try_it/)

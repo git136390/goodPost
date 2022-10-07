@@ -1,0 +1,2 @@
+# C Language Algorithm Fundamentals - Find the Number of Nodes with the Leading Node in a Singly Linked List
+[C Language Algorithm Fundamentals - Find the Number of Nodes with the Leading Node in a Singly Linked List](https://aiwithcloud.com/2022/09/19/c_language_algorithm_fundamentals___find_the_number_of_nodes_with_the_leading_node_in_a_singly_linked_list/)

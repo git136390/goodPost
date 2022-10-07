@@ -1,0 +1,2 @@
+# Light Articles-Using URL Rewrite to implement pseudo-static website
+[Light Articles-Using URL Rewrite to implement pseudo-static website](https://aiwithcloud.com/2022/09/19/light_articles_using_url_rewrite_to_implement_pseudo_static_website/)

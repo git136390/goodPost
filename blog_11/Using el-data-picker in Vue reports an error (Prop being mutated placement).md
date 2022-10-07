@@ -1,0 +1,2 @@
+# Using el-data-picker in Vue reports an error (Prop being mutated placement)
+[Using el-data-picker in Vue reports an error (Prop being mutated placement)](https://aiwithcloud.com/2022/09/19/using_el_data_picker_in_vue_reports_an_error_prop_being_mutated_placement/)

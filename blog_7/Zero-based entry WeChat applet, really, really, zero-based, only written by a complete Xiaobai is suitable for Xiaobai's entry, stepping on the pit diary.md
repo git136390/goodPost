@@ -1,0 +1,2 @@
+# Zero-based entry WeChat applet, really, really, zero-based, only written by a complete Xiaobai is suitable for Xiaobai's entry, stepping on the pit diary
+[Zero-based entry WeChat applet, really, really, zero-based, only written by a complete Xiaobai is suitable for Xiaobai's entry, stepping on the pit diary](https://aiwithcloud.com/2022/09/16/zero_based_entry_wechat_applet_really_really_zero_based_only_written_by_a_complete_xiaobai_is_suitable_for_xiaobais_entry_stepping_on_the_pit_diary/)

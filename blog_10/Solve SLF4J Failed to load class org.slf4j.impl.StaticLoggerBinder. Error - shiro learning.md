@@ -1,0 +1,2 @@
+# Solve SLF4J Failed to load class org.slf4j.impl.StaticLoggerBinder. Error - shiro learning
+[Solve SLF4J Failed to load class org.slf4j.impl.StaticLoggerBinder. Error - shiro learning](https://aiwithcloud.com/2022/09/19/solve_slf4j_failed_to_load_class_org-slf4j-impl-staticloggerbinder-_error___shiro_learning/)

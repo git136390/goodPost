@@ -1,0 +1,2 @@
+# I slapped a few lines of saucy code and freed my hands
+[I slapped a few lines of saucy code and freed my hands](https://aiwithcloud.com/2022/09/15/i_slapped_a_few_lines_of_saucy_code_and_freed_my_hands/)

@@ -1,0 +1,2 @@
+# (Redis_usage_series)_Redis_configuration_1_corresponding_to_version_2.0.x_in_SpringBoot
+[(Redis_usage_series)_Redis_configuration_1_corresponding_to_version_2.0.x_in_SpringBoot](https://aiwithcloud.com/?p=1793)

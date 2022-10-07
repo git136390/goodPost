@@ -1,0 +1,2 @@
+# Fifteen days to master OpenCV - machine learning - K-Nearest Neighbour (k-Nearest Neighbour)
+[Fifteen days to master OpenCV - machine learning - K-Nearest Neighbour (k-Nearest Neighbour)](https://aiwithcloud.com/2022/09/15/fifteen_days_to_master_opencv___machine_learning___k_nearest_neighbour_k_nearest_neighbour/)

@@ -1,0 +1,2 @@
+# Find the value of the nth term of the Fibonacci sequence
+[Find the value of the nth term of the Fibonacci sequence](https://aiwithcloud.com/2022/09/15/find_the_value_of_the_nth_term_of_the_fibonacci_sequence/)

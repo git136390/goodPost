@@ -1,0 +1,2 @@
+# MySql don't get confused! After the ON of LEFT JOIN is connected to the filter condition, multiple conditions will have an accident!
+[MySql don't get confused! After the ON of LEFT JOIN is connected to the filter condition, multiple conditions will have an accident!](https://aiwithcloud.com/2022/09/16/mysql_dont_get_confused_after_the_on_of_left_join_is_connected_to_the_filter_condition_multiple_conditions_will_have_an_accident/)

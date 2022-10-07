@@ -1,0 +1,2 @@
+# License for package Android SDK Build-Tools 28.0.3 not accepted.
+[License for package Android SDK Build-Tools 28.0.3 not accepted.](https://aiwithcloud.com/2022/09/15/license_for_package_android_sdk_build_tools_28-0-3_not_accepted/)

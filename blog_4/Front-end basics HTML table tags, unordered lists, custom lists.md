@@ -1,0 +1,2 @@
+# Front-end basics HTML table tags, unordered lists, custom lists
+[Front-end basics HTML table tags, unordered lists, custom lists](https://aiwithcloud.com/2022/09/15/front_end_basics_html_table_tags_unordered_lists_custom_lists/)

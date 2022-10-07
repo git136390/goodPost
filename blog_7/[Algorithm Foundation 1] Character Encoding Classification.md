@@ -1,0 +1,2 @@
+# [Algorithm Foundation 1] Character Encoding Classification
+[[Algorithm Foundation 1] Character Encoding Classification](https://aiwithcloud.com/2022/09/16/algorithm_foundation_1_character_encoding_classification/)

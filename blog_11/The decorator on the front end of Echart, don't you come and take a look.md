@@ -1,0 +1,2 @@
+# The decorator on the front end of Echart, don't you come and take a look
+[The decorator on the front end of Echart, don't you come and take a look](https://aiwithcloud.com/2022/09/19/the_decorator_on_the_front_end_of_echart_dont_you_come_and_take_a_look/)

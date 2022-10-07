@@ -1,0 +1,2 @@
+# The difference and use of Android TextView and EditText
+[The difference and use of Android TextView and EditText](https://aiwithcloud.com/2022/09/16/the_difference_and_use_of_android_textview_and_edittext/)

@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question] - delete the minimum value element in the sequence table + reverse the sequence table element
+[[Kingdao data structure programming question] - delete the minimum value element in the sequence table + reverse the sequence table element](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question___delete_the_minimum_value_element_in_the_sequence_table__reverse_the_sequence_table_element/)

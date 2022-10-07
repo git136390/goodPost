@@ -1,0 +1,2 @@
+# Android Studio - build.gradle changes domestic repository
+[Android Studio - build.gradle changes domestic repository](https://aiwithcloud.com/2022/09/15/android_studio___build-gradle_changes_domestic_repository/)

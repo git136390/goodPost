@@ -1,0 +1,2 @@
+# College students' part-time forum based on javaweb+mysql (java+SSM+JSP+jQuery+Layui+mysql)
+[College students' part-time forum based on javaweb+mysql (java+SSM+JSP+jQuery+Layui+mysql)](https://aiwithcloud.com/2022/09/19/college_students_part_time_forum_based_on_javawebmysql_javassmjspjquerylayuimysql/)

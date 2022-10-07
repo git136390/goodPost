@@ -1,0 +1,2 @@
+# Embedded c - first lesson (hex conversion, structure, variable)
+[Embedded c - first lesson (hex conversion, structure, variable)](https://aiwithcloud.com/2022/09/19/embedded_c___first_lesson_hex_conversion_structure_variable/)

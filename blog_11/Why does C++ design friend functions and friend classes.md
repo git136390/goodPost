@@ -1,0 +1,2 @@
+# Why does C++ design friend functions and friend classes
+[Why does C++ design friend functions and friend classes](https://aiwithcloud.com/2022/09/19/why_does_c_design_friend_functions_and_friend_classes/)

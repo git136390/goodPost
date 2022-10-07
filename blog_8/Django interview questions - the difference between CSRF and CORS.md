@@ -1,0 +1,2 @@
+# Django interview questions - the difference between CSRF and CORS
+[Django interview questions - the difference between CSRF and CORS](https://aiwithcloud.com/2022/09/19/django_interview_questions___the_difference_between_csrf_and_cors/)

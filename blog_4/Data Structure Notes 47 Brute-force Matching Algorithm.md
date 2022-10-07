@@ -1,0 +1,2 @@
+# Data Structure Notes 47 Brute-force Matching Algorithm
+[Data Structure Notes 47 Brute-force Matching Algorithm](https://aiwithcloud.com/2022/09/15/data_structure_notes_47_brute_force_matching_algorithm/)

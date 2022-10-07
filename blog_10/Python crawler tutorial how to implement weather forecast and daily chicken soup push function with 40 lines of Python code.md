@@ -1,0 +1,2 @@
+# Python crawler tutorial how to implement weather forecast and daily chicken soup push function with 40 lines of Python code
+[Python crawler tutorial how to implement weather forecast and daily chicken soup push function with 40 lines of Python code](https://aiwithcloud.com/2022/09/19/python_crawler_tutorial_how_to_implement_weather_forecast_and_daily_chicken_soup_push_function_with_40_lines_of_python_code/)

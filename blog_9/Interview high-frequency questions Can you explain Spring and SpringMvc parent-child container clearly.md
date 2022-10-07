@@ -1,0 +1,2 @@
+# Interview high-frequency questions Can you explain Spring and SpringMvc parent-child container clearly
+[Interview high-frequency questions Can you explain Spring and SpringMvc parent-child container clearly](https://aiwithcloud.com/2022/09/19/interview_high_frequency_questions_can_you_explain_spring_and_springmvc_parent_child_container_clearly/)

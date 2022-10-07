@@ -1,0 +1,2 @@
+# iOS reverse programming (18) Reveal detailed installation (and installation problem solving)
+[iOS reverse programming (18) Reveal detailed installation (and installation problem solving)](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_18_reveal_detailed_installation_and_installation_problem_solving/)

@@ -1,0 +1,2 @@
+# Three methods for beginners to analyze Leetcode-1855 (maximum distance of subscript pairs)
+[Three methods for beginners to analyze Leetcode-1855 (maximum distance of subscript pairs)](https://aiwithcloud.com/2022/09/15/three_methods_for_beginners_to_analyze_leetcode_1855_maximum_distance_of_subscript_pairs/)

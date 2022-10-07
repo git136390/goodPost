@@ -1,0 +1,2 @@
+# Teach you how to install RabbitMQ and its web interface in docker
+[Teach you how to install RabbitMQ and its web interface in docker](https://aiwithcloud.com/2022/09/15/teach_you_how_to_install_rabbitmq_and_its_web_interface_in_docker/)

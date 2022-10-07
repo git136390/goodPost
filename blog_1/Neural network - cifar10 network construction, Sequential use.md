@@ -1,0 +1,2 @@
+# Neural network - cifar10 network construction, Sequential use
+[Neural network - cifar10 network construction, Sequential use](https://aiwithcloud.com/2022/09/15/neural_network___cifar10_network_construction_sequential_use/)

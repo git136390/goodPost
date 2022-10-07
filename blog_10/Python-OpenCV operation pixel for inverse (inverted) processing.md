@@ -1,0 +1,2 @@
+# Python-OpenCV operation pixel for inverse (inverted) processing
+[Python-OpenCV operation pixel for inverse (inverted) processing](https://aiwithcloud.com/2022/09/19/python_opencv_operation_pixel_for_inverse_inverted_processing/)

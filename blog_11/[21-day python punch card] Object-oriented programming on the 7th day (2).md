@@ -1,0 +1,2 @@
+# [21-day python punch card] Object-oriented programming on the 7th day (2)
+[[21-day python punch card] Object-oriented programming on the 7th day (2)](https://aiwithcloud.com/2022/09/19/21_day_python_punch_card_object_oriented_programming_on_the_7th_day_2/)

@@ -1,0 +1,2 @@
+# Use $.ajax({url,data,type,dataType,success}) in the method of js;
+[Use $.ajax({url,data,type,dataType,success}) in the method of js;](https://aiwithcloud.com/2022/09/19/use_-ajaxurldatatypedatatypesuccess_in_the_method_of_js/)

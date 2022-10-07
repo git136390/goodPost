@@ -1,0 +1,2 @@
+# Vue implements a container click to zoom to full screen
+[Vue implements a container click to zoom to full screen](https://aiwithcloud.com/2022/09/15/vue_implements_a_container_click_to_zoom_to_full_screen/)

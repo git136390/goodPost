@@ -1,0 +1,2 @@
+# Text analysis nlp processing text data (word segmentation, removal of stop words)
+[Text analysis nlp processing text data (word segmentation, removal of stop words)](https://aiwithcloud.com/2022/09/16/text_analysis_nlp_processing_text_data_word_segmentation_removal_of_stop_words/)

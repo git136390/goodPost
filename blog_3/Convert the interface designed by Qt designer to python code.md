@@ -1,0 +1,2 @@
+# Convert the interface designed by Qt designer to python code
+[Convert the interface designed by Qt designer to python code](https://aiwithcloud.com/2022/09/15/convert_the_interface_designed_by_qt_designer_to_python_code/)

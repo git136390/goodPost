@@ -1,0 +1,2 @@
+# Niuke.com programming problem (form n positive integers into a largest multi-digit integer) - Java
+[Niuke.com programming problem (form n positive integers into a largest multi-digit integer) - Java](https://aiwithcloud.com/2022/09/19/niuke-com_programming_problem_form_n_positive_integers_into_a_largest_multi_digit_integer___java/)

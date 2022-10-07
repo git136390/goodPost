@@ -1,0 +1,2 @@
+# Keil virtual simulation logic instrument and real logic instrument analyze serial port waveform
+[Keil virtual simulation logic instrument and real logic instrument analyze serial port waveform](https://aiwithcloud.com/2022/09/19/keil_virtual_simulation_logic_instrument_and_real_logic_instrument_analyze_serial_port_waveform/)

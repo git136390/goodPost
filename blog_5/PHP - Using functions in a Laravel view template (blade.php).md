@@ -1,0 +1,2 @@
+# PHP - Using functions in a Laravel view template (blade.php)
+[PHP - Using functions in a Laravel view template (blade.php)](https://aiwithcloud.com/2022/09/16/php___using_functions_in_a_laravel_view_template_blade-php/)

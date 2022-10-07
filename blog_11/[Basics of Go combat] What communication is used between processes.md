@@ -1,0 +1,2 @@
+# [Basics of Go combat] What communication is used between processes
+[[Basics of Go combat] What communication is used between processes](https://aiwithcloud.com/2022/09/19/basics_of_go_combat_what_communication_is_used_between_processes/)

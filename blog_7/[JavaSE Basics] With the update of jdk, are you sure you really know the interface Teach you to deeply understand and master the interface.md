@@ -1,0 +1,2 @@
+# [JavaSE Basics] With the update of jdk, are you sure you really know the interface Teach you to deeply understand and master the interface
+[[JavaSE Basics] With the update of jdk, are you sure you really know the interface Teach you to deeply understand and master the interface](https://aiwithcloud.com/2022/09/16/javase_basics_with_the_update_of_jdk_are_you_sure_you_really_know_the_interface_teach_you_to_deeply_understand_and_master_the_interface/)

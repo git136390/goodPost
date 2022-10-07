@@ -1,0 +1,2 @@
+# WeChat Mini Program Mini Game Development Document, Mini Game Quick Start Tutorial
+[WeChat Mini Program Mini Game Development Document, Mini Game Quick Start Tutorial](https://aiwithcloud.com/2022/09/16/wechat_mini_program_mini_game_development_document_mini_game_quick_start_tutorial/)

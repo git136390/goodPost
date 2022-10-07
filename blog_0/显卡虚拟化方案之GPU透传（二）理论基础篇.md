@@ -1,0 +1,2 @@
+# 显卡虚拟化方案之GPU透传（二）理论基础篇
+[显卡虚拟化方案之GPU透传（二）理论基础篇](https://aiwithcloud.com/2021/11/28/%e6%98%be%e5%8d%a1%e8%99%9a%e6%8b%9f%e5%8c%96%e6%96%b9%e6%a1%88%e4%b9%8bgpu%e9%80%8f%e4%bc%a0%ef%bc%88%e4%ba%8c%ef%bc%89%e7%90%86%e8%ae%ba%e5%9f%ba%e7%a1%80%e7%af%87/)

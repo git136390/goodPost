@@ -1,0 +1,2 @@
+# Basic Programming Topic Set 7-3 Three Digits in Reverse Order (10 points)
+[Basic Programming Topic Set 7-3 Three Digits in Reverse Order (10 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topic_set_7_3_three_digits_in_reverse_order_10_points/)

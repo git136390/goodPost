@@ -1,0 +1,2 @@
+# Python has captured the GUI interface again. This interface is so beautiful!
+[Python has captured the GUI interface again. This interface is so beautiful!](https://aiwithcloud.com/2022/09/15/python_has_captured_the_gui_interface_again-_this_interface_is_so_beautiful/)

@@ -1,0 +1,2 @@
+# Super detailed answer to how vscode connects to Linux remotely and some problems that may arise
+[Super detailed answer to how vscode connects to Linux remotely and some problems that may arise](https://aiwithcloud.com/2022/09/16/super_detailed_answer_to_how_vscode_connects_to_linux_remotely_and_some_problems_that_may_arise/)

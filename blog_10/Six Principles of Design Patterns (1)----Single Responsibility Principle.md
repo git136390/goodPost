@@ -1,0 +1,2 @@
+# Six Principles of Design Patterns (1)----Single Responsibility Principle
+[Six Principles of Design Patterns (1)----Single Responsibility Principle](https://aiwithcloud.com/2022/09/19/six_principles_of_design_patterns_1____single_responsibility_principle/)

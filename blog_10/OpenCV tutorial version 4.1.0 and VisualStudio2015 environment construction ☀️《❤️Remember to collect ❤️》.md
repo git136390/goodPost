@@ -1,0 +1,2 @@
+# OpenCV tutorial version 4.1.0 and VisualStudio2015 environment construction ☀️《❤️Remember to collect ❤️》
+[OpenCV tutorial version 4.1.0 and VisualStudio2015 environment construction ☀️《❤️Remember to collect ❤️》](https://aiwithcloud.com/2022/09/19/opencv_tutorial_version_4-1-0_and_visualstudio2015_environment_construction_%e2%98%80%ef%b8%8f%e3%80%8a%e2%9d%a4%ef%b8%8fremember_to_collect_%e2%9d%a4%ef%b8%8f%e3%80%8b/)

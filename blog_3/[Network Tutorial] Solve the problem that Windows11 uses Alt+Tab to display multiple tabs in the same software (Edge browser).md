@@ -1,0 +1,2 @@
+# [Network Tutorial] Solve the problem that Windows11 uses Alt+Tab to display multiple tabs in the same software (Edge browser)
+[[Network Tutorial] Solve the problem that Windows11 uses Alt+Tab to display multiple tabs in the same software (Edge browser)](https://aiwithcloud.com/2022/09/15/network_tutorial_solve_the_problem_that_windows11_uses_alttab_to_display_multiple_tabs_in_the_same_software_edge_browser/)

@@ -1,0 +1,2 @@
+# [Cloud Native Docker] Construction, configuration and image upload of docker private warehouse
+[[Cloud Native Docker] Construction, configuration and image upload of docker private warehouse](https://aiwithcloud.com/2022/09/15/cloud_native_docker_construction_configuration_and_image_upload_of_docker_private_warehouse/)

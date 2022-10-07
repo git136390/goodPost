@@ -1,0 +1,2 @@
+# [Android] Interface layout design & event monitoring processing
+[[Android] Interface layout design & event monitoring processing](https://aiwithcloud.com/2022/09/19/android_interface_layout_design__event_monitoring_processing/)

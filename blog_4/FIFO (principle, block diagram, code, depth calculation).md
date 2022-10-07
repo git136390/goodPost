@@ -1,0 +1,2 @@
+# FIFO (principle, block diagram, code, depth calculation)
+[FIFO (principle, block diagram, code, depth calculation)](https://aiwithcloud.com/2022/09/15/fifo_principle_block_diagram_code_depth_calculation/)

@@ -1,0 +1,2 @@
+# Expression #1 of HAVING clause is not in GROUP BY clause and contains nonagg problem solving
+[Expression #1 of HAVING clause is not in GROUP BY clause and contains nonagg problem solving](https://aiwithcloud.com/2022/09/15/expression_1_of_having_clause_is_not_in_group_by_clause_and_contains_nonagg_problem_solving/)

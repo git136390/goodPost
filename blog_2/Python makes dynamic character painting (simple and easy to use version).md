@@ -1,0 +1,2 @@
+# Python makes dynamic character painting (simple and easy to use version)
+[Python makes dynamic character painting (simple and easy to use version)](https://aiwithcloud.com/2022/09/15/python_makes_dynamic_character_painting_simple_and_easy_to_use_version/)

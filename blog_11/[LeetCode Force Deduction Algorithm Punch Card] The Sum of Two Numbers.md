@@ -1,0 +1,2 @@
+# [LeetCode Force Deduction Algorithm Punch Card] The Sum of Two Numbers
+[[LeetCode Force Deduction Algorithm Punch Card] The Sum of Two Numbers](https://aiwithcloud.com/2022/09/19/leetcode_force_deduction_algorithm_punch_card_the_sum_of_two_numbers/)

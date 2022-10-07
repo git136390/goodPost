@@ -1,0 +1,2 @@
+# If the connection to the local database of springboot + mybatis + sqlServer fails, if the positioning problem
+[If the connection to the local database of springboot + mybatis + sqlServer fails, if the positioning problem](https://aiwithcloud.com/2022/09/15/if_the_connection_to_the_local_database_of_springboot__mybatis__sqlserver_fails_if_the_positioning_problem/)

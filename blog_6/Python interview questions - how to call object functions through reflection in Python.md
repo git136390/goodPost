@@ -1,0 +1,2 @@
+# Python interview questions - how to call object functions through reflection in Python
+[Python interview questions - how to call object functions through reflection in Python](https://aiwithcloud.com/2022/09/16/python_interview_questions___how_to_call_object_functions_through_reflection_in_python/)

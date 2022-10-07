@@ -1,0 +1,2 @@
+# Detailed Linux system tuning (7) - network status viewing command nethogs
+[Detailed Linux system tuning (7) - network status viewing command nethogs](https://aiwithcloud.com/2022/09/19/detailed_linux_system_tuning_7___network_status_viewing_command_nethogs/)

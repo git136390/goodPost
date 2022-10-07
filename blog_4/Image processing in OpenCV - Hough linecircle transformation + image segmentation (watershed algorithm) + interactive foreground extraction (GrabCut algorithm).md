@@ -1,0 +1,2 @@
+# Image processing in OpenCV - Hough linecircle transformation + image segmentation (watershed algorithm) + interactive foreground extraction (GrabCut algorithm)
+[Image processing in OpenCV - Hough linecircle transformation + image segmentation (watershed algorithm) + interactive foreground extraction (GrabCut algorithm)](https://aiwithcloud.com/2022/09/15/image_processing_in_opencv___hough_linecircle_transformation__image_segmentation_watershed_algorithm__interactive_foreground_extraction_grabcut_algorithm/)

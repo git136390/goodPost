@@ -1,0 +1,2 @@
+# Python classification problem draw roc curve actual combat
+[Python classification problem draw roc curve actual combat](https://aiwithcloud.com/2022/09/15/python_classification_problem_draw_roc_curve_actual_combat/)

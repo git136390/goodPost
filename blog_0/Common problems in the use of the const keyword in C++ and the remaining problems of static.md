@@ -1,0 +1,2 @@
+# Common problems in the use of the const keyword in C++ and the remaining problems of static
+[Common problems in the use of the const keyword in C++ and the remaining problems of static](https://aiwithcloud.com/2022/09/14/common_problems_in_the_use_of_the_const_keyword_in_c_and_the_remaining_problems_of_static/)

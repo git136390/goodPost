@@ -1,0 +1,2 @@
+# The problem that the pyecharts package cannot be called in jupyter
+[The problem that the pyecharts package cannot be called in jupyter](https://aiwithcloud.com/2022/09/19/the_problem_that_the_pyecharts_package_cannot_be_called_in_jupyter/)

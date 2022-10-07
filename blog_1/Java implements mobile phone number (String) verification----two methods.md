@@ -1,0 +1,2 @@
+# Java implements mobile phone number (String) verification----two methods
+[Java implements mobile phone number (String) verification----two methods](https://aiwithcloud.com/2022/09/15/java_implements_mobile_phone_number_string_verification____two_methods/)

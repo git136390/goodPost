@@ -1,0 +1,2 @@
+# Batch_replace_tables_in_Word_with_pictures_and_save
+[Batch_replace_tables_in_Word_with_pictures_and_save](https://aiwithcloud.com/2022/09/14/batch_replace_tables_in_word_with_pictures_and_save/)

@@ -1,0 +1,2 @@
+# Java version Spring Cloud+Spring Boot+Mybatis distributed microservice cloud development architecture
+[Java version Spring Cloud+Spring Boot+Mybatis distributed microservice cloud development architecture](https://aiwithcloud.com/2022/09/16/java_version_spring_cloudspring_bootmybatis_distributed_microservice_cloud_development_architecture/)

@@ -1,0 +1,2 @@
+# [Blockchain combat] How to start a smart contract node
+[[Blockchain combat] How to start a smart contract node](https://aiwithcloud.com/2022/09/15/blockchain_combat_how_to_start_a_smart_contract_node/)

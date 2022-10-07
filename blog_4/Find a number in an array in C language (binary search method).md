@@ -1,0 +1,2 @@
+# Find a number in an array in C language (binary search method)
+[Find a number in an array in C language (binary search method)](https://aiwithcloud.com/2022/09/15/find_a_number_in_an_array_in_c_language_binary_search_method/)

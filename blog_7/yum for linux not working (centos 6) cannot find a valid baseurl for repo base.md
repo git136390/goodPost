@@ -1,0 +1,2 @@
+# yum for linux not working (centos 6) cannot find a valid baseurl for repo base
+[yum for linux not working (centos 6) cannot find a valid baseurl for repo base](https://aiwithcloud.com/2022/09/16/yum_for_linux_not_working_centos_6_cannot_find_a_valid_baseurl_for_repo_base/)

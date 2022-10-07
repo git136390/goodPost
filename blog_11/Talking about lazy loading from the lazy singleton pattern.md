@@ -1,0 +1,2 @@
+# Talking about lazy loading from the lazy singleton pattern
+[Talking about lazy loading from the lazy singleton pattern](https://aiwithcloud.com/2022/09/19/talking_about_lazy_loading_from_the_lazy_singleton_pattern/)

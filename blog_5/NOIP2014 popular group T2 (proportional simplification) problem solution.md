@@ -1,0 +1,2 @@
+# NOIP2014 popular group T2 (proportional simplification) problem solution
+[NOIP2014 popular group T2 (proportional simplification) problem solution](https://aiwithcloud.com/2022/09/16/noip2014_popular_group_t2_proportional_simplification_problem_solution/)

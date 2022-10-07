@@ -1,0 +1,2 @@
+# Python interview high-frequency questions the difference between mutable data types and immutable data types
+[Python interview high-frequency questions the difference between mutable data types and immutable data types](https://aiwithcloud.com/2022/09/19/python_interview_high_frequency_questions_the_difference_between_mutable_data_types_and_immutable_data_types/)

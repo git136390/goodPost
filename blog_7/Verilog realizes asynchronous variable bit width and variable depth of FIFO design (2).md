@@ -1,0 +1,2 @@
+# Verilog realizes asynchronous variable bit width and variable depth of FIFO design (2)
+[Verilog realizes asynchronous variable bit width and variable depth of FIFO design (2)](https://aiwithcloud.com/2022/09/16/verilog_realizes_asynchronous_variable_bit_width_and_variable_depth_of_fifo_design_2/)

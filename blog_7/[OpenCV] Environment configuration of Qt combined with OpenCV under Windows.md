@@ -1,0 +1,2 @@
+# [OpenCV] Environment configuration of Qt combined with OpenCV under Windows
+[[OpenCV] Environment configuration of Qt combined with OpenCV under Windows](https://aiwithcloud.com/2022/09/16/opencv_environment_configuration_of_qt_combined_with_opencv_under_windows/)

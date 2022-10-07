@@ -1,0 +1,2 @@
+# Example005-Q of Queue Exercise is a queue, S is an empty stack, which implements the algorithm of inverting the elements in the queue
+[Example005-Q of Queue Exercise is a queue, S is an empty stack, which implements the algorithm of inverting the elements in the queue](https://aiwithcloud.com/2022/09/19/example005_q_of_queue_exercise_is_a_queue_s_is_an_empty_stack_which_implements_the_algorithm_of_inverting_the_elements_in_the_queue/)

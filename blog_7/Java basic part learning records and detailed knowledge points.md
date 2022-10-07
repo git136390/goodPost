@@ -1,0 +1,2 @@
+# Java basic part learning records and detailed knowledge points
+[Java basic part learning records and detailed knowledge points](https://aiwithcloud.com/2022/09/19/java_basic_part_learning_records_and_detailed_knowledge_points/)

@@ -1,0 +1,2 @@
+# School recruitment interview preparation - how Java creates threads (Thread runnable callable thread pool)
+[School recruitment interview preparation - how Java creates threads (Thread runnable callable thread pool)](https://aiwithcloud.com/2022/09/16/school_recruitment_interview_preparation___how_java_creates_threads_thread_runnable_callable_thread_pool/)

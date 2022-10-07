@@ -1,0 +1,2 @@
+# Tensor type error when PaddlePaddle is trained with MNIST data
+[Tensor type error when PaddlePaddle is trained with MNIST data](https://aiwithcloud.com/2022/09/15/tensor_type_error_when_paddlepaddle_is_trained_with_mnist_data/)

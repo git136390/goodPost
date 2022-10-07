@@ -1,0 +1,2 @@
+# Tutorial of installing and exporting .h file of ios reverse tool Class-dump
+[Tutorial of installing and exporting .h file of ios reverse tool Class-dump](https://aiwithcloud.com/2022/09/16/tutorial_of_installing_and_exporting_-h_file_of_ios_reverse_tool_class_dump/)

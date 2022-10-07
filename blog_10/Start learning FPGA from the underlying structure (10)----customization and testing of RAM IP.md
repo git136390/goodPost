@@ -1,0 +1,2 @@
+# Start learning FPGA from the underlying structure (10)----customization and testing of RAM IP
+[Start learning FPGA from the underlying structure (10)----customization and testing of RAM IP](https://aiwithcloud.com/2022/09/19/start_learning_fpga_from_the_underlying_structure_10____customization_and_testing_of_ram_ip/)

@@ -1,0 +1,2 @@
+# How to manage concurrent write operations Get you started quickly
+[How to manage concurrent write operations Get you started quickly](https://aiwithcloud.com/2022/09/19/how_to_manage_concurrent_write_operations_get_you_started_quickly/)

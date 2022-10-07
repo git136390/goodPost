@@ -1,0 +1,2 @@
+# [Cloud native] One article to understand Maven packaging and cloud
+[[Cloud native] One article to understand Maven packaging and cloud](https://aiwithcloud.com/2022/09/16/cloud_native_one_article_to_understand_maven_packaging_and_cloud/)

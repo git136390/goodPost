@@ -1,0 +1,2 @@
+# When android sends SMS sendTextMessage(), the real machine reports an error and exits. Android send SMS not working uid when SEND SMS permission has been applied. . .
+[When android sends SMS sendTextMessage(), the real machine reports an error and exits. Android send SMS not working uid when SEND SMS permission has been applied. . .](https://aiwithcloud.com/2022/09/16/when_android_sends_sms_sendtextmessage_the_real_machine_reports_an_error_and_exits-_android_send_sms_not_working_uid_when_send_sms_permission_has_been_applied-_-_/)

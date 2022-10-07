@@ -1,0 +1,2 @@
+# Delete the specified element from the sequence [three solutions]
+[Delete the specified element from the sequence [three solutions]](https://aiwithcloud.com/2022/09/19/delete_the_specified_element_from_the_sequence_three_solutions/)

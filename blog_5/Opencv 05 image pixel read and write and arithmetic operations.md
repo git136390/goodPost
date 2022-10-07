@@ -1,0 +1,2 @@
+# Opencv 05 image pixel read and write and arithmetic operations
+[Opencv 05 image pixel read and write and arithmetic operations](https://aiwithcloud.com/2022/09/16/opencv_05_image_pixel_read_and_write_and_arithmetic_operations/)

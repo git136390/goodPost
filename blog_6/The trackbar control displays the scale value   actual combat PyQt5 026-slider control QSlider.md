@@ -1,0 +1,2 @@
+# The trackbar control displays the scale value   actual combat PyQt5 026-slider control QSlider
+[The trackbar control displays the scale value   actual combat PyQt5 026-slider control QSlider](https://aiwithcloud.com/2022/09/16/the_trackbar_control_displays_the_scale_value___actual_combat_pyqt5_026_slider_control_qslider/)

@@ -1,0 +1,2 @@
+# js to determine whether an element (string, class, etc.) exists in an array
+[js to determine whether an element (string, class, etc.) exists in an array](https://aiwithcloud.com/2022/09/16/js_to_determine_whether_an_element_string_class_etc-_exists_in_an_array/)

@@ -1,0 +1,2 @@
+# Analysis of the execution process of openGauss simple query SQL
+[Analysis of the execution process of openGauss simple query SQL](https://aiwithcloud.com/2022/09/15/analysis_of_the_execution_process_of_opengauss_simple_query_sql/)

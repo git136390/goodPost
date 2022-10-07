@@ -1,0 +1,2 @@
+# [Solved] The device appears unauthorized or offline when the adb devices command is executed
+[[Solved] The device appears unauthorized or offline when the adb devices command is executed](https://aiwithcloud.com/2022/09/15/solved_the_device_appears_unauthorized_or_offline_when_the_adb_devices_command_is_executed/)

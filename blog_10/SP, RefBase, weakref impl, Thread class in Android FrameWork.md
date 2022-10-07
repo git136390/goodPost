@@ -1,0 +1,2 @@
+# SP, RefBase, weakref impl, Thread class in Android FrameWork
+[SP, RefBase, weakref impl, Thread class in Android FrameWork](https://aiwithcloud.com/2022/09/19/sp_refbase_weakref_impl_thread_class_in_android_framework/)

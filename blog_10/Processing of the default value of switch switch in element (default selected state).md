@@ -1,0 +1,2 @@
+# Processing of the default value of switch switch in element (default selected state)
+[Processing of the default value of switch switch in element (default selected state)](https://aiwithcloud.com/2022/09/19/processing_of_the_default_value_of_switch_switch_in_element_default_selected_state/)

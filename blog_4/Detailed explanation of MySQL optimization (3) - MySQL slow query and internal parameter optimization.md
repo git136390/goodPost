@@ -1,0 +1,2 @@
+# Detailed explanation of MySQL optimization (3) - MySQL slow query and internal parameter optimization
+[Detailed explanation of MySQL optimization (3) - MySQL slow query and internal parameter optimization](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_mysql_optimization_3___mysql_slow_query_and_internal_parameter_optimization/)

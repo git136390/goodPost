@@ -1,0 +1,2 @@
+# SpringCloud Day08--message-driven (SpringCloud Stream)
+[SpringCloud Day08--message-driven (SpringCloud Stream)](https://aiwithcloud.com/2022/09/16/springcloud_day08__message_driven_springcloud_stream/)

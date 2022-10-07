@@ -1,0 +1,2 @@
+# Li Hongyi Machine Learning Introduction Study Notes (4) Classification Probabilistic Generative Model
+[Li Hongyi Machine Learning Introduction Study Notes (4) Classification Probabilistic Generative Model](https://aiwithcloud.com/2022/09/19/li_hongyi_machine_learning_introduction_study_notes_4_classification_probabilistic_generative_model/)

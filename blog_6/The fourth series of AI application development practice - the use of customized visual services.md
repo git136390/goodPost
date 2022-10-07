@@ -1,0 +1,2 @@
+# The fourth series of AI application development practice - the use of customized visual services
+[The fourth series of AI application development practice - the use of customized visual services](https://aiwithcloud.com/2022/09/16/the_fourth_series_of_ai_application_development_practice___the_use_of_customized_visual_services/)

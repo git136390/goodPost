@@ -1,0 +1,2 @@
+# SQL query for multiple COUNT statements with different conditions
+[SQL query for multiple COUNT statements with different conditions](https://aiwithcloud.com/2022/09/15/sql_query_for_multiple_count_statements_with_different_conditions/)

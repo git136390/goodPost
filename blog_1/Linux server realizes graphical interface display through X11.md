@@ -1,0 +1,2 @@
+# Linux server realizes graphical interface display through X11
+[Linux server realizes graphical interface display through X11](https://aiwithcloud.com/2022/09/15/linux_server_realizes_graphical_interface_display_through_x11/)

@@ -1,0 +1,2 @@
+# The path of learning for intermediate programmers the use of insertion sort
+[The path of learning for intermediate programmers the use of insertion sort](https://aiwithcloud.com/2022/09/19/the_path_of_learning_for_intermediate_programmers_the_use_of_insertion_sort/)

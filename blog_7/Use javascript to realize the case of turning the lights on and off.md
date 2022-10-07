@@ -1,0 +1,2 @@
+# Use javascript to realize the case of turning the lights on and off
+[Use javascript to realize the case of turning the lights on and off](https://aiwithcloud.com/2022/09/16/use_javascript_to_realize_the_case_of_turning_the_lights_on_and_off/)

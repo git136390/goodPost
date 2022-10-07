@@ -1,0 +1,2 @@
+# Mathematical modeling commonly used algorithm - Analytical Hierarchy Process (AHP)
+[Mathematical modeling commonly used algorithm - Analytical Hierarchy Process (AHP)](https://aiwithcloud.com/2022/09/16/mathematical_modeling_commonly_used_algorithm___analytical_hierarchy_process_ahp/)

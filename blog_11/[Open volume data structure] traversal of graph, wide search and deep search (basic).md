@@ -1,0 +1,2 @@
+# [Open volume data structure] traversal of graph, wide search and deep search (basic)
+[[Open volume data structure] traversal of graph, wide search and deep search (basic)](https://aiwithcloud.com/2022/09/19/open_volume_data_structure_traversal_of_graph_wide_search_and_deep_search_basic/)

@@ -1,0 +1,2 @@
+# Using QDockWidget in Qt to achieve a similar VS interface layout
+[Using QDockWidget in Qt to achieve a similar VS interface layout](https://aiwithcloud.com/2022/09/16/using_qdockwidget_in_qt_to_achieve_a_similar_vs_interface_layout/)

@@ -1,0 +1,2 @@
+# Binary sorting tree of data structure (C language implementation)
+[Binary sorting tree of data structure (C language implementation)](https://aiwithcloud.com/2022/09/19/binary_sorting_tree_of_data_structure_c_language_implementation/)

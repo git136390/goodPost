@@ -1,0 +1,2 @@
+# ffmpeg error while loading shared libraries libopenh264.so.5 cannot open shared object file No s
+[ffmpeg error while loading shared libraries libopenh264.so.5 cannot open shared object file No s](https://aiwithcloud.com/2022/09/19/ffmpeg_error_while_loading_shared_libraries_libopenh264-so-5_cannot_open_shared_object_file_no_s/)

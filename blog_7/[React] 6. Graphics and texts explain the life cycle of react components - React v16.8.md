@@ -1,0 +1,2 @@
+# [React] 6. Graphics and texts explain the life cycle of react components - React v16.8
+[[React] 6. Graphics and texts explain the life cycle of react components - React v16.8](https://aiwithcloud.com/2022/09/16/react_6-_graphics_and_texts_explain_the_life_cycle_of_react_components___react_v16-8/)

@@ -1,0 +1,2 @@
+# As a programmer, do you really know the data structure
+[As a programmer, do you really know the data structure](https://aiwithcloud.com/2022/09/19/as_a_programmer_do_you_really_know_the_data_structure/)

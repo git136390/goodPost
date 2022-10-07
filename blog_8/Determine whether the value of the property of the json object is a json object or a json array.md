@@ -1,0 +1,2 @@
+# Determine whether the value of the property of the json object is a json object or a json array
+[Determine whether the value of the property of the json object is a json object or a json array](https://aiwithcloud.com/2022/09/19/determine_whether_the_value_of_the_property_of_the_json_object_is_a_json_object_or_a_json_array/)

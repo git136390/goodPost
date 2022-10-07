@@ -1,0 +1,2 @@
+# Increase the size of the centos root directory without restarting
+[Increase the size of the centos root directory without restarting](https://aiwithcloud.com/2022/09/15/increase_the_size_of_the_centos_root_directory_without_restarting/)

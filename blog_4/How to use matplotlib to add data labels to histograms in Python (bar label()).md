@@ -1,0 +1,2 @@
+# How to use matplotlib to add data labels to histograms in Python (bar label())
+[How to use matplotlib to add data labels to histograms in Python (bar label())](https://aiwithcloud.com/2022/09/15/how_to_use_matplotlib_to_add_data_labels_to_histograms_in_python_bar_label/)

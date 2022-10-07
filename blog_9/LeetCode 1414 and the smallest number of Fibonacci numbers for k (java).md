@@ -1,0 +1,2 @@
+# LeetCode 1414 and the smallest number of Fibonacci numbers for k (java)
+[LeetCode 1414 and the smallest number of Fibonacci numbers for k (java)](https://aiwithcloud.com/2022/09/19/leetcode_1414_and_the_smallest_number_of_fibonacci_numbers_for_k_java/)

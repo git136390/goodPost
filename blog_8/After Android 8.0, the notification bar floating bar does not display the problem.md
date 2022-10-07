@@ -1,0 +1,2 @@
+# After Android 8.0, the notification bar floating bar does not display the problem
+[After Android 8.0, the notification bar floating bar does not display the problem](https://aiwithcloud.com/2022/09/19/after_android_8-0_the_notification_bar_floating_bar_does_not_display_the_problem/)

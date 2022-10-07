@@ -1,0 +1,2 @@
+# LeetCode 1758 Minimum operands to generate alternating binary strings (java)
+[LeetCode 1758 Minimum operands to generate alternating binary strings (java)](https://aiwithcloud.com/2022/09/16/leetcode_1758_minimum_operands_to_generate_alternating_binary_strings_java/)

@@ -1,0 +1,2 @@
+# Element learning (3) main process API (autoUpdater, BrowserView, BrowserWindow)
+[Element learning (3) main process API (autoUpdater, BrowserView, BrowserWindow)](https://aiwithcloud.com/2022/09/19/element_learning_3_main_process_api_autoupdater_browserview_browserwindow/)

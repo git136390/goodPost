@@ -1,0 +1,2 @@
+# C++ implements reasoning, based on Tensorflow, OpenCV, NCNN, OpenVINO platform
+[C++ implements reasoning, based on Tensorflow, OpenCV, NCNN, OpenVINO platform](https://aiwithcloud.com/2022/09/15/c_implements_reasoning_based_on_tensorflow_opencv_ncnn_openvino_platform/)

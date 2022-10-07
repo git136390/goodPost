@@ -1,0 +1,2 @@
+# The problem of not getting the value in the props in the created and mounted life cycle hooks of the sub-component in vue
+[The problem of not getting the value in the props in the created and mounted life cycle hooks of the sub-component in vue](https://aiwithcloud.com/2022/09/16/the_problem_of_not_getting_the_value_in_the_props_in_the_created_and_mounted_life_cycle_hooks_of_the_sub_component_in_vue/)

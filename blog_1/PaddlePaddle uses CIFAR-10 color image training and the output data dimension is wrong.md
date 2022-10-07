@@ -1,0 +1,2 @@
+# PaddlePaddle uses CIFAR-10 color image training and the output data dimension is wrong
+[PaddlePaddle uses CIFAR-10 color image training and the output data dimension is wrong](https://aiwithcloud.com/2022/09/15/paddlepaddle_uses_cifar_10_color_image_training_and_the_output_data_dimension_is_wrong/)

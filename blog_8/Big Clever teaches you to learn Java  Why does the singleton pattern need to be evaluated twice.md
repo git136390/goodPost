@@ -1,0 +1,2 @@
+# Big Clever teaches you to learn Java  Why does the singleton pattern need to be evaluated twice
+[Big Clever teaches you to learn Java  Why does the singleton pattern need to be evaluated twice](https://aiwithcloud.com/2022/09/19/big_clever_teaches_you_to_learn_java__why_does_the_singleton_pattern_need_to_be_evaluated_twice/)

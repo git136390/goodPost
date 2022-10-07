@@ -1,0 +1,2 @@
+# How to adapt the page size when the iframe is embedded in the web page
+[How to adapt the page size when the iframe is embedded in the web page](https://aiwithcloud.com/2022/09/15/how_to_adapt_the_page_size_when_the_iframe_is_embedded_in_the_web_page/)

@@ -1,0 +1,2 @@
+# Java identifies whether the request comes from a mobile terminal or a computer terminal
+[Java identifies whether the request comes from a mobile terminal or a computer terminal](https://aiwithcloud.com/2022/09/15/java_identifies_whether_the_request_comes_from_a_mobile_terminal_or_a_computer_terminal/)

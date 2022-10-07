@@ -1,0 +1,2 @@
+# To write good test cases, you must first learn test design
+[To write good test cases, you must first learn test design](https://aiwithcloud.com/2022/09/15/to_write_good_test_cases_you_must_first_learn_test_design/)

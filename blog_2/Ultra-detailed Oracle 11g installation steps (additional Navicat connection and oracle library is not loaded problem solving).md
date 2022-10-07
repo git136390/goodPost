@@ -1,0 +1,2 @@
+# Ultra-detailed Oracle 11g installation steps (additional Navicat connection and oracle library is not loaded problem solving)
+[Ultra-detailed Oracle 11g installation steps (additional Navicat connection and oracle library is not loaded problem solving)](https://aiwithcloud.com/2022/09/15/ultra_detailed_oracle_11g_installation_steps_additional_navicat_connection_and_oracle_library_is_not_loaded_problem_solving/)

@@ -1,0 +1,2 @@
+# Beginners get started with Python, remember these and master them in seconds! If you don't believe me, come in and see.
+[Beginners get started with Python, remember these and master them in seconds! If you don't believe me, come in and see.](https://aiwithcloud.com/2022/09/15/beginners_get_started_with_python_remember_these_and_master_them_in_seconds_if_you_dont_believe_me_come_in_and_see/)

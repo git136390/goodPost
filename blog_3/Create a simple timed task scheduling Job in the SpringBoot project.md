@@ -1,0 +1,2 @@
+# Create a simple timed task scheduling Job in the SpringBoot project
+[Create a simple timed task scheduling Job in the SpringBoot project](https://aiwithcloud.com/2022/09/15/create_a_simple_timed_task_scheduling_job_in_the_springboot_project/)

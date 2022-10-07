@@ -1,0 +1,2 @@
+# Use setoolkit to perform social engineering attacks to obtain account passwords
+[Use setoolkit to perform social engineering attacks to obtain account passwords](https://aiwithcloud.com/2022/09/16/use_setoolkit_to_perform_social_engineering_attacks_to_obtain_account_passwords/)

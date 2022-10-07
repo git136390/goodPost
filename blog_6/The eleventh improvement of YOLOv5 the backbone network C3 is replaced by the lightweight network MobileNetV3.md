@@ -1,0 +1,2 @@
+# The eleventh improvement of YOLOv5 the backbone network C3 is replaced by the lightweight network MobileNetV3
+[The eleventh improvement of YOLOv5 the backbone network C3 is replaced by the lightweight network MobileNetV3](https://aiwithcloud.com/2022/09/16/the_eleventh_improvement_of_yolov5_the_backbone_network_c3_is_replaced_by_the_lightweight_network_mobilenetv3/)

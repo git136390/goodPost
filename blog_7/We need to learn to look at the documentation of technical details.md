@@ -1,0 +1,2 @@
+# We need to learn to look at the documentation of technical details
+[We need to learn to look at the documentation of technical details](https://aiwithcloud.com/2022/09/16/we_need_to_learn_to_look_at_the_documentation_of_technical_details/)

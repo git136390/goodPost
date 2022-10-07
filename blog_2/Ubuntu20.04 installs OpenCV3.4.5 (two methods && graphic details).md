@@ -1,0 +1,2 @@
+# Ubuntu20.04 installs OpenCV3.4.5 (two methods && graphic details)
+[Ubuntu20.04 installs OpenCV3.4.5 (two methods && graphic details)](https://aiwithcloud.com/2022/09/15/ubuntu20-04_installs_opencv3-4-5_two_methods__graphic_details/)

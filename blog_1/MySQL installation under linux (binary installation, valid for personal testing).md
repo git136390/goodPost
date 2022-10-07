@@ -1,0 +1,2 @@
+# MySQL installation under linux (binary installation, valid for personal testing)
+[MySQL installation under linux (binary installation, valid for personal testing)](https://aiwithcloud.com/2022/09/15/mysql_installation_under_linux_binary_installation_valid_for_personal_testing/)

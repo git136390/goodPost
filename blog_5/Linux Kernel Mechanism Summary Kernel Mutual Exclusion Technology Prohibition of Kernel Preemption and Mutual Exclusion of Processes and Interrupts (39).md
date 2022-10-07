@@ -1,0 +1,2 @@
+# Linux Kernel Mechanism Summary Kernel Mutual Exclusion Technology Prohibition of Kernel Preemption and Mutual Exclusion of Processes and Interrupts (39)
+[Linux Kernel Mechanism Summary Kernel Mutual Exclusion Technology Prohibition of Kernel Preemption and Mutual Exclusion of Processes and Interrupts (39)](https://aiwithcloud.com/2022/09/16/linux_kernel_mechanism_summary_kernel_mutual_exclusion_technology_prohibition_of_kernel_preemption_and_mutual_exclusion_of_processes_and_interrupts_39/)

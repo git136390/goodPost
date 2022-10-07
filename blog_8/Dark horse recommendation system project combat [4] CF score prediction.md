@@ -1,0 +1,2 @@
+# Dark horse recommendation system project combat [4] CF score prediction
+[Dark horse recommendation system project combat [4] CF score prediction](https://aiwithcloud.com/2022/09/19/dark_horse_recommendation_system_project_combat_4_cf_score_prediction/)

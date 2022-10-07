@@ -1,0 +1,2 @@
+# OpenHarmony remotely controls Hongmeng trolley through MQTT
+[OpenHarmony remotely controls Hongmeng trolley through MQTT](https://aiwithcloud.com/2022/09/16/openharmony_remotely_controls_hongmeng_trolley_through_mqtt/)

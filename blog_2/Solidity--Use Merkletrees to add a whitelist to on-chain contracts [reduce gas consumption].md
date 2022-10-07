@@ -1,0 +1,2 @@
+# Solidity--Use Merkletrees to add a whitelist to on-chain contracts [reduce gas consumption]
+[Solidity--Use Merkletrees to add a whitelist to on-chain contracts [reduce gas consumption]](https://aiwithcloud.com/2022/09/15/solidity__use_merkletrees_to_add_a_whitelist_to_on_chain_contracts_reduce_gas_consumption/)

@@ -1,0 +1,2 @@
+# Detailed explanation of the configuration and modification of the hosts file and the effective command under centos
+[Detailed explanation of the configuration and modification of the hosts file and the effective command under centos](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_the_configuration_and_modification_of_the_hosts_file_and_the_effective_command_under_centos/)

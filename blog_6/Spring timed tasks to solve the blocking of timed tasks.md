@@ -1,0 +1,2 @@
+# Spring timed tasks to solve the blocking of timed tasks
+[Spring timed tasks to solve the blocking of timed tasks](https://aiwithcloud.com/2022/09/16/spring_timed_tasks_to_solve_the_blocking_of_timed_tasks/)

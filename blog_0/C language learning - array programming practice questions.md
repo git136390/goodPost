@@ -1,0 +1,2 @@
+# C language learning - array programming practice questions
+[C language learning - array programming practice questions](https://aiwithcloud.com/2022/09/14/c_language_learning___array_programming_practice_questions/)

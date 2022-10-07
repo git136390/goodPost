@@ -1,0 +1,2 @@
+# Use the add() method in Calendar to add and subtract time, get the time range, and read the dynamic data dictionary.
+[Use the add() method in Calendar to add and subtract time, get the time range, and read the dynamic data dictionary.](https://aiwithcloud.com/2022/09/16/use_the_add_method_in_calendar_to_add_and_subtract_time_get_the_time_range_and_read_the_dynamic_data_dictionary/)

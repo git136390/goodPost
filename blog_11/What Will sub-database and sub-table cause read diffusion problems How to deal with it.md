@@ -1,0 +1,2 @@
+# What Will sub-database and sub-table cause read diffusion problems How to deal with it
+[What Will sub-database and sub-table cause read diffusion problems How to deal with it](https://aiwithcloud.com/2022/09/19/what_will_sub_database_and_sub_table_cause_read_diffusion_problems_how_to_deal_with_it__/)

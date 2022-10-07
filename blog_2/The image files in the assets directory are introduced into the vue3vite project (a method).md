@@ -1,0 +1,2 @@
+# The image files in the assets directory are introduced into the vue3vite project (a method)
+[The image files in the assets directory are introduced into the vue3vite project (a method)](https://aiwithcloud.com/2022/09/15/the_image_files_in_the_assets_directory_are_introduced_into_the_vue3vite_project_a_method/)

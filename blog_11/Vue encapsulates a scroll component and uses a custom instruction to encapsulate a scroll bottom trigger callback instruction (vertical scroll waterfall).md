@@ -1,0 +1,2 @@
+# Vue encapsulates a scroll component and uses a custom instruction to encapsulate a scroll bottom trigger callback instruction (vertical scroll waterfall)
+[Vue encapsulates a scroll component and uses a custom instruction to encapsulate a scroll bottom trigger callback instruction (vertical scroll waterfall)](https://aiwithcloud.com/2022/09/19/vue_encapsulates_a_scroll_component_and_uses_a_custom_instruction_to_encapsulate_a_scroll_bottom_trigger_callback_instruction_vertical_scroll_waterfall/)

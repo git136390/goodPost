@@ -1,0 +1,2 @@
+# 51 Bluetooth, control, speed measurement, mileage car for the final course work of single chip microcomputer
+[51 Bluetooth, control, speed measurement, mileage car for the final course work of single chip microcomputer](https://aiwithcloud.com/2022/09/15/51_bluetooth_control_speed_measurement_mileage_car_for_the_final_course_work_of_single_chip_microcomputer/)

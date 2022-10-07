@@ -1,0 +1,2 @@
+# How to completely uninstall MySQL (Windows version -- Win10)
+[How to completely uninstall MySQL (Windows version -- Win10)](https://aiwithcloud.com/2022/09/15/how_to_completely_uninstall_mysql_windows_version____win10/)

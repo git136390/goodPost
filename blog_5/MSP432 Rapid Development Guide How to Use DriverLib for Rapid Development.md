@@ -1,0 +1,2 @@
+# MSP432 Rapid Development Guide How to Use DriverLib for Rapid Development
+[MSP432 Rapid Development Guide How to Use DriverLib for Rapid Development](https://aiwithcloud.com/2022/09/16/msp432_rapid_development_guide_how_to_use_driverlib_for_rapid_development/)

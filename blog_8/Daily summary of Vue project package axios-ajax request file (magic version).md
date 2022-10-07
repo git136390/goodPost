@@ -1,0 +1,2 @@
+# Daily summary of Vue project package axios-ajax request file (magic version)
+[Daily summary of Vue project package axios-ajax request file (magic version)](https://aiwithcloud.com/2022/09/19/daily_summary_of_vue_project_package_axios_ajax_request_file_magic_version/)

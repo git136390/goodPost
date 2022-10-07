@@ -1,0 +1,2 @@
+# How to prohibit remote login through root account in Linux
+[How to prohibit remote login through root account in Linux](https://aiwithcloud.com/2022/09/15/how_to_prohibit_remote_login_through_root_account_in_linux/)

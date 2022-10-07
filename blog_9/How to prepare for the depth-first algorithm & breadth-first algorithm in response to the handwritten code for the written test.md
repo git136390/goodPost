@@ -1,0 +1,2 @@
+# How to prepare for the depth-first algorithm & breadth-first algorithm in response to the handwritten code for the written test
+[How to prepare for the depth-first algorithm & breadth-first algorithm in response to the handwritten code for the written test](https://aiwithcloud.com/2022/09/19/how_to_prepare_for_the_depth_first_algorithm__breadth_first_algorithm_in_response_to_the_handwritten_code_for_the_written_test/)

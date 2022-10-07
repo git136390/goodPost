@@ -1,0 +1,2 @@
+# The cover of Super Mario is finished, who said novices can't learn it  !
+[The cover of Super Mario is finished, who said novices can't learn it  !](https://aiwithcloud.com/2022/09/19/the_cover_of_super_mario_is_finished_who_said_novices_cant_learn_it__/)

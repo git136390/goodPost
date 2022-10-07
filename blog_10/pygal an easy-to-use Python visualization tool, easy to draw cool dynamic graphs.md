@@ -1,0 +1,2 @@
+# pygal an easy-to-use Python visualization tool, easy to draw cool dynamic graphs
+[pygal an easy-to-use Python visualization tool, easy to draw cool dynamic graphs](https://aiwithcloud.com/2022/09/19/pygal_an_easy_to_use_python_visualization_tool_easy_to_draw_cool_dynamic_graphs/)

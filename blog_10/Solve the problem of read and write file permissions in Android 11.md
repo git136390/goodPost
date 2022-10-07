@@ -1,0 +1,2 @@
+# Solve the problem of read and write file permissions in Android 11
+[Solve the problem of read and write file permissions in Android 11](https://aiwithcloud.com/2022/09/19/solve_the_problem_of_read_and_write_file_permissions_in_android_11/)

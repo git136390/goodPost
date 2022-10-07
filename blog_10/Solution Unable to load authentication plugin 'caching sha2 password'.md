@@ -1,0 +1,2 @@
+# Solution Unable to load authentication plugin 'caching sha2 password'
+[Solution Unable to load authentication plugin 'caching sha2 password'](https://aiwithcloud.com/2022/09/19/solution_unable_to_load_authentication_plugin_caching_sha2_password/)

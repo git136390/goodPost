@@ -1,0 +1,2 @@
+# iOS reverse programming (nine-2) encapsulates port mapping and USB connection of mobile phones into .sh scripts
+[iOS reverse programming (nine-2) encapsulates port mapping and USB connection of mobile phones into .sh scripts](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_nine_2_encapsulates_port_mapping_and_usb_connection_of_mobile_phones_into_-sh_scripts/)

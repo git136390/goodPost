@@ -1,0 +1,2 @@
+# [Intel oneAPI - I don't want to study, who will study]
+[[Intel oneAPI - I don't want to study, who will study]](https://aiwithcloud.com/2022/09/19/intel_oneapi___i_dont_want_to_study_who_will_study/)

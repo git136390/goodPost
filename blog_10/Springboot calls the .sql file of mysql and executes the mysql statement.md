@@ -1,0 +1,2 @@
+# Springboot calls the .sql file of mysql and executes the mysql statement
+[Springboot calls the .sql file of mysql and executes the mysql statement](https://aiwithcloud.com/2022/09/19/springboot_calls_the_-sql_file_of_mysql_and_executes_the_mysql_statement/)

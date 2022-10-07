@@ -1,0 +1,2 @@
+# Algorithm competition entry to advanced eight digital problem template
+[Algorithm competition entry to advanced eight digital problem template](https://aiwithcloud.com/2022/09/15/algorithm_competition_entry_to_advanced_eight_digital_problem_template/)

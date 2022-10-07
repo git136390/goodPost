@@ -1,0 +1,2 @@
+# Talking about some pits when using ArrayList and LinkedList
+[Talking about some pits when using ArrayList and LinkedList](https://aiwithcloud.com/2022/09/19/talking_about_some_pits_when_using_arraylist_and_linkedlist/)

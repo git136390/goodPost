@@ -1,0 +1,2 @@
+# Suddenly developing a SpringBoot+flowable workflow system, really fragrant
+[Suddenly developing a SpringBoot+flowable workflow system, really fragrant](https://aiwithcloud.com/2022/09/19/suddenly_developing_a_springbootflowable_workflow_system_really_fragrant/)

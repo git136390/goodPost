@@ -1,0 +1,2 @@
+# RT-Thread recommends shortlists for national competitions and group challenge competitions
+[RT-Thread recommends shortlists for national competitions and group challenge competitions](https://aiwithcloud.com/2022/09/15/rt_thread_recommends_shortlists_for_national_competitions_and_group_challenge_competitions/)

@@ -1,0 +1,2 @@
+# sql statement - how to query data in another table based on the data in one table
+[sql statement - how to query data in another table based on the data in one table](https://aiwithcloud.com/2022/09/16/sql_statement___how_to_query_data_in_another_table_based_on_the_data_in_one_table/)

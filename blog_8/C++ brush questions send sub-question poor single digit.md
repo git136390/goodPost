@@ -1,0 +1,2 @@
+# C++ brush questions send sub-question poor single digit
+[C++ brush questions send sub-question poor single digit](https://aiwithcloud.com/2022/09/19/c_brush_questions_send_sub_question_poor_single_digit/)

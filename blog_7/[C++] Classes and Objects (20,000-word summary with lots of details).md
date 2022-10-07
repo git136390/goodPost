@@ -1,0 +1,2 @@
+# [C++] Classes and Objects (20,000-word summary with lots of details)
+[[C++] Classes and Objects (20,000-word summary with lots of details)](https://aiwithcloud.com/2022/09/16/c_classes_and_objects_20000_word_summary_with_lots_of_details/)

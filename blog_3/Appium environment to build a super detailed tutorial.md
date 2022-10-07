@@ -1,0 +1,2 @@
+# Appium environment to build a super detailed tutorial
+[Appium environment to build a super detailed tutorial](https://aiwithcloud.com/2022/09/15/appium_environment_to_build_a_super_detailed_tutorial/)

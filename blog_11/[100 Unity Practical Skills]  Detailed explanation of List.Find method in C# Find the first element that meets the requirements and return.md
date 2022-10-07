@@ -1,0 +1,2 @@
+# [100 Unity Practical Skills]  Detailed explanation of List.Find method in C# Find the first element that meets the requirements and return
+[[100 Unity Practical Skills]  Detailed explanation of List.Find method in C# Find the first element that meets the requirements and return](https://aiwithcloud.com/2022/09/19/100_unity_practical_skills__detailed_explanation_of_list-find_method_in_c_find_the_first_element_that_meets_the_requirements_and_return/)

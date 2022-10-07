@@ -1,0 +1,2 @@
+# Spring Cloud gateway unit test, simulate http request, and mock
+[Spring Cloud gateway unit test, simulate http request, and mock](https://aiwithcloud.com/2022/09/16/spring_cloud_gateway_unit_test_simulate_http_request_and_mock/)

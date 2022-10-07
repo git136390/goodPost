@@ -1,0 +1,2 @@
+# [Machine Learning] A detailed explanation of anomaly detection algorithm KNN
+[[Machine Learning] A detailed explanation of anomaly detection algorithm KNN](https://aiwithcloud.com/2022/09/16/machine_learning_a_detailed_explanation_of_anomaly_detection_algorithm_knn/)

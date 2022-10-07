@@ -1,0 +1,2 @@
+# Write elegant code with Spring's automatic type conversion and callback pattern
+[Write elegant code with Spring's automatic type conversion and callback pattern](https://aiwithcloud.com/2022/09/19/write_elegant_code_with_springs_automatic_type_conversion_and_callback_pattern/)

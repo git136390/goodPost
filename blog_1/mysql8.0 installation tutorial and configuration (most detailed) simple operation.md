@@ -1,0 +1,2 @@
+# mysql8.0 installation tutorial and configuration (most detailed) simple operation
+[mysql8.0 installation tutorial and configuration (most detailed) simple operation](https://aiwithcloud.com/2022/09/15/mysql8-0_installation_tutorial_and_configuration_most_detailed_simple_operation/)

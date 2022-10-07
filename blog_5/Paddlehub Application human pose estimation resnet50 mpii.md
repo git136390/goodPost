@@ -1,0 +1,2 @@
+# Paddlehub Application human pose estimation resnet50 mpii
+[Paddlehub Application human pose estimation resnet50 mpii](https://aiwithcloud.com/2022/09/16/paddlehub_application_human_pose_estimation_resnet50_mpii/)

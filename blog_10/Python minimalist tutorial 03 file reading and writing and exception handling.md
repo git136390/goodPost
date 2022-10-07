@@ -1,0 +1,2 @@
+# Python minimalist tutorial 03 file reading and writing and exception handling
+[Python minimalist tutorial 03 file reading and writing and exception handling](https://aiwithcloud.com/2022/09/19/python_minimalist_tutorial_03_file_reading_and_writing_and_exception_handling/)

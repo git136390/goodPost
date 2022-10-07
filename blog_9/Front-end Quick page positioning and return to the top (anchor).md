@@ -1,0 +1,2 @@
+# Front-end Quick page positioning and return to the top (anchor)
+[Front-end Quick page positioning and return to the top (anchor)](https://aiwithcloud.com/2022/09/19/front_end_quick_page_positioning_and_return_to_the_top_anchor/)

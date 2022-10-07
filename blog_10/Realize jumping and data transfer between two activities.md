@@ -1,0 +1,2 @@
+# Realize jumping and data transfer between two activities
+[Realize jumping and data transfer between two activities](https://aiwithcloud.com/2022/09/19/realize_jumping_and_data_transfer_between_two_activities/)

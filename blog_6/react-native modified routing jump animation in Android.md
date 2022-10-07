@@ -1,0 +1,2 @@
+# react-native modified routing jump animation in Android
+[react-native modified routing jump animation in Android](https://aiwithcloud.com/2022/09/16/react_native_modified_routing_jump_animation_in_android/)

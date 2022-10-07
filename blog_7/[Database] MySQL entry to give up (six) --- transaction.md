@@ -1,0 +1,2 @@
+# [Database] MySQL entry to give up (six) --- transaction
+[[Database] MySQL entry to give up (six) --- transaction](https://aiwithcloud.com/2022/09/16/database_mysql_entry_to_give_up_six_____transaction/)

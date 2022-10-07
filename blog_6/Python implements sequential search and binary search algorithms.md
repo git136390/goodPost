@@ -1,0 +1,2 @@
+# Python implements sequential search and binary search algorithms
+[Python implements sequential search and binary search algorithms](https://aiwithcloud.com/2022/09/16/python_implements_sequential_search_and_binary_search_algorithms/)

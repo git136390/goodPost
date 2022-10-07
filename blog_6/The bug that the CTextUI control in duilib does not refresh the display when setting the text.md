@@ -1,0 +1,2 @@
+# The bug that the CTextUI control in duilib does not refresh the display when setting the text
+[The bug that the CTextUI control in duilib does not refresh the display when setting the text](https://aiwithcloud.com/2022/09/16/the_bug_that_the_ctextui_control_in_duilib_does_not_refresh_the_display_when_setting_the_text/)

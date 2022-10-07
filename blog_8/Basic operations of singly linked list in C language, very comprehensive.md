@@ -1,0 +1,2 @@
+# Basic operations of singly linked list in C language, very comprehensive
+[Basic operations of singly linked list in C language, very comprehensive](https://aiwithcloud.com/2022/09/19/basic_operations_of_singly_linked_list_in_c_language_very_comprehensive/)

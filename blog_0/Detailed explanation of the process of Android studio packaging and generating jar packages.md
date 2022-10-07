@@ -1,0 +1,2 @@
+# Detailed explanation of the process of Android studio packaging and generating jar packages
+[Detailed explanation of the process of Android studio packaging and generating jar packages](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_the_process_of_android_studio_packaging_and_generating_jar_packages/)

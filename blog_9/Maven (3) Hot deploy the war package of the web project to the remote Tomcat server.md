@@ -1,0 +1,2 @@
+# Maven (3) Hot deploy the war package of the web project to the remote Tomcat server
+[Maven (3) Hot deploy the war package of the web project to the remote Tomcat server](https://aiwithcloud.com/2022/09/19/maven_3_hot_deploy_the_war_package_of_the_web_project_to_the_remote_tomcat_server/)

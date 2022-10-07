@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（四）Jupyter notebook切换python环境
+[Jupyter notebook教程系列（四）Jupyter notebook切换python环境](https://aiwithcloud.com/2021/06/15/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e5%9b%9b%ef%bc%89jupyter-notebook%e5%88%87%e6%8d%a2python%e7%8e%af%e5%a2%83/)

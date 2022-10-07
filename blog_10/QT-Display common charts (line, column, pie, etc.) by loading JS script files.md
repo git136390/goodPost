@@ -1,0 +1,2 @@
+# QT-Display common charts (line, column, pie, etc.) by loading JS script files
+[QT-Display common charts (line, column, pie, etc.) by loading JS script files](https://aiwithcloud.com/2022/09/19/qt_display_common_charts_line_column_pie_etc-_by_loading_js_script_files/)

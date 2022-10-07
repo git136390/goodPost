@@ -1,0 +1,2 @@
+# Niuke Holiday Team Competition 54 Sign-in Problem Solution
+[Niuke Holiday Team Competition 54 Sign-in Problem Solution](https://aiwithcloud.com/2022/09/16/niuke_holiday_team_competition_54_sign_in_problem_solution/)

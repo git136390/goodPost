@@ -1,0 +1,2 @@
+# [Data structure] Static linked list and dynamic linked list
+[[Data structure] Static linked list and dynamic linked list](https://aiwithcloud.com/2022/09/19/data_structure_static_linked_list_and_dynamic_linked_list/)

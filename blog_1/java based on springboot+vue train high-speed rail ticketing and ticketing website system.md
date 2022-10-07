@@ -1,0 +1,2 @@
+# java based on springboot+vue train high-speed rail ticketing and ticketing website system
+[java based on springboot+vue train high-speed rail ticketing and ticketing website system](https://aiwithcloud.com/2022/09/15/java_based_on_springbootvue_train_high_speed_rail_ticketing_and_ticketing_website_system/)

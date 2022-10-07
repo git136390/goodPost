@@ -1,0 +1,2 @@
+# Beginner Android, using LayerDrawable resources using Drawable resources (14)
+[Beginner Android, using LayerDrawable resources using Drawable resources (14)](https://aiwithcloud.com/2022/09/19/beginner_android_using_layerdrawable_resources_using_drawable_resources_14/)

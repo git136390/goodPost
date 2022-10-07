@@ -1,0 +1,2 @@
+# [Java] ArrayList realizes the production and shuffling of playing cards
+[[Java] ArrayList realizes the production and shuffling of playing cards](https://aiwithcloud.com/2022/09/15/java_arraylist_realizes_the_production_and_shuffling_of_playing_cards/)

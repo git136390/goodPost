@@ -1,0 +1,2 @@
+# C language daily practice - day 2 the number of 1 in binary
+[C language daily practice - day 2 the number of 1 in binary](https://aiwithcloud.com/2022/09/15/c_language_daily_practice___day_2_the_number_of_1_in_binary/)

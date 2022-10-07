@@ -1,0 +1,2 @@
+# js generates an excel file from the table and removes the redundant tr in the table (js removes the empty tr tag in the table)
+[js generates an excel file from the table and removes the redundant tr in the table (js removes the empty tr tag in the table)](https://aiwithcloud.com/2022/09/15/js_generates_an_excel_file_from_the_table_and_removes_the_redundant_tr_in_the_table_js_removes_the_empty_tr_tag_in_the_table/)

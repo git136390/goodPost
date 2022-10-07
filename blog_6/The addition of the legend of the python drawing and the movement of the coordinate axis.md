@@ -1,0 +1,2 @@
+# The addition of the legend of the python drawing and the movement of the coordinate axis
+[The addition of the legend of the python drawing and the movement of the coordinate axis](https://aiwithcloud.com/2022/09/16/the_addition_of_the_legend_of_the_python_drawing_and_the_movement_of_the_coordinate_axis/)

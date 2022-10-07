@@ -1,0 +1,2 @@
+# Docker builds pxc cluster + haproxy + keepalived high availability (1)
+[Docker builds pxc cluster + haproxy + keepalived high availability (1)](https://aiwithcloud.com/2022/09/19/docker_builds_pxc_cluster__haproxy__keepalived_high_availability_1/)

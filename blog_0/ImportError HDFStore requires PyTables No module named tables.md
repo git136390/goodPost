@@ -1,0 +1,2 @@
+# ImportError HDFStore requires PyTables No module named tables
+[ImportError HDFStore requires PyTables No module named tables](https://aiwithcloud.com/2021/12/29/importerror-hdfstore-requires-pytables-no-module-named-tables/)

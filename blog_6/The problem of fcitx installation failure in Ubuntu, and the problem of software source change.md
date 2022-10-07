@@ -1,0 +1,2 @@
+# The problem of fcitx installation failure in Ubuntu, and the problem of software source change
+[The problem of fcitx installation failure in Ubuntu, and the problem of software source change](https://aiwithcloud.com/2022/09/16/the_problem_of_fcitx_installation_failure_in_ubuntu_and_the_problem_of_software_source_change/)

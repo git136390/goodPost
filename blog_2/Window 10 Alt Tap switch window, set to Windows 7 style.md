@@ -1,0 +1,2 @@
+# Window 10 Alt Tap switch window, set to Windows 7 style
+[Window 10 Alt Tap switch window, set to Windows 7 style](https://aiwithcloud.com/2022/09/15/window_10_alt_tap_switch_window_set_to_windows_7_style/)

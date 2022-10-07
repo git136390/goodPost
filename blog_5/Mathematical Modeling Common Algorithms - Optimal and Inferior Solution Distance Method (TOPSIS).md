@@ -1,0 +1,2 @@
+# Mathematical Modeling Common Algorithms - Optimal and Inferior Solution Distance Method (TOPSIS)
+[Mathematical Modeling Common Algorithms - Optimal and Inferior Solution Distance Method (TOPSIS)](https://aiwithcloud.com/2022/09/16/mathematical_modeling_common_algorithms___optimal_and_inferior_solution_distance_method_topsis/)

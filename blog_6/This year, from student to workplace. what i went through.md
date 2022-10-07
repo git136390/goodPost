@@ -1,0 +1,2 @@
+# This year, from student to workplace. what i went through
+[This year, from student to workplace. what i went through](https://aiwithcloud.com/2022/09/16/this_year_from_student_to_workplace-_what_i_went_through/)

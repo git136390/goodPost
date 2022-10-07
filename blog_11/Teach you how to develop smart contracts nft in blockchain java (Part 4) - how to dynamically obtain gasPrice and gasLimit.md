@@ -1,0 +1,2 @@
+# Teach you how to develop smart contracts nft in blockchain java (Part 4) - how to dynamically obtain gasPrice and gasLimit
+[Teach you how to develop smart contracts nft in blockchain java (Part 4) - how to dynamically obtain gasPrice and gasLimit](https://aiwithcloud.com/2022/09/19/teach_you_how_to_develop_smart_contracts_nft_in_blockchain_java_part_4___how_to_dynamically_obtain_gasprice_and_gaslimit/)

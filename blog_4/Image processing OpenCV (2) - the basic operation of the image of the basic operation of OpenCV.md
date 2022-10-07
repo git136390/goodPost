@@ -1,0 +1,2 @@
+# Image processing OpenCV (2) - the basic operation of the image of the basic operation of OpenCV
+[Image processing OpenCV (2) - the basic operation of the image of the basic operation of OpenCV](https://aiwithcloud.com/2022/09/15/image_processing_opencv_2___the_basic_operation_of_the_image_of_the_basic_operation_of_opencv/)

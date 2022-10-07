@@ -1,0 +1,2 @@
+# Notes finishing Mad God said java - java foundation 00
+[Notes finishing Mad God said java - java foundation 00](https://aiwithcloud.com/2022/09/16/notes_finishing_mad_god_said_java___java_foundation_00/)

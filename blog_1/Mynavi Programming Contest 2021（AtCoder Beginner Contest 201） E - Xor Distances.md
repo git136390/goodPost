@@ -1,0 +1,2 @@
+# Mynavi Programming Contest 2021（AtCoder Beginner Contest 201） E - Xor Distances
+[Mynavi Programming Contest 2021（AtCoder Beginner Contest 201） E - Xor Distances](https://aiwithcloud.com/2022/09/15/mynavi_programming_contest_2021atcoder_beginner_contest_201_e___xor_distances/)

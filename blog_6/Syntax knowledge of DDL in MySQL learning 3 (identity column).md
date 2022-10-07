@@ -1,0 +1,2 @@
+# Syntax knowledge of DDL in MySQL learning 3 (identity column)
+[Syntax knowledge of DDL in MySQL learning 3 (identity column)](https://aiwithcloud.com/2022/09/16/syntax_knowledge_of_ddl_in_mysql_learning_3_identity_column/)

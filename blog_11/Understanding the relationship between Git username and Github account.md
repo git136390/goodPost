@@ -1,0 +1,2 @@
+# Understanding the relationship between Git username and Github account
+[Understanding the relationship between Git username and Github account](https://aiwithcloud.com/2022/09/19/understanding_the_relationship_between_git_username_and_github_account/)

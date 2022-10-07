@@ -1,0 +1,2 @@
+# A Verilog implementation of a simple LEGv8 processor [2] [Instruction-related basic knowledge and experimental analysis]
+[A Verilog implementation of a simple LEGv8 processor [2] [Instruction-related basic knowledge and experimental analysis]](https://aiwithcloud.com/2022/09/15/a_verilog_implementation_of_a_simple_legv8_processor_2_instruction_related_basic_knowledge_and_experimental_analysis/)

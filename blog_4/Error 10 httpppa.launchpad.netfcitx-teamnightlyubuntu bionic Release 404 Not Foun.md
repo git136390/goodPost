@@ -1,0 +1,2 @@
+# Error 10 httpppa.launchpad.netfcitx-teamnightlyubuntu bionic Release 404 Not Foun
+[Error 10 httpppa.launchpad.netfcitx-teamnightlyubuntu bionic Release 404 Not Foun](https://aiwithcloud.com/2022/09/15/error_10_httpppa-launchpad-netfcitx_teamnightlyubuntu_bionic_release_404_not_foun/)

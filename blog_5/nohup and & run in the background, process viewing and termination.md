@@ -1,0 +1,2 @@
+# nohup and & run in the background, process viewing and termination
+[nohup and & run in the background, process viewing and termination](https://aiwithcloud.com/2022/09/16/nohup_and__run_in_the_background_process_viewing_and_termination/)

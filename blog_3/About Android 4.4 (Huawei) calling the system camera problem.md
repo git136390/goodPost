@@ -1,0 +1,2 @@
+# About Android 4.4 (Huawei) calling the system camera problem
+[About Android 4.4 (Huawei) calling the system camera problem](https://aiwithcloud.com/2022/09/15/about_android_4-4_huawei_calling_the_system_camera_problem/)

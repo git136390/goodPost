@@ -1,0 +1,2 @@
+# react router routing jumps to pass parameters, react-router-dom basically uses +4 ways to pass parameters
+[react router routing jumps to pass parameters, react-router-dom basically uses +4 ways to pass parameters](https://aiwithcloud.com/2022/09/16/react_router_routing_jumps_to_pass_parameters_react_router_dom_basically_uses_4_ways_to_pass_parameters/)

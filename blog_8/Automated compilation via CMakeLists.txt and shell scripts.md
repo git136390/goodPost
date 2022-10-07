@@ -1,0 +1,2 @@
+# Automated compilation via CMakeLists.txt and shell scripts
+[Automated compilation via CMakeLists.txt and shell scripts](https://aiwithcloud.com/2022/09/19/automated_compilation_via_cmakelists-txt_and_shell_scripts/)

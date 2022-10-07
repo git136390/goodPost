@@ -1,0 +1,2 @@
+# How Smart Client Software Factory subscribes to events
+[How Smart Client Software Factory subscribes to events](https://aiwithcloud.com/2022/09/15/how_smart_client_software_factory_subscribes_to_events/)

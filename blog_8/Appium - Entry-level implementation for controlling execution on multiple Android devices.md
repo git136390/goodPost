@@ -1,0 +1,2 @@
+# Appium - Entry-level implementation for controlling execution on multiple Android devices
+[Appium - Entry-level implementation for controlling execution on multiple Android devices](https://aiwithcloud.com/2022/09/19/appium___entry_level_implementation_for_controlling_execution_on_multiple_android_devices/)

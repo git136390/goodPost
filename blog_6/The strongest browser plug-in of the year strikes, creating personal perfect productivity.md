@@ -1,0 +1,2 @@
+# The strongest browser plug-in of the year strikes, creating personal perfect productivity
+[The strongest browser plug-in of the year strikes, creating personal perfect productivity](https://aiwithcloud.com/2022/09/16/the_strongest_browser_plug_in_of_the_year_strikes_creating_personal_perfect_productivity/)

@@ -1,0 +1,2 @@
+# WeChat applet - the difference between block and view
+[WeChat applet - the difference between block and view](https://aiwithcloud.com/2022/09/16/wechat_applet___the_difference_between_block_and_view/)

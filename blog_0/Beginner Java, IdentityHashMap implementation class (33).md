@@ -1,0 +1,2 @@
+# Beginner Java, IdentityHashMap implementation class (33)
+[Beginner Java, IdentityHashMap implementation class (33)](https://aiwithcloud.com/2022/09/14/beginner_java_identityhashmap_implementation_class_33/)

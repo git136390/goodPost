@@ -1,0 +1,2 @@
+# Codeforces 1348 E Phoenix and Berries - Thinking, Two DP Approaches
+[Codeforces 1348 E Phoenix and Berries - Thinking, Two DP Approaches](https://aiwithcloud.com/2022/09/15/codeforces_1348_e_phoenix_and_berries___thinking_two_dp_approaches/)

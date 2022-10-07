@@ -1,0 +1,2 @@
+# Introduction to the C++ loop in the series of rewards for diligence
+[Introduction to the C++ loop in the series of rewards for diligence](https://aiwithcloud.com/2022/09/19/introduction_to_the_c_loop_in_the_series_of_rewards_for_diligence/)

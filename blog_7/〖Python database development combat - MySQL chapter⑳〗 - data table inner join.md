@@ -1,0 +1,2 @@
+# 〖Python database development combat - MySQL chapter⑳〗 - data table inner join
+[〖Python database development combat - MySQL chapter⑳〗 - data table inner join](https://aiwithcloud.com/2022/09/16/%e3%80%96python_database_development_combat___mysql_chapter%e2%91%b3%e3%80%97___data_table_inner_join/)

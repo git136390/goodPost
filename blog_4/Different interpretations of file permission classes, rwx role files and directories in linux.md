@@ -1,0 +1,2 @@
+# Different interpretations of file permission classes, rwx role files and directories in linux
+[Different interpretations of file permission classes, rwx role files and directories in linux](https://aiwithcloud.com/2022/09/15/different_interpretations_of_file_permission_classes_rwx_role_files_and_directories_in_linux/)

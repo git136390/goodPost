@@ -1,0 +1,2 @@
+# Summary of the usage of the axis of Python Numpy array
+[Summary of the usage of the axis of Python Numpy array](https://aiwithcloud.com/2022/09/19/summary_of_the_usage_of_the_axis_of_python_numpy_array/)

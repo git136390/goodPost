@@ -1,0 +1,2 @@
+# The most complete js front-end and back-end verification method for Chinese names (with dots) in the whole network
+[The most complete js front-end and back-end verification method for Chinese names (with dots) in the whole network](https://aiwithcloud.com/2022/09/19/the_most_complete_js_front_end_and_back_end_verification_method_for_chinese_names_with_dots_in_the_whole_network/)

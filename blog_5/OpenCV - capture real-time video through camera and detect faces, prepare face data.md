@@ -1,0 +1,2 @@
+# OpenCV - capture real-time video through camera and detect faces, prepare face data
+[OpenCV - capture real-time video through camera and detect faces, prepare face data](https://aiwithcloud.com/2022/09/16/opencv___capture_real_time_video_through_camera_and_detect_faces_prepare_face_data/)

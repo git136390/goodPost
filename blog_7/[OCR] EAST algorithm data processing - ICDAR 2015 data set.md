@@ -1,0 +1,2 @@
+# [OCR] EAST algorithm data processing - ICDAR 2015 data set
+[[OCR] EAST algorithm data processing - ICDAR 2015 data set](https://aiwithcloud.com/2022/09/16/ocr_east_algorithm_data_processing___icdar_2015_data_set/)

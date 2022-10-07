@@ -1,0 +1,2 @@
+# DHT11 temperature and humidity sensor - based on arduino
+[DHT11 temperature and humidity sensor - based on arduino](https://aiwithcloud.com/2022/09/19/dht11_temperature_and_humidity_sensor___based_on_arduino/)

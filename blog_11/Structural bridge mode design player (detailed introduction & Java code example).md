@@ -1,0 +1,2 @@
+# Structural bridge mode design player (detailed introduction & Java code example)
+[Structural bridge mode design player (detailed introduction & Java code example)](https://aiwithcloud.com/2022/09/19/structural_bridge_mode_design_player_detailed_introduction__java_code_example/)

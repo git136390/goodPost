@@ -1,0 +1,2 @@
+# The experience of the people who come here tells you how to be promoted from Xiaocai B to a software testing engineer with a monthly salary of over 10,000
+[The experience of the people who come here tells you how to be promoted from Xiaocai B to a software testing engineer with a monthly salary of over 10,000](https://aiwithcloud.com/2022/09/19/the_experience_of_the_people_who_come_here_tells_you_how_to_be_promoted_from_xiaocai_b_to_a_software_testing_engineer_with_a_monthly_salary_of_over_10000/)

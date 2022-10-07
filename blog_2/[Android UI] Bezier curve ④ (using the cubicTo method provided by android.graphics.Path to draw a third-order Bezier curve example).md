@@ -1,0 +1,2 @@
+# [Android UI] Bezier curve ④ (using the cubicTo method provided by android.graphics.Path to draw a third-order Bezier curve example)
+[[Android UI] Bezier curve ④ (using the cubicTo method provided by android.graphics.Path to draw a third-order Bezier curve example)](https://aiwithcloud.com/2022/09/15/android_ui_bezier_curve_%e2%91%a3_using_the_cubicto_method_provided_by_android-graphics-path_to_draw_a_third_order_bezier_curve_example/)

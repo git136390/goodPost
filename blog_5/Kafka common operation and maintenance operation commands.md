@@ -1,0 +1,2 @@
+# Kafka common operation and maintenance operation commands
+[Kafka common operation and maintenance operation commands](https://aiwithcloud.com/2022/09/16/kafka_common_operation_and_maintenance_operation_commands/)

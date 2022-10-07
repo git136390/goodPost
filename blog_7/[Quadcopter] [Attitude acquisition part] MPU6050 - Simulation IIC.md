@@ -1,0 +1,2 @@
+# [Quadcopter] [Attitude acquisition part] MPU6050 - Simulation IIC
+[[Quadcopter] [Attitude acquisition part] MPU6050 - Simulation IIC](https://aiwithcloud.com/2022/09/16/quadcopter_attitude_acquisition_part_mpu6050___simulation_iic/)

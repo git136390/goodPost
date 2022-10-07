@@ -1,0 +1,2 @@
+# Python implements the definition, preorder, inorder, postorder, and level traversal of a binary tree
+[Python implements the definition, preorder, inorder, postorder, and level traversal of a binary tree](https://aiwithcloud.com/2022/09/16/python_implements_the_definition_preorder_inorder_postorder_and_level_traversal_of_a_binary_tree/)

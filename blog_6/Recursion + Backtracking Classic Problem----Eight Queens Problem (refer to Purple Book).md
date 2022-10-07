@@ -1,0 +1,2 @@
+# Recursion + Backtracking Classic Problem----Eight Queens Problem (refer to Purple Book)
+[Recursion + Backtracking Classic Problem----Eight Queens Problem (refer to Purple Book)](https://aiwithcloud.com/2022/09/16/recursion__backtracking_classic_problem____eight_queens_problem_refer_to_purple_book/)

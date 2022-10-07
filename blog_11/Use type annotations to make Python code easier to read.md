@@ -1,0 +1,2 @@
+# Use type annotations to make Python code easier to read
+[Use type annotations to make Python code easier to read](https://aiwithcloud.com/2022/09/19/use_type_annotations_to_make_python_code_easier_to_read/)

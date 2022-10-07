@@ -1,0 +1,2 @@
+# [Resolved, reason] run `npm audit fix` to fix them, or `npm audit` for details html
+[[Resolved, reason] run `npm audit fix` to fix them, or `npm audit` for details html](https://aiwithcloud.com/2022/09/15/resolved_reason_run_npm_audit_fix_to_fix_them_or_npm_audit_for_details_html/)

@@ -1,0 +1,2 @@
+# (Recommended collection) The question of the soul of the TCP protocol to consolidate the underlying foundation of your network
+[(Recommended collection) The question of the soul of the TCP protocol to consolidate the underlying foundation of your network](https://aiwithcloud.com/2022/09/19/recommended_collection_the_question_of_the_soul_of_the_tcp_protocol_to_consolidate_the_underlying_foundation_of_your_network/)

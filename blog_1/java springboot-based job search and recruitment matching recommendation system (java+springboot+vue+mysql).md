@@ -1,0 +1,2 @@
+# java springboot-based job search and recruitment matching recommendation system (java+springboot+vue+mysql)
+[java springboot-based job search and recruitment matching recommendation system (java+springboot+vue+mysql)](https://aiwithcloud.com/2022/09/15/java_springboot_based_job_search_and_recruitment_matching_recommendation_system_javaspringbootvuemysql/)

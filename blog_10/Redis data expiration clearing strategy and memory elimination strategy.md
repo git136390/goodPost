@@ -1,0 +1,2 @@
+# Redis data expiration clearing strategy and memory elimination strategy
+[Redis data expiration clearing strategy and memory elimination strategy](https://aiwithcloud.com/2022/09/19/redis_data_expiration_clearing_strategy_and_memory_elimination_strategy/)

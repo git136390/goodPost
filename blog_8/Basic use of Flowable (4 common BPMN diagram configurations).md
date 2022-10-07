@@ -1,0 +1,2 @@
+# Basic use of Flowable (4 common BPMN diagram configurations)
+[Basic use of Flowable (4 common BPMN diagram configurations)](https://aiwithcloud.com/2022/09/19/basic_use_of_flowable_4_common_bpmn_diagram_configurations/)

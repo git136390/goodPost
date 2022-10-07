@@ -1,0 +1,2 @@
+# [Javase Basics] Chapter 13 Inheritance of Java Classes
+[[Javase Basics] Chapter 13 Inheritance of Java Classes](https://aiwithcloud.com/2022/09/19/javase_basics_chapter_13_inheritance_of_java_classes/)

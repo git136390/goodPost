@@ -1,0 +1,2 @@
+# uniapp loops through the input box and gets the value of each (and displays a few pieces of data when the number is)
+[uniapp loops through the input box and gets the value of each (and displays a few pieces of data when the number is)](https://aiwithcloud.com/2022/09/16/uniapp_loops_through_the_input_box_and_gets_the_value_of_each_and_displays_a_few_pieces_of_data_when_the_number_is/)

@@ -1,0 +1,2 @@
+# Encapsulate a student class Student (using class and object methods)
+[Encapsulate a student class Student (using class and object methods)](https://aiwithcloud.com/2022/09/14/encapsulate_a_student_class_student_using_class_and_object_methods/)

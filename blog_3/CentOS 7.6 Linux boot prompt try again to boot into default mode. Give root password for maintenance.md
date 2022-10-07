@@ -1,0 +1,2 @@
+# CentOS 7.6 Linux boot prompt try again to boot into default mode. Give root password for maintenance
+[CentOS 7.6 Linux boot prompt try again to boot into default mode. Give root password for maintenance](https://aiwithcloud.com/2022/09/15/centos_7-6_linux_boot_prompt_try_again_to_boot_into_default_mode-_give_root_password_for_maintenance/)

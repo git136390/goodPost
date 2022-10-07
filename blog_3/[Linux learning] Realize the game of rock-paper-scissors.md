@@ -1,0 +1,2 @@
+# [Linux learning] Realize the game of rock-paper-scissors
+[[Linux learning] Realize the game of rock-paper-scissors](https://aiwithcloud.com/2022/09/15/linux_learning_realize_the_game_of_rock_paper_scissors/)

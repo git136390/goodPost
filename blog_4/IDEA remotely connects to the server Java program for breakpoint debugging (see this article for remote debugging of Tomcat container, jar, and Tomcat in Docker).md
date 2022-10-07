@@ -1,0 +1,2 @@
+# IDEA remotely connects to the server Java program for breakpoint debugging (see this article for remote debugging of Tomcat container, jar, and Tomcat in Docker)
+[IDEA remotely connects to the server Java program for breakpoint debugging (see this article for remote debugging of Tomcat container, jar, and Tomcat in Docker)](https://aiwithcloud.com/2022/09/15/idea_remotely_connects_to_the_server_java_program_for_breakpoint_debugging_see_this_article_for_remote_debugging_of_tomcat_container_jar_and_tomcat_in_docker/)

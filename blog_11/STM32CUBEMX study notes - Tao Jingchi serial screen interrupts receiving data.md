@@ -1,0 +1,2 @@
+# STM32CUBEMX study notes - Tao Jingchi serial screen interrupts receiving data
+[STM32CUBEMX study notes - Tao Jingchi serial screen interrupts receiving data](https://aiwithcloud.com/2022/09/19/stm32cubemx_study_notes___tao_jingchi_serial_screen_interrupts_receiving_data/)

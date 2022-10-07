@@ -1,0 +1,2 @@
+# The addition and use of the resource file (qrc) for Qt learning
+[The addition and use of the resource file (qrc) for Qt learning](https://aiwithcloud.com/2022/09/19/the_addition_and_use_of_the_resource_file_qrc_for_qt_learning/)

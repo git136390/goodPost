@@ -1,0 +1,2 @@
+# ORACLE and database principle homework exercise ten (all answers)
+[ORACLE and database principle homework exercise ten (all answers)](https://aiwithcloud.com/2022/09/16/oracle_and_database_principle_homework_exercise_ten_all_answers/)

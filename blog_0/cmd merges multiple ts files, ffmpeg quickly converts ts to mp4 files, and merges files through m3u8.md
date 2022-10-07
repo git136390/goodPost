@@ -1,0 +1,2 @@
+# cmd merges multiple ts files, ffmpeg quickly converts ts to mp4 files, and merges files through m3u8
+[cmd merges multiple ts files, ffmpeg quickly converts ts to mp4 files, and merges files through m3u8](https://aiwithcloud.com/2022/09/14/cmd_merges_multiple_ts_files_ffmpeg_quickly_converts_ts_to_mp4_files_and_merges_files_through_m3u8/)

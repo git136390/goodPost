@@ -1,0 +1,2 @@
+# Solve the problem of unable to copy and paste between Ubuntu and Windows
+[Solve the problem of unable to copy and paste between Ubuntu and Windows](https://aiwithcloud.com/2022/09/16/solve_the_problem_of_unable_to_copy_and_paste_between_ubuntu_and_windows/)

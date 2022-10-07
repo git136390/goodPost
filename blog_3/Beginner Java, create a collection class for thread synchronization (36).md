@@ -1,0 +1,2 @@
+# Beginner Java, create a collection class for thread synchronization (36)
+[Beginner Java, create a collection class for thread synchronization (36)](https://aiwithcloud.com/2022/09/15/beginner_java_create_a_collection_class_for_thread_synchronization_36/)

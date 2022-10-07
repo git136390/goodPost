@@ -1,0 +1,2 @@
+# Three ways for Raspberry Pi to connect to the network
+[Three ways for Raspberry Pi to connect to the network](https://aiwithcloud.com/2022/09/16/three_ways_for_raspberry_pi_to_connect_to_the_network/)

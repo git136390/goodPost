@@ -1,0 +1,2 @@
+# tensorboard learning - several methods to solve the problem of tensorboard attempted to bind to port 6006, but it was already in use
+[tensorboard learning - several methods to solve the problem of tensorboard attempted to bind to port 6006, but it was already in use](https://aiwithcloud.com/2022/09/19/tensorboard_learning___several_methods_to_solve_the_problem_of_tensorboard_attempted_to_bind_to_port_6006_but_it_was_already_in_use/)

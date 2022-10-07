@@ -1,0 +1,2 @@
+# Monitoring and use of Eureka registration, offline, and renewal events
+[Monitoring and use of Eureka registration, offline, and renewal events](https://aiwithcloud.com/2022/09/15/monitoring_and_use_of_eureka_registration_offline_and_renewal_events/)

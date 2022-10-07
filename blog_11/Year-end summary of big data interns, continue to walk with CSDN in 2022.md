@@ -1,0 +1,2 @@
+# Year-end summary of big data interns, continue to walk with CSDN in 2022
+[Year-end summary of big data interns, continue to walk with CSDN in 2022](https://aiwithcloud.com/2022/09/19/year_end_summary_of_big_data_interns_continue_to_walk_with_csdn_in_2022/)

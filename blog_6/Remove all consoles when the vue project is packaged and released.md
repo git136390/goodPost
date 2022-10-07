@@ -1,0 +1,2 @@
+# Remove all consoles when the vue project is packaged and released
+[Remove all consoles when the vue project is packaged and released](https://aiwithcloud.com/2022/09/16/remove_all_consoles_when_the_vue_project_is_packaged_and_released/)

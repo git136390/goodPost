@@ -1,0 +1,2 @@
+# Idea adds annotations class annotations, method annotations (can get parameters)
+[Idea adds annotations class annotations, method annotations (can get parameters)](https://aiwithcloud.com/2022/09/15/idea_adds_annotations_class_annotations_method_annotations_can_get_parameters/)

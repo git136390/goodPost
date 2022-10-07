@@ -1,0 +1,2 @@
+# gomod - A solution to golang's anti-human package management
+[gomod - A solution to golang's anti-human package management](https://aiwithcloud.com/2022/09/19/gomod___a_solution_to_golangs_anti_human_package_management/)

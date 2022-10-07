@@ -1,0 +1,2 @@
+# Python uses try except to print error information and continue execution
+[Python uses try except to print error information and continue execution](https://aiwithcloud.com/2022/09/15/python_uses_try_except_to_print_error_information_and_continue_execution/)

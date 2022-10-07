@@ -1,0 +1,2 @@
+# Set as the home page, add to the collection  JS perfectly realizes the code collection
+[Set as the home page, add to the collection  JS perfectly realizes the code collection](https://aiwithcloud.com/2022/09/19/set_as_the_home_page_add_to_the_collection__js_perfectly_realizes_the_code_collection/)

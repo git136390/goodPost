@@ -1,0 +1,2 @@
+# Linux-debugger-gdb use-Linux project automation tool makeMakefile-detailed
+[Linux-debugger-gdb use-Linux project automation tool makeMakefile-detailed](https://aiwithcloud.com/2022/09/16/linux_debugger_gdb_use_linux_project_automation_tool_makemakefile_detailed/)

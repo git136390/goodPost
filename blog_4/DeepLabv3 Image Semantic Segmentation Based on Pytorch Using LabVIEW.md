@@ -1,0 +1,2 @@
+# DeepLabv3 Image Semantic Segmentation Based on Pytorch Using LabVIEW
+[DeepLabv3 Image Semantic Segmentation Based on Pytorch Using LabVIEW](https://aiwithcloud.com/2022/09/15/deeplabv3_image_semantic_segmentation_based_on_pytorch_using_labview/)

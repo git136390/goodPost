@@ -1,0 +1,2 @@
+# Ubuntu16.04 cannot use ctrl+alt+T to open a new terminal solution
+[Ubuntu16.04 cannot use ctrl+alt+T to open a new terminal solution](https://aiwithcloud.com/2022/09/16/ubuntu16-04_cannot_use_ctrlaltt_to_open_a_new_terminal_solution/)

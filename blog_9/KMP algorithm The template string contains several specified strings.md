@@ -1,0 +1,2 @@
+# KMP algorithm The template string contains several specified strings
+[KMP algorithm The template string contains several specified strings](https://aiwithcloud.com/2022/09/19/kmp_algorithm_the_template_string_contains_several_specified_strings/)

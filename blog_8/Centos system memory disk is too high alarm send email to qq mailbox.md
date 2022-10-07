@@ -1,0 +1,2 @@
+# Centos system memory disk is too high alarm send email to qq mailbox
+[Centos system memory disk is too high alarm send email to qq mailbox](https://aiwithcloud.com/2022/09/19/centos_system_memory_disk_is_too_high_alarm_send_email_to_qq_mailbox/)

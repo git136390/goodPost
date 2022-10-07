@@ -1,0 +1,2 @@
+# Error Could not resolve dependency npm ERR peer vue@^2.3.0 from mint-ui@2.2.13
+[Error Could not resolve dependency npm ERR peer vue@^2.3.0 from mint-ui@2.2.13](https://aiwithcloud.com/2022/09/19/error_could_not_resolve_dependency_npm_err_peer_vue2-3-0_from_mint_ui2-2-13/)

@@ -1,0 +1,2 @@
+# Linux Kernel Mechanism Summary File System Direct Access Firmware and Common File System Types (54) (End)
+[Linux Kernel Mechanism Summary File System Direct Access Firmware and Common File System Types (54) (End)](https://aiwithcloud.com/2022/09/16/linux_kernel_mechanism_summary_file_system_direct_access_firmware_and_common_file_system_types_54_end/)

@@ -1,0 +1,2 @@
+# Ethereum Standard JS API Library - Talking about Web3.js and Ethers.js
+[Ethereum Standard JS API Library - Talking about Web3.js and Ethers.js](https://aiwithcloud.com/2022/09/15/ethereum_standard_js_api_library___talking_about_web3-js_and_ethers-js/)

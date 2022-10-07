@@ -1,0 +1,2 @@
+# Unity implements the mouse to pick up the pixel color of the specified area of the computer screen
+[Unity implements the mouse to pick up the pixel color of the specified area of the computer screen](https://aiwithcloud.com/2022/09/19/unity_implements_the_mouse_to_pick_up_the_pixel_color_of_the_specified_area_of_the_computer_screen/)

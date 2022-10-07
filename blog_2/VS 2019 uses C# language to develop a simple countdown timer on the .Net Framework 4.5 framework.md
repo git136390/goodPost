@@ -1,0 +1,2 @@
+# VS 2019 uses C# language to develop a simple countdown timer on the .Net Framework 4.5 framework
+[VS 2019 uses C# language to develop a simple countdown timer on the .Net Framework 4.5 framework](https://aiwithcloud.com/2022/09/15/vs_2019_uses_c_language_to_develop_a_simple_countdown_timer_on_the_-net_framework_4-5_framework/)

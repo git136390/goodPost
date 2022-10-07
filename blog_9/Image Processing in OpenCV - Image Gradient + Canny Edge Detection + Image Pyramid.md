@@ -1,0 +1,2 @@
+# Image Processing in OpenCV - Image Gradient + Canny Edge Detection + Image Pyramid
+[Image Processing in OpenCV - Image Gradient + Canny Edge Detection + Image Pyramid](https://aiwithcloud.com/2022/09/19/image_processing_in_opencv___image_gradient__canny_edge_detection__image_pyramid/)

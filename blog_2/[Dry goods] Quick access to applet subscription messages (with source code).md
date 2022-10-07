@@ -1,0 +1,2 @@
+# [Dry goods] Quick access to applet subscription messages (with source code)
+[[Dry goods] Quick access to applet subscription messages (with source code)](https://aiwithcloud.com/2022/09/15/dry_goods_quick_access_to_applet_subscription_messages_with_source_code/)

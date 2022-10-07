@@ -1,0 +1,2 @@
+# WeChat applet to obtain user openid (detailed explanation)
+[WeChat applet to obtain user openid (detailed explanation)](https://aiwithcloud.com/2022/09/16/wechat_applet_to_obtain_user_openid_detailed_explanation/)

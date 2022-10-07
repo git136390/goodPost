@@ -1,0 +1,2 @@
+# Detailed explanation of singleton pattern usage in java
+[Detailed explanation of singleton pattern usage in java](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_singleton_pattern_usage_in_java/)

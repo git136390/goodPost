@@ -1,0 +1,2 @@
+# Springboot integrates Redis error java.io.IOException The remote host forcibly closed an existing connection
+[Springboot integrates Redis error java.io.IOException The remote host forcibly closed an existing connection](https://aiwithcloud.com/2022/09/19/springboot_integrates_redis_error_java-io-ioexception_the_remote_host_forcibly_closed_an_existing_connection/)

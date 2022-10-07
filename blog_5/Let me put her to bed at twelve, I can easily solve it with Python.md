@@ -1,0 +1,2 @@
+# Let me put her to bed at twelve, I can easily solve it with Python
+[Let me put her to bed at twelve, I can easily solve it with Python](https://aiwithcloud.com/2022/09/16/let_me_put_her_to_bed_at_twelve_i_can_easily_solve_it_with_python/)

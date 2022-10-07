@@ -1,0 +1,2 @@
+# Some summaries on transactions, ThreadLocal applications, CompletionService
+[Some summaries on transactions, ThreadLocal applications, CompletionService](https://aiwithcloud.com/2022/09/19/some_summaries_on_transactions_threadlocal_applications_completionservice/)

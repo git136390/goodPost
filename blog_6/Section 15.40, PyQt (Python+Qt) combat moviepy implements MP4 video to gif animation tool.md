@@ -1,0 +1,2 @@
+# Section 15.40, PyQt (Python+Qt) combat moviepy implements MP4 video to gif animation tool
+[Section 15.40, PyQt (Python+Qt) combat moviepy implements MP4 video to gif animation tool](https://aiwithcloud.com/2022/09/16/section_15-40_pyqt_pythonqt_combat_moviepy_implements_mp4_video_to_gif_animation_tool/)

@@ -1,0 +1,2 @@
+# JavaWeb Study Notes (Crazy God Edition) --- Section IX Cookies and Session
+[JavaWeb Study Notes (Crazy God Edition) --- Section IX Cookies and Session](https://aiwithcloud.com/2022/09/19/javaweb_study_notes_crazy_god_edition_____section_ix_cookies_and_session/)

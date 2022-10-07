@@ -1,0 +1,2 @@
+# Dubbo implements the consumer to call the provider of the specified group from multiple groups
+[Dubbo implements the consumer to call the provider of the specified group from multiple groups](https://aiwithcloud.com/2022/09/15/dubbo_implements_the_consumer_to_call_the_provider_of_the_specified_group_from_multiple_groups/)

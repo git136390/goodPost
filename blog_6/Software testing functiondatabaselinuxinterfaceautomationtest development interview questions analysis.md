@@ -1,0 +1,2 @@
+# Software testing functiondatabaselinuxinterfaceautomationtest development interview questions analysis
+[Software testing functiondatabaselinuxinterfaceautomationtest development interview questions analysis](https://aiwithcloud.com/2022/09/16/software_testing_functiondatabaselinuxinterfaceautomationtest_development_interview_questions_analysis/)

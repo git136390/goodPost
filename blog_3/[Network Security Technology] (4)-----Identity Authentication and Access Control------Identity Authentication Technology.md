@@ -1,0 +1,2 @@
+# [Network Security Technology] (4)-----Identity Authentication and Access Control------Identity Authentication Technology
+[[Network Security Technology] (4)-----Identity Authentication and Access Control------Identity Authentication Technology](https://aiwithcloud.com/2022/09/15/network_security_technology_4_____identity_authentication_and_access_control______identity_authentication_technology/)

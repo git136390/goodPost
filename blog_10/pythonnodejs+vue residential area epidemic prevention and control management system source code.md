@@ -1,0 +1,2 @@
+# pythonnodejs+vue residential area epidemic prevention and control management system source code
+[pythonnodejs+vue residential area epidemic prevention and control management system source code](https://aiwithcloud.com/2022/09/19/pythonnodejsvue_residential_area_epidemic_prevention_and_control_management_system_source_code/)

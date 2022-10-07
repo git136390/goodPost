@@ -1,0 +1,2 @@
+# KVM Detailed Explanation (6) - KVM Virtual Machine Snapshot
+[KVM Detailed Explanation (6) - KVM Virtual Machine Snapshot](https://aiwithcloud.com/2022/09/15/kvm_detailed_explanation_6___kvm_virtual_machine_snapshot/)

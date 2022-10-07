@@ -1,0 +1,2 @@
+# [Linux learning] - Ubuntu uses the root user to log in to the system detailed tutorial [ubuntu16.04+ubuntu20.04 have]
+[[Linux learning] - Ubuntu uses the root user to log in to the system detailed tutorial [ubuntu16.04+ubuntu20.04 have]](https://aiwithcloud.com/2022/09/15/linux_learning___ubuntu_uses_the_root_user_to_log_in_to_the_system_detailed_tutorial_ubuntu16-04ubuntu20-04_have/)

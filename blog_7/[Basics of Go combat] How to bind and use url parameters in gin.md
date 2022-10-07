@@ -1,0 +1,2 @@
+# [Basics of Go combat] How to bind and use url parameters in gin
+[[Basics of Go combat] How to bind and use url parameters in gin](https://aiwithcloud.com/2022/09/16/basics_of_go_combat_how_to_bind_and_use_url_parameters_in_gin/)

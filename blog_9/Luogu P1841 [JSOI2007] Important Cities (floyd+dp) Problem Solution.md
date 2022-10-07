@@ -1,0 +1,2 @@
+# Luogu P1841 [JSOI2007] Important Cities (floyd+dp) Problem Solution
+[Luogu P1841 [JSOI2007] Important Cities (floyd+dp) Problem Solution](https://aiwithcloud.com/2022/09/19/luogu_p1841_jsoi2007_important_cities_floyddp_problem_solution/)

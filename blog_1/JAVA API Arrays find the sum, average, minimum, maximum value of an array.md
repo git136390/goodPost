@@ -1,0 +1,2 @@
+# JAVA API Arrays find the sum, average, minimum, maximum value of an array
+[JAVA API Arrays find the sum, average, minimum, maximum value of an array](https://aiwithcloud.com/2022/09/15/java_api_arrays_find_the_sum_average_minimum_maximum_value_of_an_array/)

@@ -1,0 +1,2 @@
+# Blue Bridge Cup Competition - One Question of the Day (12, Castle Question)
+[Blue Bridge Cup Competition - One Question of the Day (12, Castle Question)](https://aiwithcloud.com/2022/09/15/blue_bridge_cup_competition___one_question_of_the_day_12_castle_question/)

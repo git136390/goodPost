@@ -1,0 +1,2 @@
+# Errors and exceptions in The Most Collectible Python3 Syntax Summary
+[Errors and exceptions in The Most Collectible Python3 Syntax Summary](https://aiwithcloud.com/2022/09/15/errors_and_exceptions_in_the_most_collectible_python3_syntax_summary/)

@@ -1,0 +1,2 @@
+# [Struts2 Note 2] Configure struts2 to return to the jsp view
+[[Struts2 Note 2] Configure struts2 to return to the jsp view](https://aiwithcloud.com/2022/09/16/struts2_note_2_configure_struts2_to_return_to_the_jsp_view/)

@@ -1,0 +1,2 @@
+# Win11 external keyboard individual keys (win, alt) failure
+[Win11 external keyboard individual keys (win, alt) failure](https://aiwithcloud.com/2022/09/16/win11_external_keyboard_individual_keys_win_alt_failure/)

@@ -1,0 +1,2 @@
+# [STM32 learning] (19) STM32 realizes DC motor speed measurement (Hall sensor)
+[[STM32 learning] (19) STM32 realizes DC motor speed measurement (Hall sensor)](https://aiwithcloud.com/2022/09/15/stm32_learning_19_stm32_realizes_dc_motor_speed_measurement_hall_sensor/)

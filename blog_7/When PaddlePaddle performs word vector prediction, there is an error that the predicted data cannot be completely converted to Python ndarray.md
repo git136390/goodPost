@@ -1,0 +1,2 @@
+# When PaddlePaddle performs word vector prediction, there is an error that the predicted data cannot be completely converted to Python ndarray
+[When PaddlePaddle performs word vector prediction, there is an error that the predicted data cannot be completely converted to Python ndarray](https://aiwithcloud.com/2022/09/16/when_paddlepaddle_performs_word_vector_prediction_there_is_an_error_that_the_predicted_data_cannot_be_completely_converted_to_python_ndarray/)

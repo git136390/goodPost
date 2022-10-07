@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] ———— The day of the week
+[[Blue Bridge Java daily practice] ———— The day of the week](https://aiwithcloud.com/2022/09/16/blue_bridge_java_daily_practice_-_the_day_of_the_week/)

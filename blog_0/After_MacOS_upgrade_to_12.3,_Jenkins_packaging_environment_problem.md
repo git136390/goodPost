@@ -1,0 +1,2 @@
+# After_MacOS_upgrade_to_12.3,_Jenkins_packaging_environment_problem
+[After_MacOS_upgrade_to_12.3,_Jenkins_packaging_environment_problem](https://aiwithcloud.com/2022/09/14/after_macos_upgrade_to_12-3_jenkins_packaging_environment_problem/)

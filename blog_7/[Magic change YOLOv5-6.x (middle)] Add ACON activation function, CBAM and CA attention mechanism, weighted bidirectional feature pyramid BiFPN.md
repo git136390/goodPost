@@ -1,0 +1,2 @@
+# [Magic change YOLOv5-6.x (middle)] Add ACON activation function, CBAM and CA attention mechanism, weighted bidirectional feature pyramid BiFPN
+[[Magic change YOLOv5-6.x (middle)] Add ACON activation function, CBAM and CA attention mechanism, weighted bidirectional feature pyramid BiFPN](https://aiwithcloud.com/2022/09/16/magic_change_yolov5_6-x_middle_add_acon_activation_function_cbam_and_ca_attention_mechanism_weighted_bidirectional_feature_pyramid_bifpn/)

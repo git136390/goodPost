@@ -1,0 +1,2 @@
+# JavaScript determines whether the text entered by the user starts with 123
+[JavaScript determines whether the text entered by the user starts with 123](https://aiwithcloud.com/2022/09/16/javascript_determines_whether_the_text_entered_by_the_user_starts_with_123/)

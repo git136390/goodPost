@@ -1,0 +1,2 @@
+# Mobile phone to view computer video, a simple personal video website based on springboot
+[Mobile phone to view computer video, a simple personal video website based on springboot](https://aiwithcloud.com/2022/09/16/mobile_phone_to_view_computer_video_a_simple_personal_video_website_based_on_springboot/)

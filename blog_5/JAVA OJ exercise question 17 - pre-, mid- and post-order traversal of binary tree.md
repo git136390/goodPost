@@ -1,0 +1,2 @@
+# JAVA OJ exercise question 17 - pre-, mid- and post-order traversal of binary tree
+[JAVA OJ exercise question 17 - pre-, mid- and post-order traversal of binary tree](https://aiwithcloud.com/2022/09/16/java_oj_exercise_question_17___pre__mid__and_post_order_traversal_of_binary_tree/)

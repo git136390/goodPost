@@ -1,0 +1,2 @@
+# In the idea environment, the sensitive information of the configuration file is encrypted by ENC
+[In the idea environment, the sensitive information of the configuration file is encrypted by ENC](https://aiwithcloud.com/2022/09/19/in_the_idea_environment_the_sensitive_information_of_the_configuration_file_is_encrypted_by_enc/)

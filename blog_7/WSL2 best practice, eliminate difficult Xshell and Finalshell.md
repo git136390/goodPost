@@ -1,0 +1,2 @@
+# WSL2 best practice, eliminate difficult Xshell and Finalshell
+[WSL2 best practice, eliminate difficult Xshell and Finalshell](https://aiwithcloud.com/2022/09/16/wsl2_best_practice_eliminate_difficult_xshell_and_finalshell/)

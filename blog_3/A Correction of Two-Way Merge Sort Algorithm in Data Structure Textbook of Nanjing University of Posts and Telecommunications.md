@@ -1,0 +1,2 @@
+# A Correction of Two-Way Merge Sort Algorithm in Data Structure Textbook of Nanjing University of Posts and Telecommunications
+[A Correction of Two-Way Merge Sort Algorithm in Data Structure Textbook of Nanjing University of Posts and Telecommunications](https://aiwithcloud.com/2022/09/15/a_correction_of_two_way_merge_sort_algorithm_in_data_structure_textbook_of_nanjing_university_of_posts_and_telecommunications/)

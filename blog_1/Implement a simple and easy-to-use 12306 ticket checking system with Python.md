@@ -1,0 +1,2 @@
+# Implement a simple and easy-to-use 12306 ticket checking system with Python
+[Implement a simple and easy-to-use 12306 ticket checking system with Python](https://aiwithcloud.com/2022/09/15/implement_a_simple_and_easy_to_use_12306_ticket_checking_system_with_python/)

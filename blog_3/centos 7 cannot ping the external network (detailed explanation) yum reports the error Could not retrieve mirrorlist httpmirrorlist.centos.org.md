@@ -1,0 +1,2 @@
+# centos 7 cannot ping the external network (detailed explanation) yum reports the error Could not retrieve mirrorlist httpmirrorlist.centos.org
+[centos 7 cannot ping the external network (detailed explanation) yum reports the error Could not retrieve mirrorlist httpmirrorlist.centos.org](https://aiwithcloud.com/2022/09/15/centos_7_cannot_ping_the_external_network_detailed_explanation_yum_reports_the_error_could_not_retrieve_mirrorlist_httpmirrorlist-centos-org/)

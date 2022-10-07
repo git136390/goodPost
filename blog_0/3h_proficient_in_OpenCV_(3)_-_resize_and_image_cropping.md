@@ -1,0 +1,2 @@
+# 3h_proficient_in_OpenCV_(3)_-_resize_and_image_cropping
+[3h_proficient_in_OpenCV_(3)_-_resize_and_image_cropping](https://aiwithcloud.com/2022/09/14/3h_proficient_in_opencv_3___resize_and_image_cropping/)

@@ -1,0 +1,2 @@
+# 1_second_to_complete_authorization,_Authing_new_online_one-click_login_function
+[1_second_to_complete_authorization,_Authing_new_online_one-click_login_function](https://aiwithcloud.com/2022/09/14/1_second_to_complete_authorization_authing_new_online_one_click_login_function/)

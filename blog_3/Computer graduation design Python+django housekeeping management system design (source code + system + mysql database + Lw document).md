@@ -1,0 +1,2 @@
+# Computer graduation design Python+django housekeeping management system design (source code + system + mysql database + Lw document)
+[Computer graduation design Python+django housekeeping management system design (source code + system + mysql database + Lw document)](https://aiwithcloud.com/2022/09/15/computer_graduation_design_pythondjango_housekeeping_management_system_design_source_code__system__mysql_database__lw_document/)

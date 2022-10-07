@@ -1,0 +1,2 @@
+# Assembler based on 51 single-chip microcomputer DIP switch controls eight-bit LED to realize running water lamp
+[Assembler based on 51 single-chip microcomputer DIP switch controls eight-bit LED to realize running water lamp](https://aiwithcloud.com/2022/09/19/assembler_based_on_51_single_chip_microcomputer_dip_switch_controls_eight_bit_led_to_realize_running_water_lamp/)

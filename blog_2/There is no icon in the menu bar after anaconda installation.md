@@ -1,0 +1,2 @@
+# There is no icon in the menu bar after anaconda installation
+[There is no icon in the menu bar after anaconda installation](https://aiwithcloud.com/2022/09/15/there_is_no_icon_in_the_menu_bar_after_anaconda_installation/)

@@ -1,0 +1,2 @@
+# Teacher salary distribution system based on SSM (with source code link)
+[Teacher salary distribution system based on SSM (with source code link)](https://aiwithcloud.com/2022/09/19/teacher_salary_distribution_system_based_on_ssm_with_source_code_link/)

@@ -1,0 +1,2 @@
+# The test engineer had a big fight with HR due to being late, and HR was fired as a result
+[The test engineer had a big fight with HR due to being late, and HR was fired as a result](https://aiwithcloud.com/2022/09/19/the_test_engineer_had_a_big_fight_with_hr_due_to_being_late_and_hr_was_fired_as_a_result/)

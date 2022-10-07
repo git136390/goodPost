@@ -1,0 +1,2 @@
+# C# Design Patterns (9) Observer Pattern (Unity Demonstration)
+[C# Design Patterns (9) Observer Pattern (Unity Demonstration)](https://aiwithcloud.com/2022/09/15/c_design_patterns_9_observer_pattern_unity_demonstration/)

@@ -1,0 +1,2 @@
+# Vue publishes server (Nginx) after accessing route error 404
+[Vue publishes server (Nginx) after accessing route error 404](https://aiwithcloud.com/2022/09/15/vue_publishes_server_nginx_after_accessing_route_error_404/)

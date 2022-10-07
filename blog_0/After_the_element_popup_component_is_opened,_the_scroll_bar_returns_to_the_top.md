@@ -1,0 +1,2 @@
+# After_the_element_popup_component_is_opened,_the_scroll_bar_returns_to_the_top
+[After_the_element_popup_component_is_opened,_the_scroll_bar_returns_to_the_top](https://aiwithcloud.com/2022/09/14/after_the_element_popup_component_is_opened_the_scroll_bar_returns_to_the_top/)

@@ -1,0 +1,2 @@
+# General timer and system timer used by STM32CubeMX (7)
+[General timer and system timer used by STM32CubeMX (7)](https://aiwithcloud.com/2022/09/15/general_timer_and_system_timer_used_by_stm32cubemx_7/)

@@ -1,0 +1,2 @@
+# vscode (windows) how to connect to linux (centos 7) in a virtual machine
+[vscode (windows) how to connect to linux (centos 7) in a virtual machine](https://aiwithcloud.com/2022/09/19/vscode_windows_how_to_connect_to_linux_centos_7_in_a_virtual_machine/)

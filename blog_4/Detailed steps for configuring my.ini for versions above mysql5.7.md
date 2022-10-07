@@ -1,0 +1,2 @@
+# Detailed steps for configuring my.ini for versions above mysql5.7
+[Detailed steps for configuring my.ini for versions above mysql5.7](https://aiwithcloud.com/2022/09/15/detailed_steps_for_configuring_my-ini_for_versions_above_mysql5-7/)

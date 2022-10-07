@@ -1,0 +1,2 @@
+# The effect of LOCAL MODULE CLASS on LOCAL MODULE PATH in Android.mk
+[The effect of LOCAL MODULE CLASS on LOCAL MODULE PATH in Android.mk](https://aiwithcloud.com/2022/09/15/the_effect_of_local_module_class_on_local_module_path_in_android-mk/)

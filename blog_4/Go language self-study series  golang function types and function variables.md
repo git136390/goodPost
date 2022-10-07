@@ -1,0 +1,2 @@
+# Go language self-study series  golang function types and function variables
+[Go language self-study series  golang function types and function variables](https://aiwithcloud.com/2022/09/15/go_language_self_study_series__golang_function_types_and_function_variables/)

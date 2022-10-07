@@ -1,0 +1,2 @@
+# Qt5.12 uses FFmpeg to decode and play H264H265 camera records in real time (direct data transmission method)
+[Qt5.12 uses FFmpeg to decode and play H264H265 camera records in real time (direct data transmission method)](https://aiwithcloud.com/2022/09/16/qt5-12_uses_ffmpeg_to_decode_and_play_h264h265_camera_records_in_real_time_direct_data_transmission_method/)

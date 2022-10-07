@@ -1,0 +1,2 @@
+# The floating window in the Android application does not require any permissions, adapts to all ROMs, and can display FloatView by default
+[The floating window in the Android application does not require any permissions, adapts to all ROMs, and can display FloatView by default](https://aiwithcloud.com/2022/09/15/the_floating_window_in_the_android_application_does_not_require_any_permissions_adapts_to_all_roms_and_can_display_floatview_by_default/)

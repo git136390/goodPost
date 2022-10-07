@@ -1,0 +1,2 @@
+# JavaScript language learning summary basics basic grammar
+[JavaScript language learning summary basics basic grammar](https://aiwithcloud.com/2022/09/16/javascript_language_learning_summary_basics_basic_grammar/)

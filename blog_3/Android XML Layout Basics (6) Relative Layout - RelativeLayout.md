@@ -1,0 +1,2 @@
+# Android XML Layout Basics (6) Relative Layout - RelativeLayout
+[Android XML Layout Basics (6) Relative Layout - RelativeLayout](https://aiwithcloud.com/2022/09/15/android_xml_layout_basics_6_relative_layout___relativelayout/)

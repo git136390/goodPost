@@ -1,0 +1,2 @@
+# [Stepping on the pit] libstdc++.so.6 version `GLIBCXX 3.4.26' not found solution
+[[Stepping on the pit] libstdc++.so.6 version `GLIBCXX 3.4.26' not found solution](https://aiwithcloud.com/2022/09/16/stepping_on_the_pit_libstdc-so-6_version_glibcxx_3-4-26_not_found_solution/)

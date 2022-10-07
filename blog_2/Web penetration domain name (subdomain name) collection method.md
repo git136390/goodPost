@@ -1,0 +1,2 @@
+# Web penetration domain name (subdomain name) collection method
+[Web penetration domain name (subdomain name) collection method](https://aiwithcloud.com/2022/09/15/web_penetration_domain_name_subdomain_name_collection_method/)

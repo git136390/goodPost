@@ -1,0 +1,2 @@
+# Remote control of Raspberry Pi raspberry system tutorial under Windows10 (xrdp+win10 comes with remote tools)
+[Remote control of Raspberry Pi raspberry system tutorial under Windows10 (xrdp+win10 comes with remote tools)](https://aiwithcloud.com/2022/09/15/remote_control_of_raspberry_pi_raspberry_system_tutorial_under_windows10_xrdpwin10_comes_with_remote_tools/)

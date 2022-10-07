@@ -1,0 +1,2 @@
+# JavaScript prototype chain diagram (not suitable for beginners)
+[JavaScript prototype chain diagram (not suitable for beginners)](https://aiwithcloud.com/2022/09/15/javascript_prototype_chain_diagram_not_suitable_for_beginners/)

@@ -1,0 +1,2 @@
+# Python calls Hikvision network camera - python reads camera rtsp stream display screen
+[Python calls Hikvision network camera - python reads camera rtsp stream display screen](https://aiwithcloud.com/2022/09/16/python_calls_hikvision_network_camera___python_reads_camera_rtsp_stream_display_screen/)

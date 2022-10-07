@@ -1,0 +1,2 @@
+# Use BeautifulSoup to crawl the URL href under the specified class div tag
+[Use BeautifulSoup to crawl the URL href under the specified class div tag](https://aiwithcloud.com/2022/09/15/use_beautifulsoup_to_crawl_the_url_href_under_the_specified_class_div_tag/)

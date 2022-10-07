@@ -1,0 +1,2 @@
+# Python basic text control file encoding format Use python to read and write files Commonly used file opening methods
+[Python basic text control file encoding format Use python to read and write files Commonly used file opening methods](https://aiwithcloud.com/2022/09/16/python_basic_text_control_file_encoding_format_use_python_to_read_and_write_files_commonly_used_file_opening_methods/)

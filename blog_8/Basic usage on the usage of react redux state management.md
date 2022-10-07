@@ -1,0 +1,2 @@
+# Basic usage on the usage of react redux state management
+[Basic usage on the usage of react redux state management](https://aiwithcloud.com/2022/09/19/basic_usage_on_the_usage_of_react_redux_state_management/)

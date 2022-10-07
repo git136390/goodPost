@@ -1,0 +1,2 @@
+# Thoroughly understand the calculation structure size and data alignment principles
+[Thoroughly understand the calculation structure size and data alignment principles](https://aiwithcloud.com/2022/09/16/thoroughly_understand_the_calculation_structure_size_and_data_alignment_principles/)

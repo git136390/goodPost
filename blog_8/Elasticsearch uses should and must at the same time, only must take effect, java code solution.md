@@ -1,0 +1,2 @@
+# Elasticsearch uses should and must at the same time, only must take effect, java code solution
+[Elasticsearch uses should and must at the same time, only must take effect, java code solution](https://aiwithcloud.com/2022/09/19/elasticsearch_uses_should_and_must_at_the_same_time_only_must_take_effect_java_code_solution/)

@@ -1,0 +1,2 @@
+# Solve the WeChat applet [Component] slot ““ is not found.
+[Solve the WeChat applet [Component] slot ““ is not found.](https://aiwithcloud.com/2022/09/15/solve_the_wechat_applet_component_slot__is_not_found/)

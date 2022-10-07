@@ -1,0 +1,2 @@
+# Springboot integrates xxl-job (with pictures) to save you from detours
+[Springboot integrates xxl-job (with pictures) to save you from detours](https://aiwithcloud.com/2022/09/16/springboot_integrates_xxl_job_with_pictures_to_save_you_from_detours/)

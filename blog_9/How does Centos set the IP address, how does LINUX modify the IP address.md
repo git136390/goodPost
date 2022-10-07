@@ -1,0 +1,2 @@
+# How does Centos set the IP address, how does LINUX modify the IP address
+[How does Centos set the IP address, how does LINUX modify the IP address](https://aiwithcloud.com/2022/09/19/how_does_centos_set_the_ip_address_how_does_linux_modify_the_ip_address/)

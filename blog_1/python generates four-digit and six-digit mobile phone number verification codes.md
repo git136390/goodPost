@@ -1,0 +1,2 @@
+# python generates four-digit and six-digit mobile phone number verification codes
+[python generates four-digit and six-digit mobile phone number verification codes](https://aiwithcloud.com/2022/09/15/python_generates_four_digit_and_six_digit_mobile_phone_number_verification_codes/)

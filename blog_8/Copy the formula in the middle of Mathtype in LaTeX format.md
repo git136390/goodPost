@@ -1,0 +1,2 @@
+# Copy the formula in the middle of Mathtype in LaTeX format
+[Copy the formula in the middle of Mathtype in LaTeX format](https://aiwithcloud.com/2022/09/19/copy_the_formula_in_the_middle_of_mathtype_in_latex_format/)

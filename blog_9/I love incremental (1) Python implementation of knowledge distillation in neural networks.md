@@ -1,0 +1,2 @@
+# I love incremental (1) Python implementation of knowledge distillation in neural networks
+[I love incremental (1) Python implementation of knowledge distillation in neural networks](https://aiwithcloud.com/2022/09/19/i_love_incremental_1_python_implementation_of_knowledge_distillation_in_neural_networks/)

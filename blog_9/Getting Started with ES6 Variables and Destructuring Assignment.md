@@ -1,0 +1,2 @@
+# Getting Started with ES6 Variables and Destructuring Assignment
+[Getting Started with ES6 Variables and Destructuring Assignment](https://aiwithcloud.com/2022/09/19/getting_started_with_es6_variables_and_destructuring_assignment/)

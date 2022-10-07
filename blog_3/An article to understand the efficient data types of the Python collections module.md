@@ -1,0 +1,2 @@
+# An article to understand the efficient data types of the Python collections module
+[An article to understand the efficient data types of the Python collections module](https://aiwithcloud.com/2022/09/15/an_article_to_understand_the_efficient_data_types_of_the_python_collections_module/)

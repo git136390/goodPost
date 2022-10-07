@@ -1,0 +1,2 @@
+# WeChat applet realizes saving pictures to mobile phone album
+[WeChat applet realizes saving pictures to mobile phone album](https://aiwithcloud.com/2022/09/15/wechat_applet_realizes_saving_pictures_to_mobile_phone_album/)

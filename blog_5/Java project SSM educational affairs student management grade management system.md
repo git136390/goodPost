@@ -1,0 +1,2 @@
+# Java project SSM educational affairs student management grade management system
+[Java project SSM educational affairs student management grade management system](https://aiwithcloud.com/2022/09/16/java_project_ssm_educational_affairs_student_management_grade_management_system/)

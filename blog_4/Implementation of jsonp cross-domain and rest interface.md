@@ -1,0 +1,2 @@
+# Implementation of jsonp cross-domain and rest interface
+[Implementation of jsonp cross-domain and rest interface](https://aiwithcloud.com/2022/09/15/implementation_of_jsonp_cross_domain_and_rest_interface/)

@@ -1,0 +1,2 @@
+# MySQL modifies the character encoding of databases, tables, and fields
+[MySQL modifies the character encoding of databases, tables, and fields](https://aiwithcloud.com/2022/09/15/mysql_modifies_the_character_encoding_of_databases_tables_and_fields/)

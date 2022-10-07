@@ -1,0 +1,2 @@
+# Dark Horse (9) Baseline Alternating Least Squares Optimization
+[Dark Horse (9) Baseline Alternating Least Squares Optimization](https://aiwithcloud.com/2022/09/19/dark_horse_9_baseline_alternating_least_squares_optimization/)

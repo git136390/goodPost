@@ -1,0 +1,2 @@
+# Solve the problem that Ipython.display does not display pictures
+[Solve the problem that Ipython.display does not display pictures](https://aiwithcloud.com/2022/09/15/solve_the_problem_that_ipython-display_does_not_display_pictures/)

@@ -1,0 +1,2 @@
+# Create a new Ubuntu virtual machine in VirtualBox under Windows system and use WindTerm and XShell to connect remotely (2022.5.11)
+[Create a new Ubuntu virtual machine in VirtualBox under Windows system and use WindTerm and XShell to connect remotely (2022.5.11)](https://aiwithcloud.com/2022/09/19/create_a_new_ubuntu_virtual_machine_in_virtualbox_under_windows_system_and_use_windterm_and_xshell_to_connect_remotely_2022-5-11/)

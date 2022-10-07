@@ -1,0 +1,2 @@
+# Java extracts a field value from two object lists into a list
+[Java extracts a field value from two object lists into a list](https://aiwithcloud.com/2022/09/19/java_extracts_a_field_value_from_two_object_lists_into_a_list/)

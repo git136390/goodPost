@@ -1,0 +1,2 @@
+# Open source equipment maintenance system Efficient, simple, easy to manage and maintain open source operation and maintenance work order system
+[Open source equipment maintenance system Efficient, simple, easy to manage and maintain open source operation and maintenance work order system](https://aiwithcloud.com/2022/09/19/open_source_equipment_maintenance_system_efficient_simple_easy_to_manage_and_maintain_open_source_operation_and_maintenance_work_order_system/)

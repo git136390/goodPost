@@ -1,0 +1,2 @@
+# [Algorithm brushing questions] -7.20 The application of greedy algorithm and the comparative experience of brute force method
+[[Algorithm brushing questions] -7.20 The application of greedy algorithm and the comparative experience of brute force method](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions__7-20_the_application_of_greedy_algorithm_and_the_comparative_experience_of_brute_force_method/)

@@ -1,0 +1,2 @@
+# 2020 Higher Education Club Cup National Undergraduate Mathematical Contest in Modeling Question C Detailed answer + code
+[2020 Higher Education Club Cup National Undergraduate Mathematical Contest in Modeling Question C Detailed answer + code](https://aiwithcloud.com/2022/09/19/2020_higher_education_club_cup_national_undergraduate_mathematical_contest_in_modeling_question_c_detailed_answer__code/)

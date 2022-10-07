@@ -1,0 +1,2 @@
+# Centos realizes the construction of docker environment
+[Centos realizes the construction of docker environment](https://aiwithcloud.com/2022/09/19/centos_realizes_the_construction_of_docker_environment/)

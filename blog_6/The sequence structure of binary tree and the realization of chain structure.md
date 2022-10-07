@@ -1,0 +1,2 @@
+# The sequence structure of binary tree and the realization of chain structure
+[The sequence structure of binary tree and the realization of chain structure](https://aiwithcloud.com/2022/09/16/the_sequence_structure_of_binary_tree_and_the_realization_of_chain_structure/)

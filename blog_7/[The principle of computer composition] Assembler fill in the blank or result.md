@@ -1,0 +1,2 @@
+# [The principle of computer composition] Assembler fill in the blank or result
+[[The principle of computer composition] Assembler fill in the blank or result](https://aiwithcloud.com/2022/09/16/the_principle_of_computer_composition_assembler_fill_in_the_blank_or_result/)

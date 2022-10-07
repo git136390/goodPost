@@ -1,0 +1,2 @@
+# (Actual measurement available) STM32CubeMX tutorial - STM32L431RCT6 development board to study serial communication (serial transmission function)
+[(Actual measurement available) STM32CubeMX tutorial - STM32L431RCT6 development board to study serial communication (serial transmission function)](https://aiwithcloud.com/2022/09/19/actual_measurement_available_stm32cubemx_tutorial___stm32l431rct6_development_board_to_study_serial_communication_serial_transmission_function/)

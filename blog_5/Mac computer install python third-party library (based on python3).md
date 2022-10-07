@@ -1,0 +1,2 @@
+# Mac computer install python third-party library (based on python3)
+[Mac computer install python third-party library (based on python3)](https://aiwithcloud.com/2022/09/16/mac_computer_install_python_third_party_library_based_on_python3/)

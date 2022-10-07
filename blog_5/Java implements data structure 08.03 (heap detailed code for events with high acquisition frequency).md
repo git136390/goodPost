@@ -1,0 +1,2 @@
+# Java implements data structure 08.03 (heap detailed code for events with high acquisition frequency)
+[Java implements data structure 08.03 (heap detailed code for events with high acquisition frequency)](https://aiwithcloud.com/2022/09/16/java_implements_data_structure_08-03_heap_detailed_code_for_events_with_high_acquisition_frequency/)

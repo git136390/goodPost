@@ -1,0 +1,2 @@
+# 【Entry 99】MogDBopenGauss about PLSQL anonymous block call test
+[【Entry 99】MogDBopenGauss about PLSQL anonymous block call test](https://aiwithcloud.com/2022/09/16/%e3%80%90entry_99%e3%80%91mogdbopengauss_about_plsql_anonymous_block_call_test/)

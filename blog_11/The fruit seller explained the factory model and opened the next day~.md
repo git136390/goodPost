@@ -1,0 +1,2 @@
+# The fruit seller explained the factory model and opened the next day~
+[The fruit seller explained the factory model and opened the next day~](https://aiwithcloud.com/2022/09/19/the_fruit_seller_explained_the_factory_model_and_opened_the_next_day/)

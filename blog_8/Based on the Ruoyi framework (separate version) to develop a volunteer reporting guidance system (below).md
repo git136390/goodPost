@@ -1,0 +1,2 @@
+# Based on the Ruoyi framework (separate version) to develop a volunteer reporting guidance system (below)
+[Based on the Ruoyi framework (separate version) to develop a volunteer reporting guidance system (below)](https://aiwithcloud.com/2022/09/19/based_on_the_ruoyi_framework_separate_version_to_develop_a_volunteer_reporting_guidance_system_below/)

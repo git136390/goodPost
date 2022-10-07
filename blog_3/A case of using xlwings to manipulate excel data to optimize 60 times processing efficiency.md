@@ -1,0 +1,2 @@
+# A case of using xlwings to manipulate excel data to optimize 60 times processing efficiency
+[A case of using xlwings to manipulate excel data to optimize 60 times processing efficiency](https://aiwithcloud.com/2022/09/15/a_case_of_using_xlwings_to_manipulate_excel_data_to_optimize_60_times_processing_efficiency/)

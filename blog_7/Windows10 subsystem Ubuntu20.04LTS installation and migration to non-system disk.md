@@ -1,0 +1,2 @@
+# Windows10 subsystem Ubuntu20.04LTS installation and migration to non-system disk
+[Windows10 subsystem Ubuntu20.04LTS installation and migration to non-system disk](https://aiwithcloud.com/2022/09/16/windows10_subsystem_ubuntu20-04lts_installation_and_migration_to_non_system_disk/)

@@ -1,0 +1,2 @@
+# Docker uses docker compose to create a lightweight private storage network disk cloudreve deployment
+[Docker uses docker compose to create a lightweight private storage network disk cloudreve deployment](https://aiwithcloud.com/2022/09/19/docker_uses_docker_compose_to_create_a_lightweight_private_storage_network_disk_cloudreve_deployment/)

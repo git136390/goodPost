@@ -1,0 +1,2 @@
+# [Actual combat] TensorFlowTTS speech synthesis based on TFlite
+[[Actual combat] TensorFlowTTS speech synthesis based on TFlite](https://aiwithcloud.com/2022/09/15/actual_combat_tensorflowtts_speech_synthesis_based_on_tflite/)

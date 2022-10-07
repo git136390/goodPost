@@ -1,0 +1,2 @@
+# Quickly open the cmd command window in the current directory
+[Quickly open the cmd command window in the current directory](https://aiwithcloud.com/2022/09/16/quickly_open_the_cmd_command_window_in_the_current_directory/)

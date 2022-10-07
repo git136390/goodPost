@@ -1,0 +1,2 @@
+# Front-end How to get the calculated value of a property in the object in the collection object
+[Front-end How to get the calculated value of a property in the object in the collection object](https://aiwithcloud.com/2022/09/19/front_end_how_to_get_the_calculated_value_of_a_property_in_the_object_in_the_collection_object/)

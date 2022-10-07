@@ -1,0 +1,2 @@
+# Workflow (Activiti 6.0) free rejection task implementation
+[Workflow (Activiti 6.0) free rejection task implementation](https://aiwithcloud.com/2022/09/16/workflow_activiti_6-0_free_rejection_task_implementation/)

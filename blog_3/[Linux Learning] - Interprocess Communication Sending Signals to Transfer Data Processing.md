@@ -1,0 +1,2 @@
+# [Linux Learning] - Interprocess Communication Sending Signals to Transfer Data Processing
+[[Linux Learning] - Interprocess Communication Sending Signals to Transfer Data Processing](https://aiwithcloud.com/2022/09/15/linux_learning___interprocess_communication_sending_signals_to_transfer_data_processing/)

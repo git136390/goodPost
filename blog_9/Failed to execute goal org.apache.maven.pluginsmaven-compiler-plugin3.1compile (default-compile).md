@@ -1,0 +1,2 @@
+# Failed to execute goal org.apache.maven.pluginsmaven-compiler-plugin3.1compile (default-compile)
+[Failed to execute goal org.apache.maven.pluginsmaven-compiler-plugin3.1compile (default-compile)](https://aiwithcloud.com/2022/09/19/failed_to_execute_goal_org-apache-maven-pluginsmaven_compiler_plugin3-1compile_default_compile/)

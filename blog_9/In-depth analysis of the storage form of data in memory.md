@@ -1,0 +1,2 @@
+# In-depth analysis of the storage form of data in memory
+[In-depth analysis of the storage form of data in memory](https://aiwithcloud.com/2022/09/19/in_depth_analysis_of_the_storage_form_of_data_in_memory/)

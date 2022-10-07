@@ -1,0 +1,2 @@
+# Go language multi-threading study notes - producer-consumer model
+[Go language multi-threading study notes - producer-consumer model](https://aiwithcloud.com/2022/09/15/go_language_multi_threading_study_notes___producer_consumer_model/)

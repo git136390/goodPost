@@ -1,0 +1,2 @@
+# [Python crawler learning] 7. Taobao commodity price crawling (successful crawling)
+[[Python crawler learning] 7. Taobao commodity price crawling (successful crawling)](https://aiwithcloud.com/2022/09/16/python_crawler_learning_7-_taobao_commodity_price_crawling_successful_crawling/)

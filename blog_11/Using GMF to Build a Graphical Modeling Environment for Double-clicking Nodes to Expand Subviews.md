@@ -1,0 +1,2 @@
+# Using GMF to Build a Graphical Modeling Environment for Double-clicking Nodes to Expand Subviews
+[Using GMF to Build a Graphical Modeling Environment for Double-clicking Nodes to Expand Subviews](https://aiwithcloud.com/2022/09/19/using_gmf_to_build_a_graphical_modeling_environment_for_double_clicking_nodes_to_expand_subviews/)

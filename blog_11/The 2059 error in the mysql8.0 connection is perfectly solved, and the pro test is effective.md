@@ -1,0 +1,2 @@
+# The 2059 error in the mysql8.0 connection is perfectly solved, and the pro test is effective
+[The 2059 error in the mysql8.0 connection is perfectly solved, and the pro test is effective](https://aiwithcloud.com/2022/09/19/the_2059_error_in_the_mysql8-0_connection_is_perfectly_solved_and_the_pro_test_is_effective/)

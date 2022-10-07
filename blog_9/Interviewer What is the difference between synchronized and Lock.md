@@ -1,0 +1,2 @@
+# Interviewer What is the difference between synchronized and Lock
+[Interviewer What is the difference between synchronized and Lock](https://aiwithcloud.com/2022/09/19/interviewer_what_is_the_difference_between_synchronized_and_lock/)

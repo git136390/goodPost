@@ -1,0 +1,2 @@
+# Hongmeng Hi3861 development board configuration, compilation and programming four
+[Hongmeng Hi3861 development board configuration, compilation and programming four](https://aiwithcloud.com/2022/09/19/hongmeng_hi3861_development_board_configuration_compilation_and_programming_four/)

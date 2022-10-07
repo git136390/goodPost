@@ -1,0 +1,2 @@
+# The method of modifying the enumeration type enum in the laravel framework
+[The method of modifying the enumeration type enum in the laravel framework](https://aiwithcloud.com/2022/09/19/the_method_of_modifying_the_enumeration_type_enum_in_the_laravel_framework/)

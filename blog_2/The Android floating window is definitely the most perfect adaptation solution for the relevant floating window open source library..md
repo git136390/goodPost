@@ -1,0 +1,2 @@
+# The Android floating window is definitely the most perfect adaptation solution for the relevant floating window open source library.
+[The Android floating window is definitely the most perfect adaptation solution for the relevant floating window open source library.](https://aiwithcloud.com/2022/09/15/the_android_floating_window_is_definitely_the_most_perfect_adaptation_solution_for_the_relevant_floating_window_open_source_library/)

@@ -1,0 +1,2 @@
+# (Notes)) Oracle SCN abnormal growth problem and ORA-19706
+[(Notes)) Oracle SCN abnormal growth problem and ORA-19706](https://aiwithcloud.com/2022/09/19/notes_oracle_scn_abnormal_growth_problem_and_ora_19706/)

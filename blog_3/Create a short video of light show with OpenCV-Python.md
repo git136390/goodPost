@@ -1,0 +1,2 @@
+# Create a short video of light show with OpenCV-Python
+[Create a short video of light show with OpenCV-Python](https://aiwithcloud.com/2022/09/15/create_a_short_video_of_light_show_with_opencv_python/)

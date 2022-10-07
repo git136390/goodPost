@@ -1,0 +1,2 @@
+# SQL view table field information such as field name, field type, field precision, field size, index, primary key, etc.
+[SQL view table field information such as field name, field type, field precision, field size, index, primary key, etc.](https://aiwithcloud.com/2022/09/16/sql_view_table_field_information_such_as_field_name_field_type_field_precision_field_size_index_primary_key_etc/)

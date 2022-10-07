@@ -1,0 +1,2 @@
+# Algorithm Contests, Chapter 3, Turning On the Lights Problem
+[Algorithm Contests, Chapter 3, Turning On the Lights Problem](https://aiwithcloud.com/2022/09/15/algorithm_contests_chapter_3_turning_on_the_lights_problem/)

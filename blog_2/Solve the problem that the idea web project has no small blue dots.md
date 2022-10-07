@@ -1,0 +1,2 @@
+# Solve the problem that the idea web project has no small blue dots
+[Solve the problem that the idea web project has no small blue dots](https://aiwithcloud.com/2022/09/15/solve_the_problem_that_the_idea_web_project_has_no_small_blue_dots/)

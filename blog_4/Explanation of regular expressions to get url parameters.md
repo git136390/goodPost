@@ -1,0 +1,2 @@
+# Explanation of regular expressions to get url parameters
+[Explanation of regular expressions to get url parameters](https://aiwithcloud.com/2022/09/15/explanation_of_regular_expressions_to_get_url_parameters/)

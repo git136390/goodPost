@@ -1,0 +1,2 @@
+# [Linux] Create ordinary users and prohibit root users from logging in remotely
+[[Linux] Create ordinary users and prohibit root users from logging in remotely](https://aiwithcloud.com/2022/09/15/linux_create_ordinary_users_and_prohibit_root_users_from_logging_in_remotely/)

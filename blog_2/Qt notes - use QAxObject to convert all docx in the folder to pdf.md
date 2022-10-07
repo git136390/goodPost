@@ -1,0 +1,2 @@
+# Qt notes - use QAxObject to convert all docx in the folder to pdf
+[Qt notes - use QAxObject to convert all docx in the folder to pdf](https://aiwithcloud.com/2022/09/15/qt_notes___use_qaxobject_to_convert_all_docx_in_the_folder_to_pdf/)

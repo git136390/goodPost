@@ -1,0 +1,2 @@
+# Xiaobai installs pyCharm, python (detailed installation of python third-party installation tool pyCharm)
+[Xiaobai installs pyCharm, python (detailed installation of python third-party installation tool pyCharm)](https://aiwithcloud.com/2022/09/16/xiaobai_installs_pycharm_python_detailed_installation_of_python_third_party_installation_tool_pycharm/)

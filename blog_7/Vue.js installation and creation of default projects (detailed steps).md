@@ -1,0 +1,2 @@
+# Vue.js installation and creation of default projects (detailed steps)
+[Vue.js installation and creation of default projects (detailed steps)](https://aiwithcloud.com/2022/09/16/vue-js_installation_and_creation_of_default_projects_detailed_steps/)

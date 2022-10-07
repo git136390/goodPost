@@ -1,0 +1,2 @@
+# [MPC5744P] Using Tutorial of Processor Expert Automatic Code Generation Tool in S32DS (4) Lighting LED of GPIO Configuration
+[[MPC5744P] Using Tutorial of Processor Expert Automatic Code Generation Tool in S32DS (4) Lighting LED of GPIO Configuration](https://aiwithcloud.com/2022/09/16/mpc5744p_using_tutorial_of_processor_expert_automatic_code_generation_tool_in_s32ds_4_lighting_led_of_gpio_configuration/)

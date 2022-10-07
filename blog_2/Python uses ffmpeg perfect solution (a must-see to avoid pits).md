@@ -1,0 +1,2 @@
+# Python uses ffmpeg perfect solution (a must-see to avoid pits)
+[Python uses ffmpeg perfect solution (a must-see to avoid pits)](https://aiwithcloud.com/2022/09/15/python_uses_ffmpeg_perfect_solution_a_must_see_to_avoid_pits/)

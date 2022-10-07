@@ -1,0 +1,2 @@
+# unity3d uniform back-and-forth movement between two points
+[unity3d uniform back-and-forth movement between two points](https://aiwithcloud.com/2022/09/19/unity3d_uniform_back_and_forth_movement_between_two_points/)

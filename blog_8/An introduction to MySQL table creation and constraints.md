@@ -1,0 +1,2 @@
+# An introduction to MySQL table creation and constraints
+[An introduction to MySQL table creation and constraints](https://aiwithcloud.com/2022/09/19/an_introduction_to_mysql_table_creation_and_constraints/)

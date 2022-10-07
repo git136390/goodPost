@@ -1,0 +1,2 @@
+# The solution to Spring Boot Configuration Annotation Processor not configured appears
+[The solution to Spring Boot Configuration Annotation Processor not configured appears](https://aiwithcloud.com/2022/09/16/the_solution_to_spring_boot_configuration_annotation_processor_not_configured_appears/)

@@ -1,0 +1,2 @@
+# WebApi hits an Attribute to handle exceptions uniformly
+[WebApi hits an Attribute to handle exceptions uniformly](https://aiwithcloud.com/2022/09/15/webapi_hits_an_attribute_to_handle_exceptions_uniformly/)

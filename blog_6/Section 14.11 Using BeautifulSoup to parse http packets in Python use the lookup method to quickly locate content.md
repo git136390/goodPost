@@ -1,0 +1,2 @@
+# Section 14.11 Using BeautifulSoup to parse http packets in Python use the lookup method to quickly locate content
+[Section 14.11 Using BeautifulSoup to parse http packets in Python use the lookup method to quickly locate content](https://aiwithcloud.com/2022/09/16/section_14-11_using_beautifulsoup_to_parse_http_packets_in_python_use_the_lookup_method_to_quickly_locate_content/)

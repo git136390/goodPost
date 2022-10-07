@@ -1,0 +1,2 @@
+# Computer Network Review (Detailed explanation of the data link layer)
+[Computer Network Review (Detailed explanation of the data link layer)](https://aiwithcloud.com/2022/09/19/computer_network_review_detailed_explanation_of_the_data_link_layer/)

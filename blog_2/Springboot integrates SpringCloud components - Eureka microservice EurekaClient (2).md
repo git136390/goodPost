@@ -1,0 +1,2 @@
+# Springboot integrates SpringCloud components - Eureka microservice EurekaClient (2)
+[Springboot integrates SpringCloud components - Eureka microservice EurekaClient (2)](https://aiwithcloud.com/2022/09/15/springboot_integrates_springcloud_components___eureka_microservice_eurekaclient_2/)

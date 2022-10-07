@@ -1,0 +1,2 @@
+# When goland imports a package written by itself, an underline error is reported and the package cannot be found
+[When goland imports a package written by itself, an underline error is reported and the package cannot be found](https://aiwithcloud.com/2022/09/19/when_goland_imports_a_package_written_by_itself_an_underline_error_is_reported_and_the_package_cannot_be_found/)

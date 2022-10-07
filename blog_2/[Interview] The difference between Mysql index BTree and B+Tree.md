@@ -1,0 +1,2 @@
+# [Interview] The difference between Mysql index BTree and B+Tree
+[[Interview] The difference between Mysql index BTree and B+Tree](https://aiwithcloud.com/2022/09/15/interview_the_difference_between_mysql_index_btree_and_btree/)

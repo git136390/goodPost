@@ -1,0 +1,2 @@
+# Detailed explanation of Linux iptables firewall (4) - actual configuration
+[Detailed explanation of Linux iptables firewall (4) - actual configuration](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_linux_iptables_firewall_4___actual_configuration/)

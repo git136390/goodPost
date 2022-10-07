@@ -1,0 +1,2 @@
+# java8 Stream toMap , deduplication according to attributes
+[java8 Stream toMap , deduplication according to attributes](https://aiwithcloud.com/2022/09/16/java8_stream_tomap__deduplication_according_to_attributes/)

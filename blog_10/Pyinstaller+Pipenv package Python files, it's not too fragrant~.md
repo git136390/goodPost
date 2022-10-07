@@ -1,0 +1,2 @@
+# Pyinstaller+Pipenv package Python files, it's not too fragrant~
+[Pyinstaller+Pipenv package Python files, it's not too fragrant~](https://aiwithcloud.com/2022/09/19/pyinstallerpipenv_package_python_files_its_not_too_fragrant/)

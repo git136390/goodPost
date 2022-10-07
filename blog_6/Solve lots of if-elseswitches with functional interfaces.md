@@ -1,0 +1,2 @@
+# Solve lots of if-elseswitches with functional interfaces
+[Solve lots of if-elseswitches with functional interfaces](https://aiwithcloud.com/2022/09/16/solve_lots_of_if_elseswitches_with_functional_interfaces/)

@@ -1,0 +1,2 @@
+# 2021-11-07 Service layer annotation @Service failure reasons and solutions
+[2021-11-07 Service layer annotation @Service failure reasons and solutions](https://aiwithcloud.com/2022/09/19/2021_11_07_service_layer_annotation_service_failure_reasons_and_solutions/)

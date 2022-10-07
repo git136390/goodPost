@@ -1,0 +1,2 @@
+# 3h proficient in OpenCV (1) - read image video and webcam
+[3h proficient in OpenCV (1) - read image video and webcam](https://aiwithcloud.com/2022/09/15/3h_proficient_in_opencv_1___read_image_video_and_webcam/)

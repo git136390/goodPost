@@ -1,0 +1,2 @@
+# [day1 Playing with C Language - Judgment of Palindromic Numbers]
+[[day1 Playing with C Language - Judgment of Palindromic Numbers]](https://aiwithcloud.com/2022/09/16/day1_playing_with_c_language___judgment_of_palindromic_numbers/)

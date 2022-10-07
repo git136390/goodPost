@@ -1,0 +1,2 @@
+# [Front-end] The permission jump of router.beforeEach navigation guard
+[[Front-end] The permission jump of router.beforeEach navigation guard](https://aiwithcloud.com/2022/09/19/front_end_the_permission_jump_of_router-beforeeach_navigation_guard/)

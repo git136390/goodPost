@@ -1,0 +1,2 @@
+# Vue+better-scroll realizes the linkage effect of left and right menus (mobile terminal)
+[Vue+better-scroll realizes the linkage effect of left and right menus (mobile terminal)](https://aiwithcloud.com/2022/09/16/vuebetter_scroll_realizes_the_linkage_effect_of_left_and_right_menus_mobile_terminal/)

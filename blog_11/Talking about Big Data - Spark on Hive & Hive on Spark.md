@@ -1,0 +1,2 @@
+# Talking about Big Data - Spark on Hive & Hive on Spark
+[Talking about Big Data - Spark on Hive & Hive on Spark](https://aiwithcloud.com/2022/09/19/talking_about_big_data___spark_on_hive__hive_on_spark/)

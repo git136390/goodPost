@@ -1,0 +1,2 @@
+# Basic configuration and use of vue3 + ts + pinia + vite + vueRouter4
+[Basic configuration and use of vue3 + ts + pinia + vite + vueRouter4](https://aiwithcloud.com/2022/09/15/basic_configuration_and_use_of_vue3__ts__pinia__vite__vuerouter4/)

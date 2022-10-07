@@ -1,0 +1,2 @@
+# [leetcode] 162. Find peaks (multiple solutions for binary search, graphic analysis, broaden your mind)
+[[leetcode] 162. Find peaks (multiple solutions for binary search, graphic analysis, broaden your mind)](https://aiwithcloud.com/2022/09/16/leetcode_162-_find_peaks_multiple_solutions_for_binary_search_graphic_analysis_broaden_your_mind/)

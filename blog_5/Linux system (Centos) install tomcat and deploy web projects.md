@@ -1,0 +1,2 @@
+# Linux system (Centos) install tomcat and deploy web projects
+[Linux system (Centos) install tomcat and deploy web projects](https://aiwithcloud.com/2022/09/16/linux_system_centos_install_tomcat_and_deploy_web_projects/)

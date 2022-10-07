@@ -1,0 +1,2 @@
+# Emergency Response Fundamentals and Examples of Tool Use
+[Emergency Response Fundamentals and Examples of Tool Use](https://aiwithcloud.com/2022/09/19/emergency_response_fundamentals_and_examples_of_tool_use/)

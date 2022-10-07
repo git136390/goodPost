@@ -1,0 +1,2 @@
+# P1009 [NOIP1998 Popularization Group] Solution to Sum of Factorials
+[P1009 [NOIP1998 Popularization Group] Solution to Sum of Factorials](https://aiwithcloud.com/2022/09/15/p1009_noip1998_popularization_group_solution_to_sum_of_factorials/)

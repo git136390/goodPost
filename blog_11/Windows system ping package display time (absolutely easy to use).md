@@ -1,0 +1,2 @@
+# Windows system ping package display time (absolutely easy to use)
+[Windows system ping package display time (absolutely easy to use)](https://aiwithcloud.com/2022/09/19/windows_system_ping_package_display_time_absolutely_easy_to_use/)

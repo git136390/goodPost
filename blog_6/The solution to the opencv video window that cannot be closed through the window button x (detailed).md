@@ -1,0 +1,2 @@
+# The solution to the opencv video window that cannot be closed through the window button x (detailed)
+[The solution to the opencv video window that cannot be closed through the window button x (detailed)](https://aiwithcloud.com/2022/09/16/the_solution_to_the_opencv_video_window_that_cannot_be_closed_through_the_window_button_x_detailed/)

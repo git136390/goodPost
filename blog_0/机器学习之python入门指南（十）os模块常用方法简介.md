@@ -1,0 +1,2 @@
+# 机器学习之python入门指南（十）os模块常用方法简介
+[机器学习之python入门指南（十）os模块常用方法简介](https://aiwithcloud.com/2021/01/20/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e4%b9%8bpython%e5%85%a5%e9%97%a8%e6%8c%87%e5%8d%97%ef%bc%88%e5%8d%81%ef%bc%89os%e6%a8%a1%e5%9d%97%e5%b8%b8%e7%94%a8%e6%96%b9%e6%b3%95%e7%ae%80%e4%bb%8b/)

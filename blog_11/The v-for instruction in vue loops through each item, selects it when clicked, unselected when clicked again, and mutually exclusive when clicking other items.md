@@ -1,0 +1,2 @@
+# The v-for instruction in vue loops through each item, selects it when clicked, unselected when clicked again, and mutually exclusive when clicking other items
+[The v-for instruction in vue loops through each item, selects it when clicked, unselected when clicked again, and mutually exclusive when clicking other items](https://aiwithcloud.com/2022/09/19/the_v_for_instruction_in_vue_loops_through_each_item_selects_it_when_clicked_unselected_when_clicked_again_and_mutually_exclusive_when_clicking_other_items/)

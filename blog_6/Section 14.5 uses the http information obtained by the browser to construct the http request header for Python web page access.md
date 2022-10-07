@@ -1,0 +1,2 @@
+# Section 14.5 uses the http information obtained by the browser to construct the http request header for Python web page access
+[Section 14.5 uses the http information obtained by the browser to construct the http request header for Python web page access](https://aiwithcloud.com/2022/09/16/section_14-5_uses_the_http_information_obtained_by_the_browser_to_construct_the_http_request_header_for_python_web_page_access/)

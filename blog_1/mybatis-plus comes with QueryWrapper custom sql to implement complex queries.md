@@ -1,0 +1,2 @@
+# mybatis-plus comes with QueryWrapper custom sql to implement complex queries
+[mybatis-plus comes with QueryWrapper custom sql to implement complex queries](https://aiwithcloud.com/2022/09/15/mybatis_plus_comes_with_querywrapper_custom_sql_to_implement_complex_queries/)

@@ -1,0 +1,2 @@
+# The relationship between x86 instruction set  x86, x64, x86-64, amd64, arm instruction set architecture
+[The relationship between x86 instruction set  x86, x64, x86-64, amd64, arm instruction set architecture](https://aiwithcloud.com/2022/09/19/the_relationship_between_x86_instruction_set__x86_x64_x86_64_amd64_arm_instruction_set_architecture/)

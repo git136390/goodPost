@@ -1,0 +1,2 @@
+# Detailed explanation of Android4.2.2 SurfaceFlinger startup process (2)
+[Detailed explanation of Android4.2.2 SurfaceFlinger startup process (2)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_android4-2-2_surfaceflinger_startup_process_2/)

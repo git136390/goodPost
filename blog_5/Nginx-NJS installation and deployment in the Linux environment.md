@@ -1,0 +1,2 @@
+# Nginx-NJS installation and deployment in the Linux environment
+[Nginx-NJS installation and deployment in the Linux environment](https://aiwithcloud.com/2022/09/16/nginx_njs_installation_and_deployment_in_the_linux_environment/)

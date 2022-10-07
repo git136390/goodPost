@@ -1,0 +1,2 @@
+# WeChat applet passes parameters through click events (data-)
+[WeChat applet passes parameters through click events (data-)](https://aiwithcloud.com/2022/09/15/wechat_applet_passes_parameters_through_click_events_data_/)

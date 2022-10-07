@@ -1,0 +1,2 @@
+# [Cloud Native-Docker Chapter] Construction and Use of Docker Registry
+[[Cloud Native-Docker Chapter] Construction and Use of Docker Registry](https://aiwithcloud.com/2022/09/19/cloud_native_docker_chapter_construction_and_use_of_docker_registry/)

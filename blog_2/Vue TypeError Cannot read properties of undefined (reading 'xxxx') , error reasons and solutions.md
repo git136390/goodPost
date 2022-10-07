@@ -1,0 +1,2 @@
+# Vue TypeError Cannot read properties of undefined (reading 'xxxx') , error reasons and solutions
+[Vue TypeError Cannot read properties of undefined (reading 'xxxx') , error reasons and solutions](https://aiwithcloud.com/2022/09/15/vue_typeerror_cannot_read_properties_of_undefined_reading_xxxx__error_reasons_and_solutions/)

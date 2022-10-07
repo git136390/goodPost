@@ -1,0 +1,2 @@
+# USACO2020DEC Question 5 (Rectangular Pasture) Solution
+[USACO2020DEC Question 5 (Rectangular Pasture) Solution](https://aiwithcloud.com/2022/09/16/usaco2020dec_question_5_rectangular_pasture_solution/)

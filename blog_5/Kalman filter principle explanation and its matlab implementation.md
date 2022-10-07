@@ -1,0 +1,2 @@
+# Kalman filter principle explanation and its matlab implementation
+[Kalman filter principle explanation and its matlab implementation](https://aiwithcloud.com/2022/09/16/kalman_filter_principle_explanation_and_its_matlab_implementation/)

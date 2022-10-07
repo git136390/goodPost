@@ -1,0 +1,2 @@
+# Git seven SSH, GPG key generation steps, deploy Github, Gitee and use effect
+[Git seven SSH, GPG key generation steps, deploy Github, Gitee and use effect](https://aiwithcloud.com/2022/09/15/git_seven_ssh_gpg_key_generation_steps_deploy_github_gitee_and_use_effect/)

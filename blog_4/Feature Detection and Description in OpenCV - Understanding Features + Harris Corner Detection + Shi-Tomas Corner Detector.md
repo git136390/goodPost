@@ -1,0 +1,2 @@
+# Feature Detection and Description in OpenCV - Understanding Features + Harris Corner Detection + Shi-Tomas Corner Detector
+[Feature Detection and Description in OpenCV - Understanding Features + Harris Corner Detection + Shi-Tomas Corner Detector](https://aiwithcloud.com/2022/09/15/feature_detection_and_description_in_opencv___understanding_features__harris_corner_detection__shi_tomas_corner_detector/)

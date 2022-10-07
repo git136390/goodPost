@@ -1,0 +1,2 @@
+# Solution to the problem of At least one valid and enabled repository required for this action to succeed
+[Solution to the problem of At least one valid and enabled repository required for this action to succeed](https://aiwithcloud.com/2022/09/19/solution_to_the_problem_of_at_least_one_valid_and_enabled_repository_required_for_this_action_to_succeed/)

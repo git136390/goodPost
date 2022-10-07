@@ -1,0 +1,2 @@
+# The nodejs+vue campus take-out ordering and distribution system recommended for computer graduation design topics
+[The nodejs+vue campus take-out ordering and distribution system recommended for computer graduation design topics](https://aiwithcloud.com/2022/09/19/the_nodejsvue_campus_take_out_ordering_and_distribution_system_recommended_for_computer_graduation_design_topics/)

@@ -1,0 +1,2 @@
+# DCNv2 make.sh error “can‘t create or remove files ......“
+[DCNv2 make.sh error “can‘t create or remove files ......“](https://aiwithcloud.com/2022/09/15/dcnv2_make-sh_error_cant_create_or_remove_files_/)

@@ -1,0 +1,2 @@
+# STM32 entry notes (02) Mecanum wheel, TB6612 motor drive, PID motor control and encoder learning records
+[STM32 entry notes (02) Mecanum wheel, TB6612 motor drive, PID motor control and encoder learning records](https://aiwithcloud.com/2022/09/16/stm32_entry_notes_02_mecanum_wheel_tb6612_motor_drive_pid_motor_control_and_encoder_learning_records/)

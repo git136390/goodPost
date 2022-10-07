@@ -1,0 +1,2 @@
+# Vue implements dynamic increase or decrease of form items
+[Vue implements dynamic increase or decrease of form items](https://aiwithcloud.com/2022/09/15/vue_implements_dynamic_increase_or_decrease_of_form_items/)

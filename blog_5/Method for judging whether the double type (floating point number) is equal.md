@@ -1,0 +1,2 @@
+# Method for judging whether the double type (floating point number) is equal
+[Method for judging whether the double type (floating point number) is equal](https://aiwithcloud.com/2022/09/16/method_for_judging_whether_the_double_type_floating_point_number_is_equal/)

@@ -1,0 +1,2 @@
+# The viewer that comes with pdfjs previews pdf files (compatible with web and app) Chinese version
+[The viewer that comes with pdfjs previews pdf files (compatible with web and app) Chinese version](https://aiwithcloud.com/2022/09/15/the_viewer_that_comes_with_pdfjs_previews_pdf_files_compatible_with_web_and_app_chinese_version/)

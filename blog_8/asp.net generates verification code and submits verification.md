@@ -1,0 +1,2 @@
+# asp.net generates verification code and submits verification
+[asp.net generates verification code and submits verification](https://aiwithcloud.com/2022/09/19/asp-net_generates_verification_code_and_submits_verification/)

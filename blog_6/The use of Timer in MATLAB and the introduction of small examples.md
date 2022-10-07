@@ -1,0 +1,2 @@
+# The use of Timer in MATLAB and the introduction of small examples
+[The use of Timer in MATLAB and the introduction of small examples](https://aiwithcloud.com/2022/09/16/the_use_of_timer_in_matlab_and_the_introduction_of_small_examples/)

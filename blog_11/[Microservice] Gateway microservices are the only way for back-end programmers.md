@@ -1,0 +1,2 @@
+# [Microservice] Gateway microservices are the only way for back-end programmers
+[[Microservice] Gateway microservices are the only way for back-end programmers](https://aiwithcloud.com/2022/09/19/microservice_gateway_microservices_are_the_only_way_for_back_end_programmers/)

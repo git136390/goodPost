@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to remove rows containing null values in Pandas
+[[Python Practical Basics] How to remove rows containing null values in Pandas](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_remove_rows_containing_null_values_in_pandas/)

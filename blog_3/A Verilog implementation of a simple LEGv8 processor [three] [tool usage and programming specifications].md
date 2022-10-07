@@ -1,0 +1,2 @@
+# A Verilog implementation of a simple LEGv8 processor [three] [tool usage and programming specifications]
+[A Verilog implementation of a simple LEGv8 processor [three] [tool usage and programming specifications]](https://aiwithcloud.com/2022/09/15/a_verilog_implementation_of_a_simple_legv8_processor_three_tool_usage_and_programming_specifications/)

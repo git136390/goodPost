@@ -1,0 +1,2 @@
+# Prometheus Detailed Explanation (10) - Prometheus Container Monitoring
+[Prometheus Detailed Explanation (10) - Prometheus Container Monitoring](https://aiwithcloud.com/2022/09/15/prometheus_detailed_explanation_10___prometheus_container_monitoring/)

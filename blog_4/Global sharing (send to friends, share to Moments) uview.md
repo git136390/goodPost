@@ -1,0 +1,2 @@
+# Global sharing (send to friends, share to Moments) uview
+[Global sharing (send to friends, share to Moments) uview](https://aiwithcloud.com/2022/09/15/global_sharing_send_to_friends_share_to_moments_uview/)

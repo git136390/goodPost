@@ -1,0 +1,2 @@
+# Python uses openpyxl to modify the content of the table
+[Python uses openpyxl to modify the content of the table](https://aiwithcloud.com/2022/09/19/python_uses_openpyxl_to_modify_the_content_of_the_table/)

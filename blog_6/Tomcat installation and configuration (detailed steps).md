@@ -1,0 +1,2 @@
+# Tomcat installation and configuration (detailed steps)
+[Tomcat installation and configuration (detailed steps)](https://aiwithcloud.com/2022/09/16/tomcat_installation_and_configuration_detailed_steps/)

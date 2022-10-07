@@ -1,0 +1,2 @@
+# The difference between the usage of sizeof() and strlen()
+[The difference between the usage of sizeof() and strlen()](https://aiwithcloud.com/2022/09/19/the_difference_between_the_usage_of_sizeof_and_strlen/)

@@ -1,0 +1,2 @@
+# Object-oriented advanced (packages, permission modifiers, abstract classes, interfaces)
+[Object-oriented advanced (packages, permission modifiers, abstract classes, interfaces)](https://aiwithcloud.com/2022/09/15/object_oriented_advanced_packages_permission_modifiers_abstract_classes_interfaces/)

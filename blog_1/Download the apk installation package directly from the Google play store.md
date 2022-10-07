@@ -1,0 +1,2 @@
+# Download the apk installation package directly from the Google play store
+[Download the apk installation package directly from the Google play store](https://aiwithcloud.com/2022/09/14/download_the_apk_installation_package_directly_from_the_google_play_store/)

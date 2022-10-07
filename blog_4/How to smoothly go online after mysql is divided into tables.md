@@ -1,0 +1,2 @@
+# How to smoothly go online after mysql is divided into tables
+[How to smoothly go online after mysql is divided into tables](https://aiwithcloud.com/2022/09/15/how_to_smoothly_go_online_after_mysql_is_divided_into_tables/)

@@ -1,0 +1,2 @@
+# The output data dimension error occurs when PaddlePaddle uses the prediction model to predict the picture
+[The output data dimension error occurs when PaddlePaddle uses the prediction model to predict the picture](https://aiwithcloud.com/2022/09/16/the_output_data_dimension_error_occurs_when_paddlepaddle_uses_the_prediction_model_to_predict_the_picture/)

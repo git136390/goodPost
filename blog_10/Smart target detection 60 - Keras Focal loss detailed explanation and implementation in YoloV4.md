@@ -1,0 +1,2 @@
+# Smart target detection 60 - Keras Focal loss detailed explanation and implementation in YoloV4
+[Smart target detection 60 - Keras Focal loss detailed explanation and implementation in YoloV4](https://aiwithcloud.com/2022/09/19/smart_target_detection_60___keras_focal_loss_detailed_explanation_and_implementation_in_yolov4/)

@@ -1,0 +1,2 @@
+# It only takes three steps to successfully install the Baidu image recognition AI system PaddleClas on Win10
+[It only takes three steps to successfully install the Baidu image recognition AI system PaddleClas on Win10](https://aiwithcloud.com/2022/09/16/it_only_takes_three_steps_to_successfully_install_the_baidu_image_recognition_ai_system_paddleclas_on_win10/)

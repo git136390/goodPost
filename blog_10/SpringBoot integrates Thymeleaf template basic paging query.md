@@ -1,0 +1,2 @@
+# SpringBoot integrates Thymeleaf template basic paging query
+[SpringBoot integrates Thymeleaf template basic paging query](https://aiwithcloud.com/2022/09/19/springboot_integrates_thymeleaf_template_basic_paging_query/)

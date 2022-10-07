@@ -1,0 +1,2 @@
+# Vue vue-config.js (detailed introduction to field properties)
+[Vue vue-config.js (detailed introduction to field properties)](https://aiwithcloud.com/2022/09/16/vue_vue_config-js_detailed_introduction_to_field_properties/)

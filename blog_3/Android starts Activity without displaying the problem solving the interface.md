@@ -1,0 +1,2 @@
+# Android starts Activity without displaying the problem solving the interface
+[Android starts Activity without displaying the problem solving the interface](https://aiwithcloud.com/2022/09/15/android_starts_activity_without_displaying_the_problem_solving_the_interface/)

@@ -1,0 +1,2 @@
+# WeChat applet text exceeds automatic line wrapping solution
+[WeChat applet text exceeds automatic line wrapping solution](https://aiwithcloud.com/2022/09/19/wechat_applet_text_exceeds_automatic_line_wrapping_solution/)

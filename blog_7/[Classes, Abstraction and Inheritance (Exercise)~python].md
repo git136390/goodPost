@@ -1,0 +1,2 @@
+# [Classes, Abstraction and Inheritance (Exercise)~python]
+[[Classes, Abstraction and Inheritance (Exercise)~python]](https://aiwithcloud.com/2022/09/16/classes_abstraction_and_inheritance_exercisepython/)

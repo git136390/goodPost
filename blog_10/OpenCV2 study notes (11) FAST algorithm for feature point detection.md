@@ -1,0 +1,2 @@
+# OpenCV2 study notes (11) FAST algorithm for feature point detection
+[OpenCV2 study notes (11) FAST algorithm for feature point detection](https://aiwithcloud.com/2022/09/19/opencv2_study_notes_11_fast_algorithm_for_feature_point_detection/)

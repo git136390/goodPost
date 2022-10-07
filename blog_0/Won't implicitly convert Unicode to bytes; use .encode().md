@@ -1,0 +1,2 @@
+# Won't implicitly convert Unicode to bytes; use .encode()
+[Won't implicitly convert Unicode to bytes; use .encode()](https://aiwithcloud.com/2021/09/13/wont-implicitly-convert-unicode-to-bytes-use-encode/)

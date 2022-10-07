@@ -1,0 +1,2 @@
+# Java implements three monks to compare the heights and get the highest height, unit cm (used by Scanner, used by ternary operator)
+[Java implements three monks to compare the heights and get the highest height, unit cm (used by Scanner, used by ternary operator)](https://aiwithcloud.com/2022/09/16/java_implements_three_monks_to_compare_the_heights_and_get_the_highest_height_unit_cm_used_by_scanner_used_by_ternary_operator/)

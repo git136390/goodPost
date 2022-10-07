@@ -1,0 +1,2 @@
+# Why did JDK9 change the underlying implementation of String from char[] to byte[]
+[Why did JDK9 change the underlying implementation of String from char[] to byte[]](https://aiwithcloud.com/2022/09/16/why_did_jdk9_change_the_underlying_implementation_of_string_from_char_to_byte/)

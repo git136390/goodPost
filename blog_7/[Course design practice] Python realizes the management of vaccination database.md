@@ -1,0 +1,2 @@
+# [Course design practice] Python realizes the management of vaccination database
+[[Course design practice] Python realizes the management of vaccination database](https://aiwithcloud.com/2022/09/16/course_design_practice_python_realizes_the_management_of_vaccination_database/)

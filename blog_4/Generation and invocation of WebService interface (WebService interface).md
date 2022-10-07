@@ -1,0 +1,2 @@
+# Generation and invocation of WebService interface (WebService interface)
+[Generation and invocation of WebService interface (WebService interface)](https://aiwithcloud.com/2022/09/15/generation_and_invocation_of_webservice_interface_webservice_interface/)

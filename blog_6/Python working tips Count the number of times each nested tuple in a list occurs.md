@@ -1,0 +1,2 @@
+# Python working tips Count the number of times each nested tuple in a list occurs
+[Python working tips Count the number of times each nested tuple in a list occurs](https://aiwithcloud.com/2022/09/16/python_working_tips_count_the_number_of_times_each_nested_tuple_in_a_list_occurs/)

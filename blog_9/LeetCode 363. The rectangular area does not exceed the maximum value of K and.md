@@ -1,0 +1,2 @@
+# LeetCode 363. The rectangular area does not exceed the maximum value of K and
+[LeetCode 363. The rectangular area does not exceed the maximum value of K and](https://aiwithcloud.com/2022/09/19/leetcode_363-_the_rectangular_area_does_not_exceed_the_maximum_value_of_k_and/)

@@ -1,0 +1,2 @@
+# Common attributes in LinearLayout for Android studio APP development
+[Common attributes in LinearLayout for Android studio APP development](https://aiwithcloud.com/2022/09/15/common_attributes_in_linearlayout_for_android_studio_app_development/)

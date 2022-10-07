@@ -1,0 +1,2 @@
+# Smart Home Internet of Everything My Smart Flower Pot DIY Journey (ESP32)
+[Smart Home Internet of Everything My Smart Flower Pot DIY Journey (ESP32)](https://aiwithcloud.com/2022/09/19/smart_home_internet_of_everything_my_smart_flower_pot_diy_journey_esp32/)

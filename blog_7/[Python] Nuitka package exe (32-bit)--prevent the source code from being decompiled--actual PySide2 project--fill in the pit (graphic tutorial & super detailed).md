@@ -1,0 +1,2 @@
+# [Python] Nuitka package exe (32-bit)--prevent the source code from being decompiled--actual PySide2 project--fill in the pit (graphic tutorial & super detailed)
+[[Python] Nuitka package exe (32-bit)--prevent the source code from being decompiled--actual PySide2 project--fill in the pit (graphic tutorial & super detailed)](https://aiwithcloud.com/2022/09/16/python_nuitka_package_exe_32_bit__prevent_the_source_code_from_being_decompiled__actual_pyside2_project__fill_in_the_pit_graphic_tutorial__super_detailed/)

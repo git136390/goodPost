@@ -1,0 +1,2 @@
+# Windows Genuine System Installation (Reinstallation) - Win10 (MSI Motherboard - MSI)
+[Windows Genuine System Installation (Reinstallation) - Win10 (MSI Motherboard - MSI)](https://aiwithcloud.com/2022/09/15/windows_genuine_system_installation_reinstallation___win10_msi_motherboard___msi/)

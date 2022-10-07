@@ -1,0 +1,2 @@
+# -1 error [Makefile.Debug72 debugQtIcon resource res.o] Error 1 Causes and thorough solutions
+[-1 error [Makefile.Debug72 debugQtIcon resource res.o] Error 1 Causes and thorough solutions](https://aiwithcloud.com/2022/09/19/_1_error_makefile-debug72_debugqticon_resource_res-o_error_1_causes_and_thorough_solutions/)

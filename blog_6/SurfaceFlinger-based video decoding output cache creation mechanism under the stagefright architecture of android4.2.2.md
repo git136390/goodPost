@@ -1,0 +1,2 @@
+# SurfaceFlinger-based video decoding output cache creation mechanism under the stagefright architecture of android4.2.2
+[SurfaceFlinger-based video decoding output cache creation mechanism under the stagefright architecture of android4.2.2](https://aiwithcloud.com/2022/09/16/surfaceflinger_based_video_decoding_output_cache_creation_mechanism_under_the_stagefright_architecture_of_android4-2-2/)

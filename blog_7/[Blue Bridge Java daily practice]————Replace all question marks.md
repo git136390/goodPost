@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice]————Replace all question marks
+[[Blue Bridge Java daily practice]————Replace all question marks](https://aiwithcloud.com/2022/09/16/blue_bridge_java_daily_practice-replace_all_question_marks/)

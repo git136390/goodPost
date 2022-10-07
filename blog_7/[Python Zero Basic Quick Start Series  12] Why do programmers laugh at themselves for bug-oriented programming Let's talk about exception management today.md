@@ -1,0 +1,2 @@
+# [Python Zero Basic Quick Start Series  12] Why do programmers laugh at themselves for bug-oriented programming Let's talk about exception management today
+[[Python Zero Basic Quick Start Series  12] Why do programmers laugh at themselves for bug-oriented programming Let's talk about exception management today](https://aiwithcloud.com/2022/09/16/python_zero_basic_quick_start_series__12_why_do_programmers_laugh_at_themselves_for_bug_oriented_programming_lets_talk_about_exception_management_today/)

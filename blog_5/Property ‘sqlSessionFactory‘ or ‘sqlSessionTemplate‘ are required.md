@@ -1,0 +1,2 @@
+# Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required
+[Property ‘sqlSessionFactory‘ or ‘sqlSessionTemplate‘ are required](https://aiwithcloud.com/2022/09/16/property_sqlsessionfactory_or_sqlsessiontemplate_are_required/)

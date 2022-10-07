@@ -1,0 +1,2 @@
+# Subpackage processing of uniapp compiling WeChat applet
+[Subpackage processing of uniapp compiling WeChat applet](https://aiwithcloud.com/2022/09/19/subpackage_processing_of_uniapp_compiling_wechat_applet/)

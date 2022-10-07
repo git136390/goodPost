@@ -1,0 +1,2 @@
+# Python Daily Practice (New Question Bank of Niu Ke) - Day 21 Built-in Functions
+[Python Daily Practice (New Question Bank of Niu Ke) - Day 21 Built-in Functions](https://aiwithcloud.com/2022/09/16/python_daily_practice_new_question_bank_of_niu_ke___day_21_built_in_functions/)

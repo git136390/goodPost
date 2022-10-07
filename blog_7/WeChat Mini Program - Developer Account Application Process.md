@@ -1,0 +1,2 @@
+# WeChat Mini Program - Developer Account Application Process
+[WeChat Mini Program - Developer Account Application Process](https://aiwithcloud.com/2022/09/16/wechat_mini_program___developer_account_application_process/)

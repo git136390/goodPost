@@ -1,0 +1,2 @@
+# Use uiautomation to get the friend information of the address book
+[Use uiautomation to get the friend information of the address book](https://aiwithcloud.com/2022/09/15/use_uiautomation_to_get_the_friend_information_of_the_address_book/)

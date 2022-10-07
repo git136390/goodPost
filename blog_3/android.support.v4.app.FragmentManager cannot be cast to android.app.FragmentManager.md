@@ -1,0 +1,2 @@
+# android.support.v4.app.FragmentManager cannot be cast to android.app.FragmentManager
+[android.support.v4.app.FragmentManager cannot be cast to android.app.FragmentManager](https://aiwithcloud.com/2022/09/15/android-support-v4-app-fragmentmanager_cannot_be_cast_to_android-app-fragmentmanager/)

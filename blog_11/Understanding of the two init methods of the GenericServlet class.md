@@ -1,0 +1,2 @@
+# Understanding of the two init methods of the GenericServlet class
+[Understanding of the two init methods of the GenericServlet class](https://aiwithcloud.com/2022/09/19/understanding_of_the_two_init_methods_of_the_genericservlet_class/)

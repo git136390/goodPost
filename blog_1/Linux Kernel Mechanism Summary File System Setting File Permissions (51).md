@@ -1,0 +1,2 @@
+# Linux Kernel Mechanism Summary File System Setting File Permissions (51)
+[Linux Kernel Mechanism Summary File System Setting File Permissions (51)](https://aiwithcloud.com/2022/09/15/linux_kernel_mechanism_summary_file_system_setting_file_permissions_51/)

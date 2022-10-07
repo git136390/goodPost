@@ -1,0 +1,2 @@
+# redhat8 builds local yum source (intranet source) and modifies yum source code
+[redhat8 builds local yum source (intranet source) and modifies yum source code](https://aiwithcloud.com/2022/09/15/redhat8_builds_local_yum_source_intranet_source_and_modifies_yum_source_code/)

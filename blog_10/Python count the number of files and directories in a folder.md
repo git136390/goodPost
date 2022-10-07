@@ -1,0 +1,2 @@
+# Python count the number of files and directories in a folder
+[Python count the number of files and directories in a folder](https://aiwithcloud.com/2022/09/19/python_count_the_number_of_files_and_directories_in_a_folder/)

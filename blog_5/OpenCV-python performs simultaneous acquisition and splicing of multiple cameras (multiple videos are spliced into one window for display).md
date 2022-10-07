@@ -1,0 +1,2 @@
+# OpenCV-python performs simultaneous acquisition and splicing of multiple cameras (multiple videos are spliced into one window for display)
+[OpenCV-python performs simultaneous acquisition and splicing of multiple cameras (multiple videos are spliced into one window for display)](https://aiwithcloud.com/2022/09/16/opencv_python_performs_simultaneous_acquisition_and_splicing_of_multiple_cameras_multiple_videos_are_spliced_into_one_window_for_display/)

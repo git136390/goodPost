@@ -1,0 +1,2 @@
+# Xonsh library - Python and Shell syntax interoperability
+[Xonsh library - Python and Shell syntax interoperability](https://aiwithcloud.com/2022/09/19/xonsh_library___python_and_shell_syntax_interoperability/)

@@ -1,0 +1,2 @@
+# Elasticsearch 8.3 version installation and cluster deployment
+[Elasticsearch 8.3 version installation and cluster deployment](https://aiwithcloud.com/2022/09/15/elasticsearch_8-3_version_installation_and_cluster_deployment/)

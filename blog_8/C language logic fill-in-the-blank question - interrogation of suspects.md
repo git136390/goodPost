@@ -1,0 +1,2 @@
+# C language logic fill-in-the-blank question - interrogation of suspects
+[C language logic fill-in-the-blank question - interrogation of suspects](https://aiwithcloud.com/2022/09/19/c_language_logic_fill_in_the_blank_question___interrogation_of_suspects/)

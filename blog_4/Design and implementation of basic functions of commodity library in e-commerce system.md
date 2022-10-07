@@ -1,0 +1,2 @@
+# Design and implementation of basic functions of commodity library in e-commerce system
+[Design and implementation of basic functions of commodity library in e-commerce system](https://aiwithcloud.com/2022/09/15/design_and_implementation_of_basic_functions_of_commodity_library_in_e_commerce_system/)

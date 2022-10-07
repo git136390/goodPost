@@ -1,0 +1,2 @@
+# [Daily Basic Algorithm] Line Segment Tree - Tree Array
+[[Daily Basic Algorithm] Line Segment Tree - Tree Array](https://aiwithcloud.com/2022/09/19/daily_basic_algorithm_line_segment_tree___tree_array/)

@@ -1,0 +1,2 @@
+# Algorithm Moore voting algorithm (illustrated example)
+[Algorithm Moore voting algorithm (illustrated example)](https://aiwithcloud.com/2022/09/19/algorithm_moore_voting_algorithm_illustrated_example/)

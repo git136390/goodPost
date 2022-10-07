@@ -1,0 +1,2 @@
+# SSM framework learning record 6 - the difference from the 18-year SSM framework on git
+[SSM framework learning record 6 - the difference from the 18-year SSM framework on git](https://aiwithcloud.com/2022/09/16/ssm_framework_learning_record_6___the_difference_from_the_18_year_ssm_framework_on_git/)

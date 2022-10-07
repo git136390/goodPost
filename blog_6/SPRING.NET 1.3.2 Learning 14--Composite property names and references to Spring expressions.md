@@ -1,0 +1,2 @@
+# SPRING.NET 1.3.2 Learning 14--Composite property names and references to Spring expressions
+[SPRING.NET 1.3.2 Learning 14--Composite property names and references to Spring expressions](https://aiwithcloud.com/2022/09/16/spring-net_1-3-2_learning_14__composite_property_names_and_references_to_spring_expressions/)

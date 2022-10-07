@@ -1,0 +1,2 @@
+# Python controls its own mobile phone camera to take pictures and automatically sends the pictures to the mailbox (for learning reference only)
+[Python controls its own mobile phone camera to take pictures and automatically sends the pictures to the mailbox (for learning reference only)](https://aiwithcloud.com/2022/09/15/python_controls_its_own_mobile_phone_camera_to_take_pictures_and_automatically_sends_the_pictures_to_the_mailbox_for_learning_reference_only/)

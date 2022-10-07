@@ -1,0 +1,2 @@
+# Terraform introductory tutorial with examples showing managing Docker and Kubernetes resources
+[Terraform introductory tutorial with examples showing managing Docker and Kubernetes resources](https://aiwithcloud.com/2022/09/19/terraform_introductory_tutorial_with_examples_showing_managing_docker_and_kubernetes_resources/)

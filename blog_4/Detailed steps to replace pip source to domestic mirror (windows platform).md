@@ -1,0 +1,2 @@
+# Detailed steps to replace pip source to domestic mirror (windows platform)
+[Detailed steps to replace pip source to domestic mirror (windows platform)](https://aiwithcloud.com/2022/09/15/detailed_steps_to_replace_pip_source_to_domestic_mirror_windows_platform/)

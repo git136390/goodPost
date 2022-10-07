@@ -1,0 +1,2 @@
+# Java refers to Offer 22. The kth node from the bottom in the linked list
+[Java refers to Offer 22. The kth node from the bottom in the linked list](https://aiwithcloud.com/2022/09/15/java_refers_to_offer_22-_the_kth_node_from_the_bottom_in_the_linked_list/)

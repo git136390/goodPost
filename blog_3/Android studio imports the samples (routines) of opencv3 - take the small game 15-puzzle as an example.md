@@ -1,0 +1,2 @@
+# Android studio imports the samples (routines) of opencv3 - take the small game 15-puzzle as an example
+[Android studio imports the samples (routines) of opencv3 - take the small game 15-puzzle as an example](https://aiwithcloud.com/2022/09/15/android_studio_imports_the_samples_routines_of_opencv3___take_the_small_game_15_puzzle_as_an_example/)

@@ -1,0 +1,2 @@
+# Opencv Task01 Basic understanding of Opencv, image reading and drawing
+[Opencv Task01 Basic understanding of Opencv, image reading and drawing](https://aiwithcloud.com/2022/09/19/opencv_task01_basic_understanding_of_opencv_image_reading_and_drawing/)

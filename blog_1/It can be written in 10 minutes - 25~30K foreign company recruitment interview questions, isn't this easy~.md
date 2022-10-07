@@ -1,0 +1,2 @@
+# It can be written in 10 minutes - 25~30K foreign company recruitment interview questions, isn't this easy~
+[It can be written in 10 minutes - 25~30K foreign company recruitment interview questions, isn't this easy~](https://aiwithcloud.com/2022/09/15/it_can_be_written_in_10_minutes___2530k_foreign_company_recruitment_interview_questions_isnt_this_easy/)

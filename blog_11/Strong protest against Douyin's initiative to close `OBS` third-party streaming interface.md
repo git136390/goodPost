@@ -1,0 +1,2 @@
+# Strong protest against Douyin's initiative to close `OBS` third-party streaming interface
+[Strong protest against Douyin's initiative to close `OBS` third-party streaming interface](https://aiwithcloud.com/2022/09/19/strong_protest_against_douyins_initiative_to_close_obs_third_party_streaming_interface/)

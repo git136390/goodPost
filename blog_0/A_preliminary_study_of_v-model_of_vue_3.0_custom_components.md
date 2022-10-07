@@ -1,0 +1,2 @@
+# A_preliminary_study_of_v-model_of_vue_3.0_custom_components
+[A_preliminary_study_of_v-model_of_vue_3.0_custom_components](https://aiwithcloud.com/2022/09/14/a_preliminary_study_of_v_model_of_vue_3-0_custom_components/)

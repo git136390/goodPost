@@ -1,0 +1,2 @@
+# Teach step by step, use Oracle VM VirtualBox virtual machine to install Windows XP system, Ye Qing back
+[Teach step by step, use Oracle VM VirtualBox virtual machine to install Windows XP system, Ye Qing back](https://aiwithcloud.com/2022/09/15/teach_step_by_step_use_oracle_vm_virtualbox_virtual_machine_to_install_windows_xp_system_ye_qing_back/)

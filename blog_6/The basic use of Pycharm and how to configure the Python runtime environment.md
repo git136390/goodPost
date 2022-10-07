@@ -1,0 +1,2 @@
+# The basic use of Pycharm and how to configure the Python runtime environment
+[The basic use of Pycharm and how to configure the Python runtime environment](https://aiwithcloud.com/2022/09/16/the_basic_use_of_pycharm_and_how_to_configure_the_python_runtime_environment/)

@@ -1,0 +1,2 @@
+# Dynamic programming problem solving - factorization of numbers
+[Dynamic programming problem solving - factorization of numbers](https://aiwithcloud.com/2022/09/14/dynamic_programming_problem_solving___factorization_of_numbers/)

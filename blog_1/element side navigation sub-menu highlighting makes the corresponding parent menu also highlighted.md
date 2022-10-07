@@ -1,0 +1,2 @@
+# element side navigation sub-menu highlighting makes the corresponding parent menu also highlighted
+[element side navigation sub-menu highlighting makes the corresponding parent menu also highlighted](https://aiwithcloud.com/2022/09/14/element_side_navigation_sub_menu_highlighting_makes_the_corresponding_parent_menu_also_highlighted/)

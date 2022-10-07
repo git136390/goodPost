@@ -1,0 +1,2 @@
+# Android4.2.2 SurfaceFlinger's local FramebufferSurface achieves real display
+[Android4.2.2 SurfaceFlinger's local FramebufferSurface achieves real display](https://aiwithcloud.com/2022/09/15/android4-2-2_surfaceflingers_local_framebuffersurface_achieves_real_display/)

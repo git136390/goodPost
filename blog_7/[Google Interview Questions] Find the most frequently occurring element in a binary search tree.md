@@ -1,0 +1,2 @@
+# [Google Interview Questions] Find the most frequently occurring element in a binary search tree
+[[Google Interview Questions] Find the most frequently occurring element in a binary search tree](https://aiwithcloud.com/2022/09/16/google_interview_questions_find_the_most_frequently_occurring_element_in_a_binary_search_tree/)

@@ -1,0 +1,2 @@
+# Unity Easy Save data save plugin saves data to Android phone root directory
+[Unity Easy Save data save plugin saves data to Android phone root directory](https://aiwithcloud.com/2022/09/15/unity_easy_save_data_save_plugin_saves_data_to_android_phone_root_directory/)

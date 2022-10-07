@@ -1,0 +1,2 @@
+# DeepLearning Basic Study Notes 2 (Decision Tree Algorithm)
+[DeepLearning Basic Study Notes 2 (Decision Tree Algorithm)](https://aiwithcloud.com/2022/09/15/deeplearning_basic_study_notes_2_decision_tree_algorithm/)

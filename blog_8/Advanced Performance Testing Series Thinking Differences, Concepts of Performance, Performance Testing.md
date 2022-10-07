@@ -1,0 +1,2 @@
+# Advanced Performance Testing Series Thinking Differences, Concepts of Performance, Performance Testing
+[Advanced Performance Testing Series Thinking Differences, Concepts of Performance, Performance Testing](https://aiwithcloud.com/2022/09/19/advanced_performance_testing_series_thinking_differences_concepts_of_performance_performance_testing/)

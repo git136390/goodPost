@@ -1,0 +1,2 @@
+# Utilsmodule.c: 1:20: fatal error: python.h: no such file or directory compilation terminates.
+[Utilsmodule.c: 1:20: fatal error: python.h: no such file or directory compilation terminates.](https://aiwithcloud.com/2021/09/08/utilsmodule-c-120-fatal-error-python-h-no-such-file-or-directory-compilation-terminates/)

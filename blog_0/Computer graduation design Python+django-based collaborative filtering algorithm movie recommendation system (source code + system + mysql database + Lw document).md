@@ -1,0 +1,2 @@
+# Computer graduation design Python+django-based collaborative filtering algorithm movie recommendation system (source code + system + mysql database + Lw document)
+[Computer graduation design Python+django-based collaborative filtering algorithm movie recommendation system (source code + system + mysql database + Lw document)](https://aiwithcloud.com/2022/09/14/computer_graduation_design_pythondjango_based_collaborative_filtering_algorithm_movie_recommendation_system_source_code__system__mysql_database__lw_document/)

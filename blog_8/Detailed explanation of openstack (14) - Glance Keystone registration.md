@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (14) - Glance Keystone registration
+[Detailed explanation of openstack (14) - Glance Keystone registration](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_openstack_14___glance_keystone_registration/)

@@ -1,0 +1,2 @@
+# Server Linux system installation and production of CentOS 7.6 U disk boot
+[Server Linux system installation and production of CentOS 7.6 U disk boot](https://aiwithcloud.com/2022/09/16/server_linux_system_installation_and_production_of_centos_7-6_u_disk_boot/)

@@ -1,0 +1,2 @@
+# lambda expressions (simplified binaryternary expressions)
+[lambda expressions (simplified binaryternary expressions)](https://aiwithcloud.com/2022/09/16/lambda_expressions_simplified_binaryternary_expressions/)

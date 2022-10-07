@@ -1,0 +1,2 @@
+# [Cloud Native  K8s Series Part 4] Viewing Pods and Work Nodes in Action
+[[Cloud Native  K8s Series Part 4] Viewing Pods and Work Nodes in Action](https://aiwithcloud.com/2022/09/16/cloud_native__k8s_series_part_4_viewing_pods_and_work_nodes_in_action/)

@@ -1,0 +1,2 @@
+# PHP - Laravel view template (blade.php) @ raw form output (Vue mixed with PHP)
+[PHP - Laravel view template (blade.php) @ raw form output (Vue mixed with PHP)](https://aiwithcloud.com/2022/09/16/php___laravel_view_template_blade-php__raw_form_output_vue_mixed_with_php/)

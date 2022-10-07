@@ -1,0 +1,2 @@
+# Talking about deep learning - part-of-speech tagging (jieba part-of-speech tagging in practice jieba.posseg)
+[Talking about deep learning - part-of-speech tagging (jieba part-of-speech tagging in practice jieba.posseg)](https://aiwithcloud.com/2022/09/16/talking_about_deep_learning___part_of_speech_tagging_jieba_part_of_speech_tagging_in_practice_jieba-posseg/)

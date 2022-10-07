@@ -1,0 +1,2 @@
+# An example of traversing the Table header with Jquery
+[An example of traversing the Table header with Jquery](https://aiwithcloud.com/2022/09/19/an_example_of_traversing_the_table_header_with_jquery/)

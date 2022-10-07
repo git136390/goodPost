@@ -1,0 +1,2 @@
+# MySQL --- Subqueries - Column subqueries (multi-row subqueries)
+[MySQL --- Subqueries - Column subqueries (multi-row subqueries)](https://aiwithcloud.com/2022/09/19/mysql_____subqueries___column_subqueries_multi_row_subqueries/)

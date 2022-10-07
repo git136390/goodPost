@@ -1,0 +1,2 @@
+# pickle读取数据：'ascii' codec can't decode byte 0xef in position 0: ordinal not in range(128)
+[pickle读取数据：'ascii' codec can't decode byte 0xef in position 0: ordinal not in range(128)](https://aiwithcloud.com/2021/08/29/pickle%e8%af%bb%e5%8f%96%e6%95%b0%e6%8d%ae%ef%bc%9aascii-codec-cant-decode-byte-0xef-in-position-0-ordinal-not-in-range128/)

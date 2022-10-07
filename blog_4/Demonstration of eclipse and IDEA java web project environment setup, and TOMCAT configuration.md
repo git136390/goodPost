@@ -1,0 +1,2 @@
+# Demonstration of eclipse and IDEA java web project environment setup, and TOMCAT configuration
+[Demonstration of eclipse and IDEA java web project environment setup, and TOMCAT configuration](https://aiwithcloud.com/2022/09/15/demonstration_of_eclipse_and_idea_java_web_project_environment_setup_and_tomcat_configuration/)

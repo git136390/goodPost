@@ -1,0 +1,2 @@
+# Anaconda_super_detailed_installation_tutorial_(in_Windows_environment)
+[Anaconda_super_detailed_installation_tutorial_(in_Windows_environment)](https://aiwithcloud.com/2022/09/14/anaconda_super_detailed_installation_tutorial_in_windows_environment/)

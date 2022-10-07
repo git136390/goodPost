@@ -1,0 +1,2 @@
+# Python3 implements password complexity verification, and evaluates the level by length, special characters of uppercase and lowercase letters, and repeated substrings
+[Python3 implements password complexity verification, and evaluates the level by length, special characters of uppercase and lowercase letters, and repeated substrings](https://aiwithcloud.com/2022/09/15/python3_implements_password_complexity_verification_and_evaluates_the_level_by_length_special_characters_of_uppercase_and_lowercase_letters_and_repeated_substrings/)

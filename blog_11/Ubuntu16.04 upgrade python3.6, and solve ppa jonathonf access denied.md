@@ -1,0 +1,2 @@
+# Ubuntu16.04 upgrade python3.6, and solve ppa jonathonf access denied
+[Ubuntu16.04 upgrade python3.6, and solve ppa jonathonf access denied](https://aiwithcloud.com/2022/09/19/ubuntu16-04_upgrade_python3-6_and_solve_ppa_jonathonf_access_denied/)

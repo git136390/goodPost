@@ -1,0 +1,2 @@
+# Java implements a hundred money and a hundred chickens (for loop application)
+[Java implements a hundred money and a hundred chickens (for loop application)](https://aiwithcloud.com/2022/09/19/java_implements_a_hundred_money_and_a_hundred_chickens_for_loop_application/)

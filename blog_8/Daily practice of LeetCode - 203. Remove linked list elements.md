@@ -1,0 +1,2 @@
+# Daily practice of LeetCode - 203. Remove linked list elements
+[Daily practice of LeetCode - 203. Remove linked list elements](https://aiwithcloud.com/2022/09/19/daily_practice_of_leetcode___203-_remove_linked_list_elements/)

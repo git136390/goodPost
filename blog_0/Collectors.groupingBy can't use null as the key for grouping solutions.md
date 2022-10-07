@@ -1,0 +1,2 @@
+# Collectors.groupingBy can't use null as the key for grouping solutions
+[Collectors.groupingBy can't use null as the key for grouping solutions](https://aiwithcloud.com/2022/09/14/collectors-groupingby_cant_use_null_as_the_key_for_grouping_solutions/)

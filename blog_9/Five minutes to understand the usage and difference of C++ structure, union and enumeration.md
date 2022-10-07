@@ -1,0 +1,2 @@
+# Five minutes to understand the usage and difference of C++ structure, union and enumeration
+[Five minutes to understand the usage and difference of C++ structure, union and enumeration](https://aiwithcloud.com/2022/09/19/five_minutes_to_understand_the_usage_and_difference_of_c_structure_union_and_enumeration/)

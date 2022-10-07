@@ -1,0 +1,2 @@
+# Luogu-P3758 Cola (discrete mathematics is not really fragrant without learning graph theory)
+[Luogu-P3758 Cola (discrete mathematics is not really fragrant without learning graph theory)](https://aiwithcloud.com/2022/09/19/luogu_p3758_cola_discrete_mathematics_is_not_really_fragrant_without_learning_graph_theory/)

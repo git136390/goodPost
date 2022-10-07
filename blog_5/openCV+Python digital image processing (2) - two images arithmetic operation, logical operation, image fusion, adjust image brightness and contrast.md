@@ -1,0 +1,2 @@
+# openCV+Python digital image processing (2) - two images arithmetic operation, logical operation, image fusion, adjust image brightness and contrast
+[openCV+Python digital image processing (2) - two images arithmetic operation, logical operation, image fusion, adjust image brightness and contrast](https://aiwithcloud.com/2022/09/16/opencvpython_digital_image_processing_2___two_images_arithmetic_operation_logical_operation_image_fusion_adjust_image_brightness_and_contrast/)

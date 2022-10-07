@@ -1,0 +1,2 @@
+# Arm64 platform to build cross-compilation development environment - take FT1500a cpu+Kylin4.0.2-sp2 system as an example
+[Arm64 platform to build cross-compilation development environment - take FT1500a cpu+Kylin4.0.2-sp2 system as an example](https://aiwithcloud.com/2022/09/19/arm64_platform_to_build_cross_compilation_development_environment___take_ft1500a_cpukylin4-0-2_sp2_system_as_an_example/)

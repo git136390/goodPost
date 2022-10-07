@@ -1,0 +1,2 @@
+# Four implementations of YOLO target detection in C++ and Python
+[Four implementations of YOLO target detection in C++ and Python](https://aiwithcloud.com/2022/09/15/four_implementations_of_yolo_target_detection_in_c_and_python/)

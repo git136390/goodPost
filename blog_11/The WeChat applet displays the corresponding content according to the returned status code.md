@@ -1,0 +1,2 @@
+# The WeChat applet displays the corresponding content according to the returned status code
+[The WeChat applet displays the corresponding content according to the returned status code](https://aiwithcloud.com/2022/09/19/the_wechat_applet_displays_the_corresponding_content_according_to_the_returned_status_code/)

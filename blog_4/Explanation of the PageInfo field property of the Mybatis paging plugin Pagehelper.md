@@ -1,0 +1,2 @@
+# Explanation of the PageInfo field property of the Mybatis paging plugin Pagehelper
+[Explanation of the PageInfo field property of the Mybatis paging plugin Pagehelper](https://aiwithcloud.com/2022/09/15/explanation_of_the_pageinfo_field_property_of_the_mybatis_paging_plugin_pagehelper/)

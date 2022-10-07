@@ -1,0 +1,2 @@
+# AI4DB Root Cause Analysis of Slow SQL in Artificial Intelligence
+[AI4DB Root Cause Analysis of Slow SQL in Artificial Intelligence](https://aiwithcloud.com/2022/09/19/ai4db_root_cause_analysis_of_slow_sql_in_artificial_intelligence/)

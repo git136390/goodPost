@@ -1,0 +1,2 @@
+# Zookeeper uses and simulates the principle of the registry
+[Zookeeper uses and simulates the principle of the registry](https://aiwithcloud.com/2022/09/16/zookeeper_uses_and_simulates_the_principle_of_the_registry/)

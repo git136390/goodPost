@@ -1,0 +1,2 @@
+# Mac pro M1 (ARM) installation ftp remote file transfer tool
+[Mac pro M1 (ARM) installation ftp remote file transfer tool](https://aiwithcloud.com/2022/09/16/mac_pro_m1_arm_installation_ftp_remote_file_transfer_tool/)

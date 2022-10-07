@@ -1,0 +1,2 @@
+# Python learning and summarizing the introduction of the basic library, the installation of third-party libraries
+[Python learning and summarizing the introduction of the basic library, the installation of third-party libraries](https://aiwithcloud.com/2022/09/16/python_learning_and_summarizing_the_introduction_of_the_basic_library_the_installation_of_third_party_libraries/)

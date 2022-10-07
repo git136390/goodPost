@@ -1,0 +1,2 @@
+# Direct insertion sorting of data structures (core code for parsing in vernacular)
+[Direct insertion sorting of data structures (core code for parsing in vernacular)](https://aiwithcloud.com/2022/09/19/direct_insertion_sorting_of_data_structures_core_code_for_parsing_in_vernacular/)

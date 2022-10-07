@@ -1,0 +1,2 @@
+# The springboot project accesses the html page and finds solutions for inconsistent ports
+[The springboot project accesses the html page and finds solutions for inconsistent ports](https://aiwithcloud.com/2022/09/15/the_springboot_project_accesses_the_html_page_and_finds_solutions_for_inconsistent_ports/)

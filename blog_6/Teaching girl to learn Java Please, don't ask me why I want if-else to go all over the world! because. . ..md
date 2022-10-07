@@ -1,0 +1,2 @@
+# Teaching girl to learn Java Please, don't ask me why I want if-else to go all over the world! because. . .
+[Teaching girl to learn Java Please, don't ask me why I want if-else to go all over the world! because. . .](https://aiwithcloud.com/2022/09/16/teaching_girl_to_learn_java_please_dont_ask_me_why_i_want_if_else_to_go_all_over_the_world_because-_-_/)

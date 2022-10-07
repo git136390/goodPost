@@ -1,0 +1,2 @@
+# Selection sort of common sorting algorithms - direct selection sort, heap sort
+[Selection sort of common sorting algorithms - direct selection sort, heap sort](https://aiwithcloud.com/2022/09/19/selection_sort_of_common_sorting_algorithms___direct_selection_sort_heap_sort/)

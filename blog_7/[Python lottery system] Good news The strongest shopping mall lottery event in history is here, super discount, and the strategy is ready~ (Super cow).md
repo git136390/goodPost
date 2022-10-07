@@ -1,0 +1,2 @@
+# [Python lottery system] Good news The strongest shopping mall lottery event in history is here, super discount, and the strategy is ready~ (Super cow)
+[[Python lottery system] Good news The strongest shopping mall lottery event in history is here, super discount, and the strategy is ready~ (Super cow)](https://aiwithcloud.com/2022/09/16/python_lottery_system_good_news_the_strongest_shopping_mall_lottery_event_in_history_is_here_super_discount_and_the_strategy_is_ready_super_cow/)

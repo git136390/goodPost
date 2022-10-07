@@ -1,0 +1,2 @@
+# Vuex detailed explanation, one article thoroughly understands Vuex
+[Vuex detailed explanation, one article thoroughly understands Vuex](https://aiwithcloud.com/2022/09/19/vuex_detailed_explanation_one_article_thoroughly_understands_vuex/)

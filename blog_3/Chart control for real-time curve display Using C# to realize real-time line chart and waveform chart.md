@@ -1,0 +1,2 @@
+# Chart control for real-time curve display Using C# to realize real-time line chart and waveform chart
+[Chart control for real-time curve display Using C# to realize real-time line chart and waveform chart](https://aiwithcloud.com/2022/09/15/chart_control_for_real_time_curve_display_using_c_to_realize_real_time_line_chart_and_waveform_chart/)

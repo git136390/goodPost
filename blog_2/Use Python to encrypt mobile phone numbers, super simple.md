@@ -1,0 +1,2 @@
+# Use Python to encrypt mobile phone numbers, super simple
+[Use Python to encrypt mobile phone numbers, super simple](https://aiwithcloud.com/2022/09/15/use_python_to_encrypt_mobile_phone_numbers_super_simple/)

@@ -1,0 +1,2 @@
+# [Dynamic programming] The shortest path of multi-segment graph (moving graph demo)
+[[Dynamic programming] The shortest path of multi-segment graph (moving graph demo)](https://aiwithcloud.com/2022/09/15/dynamic_programming_the_shortest_path_of_multi_segment_graph_moving_graph_demo/)

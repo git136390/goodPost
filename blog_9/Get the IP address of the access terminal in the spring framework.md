@@ -1,0 +1,2 @@
+# Get the IP address of the access terminal in the spring framework
+[Get the IP address of the access terminal in the spring framework](https://aiwithcloud.com/2022/09/19/get_the_ip_address_of_the_access_terminal_in_the_spring_framework/)

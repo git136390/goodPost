@@ -1,0 +1,2 @@
+# The usage of Preconditions in Google Guava makes precondition judgment more elegant
+[The usage of Preconditions in Google Guava makes precondition judgment more elegant](https://aiwithcloud.com/2022/09/16/the_usage_of_preconditions_in_google_guava_makes_precondition_judgment_more_elegant/)

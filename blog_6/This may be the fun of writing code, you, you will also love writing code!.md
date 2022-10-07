@@ -1,0 +1,2 @@
+# This may be the fun of writing code, you, you will also love writing code!
+[This may be the fun of writing code, you, you will also love writing code!](https://aiwithcloud.com/2022/09/16/this_may_be_the_fun_of_writing_code_you_you_will_also_love_writing_code/)

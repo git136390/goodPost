@@ -1,0 +1,2 @@
+# Converting Java strings to camel case to build tool classes
+[Converting Java strings to camel case to build tool classes](https://aiwithcloud.com/2022/09/15/converting_java_strings_to_camel_case_to_build_tool_classes/)

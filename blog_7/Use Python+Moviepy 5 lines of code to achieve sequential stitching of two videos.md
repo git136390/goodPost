@@ -1,0 +1,2 @@
+# Use Python+Moviepy 5 lines of code to achieve sequential stitching of two videos
+[Use Python+Moviepy 5 lines of code to achieve sequential stitching of two videos](https://aiwithcloud.com/2022/09/16/use_pythonmoviepy_5_lines_of_code_to_achieve_sequential_stitching_of_two_videos/)

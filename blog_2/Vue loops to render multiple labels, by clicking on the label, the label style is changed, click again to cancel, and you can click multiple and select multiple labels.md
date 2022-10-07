@@ -1,0 +1,2 @@
+# Vue loops to render multiple labels, by clicking on the label, the label style is changed, click again to cancel, and you can click multiple and select multiple labels
+[Vue loops to render multiple labels, by clicking on the label, the label style is changed, click again to cancel, and you can click multiple and select multiple labels](https://aiwithcloud.com/2022/09/15/vue_loops_to_render_multiple_labels_by_clicking_on_the_label_the_label_style_is_changed_click_again_to_cancel_and_you_can_click_multiple_and_select_multiple_labels/)

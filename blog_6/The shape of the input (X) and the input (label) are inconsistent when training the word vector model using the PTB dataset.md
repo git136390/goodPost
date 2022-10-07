@@ -1,0 +1,2 @@
+# The shape of the input (X) and the input (label) are inconsistent when training the word vector model using the PTB dataset
+[The shape of the input (X) and the input (label) are inconsistent when training the word vector model using the PTB dataset](https://aiwithcloud.com/2022/09/16/the_shape_of_the_input_x_and_the_input_label_are_inconsistent_when_training_the_word_vector_model_using_the_ptb_dataset/)

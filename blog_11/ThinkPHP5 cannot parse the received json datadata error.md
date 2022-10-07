@@ -1,0 +1,2 @@
+# ThinkPHP5 cannot parse the received json datadata error
+[ThinkPHP5 cannot parse the received json datadata error](https://aiwithcloud.com/2022/09/19/thinkphp5_cannot_parse_the_received_json_datadata_error/)

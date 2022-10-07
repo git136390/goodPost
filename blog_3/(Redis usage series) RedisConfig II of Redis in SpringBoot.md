@@ -1,0 +1,2 @@
+# (Redis usage series) RedisConfig II of Redis in SpringBoot
+[(Redis usage series) RedisConfig II of Redis in SpringBoot](https://aiwithcloud.com/2022/09/15/redis_usage_series_redisconfig_ii_of_redis_in_springboot/)

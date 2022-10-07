@@ -1,0 +1,2 @@
+# Select to query multiple pieces of data returns only one piece of data
+[Select to query multiple pieces of data returns only one piece of data](https://aiwithcloud.com/2022/09/19/select_to_query_multiple_pieces_of_data_returns_only_one_piece_of_data/)

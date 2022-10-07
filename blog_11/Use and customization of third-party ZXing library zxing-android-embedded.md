@@ -1,0 +1,2 @@
+# Use and customization of third-party ZXing library zxing-android-embedded
+[Use and customization of third-party ZXing library zxing-android-embedded](https://aiwithcloud.com/2022/09/19/use_and_customization_of_third_party_zxing_library_zxing_android_embedded/)

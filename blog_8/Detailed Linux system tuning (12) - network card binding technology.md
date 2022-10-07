@@ -1,0 +1,2 @@
+# Detailed Linux system tuning (12) - network card binding technology
+[Detailed Linux system tuning (12) - network card binding technology](https://aiwithcloud.com/2022/09/19/detailed_linux_system_tuning_12___network_card_binding_technology/)

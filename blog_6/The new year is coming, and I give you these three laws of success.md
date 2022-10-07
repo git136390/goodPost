@@ -1,0 +1,2 @@
+# The new year is coming, and I give you these three laws of success
+[The new year is coming, and I give you these three laws of success](https://aiwithcloud.com/2022/09/16/the_new_year_is_coming_and_i_give_you_these_three_laws_of_success/)

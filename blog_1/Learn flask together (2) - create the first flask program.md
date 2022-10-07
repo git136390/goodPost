@@ -1,0 +1,2 @@
+# Learn flask together (2) - create the first flask program
+[Learn flask together (2) - create the first flask program](https://aiwithcloud.com/2022/09/15/learn_flask_together_2___create_the_first_flask_program/)

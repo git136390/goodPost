@@ -1,0 +1,2 @@
+# Logstash+grok+json+elasticsearch parses complex log data (1)
+[Logstash+grok+json+elasticsearch parses complex log data (1)](https://aiwithcloud.com/2022/09/19/logstashgrokjsonelasticsearch_parses_complex_log_data_1/)

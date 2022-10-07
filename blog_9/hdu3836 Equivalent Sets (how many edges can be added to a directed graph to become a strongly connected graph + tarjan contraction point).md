@@ -1,0 +1,2 @@
+# hdu3836 Equivalent Sets (how many edges can be added to a directed graph to become a strongly connected graph + tarjan contraction point)
+[hdu3836 Equivalent Sets (how many edges can be added to a directed graph to become a strongly connected graph + tarjan contraction point)](https://aiwithcloud.com/2022/09/19/hdu3836_equivalent_sets_how_many_edges_can_be_added_to_a_directed_graph_to_become_a_strongly_connected_graph__tarjan_contraction_point/)

@@ -1,0 +1,2 @@
+# Combined with Tesseract to complete graphic verification code recognition
+[Combined with Tesseract to complete graphic verification code recognition](https://aiwithcloud.com/2022/09/15/combined_with_tesseract_to_complete_graphic_verification_code_recognition/)

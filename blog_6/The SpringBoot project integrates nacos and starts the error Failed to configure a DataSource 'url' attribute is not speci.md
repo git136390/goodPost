@@ -1,0 +1,2 @@
+# The SpringBoot project integrates nacos and starts the error Failed to configure a DataSource 'url' attribute is not speci
+[The SpringBoot project integrates nacos and starts the error Failed to configure a DataSource 'url' attribute is not speci](https://aiwithcloud.com/2022/09/16/the_springboot_project_integrates_nacos_and_starts_the_error_failed_to_configure_a_datasource_url_attribute_is_not_speci/)

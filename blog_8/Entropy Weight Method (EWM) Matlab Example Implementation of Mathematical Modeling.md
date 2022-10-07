@@ -1,0 +1,2 @@
+# Entropy Weight Method (EWM) Matlab Example Implementation of Mathematical Modeling
+[Entropy Weight Method (EWM) Matlab Example Implementation of Mathematical Modeling](https://aiwithcloud.com/2022/09/19/entropy_weight_method_ewm_matlab_example_implementation_of_mathematical_modeling/)

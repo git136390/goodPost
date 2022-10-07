@@ -1,0 +1,2 @@
+# ES view cluster information (health status, shards, indexes, etc.)
+[ES view cluster information (health status, shards, indexes, etc.)](https://aiwithcloud.com/2022/09/19/es_view_cluster_information_health_status_shards_indexes_etc/)

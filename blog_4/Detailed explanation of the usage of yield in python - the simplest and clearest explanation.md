@@ -1,0 +1,2 @@
+# Detailed explanation of the usage of yield in python - the simplest and clearest explanation
+[Detailed explanation of the usage of yield in python - the simplest and clearest explanation](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_usage_of_yield_in_python___the_simplest_and_clearest_explanation/)

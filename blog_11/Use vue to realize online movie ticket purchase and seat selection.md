@@ -1,0 +1,2 @@
+# Use vue to realize online movie ticket purchase and seat selection
+[Use vue to realize online movie ticket purchase and seat selection](https://aiwithcloud.com/2022/09/19/use_vue_to_realize_online_movie_ticket_purchase_and_seat_selection/)

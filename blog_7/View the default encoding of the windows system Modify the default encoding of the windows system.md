@@ -1,0 +1,2 @@
+# View the default encoding of the windows system Modify the default encoding of the windows system
+[View the default encoding of the windows system Modify the default encoding of the windows system](https://aiwithcloud.com/2022/09/16/view_the_default_encoding_of_the_windows_system_modify_the_default_encoding_of_the_windows_system/)

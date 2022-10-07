@@ -1,0 +1,2 @@
+# The Structural Type of Java Design Patterns Proxy Pattern
+[The Structural Type of Java Design Patterns Proxy Pattern](https://aiwithcloud.com/2022/09/19/the_structural_type_of_java_design_patterns_proxy_pattern/)

@@ -1,0 +1,2 @@
+# Basic understanding of javaSE, data types and operators
+[Basic understanding of javaSE, data types and operators](https://aiwithcloud.com/2022/09/15/basic_understanding_of_javase_data_types_and_operators/)

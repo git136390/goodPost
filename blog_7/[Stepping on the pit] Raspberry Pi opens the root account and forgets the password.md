@@ -1,0 +1,2 @@
+# [Stepping on the pit] Raspberry Pi opens the root account and forgets the password
+[[Stepping on the pit] Raspberry Pi opens the root account and forgets the password](https://aiwithcloud.com/2022/09/16/stepping_on_the_pit_raspberry_pi_opens_the_root_account_and_forgets_the_password/)

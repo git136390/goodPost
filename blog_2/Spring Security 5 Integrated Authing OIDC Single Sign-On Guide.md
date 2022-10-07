@@ -1,0 +1,2 @@
+# Spring Security 5 Integrated Authing OIDC Single Sign-On Guide
+[Spring Security 5 Integrated Authing OIDC Single Sign-On Guide](https://aiwithcloud.com/2022/09/15/spring_security_5_integrated_authing_oidc_single_sign_on_guide/)

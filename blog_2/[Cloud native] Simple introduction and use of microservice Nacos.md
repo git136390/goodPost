@@ -1,0 +1,2 @@
+# [Cloud native] Simple introduction and use of microservice Nacos
+[[Cloud native] Simple introduction and use of microservice Nacos](https://aiwithcloud.com/2022/09/15/cloud_native_simple_introduction_and_use_of_microservice_nacos/)

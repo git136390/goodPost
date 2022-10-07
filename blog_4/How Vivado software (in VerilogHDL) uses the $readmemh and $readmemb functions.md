@@ -1,0 +1,2 @@
+# How Vivado software (in VerilogHDL) uses the $readmemh and $readmemb functions
+[How Vivado software (in VerilogHDL) uses the $readmemh and $readmemb functions](https://aiwithcloud.com/2022/09/15/how_vivado_software_in_veriloghdl_uses_the_readmemh_and_readmemb_functions/)

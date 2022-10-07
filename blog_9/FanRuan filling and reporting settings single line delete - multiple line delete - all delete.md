@@ -1,0 +1,2 @@
+# FanRuan filling and reporting settings single line delete - multiple line delete - all delete
+[FanRuan filling and reporting settings single line delete - multiple line delete - all delete](https://aiwithcloud.com/2022/09/19/fanruan_filling_and_reporting_settings_single_line_delete___multiple_line_delete___all_delete/)

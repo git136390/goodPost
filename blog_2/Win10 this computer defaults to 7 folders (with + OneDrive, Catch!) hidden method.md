@@ -1,0 +1,2 @@
+# Win10 this computer defaults to 7 folders (with + OneDrive, Catch!) hidden method
+[Win10 this computer defaults to 7 folders (with + OneDrive, Catch!) hidden method](https://aiwithcloud.com/2022/09/15/win10_this_computer_defaults_to_7_folders_with__onedrive_catch_hidden_method/)

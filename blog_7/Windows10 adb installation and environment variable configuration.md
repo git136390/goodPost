@@ -1,0 +1,2 @@
+# Windows10 adb installation and environment variable configuration
+[Windows10 adb installation and environment variable configuration](https://aiwithcloud.com/2022/09/16/windows10_adb_installation_and_environment_variable_configuration/)

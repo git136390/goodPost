@@ -1,0 +1,2 @@
+# Strange problem about Android Https network connection failure ExtCertPathValidatorException
+[Strange problem about Android Https network connection failure ExtCertPathValidatorException](https://aiwithcloud.com/2022/09/15/strange_problem_about_android_https_network_connection_failure_extcertpathvalidatorexception/)

@@ -1,0 +1,2 @@
+# Basic knowledge of computer binary & memory original code one's complement complement
+[Basic knowledge of computer binary & memory original code one's complement complement](https://aiwithcloud.com/2022/09/15/basic_knowledge_of_computer_binary__memory_original_code_ones_complement_complement/)

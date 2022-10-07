@@ -1,0 +1,2 @@
+# The establishment and use of ListView control in Android studio APP development
+[The establishment and use of ListView control in Android studio APP development](https://aiwithcloud.com/2022/09/16/the_establishment_and_use_of_listview_control_in_android_studio_app_development/)

@@ -1,0 +1,2 @@
+# A possibility that the CH340 module cannot be recognizedprogrammed
+[A possibility that the CH340 module cannot be recognizedprogrammed](https://aiwithcloud.com/2022/09/19/a_possibility_that_the_ch340_module_cannot_be_recognizedprogrammed/)

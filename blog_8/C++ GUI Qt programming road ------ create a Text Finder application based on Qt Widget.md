@@ -1,0 +1,2 @@
+# C++ GUI Qt programming road ------ create a Text Finder application based on Qt Widget
+[C++ GUI Qt programming road ------ create a Text Finder application based on Qt Widget](https://aiwithcloud.com/2022/09/19/c_gui_qt_programming_road________create_a_text_finder_application_based_on_qt_widget/)

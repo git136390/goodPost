@@ -1,0 +1,2 @@
+# Ping command configuration -c, -i, -w instructions use
+[Ping command configuration -c, -i, -w instructions use](https://aiwithcloud.com/2022/09/19/ping_command_configuration__c__i__w_instructions_use/)

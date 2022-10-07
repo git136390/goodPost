@@ -1,0 +1,2 @@
+# PaddlePaddle has a data length error when calling the word vector dataset interface provided by PaddlePaddle for training
+[PaddlePaddle has a data length error when calling the word vector dataset interface provided by PaddlePaddle for training](https://aiwithcloud.com/2022/09/19/paddlepaddle_has_a_data_length_error_when_calling_the_word_vector_dataset_interface_provided_by_paddlepaddle_for_training/)

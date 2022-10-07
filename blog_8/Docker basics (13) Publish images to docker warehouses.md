@@ -1,0 +1,2 @@
+# Docker basics (13) Publish images to docker warehouses
+[Docker basics (13) Publish images to docker warehouses](https://aiwithcloud.com/2022/09/19/docker_basics_13_publish_images_to_docker_warehouses/)

@@ -1,0 +1,2 @@
+# [Prepare for the Blue Bridge, impact the province one]-- Date issue
+[[Prepare for the Blue Bridge, impact the province one]-- Date issue](https://aiwithcloud.com/2022/09/19/prepare_for_the_blue_bridge_impact_the_province_one___date_issue/)

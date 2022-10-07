@@ -1,0 +1,2 @@
+# Master the process of building a neural network in Pytorch in ten minutes
+[Master the process of building a neural network in Pytorch in ten minutes](https://aiwithcloud.com/2022/09/15/master_the_process_of_building_a_neural_network_in_pytorch_in_ten_minutes/)

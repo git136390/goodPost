@@ -1,0 +1,2 @@
+# FFmpeg development (01) FFmpeg compilation and integration
+[FFmpeg development (01) FFmpeg compilation and integration](https://aiwithcloud.com/2022/09/15/ffmpeg_development_01_ffmpeg_compilation_and_integration/)

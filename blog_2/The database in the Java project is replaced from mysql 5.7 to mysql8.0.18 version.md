@@ -1,0 +1,2 @@
+# The database in the Java project is replaced from mysql 5.7 to mysql8.0.18 version
+[The database in the Java project is replaced from mysql 5.7 to mysql8.0.18 version](https://aiwithcloud.com/2022/09/15/the_database_in_the_java_project_is_replaced_from_mysql_5-7_to_mysql8-0-18_version/)

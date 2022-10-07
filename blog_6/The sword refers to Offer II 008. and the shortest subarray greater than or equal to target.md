@@ -1,0 +1,2 @@
+# The sword refers to Offer II 008. and the shortest subarray greater than or equal to target
+[The sword refers to Offer II 008. and the shortest subarray greater than or equal to target](https://aiwithcloud.com/2022/09/16/the_sword_refers_to_offer_ii_008-_and_the_shortest_subarray_greater_than_or_equal_to_target/)

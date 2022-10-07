@@ -1,0 +1,2 @@
+# idea to create a new SpringBoot project, specific to each step
+[idea to create a new SpringBoot project, specific to each step](https://aiwithcloud.com/2022/09/15/idea_to_create_a_new_springboot_project_specific_to_each_step/)

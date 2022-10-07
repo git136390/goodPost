@@ -1,0 +1,2 @@
+# Use python to generate orthophotos, digital elevation models and 3D modeling of drone images
+[Use python to generate orthophotos, digital elevation models and 3D modeling of drone images](https://aiwithcloud.com/2022/09/19/use_python_to_generate_orthophotos_digital_elevation_models_and_3d_modeling_of_drone_images/)

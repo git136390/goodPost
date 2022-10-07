@@ -1,0 +1,2 @@
+# Python Quick Questions Website - Niuke.com Data Analysis (6)
+[Python Quick Questions Website - Niuke.com Data Analysis (6)](https://aiwithcloud.com/2022/09/16/python_quick_questions_website___niuke-com_data_analysis_6/)

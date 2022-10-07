@@ -1,0 +1,2 @@
+# See how three years of CRUD programmers solve database deadlocks
+[See how three years of CRUD programmers solve database deadlocks](https://aiwithcloud.com/2022/09/19/see_how_three_years_of_crud_programmers_solve_database_deadlocks/)

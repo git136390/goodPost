@@ -1,0 +1,2 @@
+# [OpenCV Study Notes] Chapter 17 Image Segmentation and Extraction
+[[OpenCV Study Notes] Chapter 17 Image Segmentation and Extraction](https://aiwithcloud.com/2022/09/19/opencv_study_notes_chapter_17_image_segmentation_and_extraction/)

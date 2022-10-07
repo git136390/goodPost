@@ -1,0 +1,2 @@
+# Mathematical modeling - entropy weight method (with detailed code of actual combat, specific comments and running results)
+[Mathematical modeling - entropy weight method (with detailed code of actual combat, specific comments and running results)](https://aiwithcloud.com/2022/09/16/mathematical_modeling___entropy_weight_method_with_detailed_code_of_actual_combat_specific_comments_and_running_results/)

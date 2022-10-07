@@ -1,0 +1,2 @@
+# The role and interpretation of various XML in Android resource files
+[The role and interpretation of various XML in Android resource files](https://aiwithcloud.com/2022/09/16/the_role_and_interpretation_of_various_xml_in_android_resource_files/)

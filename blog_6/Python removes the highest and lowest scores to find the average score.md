@@ -1,0 +1,2 @@
+# Python removes the highest and lowest scores to find the average score
+[Python removes the highest and lowest scores to find the average score](https://aiwithcloud.com/2022/09/16/python_removes_the_highest_and_lowest_scores_to_find_the_average_score/)

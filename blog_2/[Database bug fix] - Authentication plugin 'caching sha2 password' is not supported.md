@@ -1,0 +1,2 @@
+# [Database bug fix] - Authentication plugin 'caching sha2 password' is not supported
+[[Database bug fix] - Authentication plugin 'caching sha2 password' is not supported](https://aiwithcloud.com/2022/09/15/database_bug_fix___authentication_plugin_caching_sha2_password_is_not_supported/)

@@ -1,0 +1,2 @@
+# [Mysql] The service has no response control function. Please type NET HELPMSG 2186 for more help.
+[[Mysql] The service has no response control function. Please type NET HELPMSG 2186 for more help.](https://aiwithcloud.com/2022/09/19/mysql_the_service_has_no_response_control_function-_please_type_net_helpmsg_2186_for_more_help/)

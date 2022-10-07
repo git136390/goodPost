@@ -1,0 +1,2 @@
+# How does Android start an activity without showing the interface
+[How does Android start an activity without showing the interface](https://aiwithcloud.com/2022/09/15/how_does_android_start_an_activity_without_showing_the_interface/)

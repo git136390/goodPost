@@ -1,0 +1,2 @@
+# SpringBoot integrates Rabbitmq (introductory tutorial) for code testing of Direct, Topic, and Fanout modes respectively
+[SpringBoot integrates Rabbitmq (introductory tutorial) for code testing of Direct, Topic, and Fanout modes respectively](https://aiwithcloud.com/2022/09/19/springboot_integrates_rabbitmq_introductory_tutorial_for_code_testing_of_direct_topic_and_fanout_modes_respectively/)

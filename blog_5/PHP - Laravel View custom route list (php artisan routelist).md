@@ -1,0 +1,2 @@
+# PHP - Laravel View custom route list (php artisan routelist)
+[PHP - Laravel View custom route list (php artisan routelist)](https://aiwithcloud.com/2022/09/16/php___laravel_view_custom_route_list_php_artisan_routelist/)

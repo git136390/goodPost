@@ -1,0 +1,2 @@
+# Python basics ------ generate multiple random numbers
+[Python basics ------ generate multiple random numbers](https://aiwithcloud.com/2022/09/15/python_basics________generate_multiple_random_numbers/)

@@ -1,0 +1,2 @@
+# WeChat Mini Program - Device Information and Version Update
+[WeChat Mini Program - Device Information and Version Update](https://aiwithcloud.com/2022/09/16/wechat_mini_program___device_information_and_version_update/)

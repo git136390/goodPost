@@ -1,0 +1,2 @@
+# It is wrong to increase max result window, ES can only query the correct solution for the first 10000 pieces of data
+[It is wrong to increase max result window, ES can only query the correct solution for the first 10000 pieces of data](https://aiwithcloud.com/2022/09/19/it_is_wrong_to_increase_max_result_window_es_can_only_query_the_correct_solution_for_the_first_10000_pieces_of_data/)

@@ -1,0 +1,2 @@
+# [OpenCV Study Notes] Chapter 19 Getting Started with Video Operations
+[[OpenCV Study Notes] Chapter 19 Getting Started with Video Operations](https://aiwithcloud.com/2022/09/19/opencv_study_notes_chapter_19_getting_started_with_video_operations/)

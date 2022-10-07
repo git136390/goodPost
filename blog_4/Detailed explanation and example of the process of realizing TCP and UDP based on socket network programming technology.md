@@ -1,0 +1,2 @@
+# Detailed explanation and example of the process of realizing TCP and UDP based on socket network programming technology
+[Detailed explanation and example of the process of realizing TCP and UDP based on socket network programming technology](https://aiwithcloud.com/2022/09/15/detailed_explanation_and_example_of_the_process_of_realizing_tcp_and_udp_based_on_socket_network_programming_technology/)

@@ -1,0 +1,2 @@
+# Tossing and dividing method for modular inverse (C language)
+[Tossing and dividing method for modular inverse (C language)](https://aiwithcloud.com/2022/09/16/tossing_and_dividing_method_for_modular_inverse_c_language/)

@@ -1,0 +1,2 @@
+# I, 32 years old, programmer of Xiaomi company, reveal the real income of Beijing code farmers
+[I, 32 years old, programmer of Xiaomi company, reveal the real income of Beijing code farmers](https://aiwithcloud.com/2022/09/19/i_32_years_old_programmer_of_xiaomi_company_reveal_the_real_income_of_beijing_code_farmers/)

@@ -1,0 +1,2 @@
+# Use of LambdaQueryWrapper, LambdaUpdateWrapper, LambdaQueryChainWrapper
+[Use of LambdaQueryWrapper, LambdaUpdateWrapper, LambdaQueryChainWrapper](https://aiwithcloud.com/2022/09/16/use_of_lambdaquerywrapper_lambdaupdatewrapper_lambdaquerychainwrapper/)

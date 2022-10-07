@@ -1,0 +1,2 @@
+# Detailed explanation of the usage of format in python
+[Detailed explanation of the usage of format in python](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_usage_of_format_in_python/)

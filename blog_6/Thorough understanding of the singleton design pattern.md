@@ -1,0 +1,2 @@
+# Thorough understanding of the singleton design pattern
+[Thorough understanding of the singleton design pattern](https://aiwithcloud.com/2022/09/16/thorough_understanding_of_the_singleton_design_pattern/)

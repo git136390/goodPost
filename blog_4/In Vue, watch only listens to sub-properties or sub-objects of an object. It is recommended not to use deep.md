@@ -1,0 +1,2 @@
+# In Vue, watch only listens to sub-properties or sub-objects of an object. It is recommended not to use deep
+[In Vue, watch only listens to sub-properties or sub-objects of an object. It is recommended not to use deep](https://aiwithcloud.com/2022/09/15/in_vue_watch_only_listens_to_sub_properties_or_sub_objects_of_an_object-_it_is_recommended_not_to_use_deep/)

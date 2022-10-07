@@ -1,0 +1,2 @@
+# ELK detailed explanation (twenty-four) - geoip draws a heat map of access areas
+[ELK detailed explanation (twenty-four) - geoip draws a heat map of access areas](https://aiwithcloud.com/2022/09/19/elk_detailed_explanation_twenty_four___geoip_draws_a_heat_map_of_access_areas/)

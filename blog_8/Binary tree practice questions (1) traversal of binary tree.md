@@ -1,0 +1,2 @@
+# Binary tree practice questions (1) traversal of binary tree
+[Binary tree practice questions (1) traversal of binary tree](https://aiwithcloud.com/2022/09/19/binary_tree_practice_questions_1_traversal_of_binary_tree/)

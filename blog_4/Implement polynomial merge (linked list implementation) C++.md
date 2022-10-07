@@ -1,0 +1,2 @@
+# Implement polynomial merge (linked list implementation) C++
+[Implement polynomial merge (linked list implementation) C++](https://aiwithcloud.com/2022/09/15/implement_polynomial_merge_linked_list_implementation_c/)

@@ -1,0 +1,2 @@
+# C# Winfrom Chart chart control column chart, line chart
+[C# Winfrom Chart chart control column chart, line chart](https://aiwithcloud.com/2022/09/15/c_winfrom_chart_chart_control_column_chart_line_chart/)

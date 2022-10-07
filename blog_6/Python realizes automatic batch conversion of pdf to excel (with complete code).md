@@ -1,0 +1,2 @@
+# Python realizes automatic batch conversion of pdf to excel (with complete code)
+[Python realizes automatic batch conversion of pdf to excel (with complete code)](https://aiwithcloud.com/2022/09/16/python_realizes_automatic_batch_conversion_of_pdf_to_excel_with_complete_code/)

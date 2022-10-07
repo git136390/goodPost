@@ -1,0 +1,2 @@
+# The execution context of the execution process of JavaScript
+[The execution context of the execution process of JavaScript](https://aiwithcloud.com/2022/09/16/the_execution_context_of_the_execution_process_of_javascript/)

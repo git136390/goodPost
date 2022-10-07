@@ -1,0 +1,2 @@
+# [JavaSE Basics] Teach you how to play with Static keywords
+[[JavaSE Basics] Teach you how to play with Static keywords](https://aiwithcloud.com/2022/09/16/javase_basics_teach_you_how_to_play_with_static_keywords/)

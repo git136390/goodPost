@@ -1,0 +1,2 @@
+# ThinkPHP5 multi-table association query method join queries two database tables, and the query results are spliced and returned
+[ThinkPHP5 multi-table association query method join queries two database tables, and the query results are spliced and returned](https://aiwithcloud.com/2022/09/19/thinkphp5_multi_table_association_query_method_join_queries_two_database_tables_and_the_query_results_are_spliced_and_returned/)

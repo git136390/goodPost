@@ -1,0 +1,2 @@
+# Springboot project connection mysql database time zone error
+[Springboot project connection mysql database time zone error](https://aiwithcloud.com/2022/09/16/springboot_project_connection_mysql_database_time_zone_error/)

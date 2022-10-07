@@ -1,0 +1,2 @@
+# 03 [Verilog combat] UART communication protocol, half-duplex communication mode (with source code)
+[03 [Verilog combat] UART communication protocol, half-duplex communication mode (with source code)](https://aiwithcloud.com/2022/09/19/03_verilog_combat_uart_communication_protocol_half_duplex_communication_mode_with_source_code/)

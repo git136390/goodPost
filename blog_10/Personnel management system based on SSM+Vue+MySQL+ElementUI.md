@@ -1,0 +1,2 @@
+# Personnel management system based on SSM+Vue+MySQL+ElementUI
+[Personnel management system based on SSM+Vue+MySQL+ElementUI](https://aiwithcloud.com/2022/09/19/personnel_management_system_based_on_ssmvuemysqlelementui/)

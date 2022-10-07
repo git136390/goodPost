@@ -1,0 +1,2 @@
+# Linux----Common instructions and permission understanding (1)
+[Linux----Common instructions and permission understanding (1)](https://aiwithcloud.com/2022/09/16/linux____common_instructions_and_permission_understanding_1/)

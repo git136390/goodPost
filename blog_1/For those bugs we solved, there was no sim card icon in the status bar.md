@@ -1,0 +1,2 @@
+# For those bugs we solved, there was no sim card icon in the status bar
+[For those bugs we solved, there was no sim card icon in the status bar](https://aiwithcloud.com/2022/09/14/for_those_bugs_we_solved_there_was_no_sim_card_icon_in_the_status_bar/)

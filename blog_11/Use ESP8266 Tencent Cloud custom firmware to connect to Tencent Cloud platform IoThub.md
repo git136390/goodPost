@@ -1,0 +1,2 @@
+# Use ESP8266 Tencent Cloud custom firmware to connect to Tencent Cloud platform IoThub
+[Use ESP8266 Tencent Cloud custom firmware to connect to Tencent Cloud platform IoThub](https://aiwithcloud.com/2022/09/19/use_esp8266_tencent_cloud_custom_firmware_to_connect_to_tencent_cloud_platform_iothub/)

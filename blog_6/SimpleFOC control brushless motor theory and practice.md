@@ -1,0 +1,2 @@
+# SimpleFOC control brushless motor theory and practice
+[SimpleFOC control brushless motor theory and practice](https://aiwithcloud.com/2022/09/16/simplefoc_control_brushless_motor_theory_and_practice/)

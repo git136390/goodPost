@@ -1,0 +1,2 @@
+# Vue antdv Table component floating head and tail progress bar (encapsulated into components)
+[Vue antdv Table component floating head and tail progress bar (encapsulated into components)](https://aiwithcloud.com/2022/09/15/vue_antdv_table_component_floating_head_and_tail_progress_bar_encapsulated_into_components/)

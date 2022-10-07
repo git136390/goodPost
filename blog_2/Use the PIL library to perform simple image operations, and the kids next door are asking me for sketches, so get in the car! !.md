@@ -1,0 +1,2 @@
+# Use the PIL library to perform simple image operations, and the kids next door are asking me for sketches, so get in the car! !
+[Use the PIL library to perform simple image operations, and the kids next door are asking me for sketches, so get in the car! !](https://aiwithcloud.com/2022/09/15/use_the_pil_library_to_perform_simple_image_operations_and_the_kids_next_door_are_asking_me_for_sketches_so_get_in_the_car_/)

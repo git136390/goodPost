@@ -1,0 +1,2 @@
+# springcloud integrates nacos as registry and configuration center
+[springcloud integrates nacos as registry and configuration center](https://aiwithcloud.com/2022/09/15/springcloud_integrates_nacos_as_registry_and_configuration_center/)

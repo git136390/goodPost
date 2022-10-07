@@ -1,0 +1,2 @@
+# How to understand lambda expressions in Java - simplification
+[How to understand lambda expressions in Java - simplification](https://aiwithcloud.com/2022/09/15/how_to_understand_lambda_expressions_in_java___simplification/)

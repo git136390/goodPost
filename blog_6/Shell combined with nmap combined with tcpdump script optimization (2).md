@@ -1,0 +1,2 @@
+# Shell combined with nmap combined with tcpdump script optimization (2)
+[Shell combined with nmap combined with tcpdump script optimization (2)](https://aiwithcloud.com/2022/09/16/shell_combined_with_nmap_combined_with_tcpdump_script_optimization_2/)

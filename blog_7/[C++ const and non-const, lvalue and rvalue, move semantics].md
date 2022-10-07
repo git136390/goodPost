@@ -1,0 +1,2 @@
+# [C++ const and non-const, lvalue and rvalue, move semantics]
+[[C++ const and non-const, lvalue and rvalue, move semantics]](https://aiwithcloud.com/2022/09/16/c_const_and_non_const_lvalue_and_rvalue_move_semantics/)

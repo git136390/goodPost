@@ -1,0 +1,2 @@
+# KVM Detailed Explanation (5) - KVM Virtual Machine Image Format
+[KVM Detailed Explanation (5) - KVM Virtual Machine Image Format](https://aiwithcloud.com/2022/09/15/kvm_detailed_explanation_5___kvm_virtual_machine_image_format/)

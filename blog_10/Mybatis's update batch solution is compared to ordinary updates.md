@@ -1,0 +1,2 @@
+# Mybatis's update batch solution is compared to ordinary updates
+[Mybatis's update batch solution is compared to ordinary updates](https://aiwithcloud.com/2022/09/19/mybatiss_update_batch_solution_is_compared_to_ordinary_updates/)

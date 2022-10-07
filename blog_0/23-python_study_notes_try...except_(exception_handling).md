@@ -1,0 +1,2 @@
+# 23-python_study_notes_try...except_(exception_handling)
+[23-python_study_notes_try...except_(exception_handling)](https://aiwithcloud.com/2022/09/14/23_python_study_notes_try-except_exception_handling/)

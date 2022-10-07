@@ -1,0 +1,2 @@
+# Kettle download and installation tutorial [nanny version]
+[Kettle download and installation tutorial [nanny version]](https://aiwithcloud.com/2022/09/16/kettle_download_and_installation_tutorial_nanny_version/)

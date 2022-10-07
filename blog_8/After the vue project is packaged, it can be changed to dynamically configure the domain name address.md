@@ -1,0 +1,2 @@
+# After the vue project is packaged, it can be changed to dynamically configure the domain name address
+[After the vue project is packaged, it can be changed to dynamically configure the domain name address](https://aiwithcloud.com/2022/09/19/after_the_vue_project_is_packaged_it_can_be_changed_to_dynamically_configure_the_domain_name_address/)

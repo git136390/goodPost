@@ -1,0 +1,2 @@
+# [C] Replace spaces, macros implement binary parity exchange of integers
+[[C] Replace spaces, macros implement binary parity exchange of integers](https://aiwithcloud.com/2022/09/19/c_replace_spaces_macros_implement_binary_parity_exchange_of_integers/)

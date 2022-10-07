@@ -1,0 +1,2 @@
+# unity3d-code management template (primary singleton writing)
+[unity3d-code management template (primary singleton writing)](https://aiwithcloud.com/2022/09/16/unity3d_code_management_template_primary_singleton_writing/)

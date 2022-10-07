@@ -1,0 +1,2 @@
+# How to prepare for array-related questions when dealing with handwritten code for the written test
+[How to prepare for array-related questions when dealing with handwritten code for the written test](https://aiwithcloud.com/2022/09/19/how_to_prepare_for_array_related_questions_when_dealing_with_handwritten_code_for_the_written_test/)

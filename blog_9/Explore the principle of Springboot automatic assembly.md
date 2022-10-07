@@ -1,0 +1,2 @@
+# Explore the principle of Springboot automatic assembly
+[Explore the principle of Springboot automatic assembly](https://aiwithcloud.com/2022/09/19/explore_the_principle_of_springboot_automatic_assembly/)

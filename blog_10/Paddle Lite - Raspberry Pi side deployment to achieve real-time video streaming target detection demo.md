@@ -1,0 +1,2 @@
+# Paddle Lite - Raspberry Pi side deployment to achieve real-time video streaming target detection demo
+[Paddle Lite - Raspberry Pi side deployment to achieve real-time video streaming target detection demo](https://aiwithcloud.com/2022/09/19/paddle_lite___raspberry_pi_side_deployment_to_achieve_real_time_video_streaming_target_detection_demo/)

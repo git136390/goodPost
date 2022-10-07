@@ -1,0 +1,2 @@
+# Python 3: ImportError "doesn't have a module called Setuptools"
+[Python 3: ImportError "doesn't have a module called Setuptools"](https://aiwithcloud.com/2021/11/01/python-3-importerror-doesnt-have-a-module-called-setuptools/)

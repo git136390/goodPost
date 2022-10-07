@@ -1,0 +1,2 @@
+# Solve the problem of page jitter caused by the element pop-up frame component
+[Solve the problem of page jitter caused by the element pop-up frame component](https://aiwithcloud.com/2022/09/15/solve_the_problem_of_page_jitter_caused_by_the_element_pop_up_frame_component/)

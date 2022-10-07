@@ -1,0 +1,2 @@
+# Vscode verilog-format plugin configuration failure problem
+[Vscode verilog-format plugin configuration failure problem](https://aiwithcloud.com/2022/09/15/vscode_verilog_format_plugin_configuration_failure_problem/)

@@ -1,0 +1,2 @@
+# Ali was fined 18.2 billion! Use Python to analyze the secrets behind e-commerce live broadcasts (data attached at the end of the article)
+[Ali was fined 18.2 billion! Use Python to analyze the secrets behind e-commerce live broadcasts (data attached at the end of the article)](https://aiwithcloud.com/2022/09/15/ali_was_fined_18-2_billion_use_python_to_analyze_the_secrets_behind_e_commerce_live_broadcasts_data_attached_at_the_end_of_the_article/)

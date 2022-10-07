@@ -1,0 +1,2 @@
+# Intel oneAPI-DPCT porting CUDA program method, example and precautions
+[Intel oneAPI-DPCT porting CUDA program method, example and precautions](https://aiwithcloud.com/2022/09/15/intel_oneapi_dpct_porting_cuda_program_method_example_and_precautions/)

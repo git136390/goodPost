@@ -1,0 +1,2 @@
+# constant pool, runtime constant pool, string constant pool
+[constant pool, runtime constant pool, string constant pool](https://aiwithcloud.com/2022/09/14/constant_pool_runtime_constant_pool_string_constant_pool/)

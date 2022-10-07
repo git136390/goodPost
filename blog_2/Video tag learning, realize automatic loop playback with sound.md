@@ -1,0 +1,2 @@
+# Video tag learning, realize automatic loop playback with sound
+[Video tag learning, realize automatic loop playback with sound](https://aiwithcloud.com/2022/09/15/video_tag_learning_realize_automatic_loop_playback_with_sound/)

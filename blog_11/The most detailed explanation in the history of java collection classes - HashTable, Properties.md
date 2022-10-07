@@ -1,0 +1,2 @@
+# The most detailed explanation in the history of java collection classes - HashTable, Properties
+[The most detailed explanation in the history of java collection classes - HashTable, Properties](https://aiwithcloud.com/2022/09/19/the_most_detailed_explanation_in_the_history_of_java_collection_classes___hashtable_properties/)

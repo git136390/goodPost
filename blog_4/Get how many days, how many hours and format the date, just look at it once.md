@@ -1,0 +1,2 @@
+# Get how many days, how many hours and format the date, just look at it once
+[Get how many days, how many hours and format the date, just look at it once](https://aiwithcloud.com/2022/09/15/get_how_many_days_how_many_hours_and_format_the_date_just_look_at_it_once/)

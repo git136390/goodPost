@@ -1,0 +1,2 @@
+# Enter a large string on the keyboard, then enter a small string, and count the number of times the small string appears in the large string
+[Enter a large string on the keyboard, then enter a small string, and count the number of times the small string appears in the large string](https://aiwithcloud.com/2022/09/15/enter_a_large_string_on_the_keyboard_then_enter_a_small_string_and_count_the_number_of_times_the_small_string_appears_in_the_large_string/)

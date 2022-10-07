@@ -1,0 +1,2 @@
+# Several .mk doubts encountered when compiling the Android system.
+[Several .mk doubts encountered when compiling the Android system.](https://aiwithcloud.com/2022/09/16/several_-mk_doubts_encountered_when_compiling_the_android_system/)

@@ -1,0 +1,2 @@
+# C++ uses ShellExecute to open the folder where the target file is located and select the target file
+[C++ uses ShellExecute to open the folder where the target file is located and select the target file](https://aiwithcloud.com/2022/09/15/c_uses_shellexecute_to_open_the_folder_where_the_target_file_is_located_and_select_the_target_file/)

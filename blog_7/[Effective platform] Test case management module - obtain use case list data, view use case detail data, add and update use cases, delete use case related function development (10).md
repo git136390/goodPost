@@ -1,0 +1,2 @@
+# [Effective platform] Test case management module - obtain use case list data, view use case detail data, add and update use cases, delete use case related function development (10)
+[[Effective platform] Test case management module - obtain use case list data, view use case detail data, add and update use cases, delete use case related function development (10)](https://aiwithcloud.com/2022/09/16/effective_platform_test_case_management_module___obtain_use_case_list_data_view_use_case_detail_data_add_and_update_use_cases_delete_use_case_related_function_development_10/)

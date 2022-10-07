@@ -1,0 +1,2 @@
+# [WeChat applet] Host environment communication model operating mechanism components
+[[WeChat applet] Host environment communication model operating mechanism components](https://aiwithcloud.com/2022/09/16/wechat_applet_host_environment_communication_model_operating_mechanism_components/)

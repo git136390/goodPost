@@ -1,0 +1,2 @@
+# [leetcode] 24. Exchange the nodes in the linked list pairwise
+[[leetcode] 24. Exchange the nodes in the linked list pairwise](https://aiwithcloud.com/2022/09/19/leetcode_24-_exchange_the_nodes_in_the_linked_list_pairwise/)

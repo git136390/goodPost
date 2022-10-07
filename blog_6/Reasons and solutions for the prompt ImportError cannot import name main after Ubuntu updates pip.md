@@ -1,0 +1,2 @@
+# Reasons and solutions for the prompt ImportError cannot import name main after Ubuntu updates pip
+[Reasons and solutions for the prompt ImportError cannot import name main after Ubuntu updates pip](https://aiwithcloud.com/2022/09/16/reasons_and_solutions_for_the_prompt_importerror_cannot_import_name_main_after_ubuntu_updates_pip/)

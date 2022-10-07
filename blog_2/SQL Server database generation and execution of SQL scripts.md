@@ -1,0 +1,2 @@
+# SQL Server database generation and execution of SQL scripts
+[SQL Server database generation and execution of SQL scripts](https://aiwithcloud.com/2022/09/15/sql_server_database_generation_and_execution_of_sql_scripts/)

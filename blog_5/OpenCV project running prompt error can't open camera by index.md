@@ -1,0 +1,2 @@
+# OpenCV project running prompt error can't open camera by index
+[OpenCV project running prompt error can't open camera by index](https://aiwithcloud.com/2022/09/16/opencv_project_running_prompt_error_cant_open_camera_by_index/)

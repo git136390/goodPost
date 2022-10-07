@@ -1,0 +1,2 @@
+# libcxsparse3.1.2 reports an error when installing Ceres-related dependencies
+[libcxsparse3.1.2 reports an error when installing Ceres-related dependencies](https://aiwithcloud.com/2022/09/15/libcxsparse3-1-2_reports_an_error_when_installing_ceres_related_dependencies/)

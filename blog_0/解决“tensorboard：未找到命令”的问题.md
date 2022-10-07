@@ -1,0 +1,2 @@
+# 解决“tensorboard：未找到命令”的问题
+[解决“tensorboard：未找到命令”的问题](https://aiwithcloud.com/2021/02/03/%e8%a7%a3%e5%86%b3tensorboard%ef%bc%9a%e6%9c%aa%e6%89%be%e5%88%b0%e5%91%bd%e4%bb%a4%e7%9a%84%e9%97%ae%e9%a2%98/)

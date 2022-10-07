@@ -1,0 +1,2 @@
+# Basic syntax, variables and basic data types for python learning
+[Basic syntax, variables and basic data types for python learning](https://aiwithcloud.com/2022/09/15/basic_syntax_variables_and_basic_data_types_for_python_learning/)

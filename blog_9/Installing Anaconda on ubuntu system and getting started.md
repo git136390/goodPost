@@ -1,0 +1,2 @@
+# Installing Anaconda on ubuntu system and getting started
+[Installing Anaconda on ubuntu system and getting started](https://aiwithcloud.com/2022/09/19/installing_anaconda_on_ubuntu_system_and_getting_started/)

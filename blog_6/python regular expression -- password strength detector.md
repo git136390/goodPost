@@ -1,0 +1,2 @@
+# python regular expression -- password strength detector
+[python regular expression -- password strength detector](https://aiwithcloud.com/2022/09/16/python_regular_expression____password_strength_detector/)

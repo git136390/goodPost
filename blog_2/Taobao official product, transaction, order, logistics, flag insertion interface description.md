@@ -1,0 +1,2 @@
+# Taobao official product, transaction, order, logistics, flag insertion interface description
+[Taobao official product, transaction, order, logistics, flag insertion interface description](https://aiwithcloud.com/2022/09/15/taobao_official_product_transaction_order_logistics_flag_insertion_interface_description/)

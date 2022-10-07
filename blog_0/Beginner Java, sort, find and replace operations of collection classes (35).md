@@ -1,0 +1,2 @@
+# Beginner Java, sort, find and replace operations of collection classes (35)
+[Beginner Java, sort, find and replace operations of collection classes (35)](https://aiwithcloud.com/2022/09/14/beginner_java_sort_find_and_replace_operations_of_collection_classes_35/)

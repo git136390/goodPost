@@ -1,0 +1,2 @@
+# Alumni Association Mini Program Development Notes 2 Functional Requirements Design
+[Alumni Association Mini Program Development Notes 2 Functional Requirements Design](https://aiwithcloud.com/2022/09/19/alumni_association_mini_program_development_notes_2_functional_requirements_design/)

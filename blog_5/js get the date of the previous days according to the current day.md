@@ -1,0 +1,2 @@
+# js get the date of the previous days according to the current day
+[js get the date of the previous days according to the current day](https://aiwithcloud.com/2022/09/16/js_get_the_date_of_the_previous_days_according_to_the_current_day/)

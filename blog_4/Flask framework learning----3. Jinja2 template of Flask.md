@@ -1,0 +1,2 @@
+# Flask framework learning----3. Jinja2 template of Flask
+[Flask framework learning----3. Jinja2 template of Flask](https://aiwithcloud.com/2022/09/15/flask_framework_learning____3-_jinja2_template_of_flask/)

@@ -1,0 +1,2 @@
+# Dark horse recommendation system project combat [3] User-based collaborative filtering UserCF
+[Dark horse recommendation system project combat [3] User-based collaborative filtering UserCF](https://aiwithcloud.com/2022/09/19/dark_horse_recommendation_system_project_combat_3_user_based_collaborative_filtering_usercf/)

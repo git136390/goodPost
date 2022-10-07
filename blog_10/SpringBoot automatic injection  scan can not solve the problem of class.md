@@ -1,0 +1,2 @@
+# SpringBoot automatic injection  scan can not solve the problem of class
+[SpringBoot automatic injection  scan can not solve the problem of class](https://aiwithcloud.com/2022/09/19/springboot_automatic_injection__scan_can_not_solve_the_problem_of_class/)

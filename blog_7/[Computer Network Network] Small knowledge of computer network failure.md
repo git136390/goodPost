@@ -1,0 +1,2 @@
+# [Computer Network Network] Small knowledge of computer network failure
+[[Computer Network Network] Small knowledge of computer network failure](https://aiwithcloud.com/2022/09/16/computer_network_network_small_knowledge_of_computer_network_failure/)

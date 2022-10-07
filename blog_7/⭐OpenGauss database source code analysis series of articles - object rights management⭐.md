@@ -1,0 +1,2 @@
+# ⭐OpenGauss database source code analysis series of articles - object rights management⭐
+[⭐OpenGauss database source code analysis series of articles - object rights management⭐](https://aiwithcloud.com/2022/09/16/%e2%ad%90opengauss_database_source_code_analysis_series_of_articles___object_rights_management%e2%ad%90/)

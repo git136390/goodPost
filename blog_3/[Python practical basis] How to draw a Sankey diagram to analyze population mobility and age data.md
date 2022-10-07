@@ -1,0 +1,2 @@
+# [Python practical basis] How to draw a Sankey diagram to analyze population mobility and age data
+[[Python practical basis] How to draw a Sankey diagram to analyze population mobility and age data](https://aiwithcloud.com/2022/09/15/python_practical_basis_how_to_draw_a_sankey_diagram_to_analyze_population_mobility_and_age_data/)

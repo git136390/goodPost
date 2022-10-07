@@ -1,0 +1,2 @@
+# How to develop H5 web pages to adapt to various models
+[How to develop H5 web pages to adapt to various models](https://aiwithcloud.com/2022/09/15/how_to_develop_h5_web_pages_to_adapt_to_various_models/)

@@ -1,0 +1,2 @@
+# About the handling of the pop-up warning There is software preventing Firefox from securely connecting to the website after setting the proxy to BurpSuite in Firefox
+[About the handling of the pop-up warning There is software preventing Firefox from securely connecting to the website after setting the proxy to BurpSuite in Firefox](https://aiwithcloud.com/2022/09/19/about_the_handling_of_the_pop_up_warning_there_is_software_preventing_firefox_from_securely_connecting_to_the_website_after_setting_the_proxy_to_burpsuite_in_firefox/)

@@ -1,0 +1,2 @@
+# Error solutions such as...ERR unknown command 'iscan' appear when using Redis
+[Error solutions such as...ERR unknown command 'iscan' appear when using Redis](https://aiwithcloud.com/2022/09/15/error_solutions_such_as-err_unknown_command_iscan_appear_when_using_redis/)

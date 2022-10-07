@@ -1,0 +1,2 @@
+# Mathematical Foundations of Artificial Intelligence - Linear Algebra 4 Matrices and Matrix Operations
+[Mathematical Foundations of Artificial Intelligence - Linear Algebra 4 Matrices and Matrix Operations](https://aiwithcloud.com/2022/09/16/mathematical_foundations_of_artificial_intelligence___linear_algebra_4_matrices_and_matrix_operations/)

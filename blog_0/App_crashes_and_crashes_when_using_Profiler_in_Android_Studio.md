@@ -1,0 +1,2 @@
+# App_crashes_and_crashes_when_using_Profiler_in_Android_Studio
+[App_crashes_and_crashes_when_using_Profiler_in_Android_Studio](https://aiwithcloud.com/2022/09/14/app_crashes_and_crashes_when_using_profiler_in_android_studio/)

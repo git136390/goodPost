@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (22) - Neutron plug-in configuration
+[Detailed explanation of openstack (22) - Neutron plug-in configuration](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_openstack_22___neutron_plug_in_configuration/)

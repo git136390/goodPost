@@ -1,0 +1,2 @@
+# Divide and conquer strategy (Tower of Hanoi, binary search)
+[Divide and conquer strategy (Tower of Hanoi, binary search)](https://aiwithcloud.com/2022/09/15/divide_and_conquer_strategy_tower_of_hanoi_binary_search/)

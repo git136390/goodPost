@@ -1,0 +1,2 @@
+# Uncovering the Secret Ingredients of Enterprise-Scale Continuous Delivery with Argo CD
+[Uncovering the Secret Ingredients of Enterprise-Scale Continuous Delivery with Argo CD](https://aiwithcloud.com/2022/09/19/uncovering_the_secret_ingredients_of_enterprise_scale_continuous_delivery_with_argo_cd/)

@@ -1,0 +1,2 @@
+# Spring Data Elasticsearch dynamic index configuration
+[Spring Data Elasticsearch dynamic index configuration](https://aiwithcloud.com/2022/09/19/spring_data_elasticsearch_dynamic_index_configuration/)

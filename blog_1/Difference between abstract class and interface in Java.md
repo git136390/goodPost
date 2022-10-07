@@ -1,0 +1,2 @@
+# Difference between abstract class and interface in Java
+[Difference between abstract class and interface in Java](https://aiwithcloud.com/2022/09/14/difference_between_abstract_class_and_interface_in_java/)

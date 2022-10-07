@@ -1,0 +1,2 @@
+# Idea does not take effect when debug breakpoints are performed
+[Idea does not take effect when debug breakpoints are performed](https://aiwithcloud.com/2022/09/19/idea_does_not_take_effect_when_debug_breakpoints_are_performed/)

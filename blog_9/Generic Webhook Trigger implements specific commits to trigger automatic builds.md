@@ -1,0 +1,2 @@
+# Generic Webhook Trigger implements specific commits to trigger automatic builds
+[Generic Webhook Trigger implements specific commits to trigger automatic builds](https://aiwithcloud.com/2022/09/19/generic_webhook_trigger_implements_specific_commits_to_trigger_automatic_builds/)

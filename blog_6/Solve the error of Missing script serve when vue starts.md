@@ -1,0 +1,2 @@
+# Solve the error of Missing script serve when vue starts
+[Solve the error of Missing script serve when vue starts](https://aiwithcloud.com/2022/09/16/solve_the_error_of_missing_script_serve_when_vue_starts/)

@@ -1,0 +1,2 @@
+# ffmpeg series use C++ class to encapsulate ffmpeg to realize the function of opening video files
+[ffmpeg series use C++ class to encapsulate ffmpeg to realize the function of opening video files](https://aiwithcloud.com/2022/09/15/ffmpeg_series_use_c_class_to_encapsulate_ffmpeg_to_realize_the_function_of_opening_video_files/)

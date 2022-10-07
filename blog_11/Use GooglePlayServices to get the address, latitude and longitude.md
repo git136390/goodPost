@@ -1,0 +1,2 @@
+# Use GooglePlayServices to get the address, latitude and longitude
+[Use GooglePlayServices to get the address, latitude and longitude](https://aiwithcloud.com/2022/09/19/use_googleplayservices_to_get_the_address_latitude_and_longitude/)

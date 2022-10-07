@@ -1,0 +1,2 @@
+# Deep learning environment configuration 3 - tensorflow-gpu=2.2.0 environment configuration under windows
+[Deep learning environment configuration 3 - tensorflow-gpu=2.2.0 environment configuration under windows](https://aiwithcloud.com/2022/09/19/deep_learning_environment_configuration_3___tensorflow_gpu2-2-0_environment_configuration_under_windows/)

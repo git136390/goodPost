@@ -1,0 +1,2 @@
+# Android XML layout basics (seven) frame layout - FrameLayout
+[Android XML layout basics (seven) frame layout - FrameLayout](https://aiwithcloud.com/2022/09/15/android_xml_layout_basics_seven_frame_layout___framelayout/)

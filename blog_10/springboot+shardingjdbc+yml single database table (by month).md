@@ -1,0 +1,2 @@
+# springboot+shardingjdbc+yml single database table (by month)
+[springboot+shardingjdbc+yml single database table (by month)](https://aiwithcloud.com/2022/09/19/springbootshardingjdbcyml_single_database_table_by_month/)

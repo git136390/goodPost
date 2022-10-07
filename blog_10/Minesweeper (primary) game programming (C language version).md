@@ -1,0 +1,2 @@
+# Minesweeper (primary) game programming (C language version)
+[Minesweeper (primary) game programming (C language version)](https://aiwithcloud.com/2022/09/19/minesweeper_primary_game_programming_c_language_version/)

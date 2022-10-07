@@ -1,0 +1,2 @@
+# Baize ServoDriver esp8266-(arduino 32-way servo driver board) (open source can be self-made, with program and firmware and burning method)
+[Baize ServoDriver esp8266-(arduino 32-way servo driver board) (open source can be self-made, with program and firmware and burning method)](https://aiwithcloud.com/2022/09/19/baize_servodriver_esp8266_arduino_32_way_servo_driver_board_open_source_can_be_self_made_with_program_and_firmware_and_burning_method/)

@@ -1,0 +1,2 @@
+# Understanding of processes, threads, coroutines, synchronization, asynchrony, blocking, non-blocking, concurrent, parallel, serial
+[Understanding of processes, threads, coroutines, synchronization, asynchrony, blocking, non-blocking, concurrent, parallel, serial](https://aiwithcloud.com/2022/09/19/understanding_of_processes_threads_coroutines_synchronization_asynchrony_blocking_non_blocking_concurrent_parallel_serial/)

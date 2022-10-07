@@ -1,0 +1,2 @@
+# Series of n lines of Python code Two lines of code to convert JSON text to standard dictionary types
+[Series of n lines of Python code Two lines of code to convert JSON text to standard dictionary types](https://aiwithcloud.com/2022/09/16/series_of_n_lines_of_python_code_two_lines_of_code_to_convert_json_text_to_standard_dictionary_types/)

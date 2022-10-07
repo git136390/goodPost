@@ -1,0 +1,2 @@
+# Ubuntu18.04 install Nvidia graphics card driver record
+[Ubuntu18.04 install Nvidia graphics card driver record](https://aiwithcloud.com/2022/09/19/ubuntu18-04_install_nvidia_graphics_card_driver_record/)

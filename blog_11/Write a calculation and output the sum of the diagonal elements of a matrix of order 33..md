@@ -1,0 +1,2 @@
+# Write a calculation and output the sum of the diagonal elements of a matrix of order 33.
+[Write a calculation and output the sum of the diagonal elements of a matrix of order 33.](https://aiwithcloud.com/2022/09/19/write_a_calculation_and_output_the_sum_of_the_diagonal_elements_of_a_matrix_of_order_33/)

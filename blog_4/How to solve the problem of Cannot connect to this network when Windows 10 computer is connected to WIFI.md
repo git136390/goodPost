@@ -1,0 +1,2 @@
+# How to solve the problem of Cannot connect to this network when Windows 10 computer is connected to WIFI
+[How to solve the problem of Cannot connect to this network when Windows 10 computer is connected to WIFI](https://aiwithcloud.com/2022/09/15/how_to_solve_the_problem_of_cannot_connect_to_this_network_when_windows_10_computer_is_connected_to_wifi/)

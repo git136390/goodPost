@@ -1,0 +1,2 @@
+# Type 'manage.py help subcommand' for help on a specific subcommand appears when Python clicks RUN or DEBUG.
+[Type 'manage.py help subcommand' for help on a specific subcommand appears when Python clicks RUN or DEBUG.](https://aiwithcloud.com/2022/09/19/type_manage-py_help_subcommand_for_help_on_a_specific_subcommand_appears_when_python_clicks_run_or_debug/)

@@ -1,0 +1,2 @@
+# Introduction to SQL Lecture 16 - Summarize the previous SQL statement writing order
+[Introduction to SQL Lecture 16 - Summarize the previous SQL statement writing order](https://aiwithcloud.com/2022/09/15/introduction_to_sql_lecture_16___summarize_the_previous_sql_statement_writing_order/)

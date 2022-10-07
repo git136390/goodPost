@@ -1,0 +1,2 @@
+# [Learn to understand data structure] Introduction to data structure
+[[Learn to understand data structure] Introduction to data structure](https://aiwithcloud.com/2022/09/19/learn_to_understand_data_structure_introduction_to_data_structure/)

@@ -1,0 +1,2 @@
+# The seventh bullet of base model pytorch uses warm up, consider learning rate, label smooth, apex mixed precision training, gradient accumulation
+[The seventh bullet of base model pytorch uses warm up, consider learning rate, label smooth, apex mixed precision training, gradient accumulation](https://aiwithcloud.com/2022/09/19/the_seventh_bullet_of_base_model_pytorch_uses_warm_up_consider_learning_rate_label_smooth_apex_mixed_precision_training_gradient_accumulation/)

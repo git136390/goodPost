@@ -1,0 +1,2 @@
+# Some css, css3 painting effects, etc., continue to update
+[Some css, css3 painting effects, etc., continue to update](https://aiwithcloud.com/2022/09/19/some_css_css3_painting_effects_etc-_continue_to_update/)

@@ -1,0 +1,2 @@
+# How to calculate the size of a structure in C language
+[How to calculate the size of a structure in C language](https://aiwithcloud.com/2022/09/15/how_to_calculate_the_size_of_a_structure_in_c_language/)

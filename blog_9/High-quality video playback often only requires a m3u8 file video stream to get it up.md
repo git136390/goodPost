@@ -1,0 +1,2 @@
+# High-quality video playback often only requires a m3u8 file video stream to get it up
+[High-quality video playback often only requires a m3u8 file video stream to get it up](https://aiwithcloud.com/2022/09/19/high_quality_video_playback_often_only_requires_a_m3u8_file_video_stream_to_get_it_up/)

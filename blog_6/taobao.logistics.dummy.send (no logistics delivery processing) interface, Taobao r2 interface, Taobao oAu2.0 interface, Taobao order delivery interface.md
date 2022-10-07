@@ -1,0 +1,2 @@
+# taobao.logistics.dummy.send (no logistics delivery processing) interface, Taobao r2 interface, Taobao oAu2.0 interface, Taobao order delivery interface
+[taobao.logistics.dummy.send (no logistics delivery processing) interface, Taobao r2 interface, Taobao oAu2.0 interface, Taobao order delivery interface](https://aiwithcloud.com/2022/09/16/taobao-logistics-dummy-send_no_logistics_delivery_processing_interface_taobao_r2_interface_taobao_oau2-0_interface_taobao_order_delivery_interface/)

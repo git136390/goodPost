@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] - 9. Palindrome linked list
+[[Blue Bridge Java daily practice] - 9. Palindrome linked list](https://aiwithcloud.com/2022/09/16/blue_bridge_java_daily_practice___9-_palindrome_linked_list/)

@@ -1,0 +1,2 @@
+# [Unity] About UnityEngine.Purchasing could not find the type or namespace name
+[[Unity] About UnityEngine.Purchasing could not find the type or namespace name](https://aiwithcloud.com/2022/09/16/unity_about_unityengine-purchasing_could_not_find_the_type_or_namespace_name/)

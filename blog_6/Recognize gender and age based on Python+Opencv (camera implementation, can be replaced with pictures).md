@@ -1,0 +1,2 @@
+# Recognize gender and age based on Python+Opencv (camera implementation, can be replaced with pictures)
+[Recognize gender and age based on Python+Opencv (camera implementation, can be replaced with pictures)](https://aiwithcloud.com/2022/09/16/recognize_gender_and_age_based_on_pythonopencv_camera_implementation_can_be_replaced_with_pictures/)

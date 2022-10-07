@@ -1,0 +1,2 @@
+# thinkPHP6 framework (single file upload and multi-file upload, files refer to pictures)
+[thinkPHP6 framework (single file upload and multi-file upload, files refer to pictures)](https://aiwithcloud.com/2022/09/15/thinkphp6_framework_single_file_upload_and_multi_file_upload_files_refer_to_pictures/)

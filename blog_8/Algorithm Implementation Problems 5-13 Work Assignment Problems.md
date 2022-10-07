@@ -1,0 +1,2 @@
+# Algorithm Implementation Problems 5-13 Work Assignment Problems
+[Algorithm Implementation Problems 5-13 Work Assignment Problems](https://aiwithcloud.com/2022/09/19/algorithm_implementation_problems_5_13_work_assignment_problems/)

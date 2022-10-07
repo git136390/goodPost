@@ -1,0 +1,2 @@
+# Commonly used linux commands in deployment projects (Tomcat)
+[Commonly used linux commands in deployment projects (Tomcat)](https://aiwithcloud.com/2022/09/14/commonly_used_linux_commands_in_deployment_projects_tomcat/)

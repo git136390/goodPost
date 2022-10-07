@@ -1,0 +1,2 @@
+# ELK log monitoring alarm elastalert deployment and configuration
+[ELK log monitoring alarm elastalert deployment and configuration](https://aiwithcloud.com/2022/09/15/elk_log_monitoring_alarm_elastalert_deployment_and_configuration/)

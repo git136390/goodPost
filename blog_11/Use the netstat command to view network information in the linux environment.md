@@ -1,0 +1,2 @@
+# Use the netstat command to view network information in the linux environment
+[Use the netstat command to view network information in the linux environment](https://aiwithcloud.com/2022/09/19/use_the_netstat_command_to_view_network_information_in_the_linux_environment/)

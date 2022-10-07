@@ -1,0 +1,2 @@
+# Docker (four) docker-mysql 8 solves Chinese garbled characters and sets utf-8
+[Docker (four) docker-mysql 8 solves Chinese garbled characters and sets utf-8](https://aiwithcloud.com/2022/09/15/docker_four_docker_mysql_8_solves_chinese_garbled_characters_and_sets_utf_8/)

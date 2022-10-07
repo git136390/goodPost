@@ -1,0 +1,2 @@
+# Take you to brush (Nioke.com) C language 100 questions (fourth day)
+[Take you to brush (Nioke.com) C language 100 questions (fourth day)](https://aiwithcloud.com/2022/09/19/take_you_to_brush_nioke-com_c_language_100_questions_fourth_day/)

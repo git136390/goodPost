@@ -1,0 +1,2 @@
+# CFdiv2-Tournament Countdown-(Thinking + Interactive Question Routine)
+[CFdiv2-Tournament Countdown-(Thinking + Interactive Question Routine)](https://aiwithcloud.com/2022/09/19/cfdiv2_tournament_countdown_thinking__interactive_question_routine/)

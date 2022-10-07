@@ -1,0 +1,2 @@
+# 想用Python调用C++代码？Pytorch原来是这样做的
+[想用Python调用C++代码？Pytorch原来是这样做的](https://aiwithcloud.com/2021/11/28/%e6%83%b3%e7%94%a8python%e8%b0%83%e7%94%a8c%e4%bb%a3%e7%a0%81%ef%bc%9fpytorch%e5%8e%9f%e6%9d%a5%e6%98%af%e8%bf%99%e6%a0%b7%e5%81%9a%e7%9a%84/)

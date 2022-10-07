@@ -1,0 +1,2 @@
+# Android XML Layout Basics (5) Linear Layout - LinearLayout
+[Android XML Layout Basics (5) Linear Layout - LinearLayout](https://aiwithcloud.com/2022/09/15/android_xml_layout_basics_5_linear_layout___linearlayout/)

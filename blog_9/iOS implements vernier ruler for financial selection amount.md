@@ -1,0 +1,2 @@
+# iOS implements vernier ruler for financial selection amount
+[iOS implements vernier ruler for financial selection amount](https://aiwithcloud.com/2022/09/19/ios_implements_vernier_ruler_for_financial_selection_amount/)

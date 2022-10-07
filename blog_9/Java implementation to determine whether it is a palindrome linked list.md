@@ -1,0 +1,2 @@
+# Java implementation to determine whether it is a palindrome linked list
+[Java implementation to determine whether it is a palindrome linked list](https://aiwithcloud.com/2022/09/19/java_implementation_to_determine_whether_it_is_a_palindrome_linked_list/)

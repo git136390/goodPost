@@ -1,0 +1,2 @@
+# STM32CubeMX series tutorial 9 use of LD3320 speech recognition module
+[STM32CubeMX series tutorial 9 use of LD3320 speech recognition module](https://aiwithcloud.com/2022/09/16/stm32cubemx_series_tutorial_9_use_of_ld3320_speech_recognition_module/)

@@ -1,0 +1,2 @@
+# BUG debugging maven install error package xxx does not exist
+[BUG debugging maven install error package xxx does not exist](https://aiwithcloud.com/2022/09/19/bug_debugging_maven_install_error_package_xxx_does_not_exist/)

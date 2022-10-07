@@ -1,0 +1,2 @@
+# Java implements data structure 14 (custom hash table of hash table detailed code)
+[Java implements data structure 14 (custom hash table of hash table detailed code)](https://aiwithcloud.com/2022/09/15/java_implements_data_structure_14_custom_hash_table_of_hash_table_detailed_code/)

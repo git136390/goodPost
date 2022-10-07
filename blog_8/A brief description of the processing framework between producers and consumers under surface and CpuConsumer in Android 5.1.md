@@ -1,0 +1,2 @@
+# A brief description of the processing framework between producers and consumers under surface and CpuConsumer in Android 5.1
+[A brief description of the processing framework between producers and consumers under surface and CpuConsumer in Android 5.1](https://aiwithcloud.com/2022/09/19/a_brief_description_of_the_processing_framework_between_producers_and_consumers_under_surface_and_cpuconsumer_in_android_5-1/)

@@ -1,0 +1,2 @@
+# Build Eureka and service registration and service discovery to achieve load balancing
+[Build Eureka and service registration and service discovery to achieve load balancing](https://aiwithcloud.com/2022/09/14/build_eureka_and_service_registration_and_service_discovery_to_achieve_load_balancing/)

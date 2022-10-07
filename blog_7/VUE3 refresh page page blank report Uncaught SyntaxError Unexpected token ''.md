@@ -1,0 +1,2 @@
+# VUE3 refresh page page blank report Uncaught SyntaxError Unexpected token ''
+[VUE3 refresh page page blank report Uncaught SyntaxError Unexpected token ''](https://aiwithcloud.com/2022/09/16/vue3_refresh_page_page_blank_report_uncaught_syntaxerror_unexpected_token_/)

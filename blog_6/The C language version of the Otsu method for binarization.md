@@ -1,0 +1,2 @@
+# The C language version of the Otsu method for binarization
+[The C language version of the Otsu method for binarization](https://aiwithcloud.com/2022/09/16/the_c_language_version_of_the_otsu_method_for_binarization/)

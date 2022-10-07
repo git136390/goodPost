@@ -1,0 +1,2 @@
+# Summary-WeChat applet custom top navigation (super detailed) additional renderings
+[Summary-WeChat applet custom top navigation (super detailed) additional renderings](https://aiwithcloud.com/2022/09/15/summary_wechat_applet_custom_top_navigation_super_detailed_additional_renderings/)

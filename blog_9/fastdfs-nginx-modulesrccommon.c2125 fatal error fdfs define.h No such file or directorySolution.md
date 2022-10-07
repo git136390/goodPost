@@ -1,0 +1,2 @@
+# fastdfs-nginx-modulesrccommon.c2125 fatal error fdfs define.h No such file or directorySolution
+[fastdfs-nginx-modulesrccommon.c2125 fatal error fdfs define.h No such file or directorySolution](https://aiwithcloud.com/2022/09/19/fastdfs_nginx_modulesrccommon-c2125_fatal_error_fdfs_define-h_no_such_file_or_directorysolution/)

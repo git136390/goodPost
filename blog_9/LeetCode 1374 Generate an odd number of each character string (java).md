@@ -1,0 +1,2 @@
+# LeetCode 1374 Generate an odd number of each character string (java)
+[LeetCode 1374 Generate an odd number of each character string (java)](https://aiwithcloud.com/2022/09/19/leetcode_1374_generate_an_odd_number_of_each_character_string_java/)

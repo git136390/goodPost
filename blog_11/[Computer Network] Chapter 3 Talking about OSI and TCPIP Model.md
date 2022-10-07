@@ -1,0 +1,2 @@
+# [Computer Network] Chapter 3 Talking about OSI and TCPIP Model
+[[Computer Network] Chapter 3 Talking about OSI and TCPIP Model](https://aiwithcloud.com/2022/09/19/computer_network_chapter_3_talking_about_osi_and_tcpip_model/)

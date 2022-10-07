@@ -1,0 +1,2 @@
+# Native WeChat applet - share the specified page and picture in the upper right corner
+[Native WeChat applet - share the specified page and picture in the upper right corner](https://aiwithcloud.com/2022/09/19/native_wechat_applet___share_the_specified_page_and_picture_in_the_upper_right_corner/)

@@ -1,0 +1,2 @@
+# Ubuntu16.04 uses PPA to install NVIDIA graphics card drivers quickly and easily
+[Ubuntu16.04 uses PPA to install NVIDIA graphics card drivers quickly and easily](https://aiwithcloud.com/2022/09/19/ubuntu16-04_uses_ppa_to_install_nvidia_graphics_card_drivers_quickly_and_easily/)

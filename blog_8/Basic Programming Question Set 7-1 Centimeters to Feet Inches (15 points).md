@@ -1,0 +1,2 @@
+# Basic Programming Question Set 7-1 Centimeters to Feet Inches (15 points)
+[Basic Programming Question Set 7-1 Centimeters to Feet Inches (15 points)](https://aiwithcloud.com/2022/09/19/basic_programming_question_set_7_1_centimeters_to_feet_inches_15_points/)

@@ -1,0 +1,2 @@
+# MySQL installation (redhat version in Linux, redhat password cracking)
+[MySQL installation (redhat version in Linux, redhat password cracking)](https://aiwithcloud.com/2022/09/15/mysql_installation_redhat_version_in_linux_redhat_password_cracking/)

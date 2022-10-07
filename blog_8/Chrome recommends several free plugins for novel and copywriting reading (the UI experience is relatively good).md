@@ -1,0 +1,2 @@
+# Chrome recommends several free plugins for novel and copywriting reading (the UI experience is relatively good)
+[Chrome recommends several free plugins for novel and copywriting reading (the UI experience is relatively good)](https://aiwithcloud.com/2022/09/19/chrome_recommends_several_free_plugins_for_novel_and_copywriting_reading_the_ui_experience_is_relatively_good/)

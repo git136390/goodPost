@@ -1,0 +1,2 @@
+# Java exercises starting from Xiaobai (5, object-oriented)
+[Java exercises starting from Xiaobai (5, object-oriented)](https://aiwithcloud.com/2022/09/19/java_exercises_starting_from_xiaobai_5_object_oriented/)

@@ -1,0 +1,2 @@
+# python -- list (container -- can store different types of data types)
+[python -- list (container -- can store different types of data types)](https://aiwithcloud.com/2022/09/16/python____list_container____can_store_different_types_of_data_types/)

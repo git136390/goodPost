@@ -1,0 +1,2 @@
+# openEuler-22.03-LTS installation and configuration notes
+[openEuler-22.03-LTS installation and configuration notes](https://aiwithcloud.com/2022/09/16/openeuler_22-03_lts_installation_and_configuration_notes/)

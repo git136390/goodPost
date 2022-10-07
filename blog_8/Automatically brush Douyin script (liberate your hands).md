@@ -1,0 +1,2 @@
+# Automatically brush Douyin script (liberate your hands)
+[Automatically brush Douyin script (liberate your hands)](https://aiwithcloud.com/2022/09/19/automatically_brush_douyin_script_liberate_your_hands/)

@@ -1,0 +1,2 @@
+# The latest method of html code auto-completion in VScode (super clear and detailed, guaranteed to work)
+[The latest method of html code auto-completion in VScode (super clear and detailed, guaranteed to work)](https://aiwithcloud.com/2022/09/15/the_latest_method_of_html_code_auto_completion_in_vscode_super_clear_and_detailed_guaranteed_to_work/)

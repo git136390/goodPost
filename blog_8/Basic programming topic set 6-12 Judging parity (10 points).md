@@ -1,0 +1,2 @@
+# Basic programming topic set 6-12 Judging parity (10 points)
+[Basic programming topic set 6-12 Judging parity (10 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topic_set_6_12_judging_parity_10_points/)

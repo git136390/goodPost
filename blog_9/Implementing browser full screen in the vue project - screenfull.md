@@ -1,0 +1,2 @@
+# Implementing browser full screen in the vue project - screenfull
+[Implementing browser full screen in the vue project - screenfull](https://aiwithcloud.com/2022/09/19/implementing_browser_full_screen_in_the_vue_project___screenfull/)

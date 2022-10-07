@@ -1,0 +1,2 @@
+# Mathematical Foundations of Artificial Intelligence - Linear Algebra 1 Vectors and Vector Addition, Subtraction and Number Multiplication
+[Mathematical Foundations of Artificial Intelligence - Linear Algebra 1 Vectors and Vector Addition, Subtraction and Number Multiplication](https://aiwithcloud.com/2022/09/16/mathematical_foundations_of_artificial_intelligence___linear_algebra_1_vectors_and_vector_addition_subtraction_and_number_multiplication/)

@@ -1,0 +1,2 @@
+# C++ increases knowledge! New and delete knowledge summary (comprehensive and detailed)
+[C++ increases knowledge! New and delete knowledge summary (comprehensive and detailed)](https://aiwithcloud.com/2022/09/15/c_increases_knowledge_new_and_delete_knowledge_summary_comprehensive_and_detailed/)

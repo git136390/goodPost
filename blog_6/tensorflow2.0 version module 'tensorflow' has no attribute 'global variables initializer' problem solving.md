@@ -1,0 +1,2 @@
+# tensorflow2.0 version module 'tensorflow' has no attribute 'global variables initializer' problem solving
+[tensorflow2.0 version module 'tensorflow' has no attribute 'global variables initializer' problem solving](https://aiwithcloud.com/2022/09/16/tensorflow2-0_version_module_tensorflow_has_no_attribute_global_variables_initializer_problem_solving/)

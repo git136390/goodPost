@@ -1,0 +1,2 @@
+# [Mini Program Map] uniapp develops a WeChat applet, displays the map function, and clicks to open the AutoNavi or Tencent map.
+[[Mini Program Map] uniapp develops a WeChat applet, displays the map function, and clicks to open the AutoNavi or Tencent map.](https://aiwithcloud.com/2022/09/15/mini_program_map_uniapp_develops_a_wechat_applet_displays_the_map_function_and_clicks_to_open_the_autonavi_or_tencent_map/)

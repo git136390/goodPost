@@ -1,0 +1,2 @@
+# Vite3.0 has been released, can you still scroll (list of new features)
+[Vite3.0 has been released, can you still scroll (list of new features)](https://aiwithcloud.com/2022/09/19/vite3-0_has_been_released_can_you_still_scroll_list_of_new_features/)

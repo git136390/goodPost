@@ -1,0 +1,2 @@
+# 5 minutes to quickly understand the Ribbon of microservice load balancing
+[5 minutes to quickly understand the Ribbon of microservice load balancing](https://aiwithcloud.com/2022/09/19/5_minutes_to_quickly_understand_the_ribbon_of_microservice_load_balancing/)

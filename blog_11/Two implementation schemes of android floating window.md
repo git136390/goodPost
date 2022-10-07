@@ -1,0 +1,2 @@
+# Two implementation schemes of android floating window
+[Two implementation schemes of android floating window](https://aiwithcloud.com/2022/09/19/two_implementation_schemes_of_android_floating_window/)

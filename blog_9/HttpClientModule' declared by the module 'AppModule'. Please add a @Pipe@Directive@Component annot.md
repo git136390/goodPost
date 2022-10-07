@@ -1,0 +1,2 @@
+# HttpClientModule' declared by the module 'AppModule'. Please add a @Pipe@Directive@Component annot
+[HttpClientModule' declared by the module 'AppModule'. Please add a @Pipe@Directive@Component annot](https://aiwithcloud.com/2022/09/19/httpclientmodule_declared_by_the_module_appmodule-_please_add_a_pipedirectivecomponent_annot/)

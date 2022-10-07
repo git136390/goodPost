@@ -1,0 +1,2 @@
+# [typescript] necessary for writing libraries - ts practical type finishing (non-built-in type)
+[[typescript] necessary for writing libraries - ts practical type finishing (non-built-in type)](https://aiwithcloud.com/2022/09/16/typescript_necessary_for_writing_libraries___ts_practical_type_finishing_non_built_in_type/)

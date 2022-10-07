@@ -1,0 +1,2 @@
+# In Golang go-redis cluster mode, new connections are constantly created, and the problem of decreased efficiency is solved
+[In Golang go-redis cluster mode, new connections are constantly created, and the problem of decreased efficiency is solved](https://aiwithcloud.com/2022/09/15/in_golang_go_redis_cluster_mode_new_connections_are_constantly_created_and_the_problem_of_decreased_efficiency_is_solved/)

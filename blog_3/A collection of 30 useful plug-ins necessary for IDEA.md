@@ -1,0 +1,2 @@
+# A collection of 30 useful plug-ins necessary for IDEA
+[A collection of 30 useful plug-ins necessary for IDEA](https://aiwithcloud.com/2022/09/15/a_collection_of_30_useful_plug_ins_necessary_for_idea/)

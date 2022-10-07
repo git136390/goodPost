@@ -1,0 +1,2 @@
+# PV operation solves the problem of process synchronization, taking the producer-consumer problem as an example
+[PV operation solves the problem of process synchronization, taking the producer-consumer problem as an example](https://aiwithcloud.com/2022/09/19/pv_operation_solves_the_problem_of_process_synchronization_taking_the_producer_consumer_problem_as_an_example/)

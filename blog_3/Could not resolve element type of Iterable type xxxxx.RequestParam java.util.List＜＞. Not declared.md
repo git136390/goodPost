@@ -1,0 +1,2 @@
+# Could not resolve element type of Iterable type xxxxx.RequestParam java.util.List＜＞. Not declared
+[Could not resolve element type of Iterable type xxxxx.RequestParam java.util.List＜＞. Not declared](https://aiwithcloud.com/2022/09/15/could_not_resolve_element_type_of_iterable_type_xxxxx-requestparam_java-util-list%ef%bc%9c%ef%bc%9e-_not_declared/)

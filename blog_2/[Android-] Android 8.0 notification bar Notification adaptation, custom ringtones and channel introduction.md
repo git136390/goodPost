@@ -1,0 +1,2 @@
+# [Android-] Android 8.0 notification bar Notification adaptation, custom ringtones and channel introduction
+[[Android-] Android 8.0 notification bar Notification adaptation, custom ringtones and channel introduction](https://aiwithcloud.com/2022/09/15/android__android_8-0_notification_bar_notification_adaptation_custom_ringtones_and_channel_introduction/)

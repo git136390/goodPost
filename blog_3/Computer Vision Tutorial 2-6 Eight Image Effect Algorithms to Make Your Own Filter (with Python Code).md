@@ -1,0 +1,2 @@
+# Computer Vision Tutorial 2-6 Eight Image Effect Algorithms to Make Your Own Filter (with Python Code)
+[Computer Vision Tutorial 2-6 Eight Image Effect Algorithms to Make Your Own Filter (with Python Code)](https://aiwithcloud.com/2022/09/15/computer_vision_tutorial_2_6_eight_image_effect_algorithms_to_make_your_own_filter_with_python_code/)

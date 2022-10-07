@@ -1,0 +1,2 @@
+# Python crawls microblog hot search list tutorial, python crawls microblog hot search and saves it into the table
+[Python crawls microblog hot search list tutorial, python crawls microblog hot search and saves it into the table](https://aiwithcloud.com/2022/09/16/python_crawls_microblog_hot_search_list_tutorial_python_crawls_microblog_hot_search_and_saves_it_into_the_table/)

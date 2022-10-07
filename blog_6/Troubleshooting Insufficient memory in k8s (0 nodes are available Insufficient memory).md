@@ -1,0 +1,2 @@
+# Troubleshooting Insufficient memory in k8s (0 nodes are available Insufficient memory)
+[Troubleshooting Insufficient memory in k8s (0 nodes are available Insufficient memory)](https://aiwithcloud.com/2022/09/16/troubleshooting_insufficient_memory_in_k8s_0_nodes_are_available_insufficient_memory/)

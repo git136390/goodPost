@@ -1,0 +1,2 @@
+# Detailed explanation of HTTP protocol for interface automation testing
+[Detailed explanation of HTTP protocol for interface automation testing](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_http_protocol_for_interface_automation_testing/)

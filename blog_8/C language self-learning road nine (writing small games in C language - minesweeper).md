@@ -1,0 +1,2 @@
+# C language self-learning road nine (writing small games in C language - minesweeper)
+[C language self-learning road nine (writing small games in C language - minesweeper)](https://aiwithcloud.com/2022/09/19/c_language_self_learning_road_nine_writing_small_games_in_c_language___minesweeper/)

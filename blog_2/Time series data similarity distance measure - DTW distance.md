@@ -1,0 +1,2 @@
+# Time series data similarity distance measure - DTW distance
+[Time series data similarity distance measure - DTW distance](https://aiwithcloud.com/2022/09/15/time_series_data_similarity_distance_measure___dtw_distance/)

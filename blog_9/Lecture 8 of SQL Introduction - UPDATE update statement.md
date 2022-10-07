@@ -1,0 +1,2 @@
+# Lecture 8 of SQL Introduction - UPDATE update statement
+[Lecture 8 of SQL Introduction - UPDATE update statement](https://aiwithcloud.com/2022/09/19/lecture_8_of_sql_introduction___update_update_statement/)

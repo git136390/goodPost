@@ -1,0 +1,2 @@
+# The practice of senior programmers the use of bucket sorting
+[The practice of senior programmers the use of bucket sorting](https://aiwithcloud.com/2022/09/19/the_practice_of_senior_programmers_the_use_of_bucket_sorting/)

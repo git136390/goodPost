@@ -1,0 +1,2 @@
+# NOIP2002 popularization group T2 (crossing the river) problem solution
+[NOIP2002 popularization group T2 (crossing the river) problem solution](https://aiwithcloud.com/2022/09/16/noip2002_popularization_group_t2_crossing_the_river_problem_solution/)

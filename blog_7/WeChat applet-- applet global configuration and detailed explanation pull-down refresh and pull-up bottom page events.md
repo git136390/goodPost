@@ -1,0 +1,2 @@
+# WeChat applet-- applet global configuration and detailed explanation pull-down refresh and pull-up bottom page events
+[WeChat applet-- applet global configuration and detailed explanation pull-down refresh and pull-up bottom page events](https://aiwithcloud.com/2022/09/16/wechat_applet___applet_global_configuration_and_detailed_explanation_pull_down_refresh_and_pull_up_bottom_page_events/)

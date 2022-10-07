@@ -1,0 +1,2 @@
+# Allwinner A31 5M CMOS Camera transplant modification record table
+[Allwinner A31 5M CMOS Camera transplant modification record table](https://aiwithcloud.com/2022/09/19/allwinner_a31_5m_cmos_camera_transplant_modification_record_table/)

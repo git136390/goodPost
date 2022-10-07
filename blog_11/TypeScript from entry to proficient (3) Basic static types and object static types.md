@@ -1,0 +1,2 @@
+# TypeScript from entry to proficient (3) Basic static types and object static types
+[TypeScript from entry to proficient (3) Basic static types and object static types](https://aiwithcloud.com/2022/09/19/typescript_from_entry_to_proficient_3_basic_static_types_and_object_static_types/)

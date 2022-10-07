@@ -1,0 +1,2 @@
+# Linux installation of anaconda, torch and environment configuration
+[Linux installation of anaconda, torch and environment configuration](https://aiwithcloud.com/2022/09/15/linux_installation_of_anaconda_torch_and_environment_configuration/)

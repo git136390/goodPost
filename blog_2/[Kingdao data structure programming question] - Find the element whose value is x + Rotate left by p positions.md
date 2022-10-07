@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question] - Find the element whose value is x + Rotate left by p positions
+[[Kingdao data structure programming question] - Find the element whose value is x + Rotate left by p positions](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question___find_the_element_whose_value_is_x__rotate_left_by_p_positions/)

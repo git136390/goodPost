@@ -1,0 +1,2 @@
+# Monotonic queue optimization group backpack cattle practice game 79 Problem E Solution
+[Monotonic queue optimization group backpack cattle practice game 79 Problem E Solution](https://aiwithcloud.com/2022/09/15/monotonic_queue_optimization_group_backpack_cattle_practice_game_79_problem_e_solution/)

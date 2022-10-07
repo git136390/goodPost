@@ -1,0 +1,2 @@
+# Ubuntu 20.04 installs ROS Noetic rosdep update timed out (timeout problem)
+[Ubuntu 20.04 installs ROS Noetic rosdep update timed out (timeout problem)](https://aiwithcloud.com/2022/09/16/ubuntu_20-04_installs_ros_noetic_rosdep_update_timed_out_timeout_problem/)

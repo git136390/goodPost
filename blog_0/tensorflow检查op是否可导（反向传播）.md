@@ -1,0 +1,2 @@
+# tensorflow检查op是否可导（反向传播）
+[tensorflow检查op是否可导（反向传播）](https://aiwithcloud.com/2022/04/06/tensorflow%e6%a3%80%e6%9f%a5op%e6%98%af%e5%90%a6%e5%8f%af%e5%af%bc%ef%bc%88%e5%8f%8d%e5%90%91%e4%bc%a0%e6%92%ad%ef%bc%89/)

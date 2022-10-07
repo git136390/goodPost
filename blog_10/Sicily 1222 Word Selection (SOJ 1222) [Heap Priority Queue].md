@@ -1,0 +1,2 @@
+# Sicily 1222 Word Selection (SOJ 1222) [Heap Priority Queue]
+[Sicily 1222 Word Selection (SOJ 1222) [Heap Priority Queue]](https://aiwithcloud.com/2022/09/19/sicily_1222_word_selection_soj_1222_heap_priority_queue/)

@@ -1,0 +1,2 @@
+# One of the series of AI application development practice configure the environment from scratch
+[One of the series of AI application development practice configure the environment from scratch](https://aiwithcloud.com/2022/09/16/one_of_the_series_of_ai_application_development_practice_configure_the_environment_from_scratch/)

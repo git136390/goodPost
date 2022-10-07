@@ -1,0 +1,2 @@
+# Blue Bridge Cup Problem Practice [Blue Bridge Cup] Wave Sequence
+[Blue Bridge Cup Problem Practice [Blue Bridge Cup] Wave Sequence](https://aiwithcloud.com/2022/09/15/blue_bridge_cup_problem_practice_blue_bridge_cup_wave_sequence/)

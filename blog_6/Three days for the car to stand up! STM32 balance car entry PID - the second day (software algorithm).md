@@ -1,0 +1,2 @@
+# Three days for the car to stand up! STM32 balance car entry PID - the second day (software algorithm)
+[Three days for the car to stand up! STM32 balance car entry PID - the second day (software algorithm)](https://aiwithcloud.com/2022/09/16/three_days_for_the_car_to_stand_up_stm32_balance_car_entry_pid___the_second_day_software_algorithm/)

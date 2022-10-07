@@ -1,0 +1,2 @@
+# HTML table (the use of HTML table, it is enough to collect this article)
+[HTML table (the use of HTML table, it is enough to collect this article)](https://aiwithcloud.com/2022/09/15/html_table_the_use_of_html_table_it_is_enough_to_collect_this_article/)

@@ -1,0 +1,2 @@
+# Local mysql cannot log in, but Navicat can log in ERROR 1524 (HY000) Plugin 'auth sock' is not loaded
+[Local mysql cannot log in, but Navicat can log in ERROR 1524 (HY000) Plugin 'auth sock' is not loaded](https://aiwithcloud.com/2022/09/19/local_mysql_cannot_log_in_but_navicat_can_log_in_error_1524_hy000_plugin_auth_sock_is_not_loaded/)

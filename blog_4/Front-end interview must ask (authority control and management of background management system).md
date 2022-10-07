@@ -1,0 +1,2 @@
+# Front-end interview must ask (authority control and management of background management system)
+[Front-end interview must ask (authority control and management of background management system)](https://aiwithcloud.com/2022/09/15/front_end_interview_must_ask_authority_control_and_management_of_background_management_system/)

@@ -1,0 +1,2 @@
+# Java data structure ------- singly linked list (detailed implementation of graphic additions, deletions, modifications, and inversion linked list implementation)
+[Java data structure ------- singly linked list (detailed implementation of graphic additions, deletions, modifications, and inversion linked list implementation)](https://aiwithcloud.com/2022/09/19/java_data_structure_________singly_linked_list_detailed_implementation_of_graphic_additions_deletions_modifications_and_inversion_linked_list_implementation/)

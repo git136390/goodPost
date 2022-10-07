@@ -1,0 +1,2 @@
+# Deep learning environment configuration 7 - (30 series graphics card) tensorflow-gpu==2.4.0 environment configuration under windows
+[Deep learning environment configuration 7 - (30 series graphics card) tensorflow-gpu==2.4.0 environment configuration under windows](https://aiwithcloud.com/2022/09/19/deep_learning_environment_configuration_7___30_series_graphics_card_tensorflow_gpu2-4-0_environment_configuration_under_windows/)

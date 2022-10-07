@@ -1,0 +1,2 @@
+# How to view container logs in Docker - take kafka container startup failure as an example
+[How to view container logs in Docker - take kafka container startup failure as an example](https://aiwithcloud.com/2022/09/15/how_to_view_container_logs_in_docker___take_kafka_container_startup_failure_as_an_example/)

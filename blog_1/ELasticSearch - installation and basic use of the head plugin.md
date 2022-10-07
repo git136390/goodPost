@@ -1,0 +1,2 @@
+# ELasticSearch - installation and basic use of the head plugin
+[ELasticSearch - installation and basic use of the head plugin](https://aiwithcloud.com/2022/09/14/elasticsearch___installation_and_basic_use_of_the_head_plugin/)

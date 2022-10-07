@@ -1,0 +1,2 @@
+# Problems and solutions encountered in installing mysql8.0 on ubuntu18.04
+[Problems and solutions encountered in installing mysql8.0 on ubuntu18.04](https://aiwithcloud.com/2022/09/19/problems_and_solutions_encountered_in_installing_mysql8-0_on_ubuntu18-04/)

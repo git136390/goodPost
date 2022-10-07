@@ -1,0 +1,2 @@
+# [Embedded] Apply for an array of length 0 in the structure
+[[Embedded] Apply for an array of length 0 in the structure](https://aiwithcloud.com/2022/09/15/embedded_apply_for_an_array_of_length_0_in_the_structure/)

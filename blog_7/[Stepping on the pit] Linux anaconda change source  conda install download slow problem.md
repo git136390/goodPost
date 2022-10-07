@@ -1,0 +1,2 @@
+# [Stepping on the pit] Linux anaconda change source  conda install download slow problem
+[[Stepping on the pit] Linux anaconda change source  conda install download slow problem](https://aiwithcloud.com/2022/09/16/stepping_on_the_pit_linux_anaconda_change_source__conda_install_download_slow_problem/)

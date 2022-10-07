@@ -1,0 +1,2 @@
+# Basic operation of sequence table and C language implementation (detailed version)
+[Basic operation of sequence table and C language implementation (detailed version)](https://aiwithcloud.com/2022/09/15/basic_operation_of_sequence_table_and_c_language_implementation_detailed_version/)

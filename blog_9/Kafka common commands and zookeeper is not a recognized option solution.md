@@ -1,0 +1,2 @@
+# Kafka common commands and zookeeper is not a recognized option solution
+[Kafka common commands and zookeeper is not a recognized option solution](https://aiwithcloud.com/2022/09/19/kafka_common_commands_and_zookeeper_is_not_a_recognized_option_solution/)

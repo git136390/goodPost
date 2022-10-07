@@ -1,0 +1,2 @@
+# The system function $clog2 for bit width calculation, these are what you need to know [Verilog Advanced Tutorial]
+[The system function $clog2 for bit width calculation, these are what you need to know [Verilog Advanced Tutorial]](https://aiwithcloud.com/2022/09/19/the_system_function_clog2_for_bit_width_calculation_these_are_what_you_need_to_know_verilog_advanced_tutorial/)

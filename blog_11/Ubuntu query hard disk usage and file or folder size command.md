@@ -1,0 +1,2 @@
+# Ubuntu query hard disk usage and file or folder size command
+[Ubuntu query hard disk usage and file or folder size command](https://aiwithcloud.com/2022/09/19/ubuntu_query_hard_disk_usage_and_file_or_folder_size_command/)

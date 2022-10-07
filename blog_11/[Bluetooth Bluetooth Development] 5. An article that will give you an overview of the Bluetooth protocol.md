@@ -1,0 +1,2 @@
+# [Bluetooth Bluetooth Development] 5. An article that will give you an overview of the Bluetooth protocol
+[[Bluetooth Bluetooth Development] 5. An article that will give you an overview of the Bluetooth protocol](https://aiwithcloud.com/2022/09/19/bluetooth_bluetooth_development_5-_an_article_that_will_give_you_an_overview_of_the_bluetooth_protocol/)

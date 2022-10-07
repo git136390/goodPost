@@ -1,0 +1,2 @@
+# Installation and service discovery of Nacos in the column of microservice components (1)
+[Installation and service discovery of Nacos in the column of microservice components (1)](https://aiwithcloud.com/2022/09/15/installation_and_service_discovery_of_nacos_in_the_column_of_microservice_components_1/)

@@ -1,0 +1,2 @@
+# win10+vs2017+opencv4.0.1+opencv contrib-4.0.1 detailed tutorial
+[win10+vs2017+opencv4.0.1+opencv contrib-4.0.1 detailed tutorial](https://aiwithcloud.com/2022/09/19/win10vs2017opencv4-0-1opencv_contrib_4-0-1_detailed_tutorial/)

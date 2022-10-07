@@ -1,0 +1,2 @@
+# [javase basics] Chapter 16 Spinning and Peeling Cocoons String Details
+[[javase basics] Chapter 16 Spinning and Peeling Cocoons String Details](https://aiwithcloud.com/2022/09/16/javase_basics_chapter_16_spinning_and_peeling_cocoons_string_details/)

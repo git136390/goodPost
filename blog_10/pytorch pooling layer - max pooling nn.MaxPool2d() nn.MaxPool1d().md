@@ -1,0 +1,2 @@
+# pytorch pooling layer - max pooling nn.MaxPool2d() nn.MaxPool1d()
+[pytorch pooling layer - max pooling nn.MaxPool2d() nn.MaxPool1d()](https://aiwithcloud.com/2022/09/19/pytorch_pooling_layer___max_pooling_nn-maxpool2d_nn-maxpool1d/)

@@ -1,0 +1,2 @@
+# When python uses matplotlib or boxplot to plot, the Chinese labels cannot be displayed normally, and the garbled characters are small boxes.
+[When python uses matplotlib or boxplot to plot, the Chinese labels cannot be displayed normally, and the garbled characters are small boxes.](https://aiwithcloud.com/2022/09/15/when_python_uses_matplotlib_or_boxplot_to_plot_the_chinese_labels_cannot_be_displayed_normally_and_the_garbled_characters_are_small_boxes/)

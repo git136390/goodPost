@@ -1,0 +1,2 @@
+# Introduction to Algorithms (six, one of the NB trio, merge sort)
+[Introduction to Algorithms (six, one of the NB trio, merge sort)](https://aiwithcloud.com/2022/09/15/introduction_to_algorithms_six_one_of_the_nb_trio_merge_sort/)

@@ -1,0 +1,2 @@
+# Use of Vue3 globalProperties (instead of Vue.prototype.$xxx)
+[Use of Vue3 globalProperties (instead of Vue.prototype.$xxx)](https://aiwithcloud.com/2022/09/15/use_of_vue3_globalproperties_instead_of_vue-prototype-xxx/)

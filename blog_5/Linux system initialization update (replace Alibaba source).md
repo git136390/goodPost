@@ -1,0 +1,2 @@
+# Linux system initialization update (replace Alibaba source)
+[Linux system initialization update (replace Alibaba source)](https://aiwithcloud.com/2022/09/16/linux_system_initialization_update_replace_alibaba_source/)

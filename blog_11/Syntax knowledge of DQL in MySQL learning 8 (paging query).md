@@ -1,0 +1,2 @@
+# Syntax knowledge of DQL in MySQL learning 8 (paging query)
+[Syntax knowledge of DQL in MySQL learning 8 (paging query)](https://aiwithcloud.com/2022/09/19/syntax_knowledge_of_dql_in_mysql_learning_8_paging_query/)

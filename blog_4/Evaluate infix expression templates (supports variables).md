@@ -1,0 +1,2 @@
+# Evaluate infix expression templates (supports variables)
+[Evaluate infix expression templates (supports variables)](https://aiwithcloud.com/2022/09/15/evaluate_infix_expression_templates_supports_variables/)

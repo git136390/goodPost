@@ -1,0 +1,2 @@
+# First-time entry, git use tutorial how to use git to pull code in idea, submit code, and initiate a merge request on gitlab
+[First-time entry, git use tutorial how to use git to pull code in idea, submit code, and initiate a merge request on gitlab](https://aiwithcloud.com/2022/09/19/first_time_entry_git_use_tutorial_how_to_use_git_to_pull_code_in_idea_submit_code_and_initiate_a_merge_request_on_gitlab/)

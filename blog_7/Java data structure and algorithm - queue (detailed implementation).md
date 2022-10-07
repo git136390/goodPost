@@ -1,0 +1,2 @@
+# Java data structure and algorithm - queue (detailed implementation)
+[Java data structure and algorithm - queue (detailed implementation)](https://aiwithcloud.com/2022/09/19/java_data_structure_and_algorithm___queue_detailed_implementation/)

@@ -1,0 +1,2 @@
+# Deep learning uses trained models to learn, transfer learning (6)
+[Deep learning uses trained models to learn, transfer learning (6)](https://aiwithcloud.com/2022/09/19/deep_learning_uses_trained_models_to_learn_transfer_learning_6/)

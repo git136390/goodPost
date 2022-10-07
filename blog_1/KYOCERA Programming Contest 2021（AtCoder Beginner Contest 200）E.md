@@ -1,0 +1,2 @@
+# KYOCERA Programming Contest 2021（AtCoder Beginner Contest 200）E
+[KYOCERA Programming Contest 2021（AtCoder Beginner Contest 200）E](https://aiwithcloud.com/2022/09/15/kyocera_programming_contest_2021atcoder_beginner_contest_200e/)

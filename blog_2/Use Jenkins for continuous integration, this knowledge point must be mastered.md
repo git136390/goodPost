@@ -1,0 +1,2 @@
+# Use Jenkins for continuous integration, this knowledge point must be mastered
+[Use Jenkins for continuous integration, this knowledge point must be mastered](https://aiwithcloud.com/2022/09/15/use_jenkins_for_continuous_integration_this_knowledge_point_must_be_mastered/)

@@ -1,0 +1,2 @@
+# [Java Tutorial] JVM - Frequently Asked Questions about Garbage Collection
+[[Java Tutorial] JVM - Frequently Asked Questions about Garbage Collection](https://aiwithcloud.com/2022/09/16/java_tutorial_jvm___frequently_asked_questions_about_garbage_collection/)

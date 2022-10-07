@@ -1,0 +1,2 @@
+# The third lesson of PyQt, use QtDesigner+python to complete the interface design and the writing of small programs
+[The third lesson of PyQt, use QtDesigner+python to complete the interface design and the writing of small programs](https://aiwithcloud.com/2022/09/19/the_third_lesson_of_pyqt_use_qtdesignerpython_to_complete_the_interface_design_and_the_writing_of_small_programs/)

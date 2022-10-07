@@ -1,0 +1,2 @@
+# FFmpeg development (02) FFmpeg + ANativeWindow realizes video decoding and playback
+[FFmpeg development (02) FFmpeg + ANativeWindow realizes video decoding and playback](https://aiwithcloud.com/2022/09/15/ffmpeg_development_02_ffmpeg__anativewindow_realizes_video_decoding_and_playback/)

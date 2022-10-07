@@ -1,0 +1,2 @@
+# STM32+CUBEMX hell trip (1) - use the USB analog serial port to complete the transceiver! Prenatal education level tutorial!
+[STM32+CUBEMX hell trip (1) - use the USB analog serial port to complete the transceiver! Prenatal education level tutorial!](https://aiwithcloud.com/2022/09/19/stm32cubemx_hell_trip_1___use_the_usb_analog_serial_port_to_complete_the_transceiver_prenatal_education_level_tutorial/)

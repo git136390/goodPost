@@ -1,0 +1,2 @@
+# [React] Function component forced rendering to imitate forceUpdate
+[[React] Function component forced rendering to imitate forceUpdate](https://aiwithcloud.com/2022/09/16/react_function_component_forced_rendering_to_imitate_forceupdate/)

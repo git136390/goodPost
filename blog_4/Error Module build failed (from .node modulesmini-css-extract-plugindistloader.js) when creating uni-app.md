@@ -1,0 +1,2 @@
+# Error Module build failed (from .node modulesmini-css-extract-plugindistloader.js) when creating uni-app
+[Error Module build failed (from .node modulesmini-css-extract-plugindistloader.js) when creating uni-app](https://aiwithcloud.com/2022/09/15/error_module_build_failed_from_-node_modulesmini_css_extract_plugindistloader-js_when_creating_uni_app/)

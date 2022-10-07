@@ -1,0 +1,2 @@
+# AUSBC3.0, the shock is coming! (UVC Camera, support to open multiple cameras)
+[AUSBC3.0, the shock is coming! (UVC Camera, support to open multiple cameras)](https://aiwithcloud.com/2022/09/15/ausbc3-0_the_shock_is_coming_uvc_camera_support_to_open_multiple_cameras/)

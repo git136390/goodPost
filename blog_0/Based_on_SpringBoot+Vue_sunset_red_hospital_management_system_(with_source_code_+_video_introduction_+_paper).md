@@ -1,0 +1,2 @@
+# Based_on_SpringBoot+Vue_sunset_red_hospital_management_system_(with_source_code_+_video_introduction_+_paper)
+[Based_on_SpringBoot+Vue_sunset_red_hospital_management_system_(with_source_code_+_video_introduction_+_paper)](https://aiwithcloud.com/2022/09/14/based_on_springbootvue_sunset_red_hospital_management_system_with_source_code__video_introduction__paper/)

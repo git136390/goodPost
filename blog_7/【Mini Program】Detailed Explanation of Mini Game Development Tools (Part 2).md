@@ -1,0 +1,2 @@
+# 【Mini Program】Detailed Explanation of Mini Game Development Tools (Part 2)
+[【Mini Program】Detailed Explanation of Mini Game Development Tools (Part 2)](https://aiwithcloud.com/2022/09/16/%e3%80%90mini_program%e3%80%91detailed_explanation_of_mini_game_development_tools_part_2/)

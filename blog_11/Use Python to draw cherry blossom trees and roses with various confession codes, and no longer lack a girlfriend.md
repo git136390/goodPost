@@ -1,0 +1,2 @@
+# Use Python to draw cherry blossom trees and roses with various confession codes, and no longer lack a girlfriend
+[Use Python to draw cherry blossom trees and roses with various confession codes, and no longer lack a girlfriend](https://aiwithcloud.com/2022/09/19/use_python_to_draw_cherry_blossom_trees_and_roses_with_various_confession_codes_and_no_longer_lack_a_girlfriend/)

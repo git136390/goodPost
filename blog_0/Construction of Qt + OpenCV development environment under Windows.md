@@ -1,0 +1,2 @@
+# Construction of Qt + OpenCV development environment under Windows
+[Construction of Qt + OpenCV development environment under Windows](https://aiwithcloud.com/2022/09/14/construction_of_qt__opencv_development_environment_under_windows/)

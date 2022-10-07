@@ -1,0 +1,2 @@
+# After the VUE project is packaged, use Tomcat to deploy to solve the 404 problem after page refresh
+[After the VUE project is packaged, use Tomcat to deploy to solve the 404 problem after page refresh](https://aiwithcloud.com/2022/09/15/after_the_vue_project_is_packaged_use_tomcat_to_deploy_to_solve_the_404_problem_after_page_refresh/)

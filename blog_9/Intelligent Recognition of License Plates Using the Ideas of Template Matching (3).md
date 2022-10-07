@@ -1,0 +1,2 @@
+# Intelligent Recognition of License Plates Using the Ideas of Template Matching (3)
+[Intelligent Recognition of License Plates Using the Ideas of Template Matching (3)](https://aiwithcloud.com/2022/09/19/intelligent_recognition_of_license_plates_using_the_ideas_of_template_matching_3/)

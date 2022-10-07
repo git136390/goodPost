@@ -1,0 +1,2 @@
+# Quick start with HarmonyOS development from zero basis 2---Development tool usage skills, Java layout development guide
+[Quick start with HarmonyOS development from zero basis 2---Development tool usage skills, Java layout development guide](https://aiwithcloud.com/2022/09/16/quick_start_with_harmonyos_development_from_zero_basis_2___development_tool_usage_skills_java_layout_development_guide/)

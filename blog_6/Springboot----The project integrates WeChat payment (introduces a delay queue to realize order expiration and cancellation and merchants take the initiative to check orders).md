@@ -1,0 +1,2 @@
+# Springboot----The project integrates WeChat payment (introduces a delay queue to realize order expiration and cancellation and merchants take the initiative to check orders)
+[Springboot----The project integrates WeChat payment (introduces a delay queue to realize order expiration and cancellation and merchants take the initiative to check orders)](https://aiwithcloud.com/2022/09/16/springboot____the_project_integrates_wechat_payment_introduces_a_delay_queue_to_realize_order_expiration_and_cancellation_and_merchants_take_the_initiative_to_check_orders/)

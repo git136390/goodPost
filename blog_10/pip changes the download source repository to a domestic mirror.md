@@ -1,0 +1,2 @@
+# pip changes the download source repository to a domestic mirror
+[pip changes the download source repository to a domestic mirror](https://aiwithcloud.com/2022/09/19/pip_changes_the_download_source_repository_to_a_domestic_mirror/)

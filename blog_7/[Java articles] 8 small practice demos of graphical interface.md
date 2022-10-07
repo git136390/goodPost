@@ -1,0 +1,2 @@
+# [Java articles] 8 small practice demos of graphical interface
+[[Java articles] 8 small practice demos of graphical interface](https://aiwithcloud.com/2022/09/16/java_articles_8_small_practice_demos_of_graphical_interface/)

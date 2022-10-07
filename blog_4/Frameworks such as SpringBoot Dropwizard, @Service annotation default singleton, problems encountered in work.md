@@ -1,0 +1,2 @@
+# Frameworks such as SpringBoot Dropwizard, @Service annotation default singleton, problems encountered in work
+[Frameworks such as SpringBoot Dropwizard, @Service annotation default singleton, problems encountered in work](https://aiwithcloud.com/2022/09/15/frameworks_such_as_springboot_dropwizard_service_annotation_default_singleton_problems_encountered_in_work/)

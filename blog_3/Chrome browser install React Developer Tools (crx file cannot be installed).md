@@ -1,0 +1,2 @@
+# Chrome browser install React Developer Tools (crx file cannot be installed)
+[Chrome browser install React Developer Tools (crx file cannot be installed)](https://aiwithcloud.com/2022/09/15/chrome_browser_install_react_developer_tools_crx_file_cannot_be_installed/)

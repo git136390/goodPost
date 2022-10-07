@@ -1,0 +1,2 @@
+# Error reported in Android network request WSystem.err Caused by java.net.ConnectException failed to connect to 127.0.0.1
+[Error reported in Android network request WSystem.err Caused by java.net.ConnectException failed to connect to 127.0.0.1](https://aiwithcloud.com/2022/09/15/error_reported_in_android_network_request_wsystem-err_caused_by_java-net-connectexception_failed_to_connect_to_127-0-0-1/)

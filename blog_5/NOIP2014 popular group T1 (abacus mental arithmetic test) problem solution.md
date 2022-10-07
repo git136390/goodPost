@@ -1,0 +1,2 @@
+# NOIP2014 popular group T1 (abacus mental arithmetic test) problem solution
+[NOIP2014 popular group T1 (abacus mental arithmetic test) problem solution](https://aiwithcloud.com/2022/09/16/noip2014_popular_group_t1_abacus_mental_arithmetic_test_problem_solution/)

@@ -1,0 +1,2 @@
+# Zabbix 5.0 Enterprise WeChat WebHook realizes fault text alarm
+[Zabbix 5.0 Enterprise WeChat WebHook realizes fault text alarm](https://aiwithcloud.com/2022/09/16/zabbix_5-0_enterprise_wechat_webhook_realizes_fault_text_alarm/)

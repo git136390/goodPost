@@ -1,0 +1,2 @@
+# Linux from getting started to giving up k8s hostPath persistence
+[Linux from getting started to giving up k8s hostPath persistence](https://aiwithcloud.com/2022/09/16/linux_from_getting_started_to_giving_up_k8s_hostpath_persistence/)

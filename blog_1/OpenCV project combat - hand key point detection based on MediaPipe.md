@@ -1,0 +1,2 @@
+# OpenCV project combat - hand key point detection based on MediaPipe
+[OpenCV project combat - hand key point detection based on MediaPipe](https://aiwithcloud.com/2022/09/15/opencv_project_combat___hand_key_point_detection_based_on_mediapipe/)

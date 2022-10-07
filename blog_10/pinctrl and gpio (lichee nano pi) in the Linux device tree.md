@@ -1,0 +1,2 @@
+# pinctrl and gpio (lichee nano pi) in the Linux device tree
+[pinctrl and gpio (lichee nano pi) in the Linux device tree](https://aiwithcloud.com/2022/09/19/pinctrl_and_gpio_lichee_nano_pi_in_the_linux_device_tree/)

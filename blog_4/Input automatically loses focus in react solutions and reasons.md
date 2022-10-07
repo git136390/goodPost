@@ -1,0 +1,2 @@
+# Input automatically loses focus in react solutions and reasons
+[Input automatically loses focus in react solutions and reasons](https://aiwithcloud.com/2022/09/15/input_automatically_loses_focus_in_react_solutions_and_reasons/)

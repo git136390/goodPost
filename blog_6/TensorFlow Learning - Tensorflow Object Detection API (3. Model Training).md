@@ -1,0 +1,2 @@
+# TensorFlow Learning - Tensorflow Object Detection API (3. Model Training)
+[TensorFlow Learning - Tensorflow Object Detection API (3. Model Training)](https://aiwithcloud.com/2022/09/16/tensorflow_learning___tensorflow_object_detection_api_3-_model_training/)

@@ -1,0 +1,2 @@
+# LeetCode 1283 Minimum divisor that keeps result not exceeding threshold (JAVA)
+[LeetCode 1283 Minimum divisor that keeps result not exceeding threshold (JAVA)](https://aiwithcloud.com/2022/09/16/leetcode_1283_minimum_divisor_that_keeps_result_not_exceeding_threshold_java/)

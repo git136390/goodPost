@@ -1,0 +1,2 @@
+# Date functions in FanRuan, the first day of the current month, the first day of the current year, the last day of the current month, etc.
+[Date functions in FanRuan, the first day of the current month, the first day of the current year, the last day of the current month, etc.](https://aiwithcloud.com/2022/09/19/date_functions_in_fanruan_the_first_day_of_the_current_month_the_first_day_of_the_current_year_the_last_day_of_the_current_month_etc/)

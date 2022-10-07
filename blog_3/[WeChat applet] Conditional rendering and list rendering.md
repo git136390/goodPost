@@ -1,0 +1,2 @@
+# [WeChat applet] Conditional rendering and list rendering
+[[WeChat applet] Conditional rendering and list rendering](https://aiwithcloud.com/2022/09/15/wechat_applet_conditional_rendering_and_list_rendering/)

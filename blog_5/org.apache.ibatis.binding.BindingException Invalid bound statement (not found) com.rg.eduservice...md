@@ -1,0 +1,2 @@
+# org.apache.ibatis.binding.BindingException Invalid bound statement (not found) com.rg.eduservice..
+[org.apache.ibatis.binding.BindingException Invalid bound statement (not found) com.rg.eduservice..](https://aiwithcloud.com/2022/09/16/org-apache-ibatis-binding-bindingexception_invalid_bound_statement_not_found_com-rg-eduservice/)

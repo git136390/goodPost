@@ -1,0 +1,2 @@
+# [Key points] Go deep into the bottom layer data storage
+[[Key points] Go deep into the bottom layer data storage](https://aiwithcloud.com/2022/09/16/key_points_go_deep_into_the_bottom_layer_data_storage/)

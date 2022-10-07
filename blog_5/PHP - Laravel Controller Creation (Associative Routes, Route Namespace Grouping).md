@@ -1,0 +1,2 @@
+# PHP - Laravel Controller Creation (Associative Routes, Route Namespace Grouping)
+[PHP - Laravel Controller Creation (Associative Routes, Route Namespace Grouping)](https://aiwithcloud.com/2022/09/16/php___laravel_controller_creation_associative_routes_route_namespace_grouping/)

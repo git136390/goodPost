@@ -1,0 +1,2 @@
+# Share a multiple-choice question about #define (including the replacement rules of #define in pre-compiling, knowledge of program environment and pre-processing)
+[Share a multiple-choice question about #define (including the replacement rules of #define in pre-compiling, knowledge of program environment and pre-processing)](https://aiwithcloud.com/2022/09/15/share_a_multiple_choice_question_about_define_including_the_replacement_rules_of_define_in_pre_compiling_knowledge_of_program_environment_and_pre_processing/)

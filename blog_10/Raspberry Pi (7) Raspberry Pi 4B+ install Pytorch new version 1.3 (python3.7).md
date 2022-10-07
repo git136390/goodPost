@@ -1,0 +1,2 @@
+# Raspberry Pi (7) Raspberry Pi 4B+ install Pytorch new version 1.3 (python3.7)
+[Raspberry Pi (7) Raspberry Pi 4B+ install Pytorch new version 1.3 (python3.7)](https://aiwithcloud.com/2022/09/19/raspberry_pi_7_raspberry_pi_4b_install_pytorch_new_version_1-3_python3-7/)

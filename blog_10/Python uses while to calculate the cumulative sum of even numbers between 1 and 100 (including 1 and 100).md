@@ -1,0 +1,2 @@
+# Python uses while to calculate the cumulative sum of even numbers between 1 and 100 (including 1 and 100)
+[Python uses while to calculate the cumulative sum of even numbers between 1 and 100 (including 1 and 100)](https://aiwithcloud.com/2022/09/19/python_uses_while_to_calculate_the_cumulative_sum_of_even_numbers_between_1_and_100_including_1_and_100/)

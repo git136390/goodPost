@@ -1,0 +1,2 @@
+# Java Project Drug Management System (java+SpringBoot+VUE+Mybatis+Maven+Mysql)
+[Java Project Drug Management System (java+SpringBoot+VUE+Mybatis+Maven+Mysql)](https://aiwithcloud.com/2022/09/16/java_project_drug_management_system_javaspringbootvuemybatismavenmysql/)

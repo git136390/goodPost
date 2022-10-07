@@ -1,0 +1,2 @@
+# JS array and dictionary (JSON) shortcut value through string
+[JS array and dictionary (JSON) shortcut value through string](https://aiwithcloud.com/2022/09/15/js_array_and_dictionary_json_shortcut_value_through_string/)

@@ -1,0 +1,2 @@
+# Python language programming notes 01 -- introduction, configuration
+[Python language programming notes 01 -- introduction, configuration](https://aiwithcloud.com/2022/09/19/python_language_programming_notes_01____introduction_configuration/)

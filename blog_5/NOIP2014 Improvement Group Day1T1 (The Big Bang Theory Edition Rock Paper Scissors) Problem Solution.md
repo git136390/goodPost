@@ -1,0 +1,2 @@
+# NOIP2014 Improvement Group Day1T1 (The Big Bang Theory Edition Rock Paper Scissors) Problem Solution
+[NOIP2014 Improvement Group Day1T1 (The Big Bang Theory Edition Rock Paper Scissors) Problem Solution](https://aiwithcloud.com/2022/09/16/noip2014_improvement_group_day1t1_the_big_bang_theory_edition_rock_paper_scissors_problem_solution/)

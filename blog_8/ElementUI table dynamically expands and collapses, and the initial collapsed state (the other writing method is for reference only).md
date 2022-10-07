@@ -1,0 +1,2 @@
+# ElementUI table dynamically expands and collapses, and the initial collapsed state (the other writing method is for reference only)
+[ElementUI table dynamically expands and collapses, and the initial collapsed state (the other writing method is for reference only)](https://aiwithcloud.com/2022/09/19/elementui_table_dynamically_expands_and_collapses_and_the_initial_collapsed_state_the_other_writing_method_is_for_reference_only/)

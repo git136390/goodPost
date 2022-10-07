@@ -1,0 +1,2 @@
+# Autonomous Driving Software Architecture Middleware and SOA (1)
+[Autonomous Driving Software Architecture Middleware and SOA (1)](https://aiwithcloud.com/2022/09/15/autonomous_driving_software_architecture_middleware_and_soa_1/)

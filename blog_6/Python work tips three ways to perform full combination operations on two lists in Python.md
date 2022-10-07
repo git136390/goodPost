@@ -1,0 +1,2 @@
+# Python work tips three ways to perform full combination operations on two lists in Python
+[Python work tips three ways to perform full combination operations on two lists in Python](https://aiwithcloud.com/2022/09/16/python_work_tips_three_ways_to_perform_full_combination_operations_on_two_lists_in_python/)

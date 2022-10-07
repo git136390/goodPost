@@ -1,0 +1,2 @@
+# Input tag listens for content input (change, input event difference)
+[Input tag listens for content input (change, input event difference)](https://aiwithcloud.com/2022/09/15/input_tag_listens_for_content_input_change_input_event_difference/)

@@ -1,0 +1,2 @@
+# [Magic change YOLOv5-6.x (4)] Combining EIoU and Alpha-IoU loss functions
+[[Magic change YOLOv5-6.x (4)] Combining EIoU and Alpha-IoU loss functions](https://aiwithcloud.com/2022/09/16/magic_change_yolov5_6-x_4_combining_eiou_and_alpha_iou_loss_functions/)

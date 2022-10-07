@@ -1,0 +1,2 @@
+# Linux installation yum (the most complete dependency package)
+[Linux installation yum (the most complete dependency package)](https://aiwithcloud.com/2022/09/19/linux_installation_yum_the_most_complete_dependency_package/)

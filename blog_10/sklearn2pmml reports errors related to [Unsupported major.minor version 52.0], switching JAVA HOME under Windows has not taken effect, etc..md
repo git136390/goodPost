@@ -1,0 +1,2 @@
+# sklearn2pmml reports errors related to [Unsupported major.minor version 52.0], switching JAVA HOME under Windows has not taken effect, etc.
+[sklearn2pmml reports errors related to [Unsupported major.minor version 52.0], switching JAVA HOME under Windows has not taken effect, etc.](https://aiwithcloud.com/2022/09/19/sklearn2pmml_reports_errors_related_to_unsupported_major-minor_version_52-0_switching_java_home_under_windows_has_not_taken_effect_etc/)

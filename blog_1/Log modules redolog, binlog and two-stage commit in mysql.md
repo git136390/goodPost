@@ -1,0 +1,2 @@
+# Log modules redolog, binlog and two-stage commit in mysql
+[Log modules redolog, binlog and two-stage commit in mysql](https://aiwithcloud.com/2022/09/15/log_modules_redolog_binlog_and_two_stage_commit_in_mysql/)

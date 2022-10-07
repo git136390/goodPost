@@ -1,0 +1,2 @@
+# Default rounding rule for floating point type in Golang - rounding to 50%
+[Default rounding rule for floating point type in Golang - rounding to 50%](https://aiwithcloud.com/2022/09/14/default_rounding_rule_for_floating_point_type_in_golang___rounding_to_50/)

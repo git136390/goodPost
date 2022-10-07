@@ -1,0 +1,2 @@
+# JS Get the current browser type (IE, Chrome, Edge, Firefox, Opera, UC, QQ)
+[JS Get the current browser type (IE, Chrome, Edge, Firefox, Opera, UC, QQ)](https://aiwithcloud.com/2022/09/16/js_get_the_current_browser_type_ie_chrome_edge_firefox_opera_uc_qq/)

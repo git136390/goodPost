@@ -1,0 +1,2 @@
+# A detailed introduction to the deployment and usage of the Nacos registry
+[A detailed introduction to the deployment and usage of the Nacos registry](https://aiwithcloud.com/2022/09/19/a_detailed_introduction_to_the_deployment_and_usage_of_the_nacos_registry/)

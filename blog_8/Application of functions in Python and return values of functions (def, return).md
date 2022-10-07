@@ -1,0 +1,2 @@
+# Application of functions in Python and return values of functions (def, return)
+[Application of functions in Python and return values of functions (def, return)](https://aiwithcloud.com/2022/09/19/application_of_functions_in_python_and_return_values_of_functions_def_return/)

@@ -1,0 +1,2 @@
+# SSM framework learning - SSM integration of SpringMVC
+[SSM framework learning - SSM integration of SpringMVC](https://aiwithcloud.com/2022/09/16/ssm_framework_learning___ssm_integration_of_springmvc/)

@@ -1,0 +1,2 @@
+# What is TypeScript This article introduces the basic usage and syntax of TypeScript.
+[What is TypeScript This article introduces the basic usage and syntax of TypeScript.](https://aiwithcloud.com/2022/09/16/what_is_typescript_this_article_introduces_the_basic_usage_and_syntax_of_typescript/)

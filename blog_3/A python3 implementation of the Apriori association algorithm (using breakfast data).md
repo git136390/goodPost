@@ -1,0 +1,2 @@
+# A python3 implementation of the Apriori association algorithm (using breakfast data)
+[A python3 implementation of the Apriori association algorithm (using breakfast data)](https://aiwithcloud.com/2022/09/15/a_python3_implementation_of_the_apriori_association_algorithm_using_breakfast_data/)

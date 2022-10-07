@@ -1,0 +1,2 @@
+# Python instance methods, class methods, static methods
+[Python instance methods, class methods, static methods](https://aiwithcloud.com/2022/09/15/python_instance_methods_class_methods_static_methods/)

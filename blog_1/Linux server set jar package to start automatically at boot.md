@@ -1,0 +1,2 @@
+# Linux server set jar package to start automatically at boot
+[Linux server set jar package to start automatically at boot](https://aiwithcloud.com/2022/09/15/linux_server_set_jar_package_to_start_automatically_at_boot/)

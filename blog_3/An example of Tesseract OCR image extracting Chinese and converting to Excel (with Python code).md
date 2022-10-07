@@ -1,0 +1,2 @@
+# An example of Tesseract OCR image extracting Chinese and converting to Excel (with Python code)
+[An example of Tesseract OCR image extracting Chinese and converting to Excel (with Python code)](https://aiwithcloud.com/2022/09/15/an_example_of_tesseract_ocr_image_extracting_chinese_and_converting_to_excel_with_python_code/)

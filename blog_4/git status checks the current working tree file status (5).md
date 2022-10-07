@@ -1,0 +1,2 @@
+# git status checks the current working tree file status (5)
+[git status checks the current working tree file status (5)](https://aiwithcloud.com/2022/09/15/git_status_checks_the_current_working_tree_file_status_5/)

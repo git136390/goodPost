@@ -1,0 +1,2 @@
+# PHP - Laravel view template (blade.php) import JS, Css, material files and use
+[PHP - Laravel view template (blade.php) import JS, Css, material files and use](https://aiwithcloud.com/2022/09/16/php___laravel_view_template_blade-php_import_js_css_material_files_and_use/)

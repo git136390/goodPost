@@ -1,0 +1,2 @@
+# [The principle of computer composition] The combination of addressing mode and instruction
+[[The principle of computer composition] The combination of addressing mode and instruction](https://aiwithcloud.com/2022/09/16/the_principle_of_computer_composition_the_combination_of_addressing_mode_and_instruction/)

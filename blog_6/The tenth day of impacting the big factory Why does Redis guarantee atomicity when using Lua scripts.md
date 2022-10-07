@@ -1,0 +1,2 @@
+# The tenth day of impacting the big factory Why does Redis guarantee atomicity when using Lua scripts
+[The tenth day of impacting the big factory Why does Redis guarantee atomicity when using Lua scripts](https://aiwithcloud.com/2022/09/16/the_tenth_day_of_impacting_the_big_factory_why_does_redis_guarantee_atomicity_when_using_lua_scripts/)

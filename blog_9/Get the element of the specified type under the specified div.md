@@ -1,0 +1,2 @@
+# Get the element of the specified type under the specified div
+[Get the element of the specified type under the specified div](https://aiwithcloud.com/2022/09/19/get_the_element_of_the_specified_type_under_the_specified_div/)

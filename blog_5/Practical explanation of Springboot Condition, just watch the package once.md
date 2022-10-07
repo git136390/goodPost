@@ -1,0 +1,2 @@
+# Practical explanation of Springboot Condition, just watch the package once
+[Practical explanation of Springboot Condition, just watch the package once](https://aiwithcloud.com/2022/09/16/practical_explanation_of_springboot_condition_just_watch_the_package_once/)

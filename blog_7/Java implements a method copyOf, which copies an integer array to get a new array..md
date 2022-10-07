@@ -1,0 +1,2 @@
+# Java implements a method copyOf, which copies an integer array to get a new array.
+[Java implements a method copyOf, which copies an integer array to get a new array.](https://aiwithcloud.com/2022/09/19/java_implements_a_method_copyof_which_copies_an_integer_array_to_get_a_new_array/)

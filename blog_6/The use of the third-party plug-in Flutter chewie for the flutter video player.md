@@ -1,0 +1,2 @@
+# The use of the third-party plug-in Flutter chewie for the flutter video player
+[The use of the third-party plug-in Flutter chewie for the flutter video player](https://aiwithcloud.com/2022/09/16/the_use_of_the_third_party_plug_in_flutter_chewie_for_the_flutter_video_player/)

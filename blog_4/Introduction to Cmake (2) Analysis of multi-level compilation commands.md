@@ -1,0 +1,2 @@
+# Introduction to Cmake (2) Analysis of multi-level compilation commands
+[Introduction to Cmake (2) Analysis of multi-level compilation commands](https://aiwithcloud.com/2022/09/15/introduction_to_cmake_2_analysis_of_multi_level_compilation_commands/)

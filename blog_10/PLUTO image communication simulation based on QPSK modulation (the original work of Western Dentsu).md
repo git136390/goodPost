@@ -1,0 +1,2 @@
+# PLUTO image communication simulation based on QPSK modulation (the original work of Western Dentsu)
+[PLUTO image communication simulation based on QPSK modulation (the original work of Western Dentsu)](https://aiwithcloud.com/2022/09/19/pluto_image_communication_simulation_based_on_qpsk_modulation_the_original_work_of_western_dentsu/)

@@ -1,0 +1,2 @@
+# Redis cannot connect to redis in VMWare virtual machine using Windows
+[Redis cannot connect to redis in VMWare virtual machine using Windows](https://aiwithcloud.com/2022/09/16/redis_cannot_connect_to_redis_in_vmware_virtual_machine_using_windows/)

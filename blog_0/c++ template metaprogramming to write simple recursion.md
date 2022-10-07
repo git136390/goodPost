@@ -1,0 +1,2 @@
+# c++ template metaprogramming to write simple recursion
+[c++ template metaprogramming to write simple recursion](https://aiwithcloud.com/2022/09/14/c_template_metaprogramming_to_write_simple_recursion/)

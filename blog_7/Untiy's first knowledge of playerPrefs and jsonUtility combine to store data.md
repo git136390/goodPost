@@ -1,0 +1,2 @@
+# Untiy's first knowledge of playerPrefs and jsonUtility combine to store data
+[Untiy's first knowledge of playerPrefs and jsonUtility combine to store data](https://aiwithcloud.com/2022/09/16/untiys_first_knowledge_of_playerprefs_and_jsonutility_combine_to_store_data/)

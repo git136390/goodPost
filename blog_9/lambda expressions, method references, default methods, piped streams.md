@@ -1,0 +1,2 @@
+# lambda expressions, method references, default methods, piped streams
+[lambda expressions, method references, default methods, piped streams](https://aiwithcloud.com/2022/09/19/lambda_expressions_method_references_default_methods_piped_streams/)

@@ -1,0 +1,2 @@
+# FFmpeg compiles and installs on win10 (configure libx264)
+[FFmpeg compiles and installs on win10 (configure libx264)](https://aiwithcloud.com/2022/09/19/ffmpeg_compiles_and_installs_on_win10_configure_libx264/)

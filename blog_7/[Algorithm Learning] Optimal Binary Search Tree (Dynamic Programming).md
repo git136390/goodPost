@@ -1,0 +1,2 @@
+# [Algorithm Learning] Optimal Binary Search Tree (Dynamic Programming)
+[[Algorithm Learning] Optimal Binary Search Tree (Dynamic Programming)](https://aiwithcloud.com/2022/09/16/algorithm_learning_optimal_binary_search_tree_dynamic_programming/)

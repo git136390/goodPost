@@ -1,0 +1,2 @@
+# How to get external network IP address from HttpServletRequest
+[How to get external network IP address from HttpServletRequest](https://aiwithcloud.com/2022/09/15/how_to_get_external_network_ip_address_from_httpservletrequest/)

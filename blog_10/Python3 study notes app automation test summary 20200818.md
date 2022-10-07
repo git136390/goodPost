@@ -1,0 +1,2 @@
+# Python3 study notes app automation test summary 20200818
+[Python3 study notes app automation test summary 20200818](https://aiwithcloud.com/2022/09/19/python3_study_notes_app_automation_test_summary_20200818/)

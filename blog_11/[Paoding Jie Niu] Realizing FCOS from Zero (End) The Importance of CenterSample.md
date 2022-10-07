@@ -1,0 +1,2 @@
+# [Paoding Jie Niu] Realizing FCOS from Zero (End) The Importance of CenterSample
+[[Paoding Jie Niu] Realizing FCOS from Zero (End) The Importance of CenterSample](https://aiwithcloud.com/2022/09/19/paoding_jie_niu_realizing_fcos_from_zero_end_the_importance_of_centersample/)

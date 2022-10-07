@@ -1,0 +1,2 @@
+# How to enter BIOS in WIN10 system (no need to press shortcut key when booting)
+[How to enter BIOS in WIN10 system (no need to press shortcut key when booting)](https://aiwithcloud.com/2022/09/15/how_to_enter_bios_in_win10_system_no_need_to_press_shortcut_key_when_booting/)

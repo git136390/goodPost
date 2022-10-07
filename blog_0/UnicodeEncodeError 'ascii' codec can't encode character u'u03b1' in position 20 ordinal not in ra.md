@@ -1,0 +1,2 @@
+# UnicodeEncodeError: 'ascii' codec can't encode character u'u03b1' in position 20: ordinal not in ra
+[UnicodeEncodeError: 'ascii' codec can't encode character u'u03b1' in position 20: ordinal not in ra](https://aiwithcloud.com/2021/03/26/unicodeencodeerror-ascii-codec-cant-encode-character-uu03b1-in-position-20-ordinal-not-in-ra/)

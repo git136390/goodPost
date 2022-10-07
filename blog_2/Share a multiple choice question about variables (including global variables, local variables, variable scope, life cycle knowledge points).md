@@ -1,0 +1,2 @@
+# Share a multiple choice question about variables (including global variables, local variables, variable scope, life cycle knowledge points)
+[Share a multiple choice question about variables (including global variables, local variables, variable scope, life cycle knowledge points)](https://aiwithcloud.com/2022/09/15/share_a_multiple_choice_question_about_variables_including_global_variables_local_variables_variable_scope_life_cycle_knowledge_points/)

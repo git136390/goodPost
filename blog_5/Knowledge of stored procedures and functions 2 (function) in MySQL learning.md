@@ -1,0 +1,2 @@
+# Knowledge of stored procedures and functions 2 (function) in MySQL learning
+[Knowledge of stored procedures and functions 2 (function) in MySQL learning](https://aiwithcloud.com/2022/09/16/knowledge_of_stored_procedures_and_functions_2_function_in_mysql_learning/)

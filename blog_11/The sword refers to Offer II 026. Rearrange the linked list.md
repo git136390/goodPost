@@ -1,0 +1,2 @@
+# The sword refers to Offer II 026. Rearrange the linked list
+[The sword refers to Offer II 026. Rearrange the linked list](https://aiwithcloud.com/2022/09/19/the_sword_refers_to_offer_ii_026-_rearrange_the_linked_list/)

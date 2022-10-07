@@ -1,0 +1,2 @@
+# At present, five major manufacturers including Tencent and Meituan have received intentional offers.
+[At present, five major manufacturers including Tencent and Meituan have received intentional offers.](https://aiwithcloud.com/2022/09/19/at_present_five_major_manufacturers_including_tencent_and_meituan_have_received_intentional_offers/)

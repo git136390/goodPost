@@ -1,0 +1,2 @@
+# Detailed explanation and configuration example of VRRP implementing AC dual-system backup
+[Detailed explanation and configuration example of VRRP implementing AC dual-system backup](https://aiwithcloud.com/2022/09/15/detailed_explanation_and_configuration_example_of_vrrp_implementing_ac_dual_system_backup/)

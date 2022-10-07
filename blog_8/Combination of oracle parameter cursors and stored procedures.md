@@ -1,0 +1,2 @@
+# Combination of oracle parameter cursors and stored procedures
+[Combination of oracle parameter cursors and stored procedures](https://aiwithcloud.com/2022/09/19/combination_of_oracle_parameter_cursors_and_stored_procedures/)

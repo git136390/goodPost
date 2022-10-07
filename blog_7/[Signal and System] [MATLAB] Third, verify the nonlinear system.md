@@ -1,0 +1,2 @@
+# [Signal and System] [MATLAB] Third, verify the nonlinear system
+[[Signal and System] [MATLAB] Third, verify the nonlinear system](https://aiwithcloud.com/2022/09/16/signal_and_system_matlab_third_verify_the_nonlinear_system/)

@@ -1,0 +1,2 @@
+# The complete process of APP access to Alipay payment and the record of stepping on the pit (including the server)
+[The complete process of APP access to Alipay payment and the record of stepping on the pit (including the server)](https://aiwithcloud.com/2022/09/19/the_complete_process_of_app_access_to_alipay_payment_and_the_record_of_stepping_on_the_pit_including_the_server/)

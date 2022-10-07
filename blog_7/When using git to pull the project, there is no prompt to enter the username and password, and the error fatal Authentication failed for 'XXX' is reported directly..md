@@ -1,0 +1,2 @@
+# When using git to pull the project, there is no prompt to enter the username and password, and the error fatal Authentication failed for 'XXX' is reported directly.
+[When using git to pull the project, there is no prompt to enter the username and password, and the error fatal Authentication failed for 'XXX' is reported directly.](https://aiwithcloud.com/2022/09/16/when_using_git_to_pull_the_project_there_is_no_prompt_to_enter_the_username_and_password_and_the_error_fatal_authentication_failed_for_xxx_is_reported_directly/)

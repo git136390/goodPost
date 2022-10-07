@@ -1,0 +1,2 @@
+# Java8 New Features - Stream - 05 - Detailed Explanation of Stream's filter() Method
+[Java8 New Features - Stream - 05 - Detailed Explanation of Stream's filter() Method](https://aiwithcloud.com/2022/09/16/java8_new_features___stream___05___detailed_explanation_of_streams_filter_method/)

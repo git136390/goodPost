@@ -1,0 +1,2 @@
+# [Principle of computer composition] Assault training before the exam
+[[Principle of computer composition] Assault training before the exam](https://aiwithcloud.com/2022/09/16/principle_of_computer_composition_assault_training_before_the_exam/)

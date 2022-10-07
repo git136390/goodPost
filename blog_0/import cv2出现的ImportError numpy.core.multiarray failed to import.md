@@ -1,0 +1,2 @@
+# import cv2出现的ImportError: numpy.core.multiarray failed to import
+[import cv2出现的ImportError: numpy.core.multiarray failed to import](https://aiwithcloud.com/2022/04/28/import-cv2%e5%87%ba%e7%8e%b0%e7%9a%84importerror-numpy-core-multiarray-failed-to-import/)

@@ -1,0 +1,2 @@
+# The solution to No modul named Ipython appears when running the PaddlePaddle tutorial
+[The solution to No modul named Ipython appears when running the PaddlePaddle tutorial](https://aiwithcloud.com/2022/09/15/the_solution_to_no_modul_named_ipython_appears_when_running_the_paddlepaddle_tutorial/)

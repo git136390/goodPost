@@ -1,0 +1,2 @@
+# SQL query all databases under the server, all tables of the database
+[SQL query all databases under the server, all tables of the database](https://aiwithcloud.com/2022/09/16/sql_query_all_databases_under_the_server_all_tables_of_the_database/)

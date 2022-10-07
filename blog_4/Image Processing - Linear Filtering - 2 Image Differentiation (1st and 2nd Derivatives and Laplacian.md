@@ -1,0 +1,2 @@
+# Image Processing - Linear Filtering - 2 Image Differentiation (1st and 2nd Derivatives and Laplacian
+[Image Processing - Linear Filtering - 2 Image Differentiation (1st and 2nd Derivatives and Laplacian](https://aiwithcloud.com/2022/09/15/image_processing___linear_filtering___2_image_differentiation_1st_and_2nd_derivatives_and_laplacian/)

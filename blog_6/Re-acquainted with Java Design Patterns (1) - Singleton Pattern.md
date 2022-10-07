@@ -1,0 +1,2 @@
+# Re-acquainted with Java Design Patterns (1) - Singleton Pattern
+[Re-acquainted with Java Design Patterns (1) - Singleton Pattern](https://aiwithcloud.com/2022/09/16/re_acquainted_with_java_design_patterns_1___singleton_pattern/)

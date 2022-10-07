@@ -1,0 +1,2 @@
+# IC study notes 9 - MUXDMUX synchronizer for cross-clock domain processing of multi-bit signals
+[IC study notes 9 - MUXDMUX synchronizer for cross-clock domain processing of multi-bit signals](https://aiwithcloud.com/2022/09/19/ic_study_notes_9___muxdmux_synchronizer_for_cross_clock_domain_processing_of_multi_bit_signals/)

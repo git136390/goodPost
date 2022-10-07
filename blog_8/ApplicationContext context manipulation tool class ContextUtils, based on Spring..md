@@ -1,0 +1,2 @@
+# ApplicationContext context manipulation tool class ContextUtils, based on Spring.
+[ApplicationContext context manipulation tool class ContextUtils, based on Spring.](https://aiwithcloud.com/2022/09/19/applicationcontext_context_manipulation_tool_class_contextutils_based_on_spring/)

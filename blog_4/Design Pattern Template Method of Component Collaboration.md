@@ -1,0 +1,2 @@
+# Design Pattern Template Method of Component Collaboration
+[Design Pattern Template Method of Component Collaboration](https://aiwithcloud.com/2022/09/15/design_pattern_template_method_of_component_collaboration/)

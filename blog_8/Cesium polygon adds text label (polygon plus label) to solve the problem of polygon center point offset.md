@@ -1,0 +1,2 @@
+# Cesium polygon adds text label (polygon plus label) to solve the problem of polygon center point offset
+[Cesium polygon adds text label (polygon plus label) to solve the problem of polygon center point offset](https://aiwithcloud.com/2022/09/19/cesium_polygon_adds_text_label_polygon_plus_label_to_solve_the_problem_of_polygon_center_point_offset/)

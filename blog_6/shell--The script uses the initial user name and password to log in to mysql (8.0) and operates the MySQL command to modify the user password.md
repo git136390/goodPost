@@ -1,0 +1,2 @@
+# shell--The script uses the initial user name and password to log in to mysql (8.0) and operates the MySQL command to modify the user password
+[shell--The script uses the initial user name and password to log in to mysql (8.0) and operates the MySQL command to modify the user password](https://aiwithcloud.com/2022/09/16/shell__the_script_uses_the_initial_user_name_and_password_to_log_in_to_mysql_8-0_and_operates_the_mysql_command_to_modify_the_user_password/)

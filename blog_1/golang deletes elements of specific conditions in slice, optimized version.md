@@ -1,0 +1,2 @@
+# golang deletes elements of specific conditions in slice, optimized version
+[golang deletes elements of specific conditions in slice, optimized version](https://aiwithcloud.com/2022/09/15/golang_deletes_elements_of_specific_conditions_in_slice_optimized_version/)

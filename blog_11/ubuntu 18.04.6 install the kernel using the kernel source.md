@@ -1,0 +1,2 @@
+# ubuntu 18.04.6 install the kernel using the kernel source
+[ubuntu 18.04.6 install the kernel using the kernel source](https://aiwithcloud.com/2022/09/19/ubuntu_18-04-6_install_the_kernel_using_the_kernel_source/)

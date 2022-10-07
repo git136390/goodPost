@@ -1,0 +1,2 @@
+# A picture to understand the various join usages of SQL!
+[A picture to understand the various join usages of SQL!](https://aiwithcloud.com/2022/09/19/a_picture_to_understand_the_various_join_usages_of_sql/)

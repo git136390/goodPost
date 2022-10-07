@@ -1,0 +1,2 @@
+# Summary of common database functions encountered in development
+[Summary of common database functions encountered in development](https://aiwithcloud.com/2022/09/15/summary_of_common_database_functions_encountered_in_development/)

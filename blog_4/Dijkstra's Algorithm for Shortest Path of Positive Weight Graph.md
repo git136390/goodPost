@@ -1,0 +1,2 @@
+# Dijkstra's Algorithm for Shortest Path of Positive Weight Graph
+[Dijkstra's Algorithm for Shortest Path of Positive Weight Graph](https://aiwithcloud.com/2022/09/15/dijkstras_algorithm_for_shortest_path_of_positive_weight_graph/)

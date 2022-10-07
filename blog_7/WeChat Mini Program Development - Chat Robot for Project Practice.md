@@ -1,0 +1,2 @@
+# WeChat Mini Program Development - Chat Robot for Project Practice
+[WeChat Mini Program Development - Chat Robot for Project Practice](https://aiwithcloud.com/2022/09/16/wechat_mini_program_development___chat_robot_for_project_practice/)

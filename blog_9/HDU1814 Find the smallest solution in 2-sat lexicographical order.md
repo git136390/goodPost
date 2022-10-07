@@ -1,0 +1,2 @@
+# HDU1814 Find the smallest solution in 2-sat lexicographical order
+[HDU1814 Find the smallest solution in 2-sat lexicographical order](https://aiwithcloud.com/2022/09/19/hdu1814_find_the_smallest_solution_in_2_sat_lexicographical_order/)

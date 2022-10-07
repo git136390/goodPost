@@ -1,0 +1,2 @@
+# Median filter (matlab self-programming implementation)
+[Median filter (matlab self-programming implementation)](https://aiwithcloud.com/2022/09/16/median_filter_matlab_self_programming_implementation/)

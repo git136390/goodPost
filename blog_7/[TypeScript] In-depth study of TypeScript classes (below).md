@@ -1,0 +1,2 @@
+# [TypeScript] In-depth study of TypeScript classes (below)
+[[TypeScript] In-depth study of TypeScript classes (below)](https://aiwithcloud.com/2022/09/16/typescript_in_depth_study_of_typescript_classes_below/)

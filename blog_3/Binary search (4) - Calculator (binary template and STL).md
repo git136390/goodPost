@@ -1,0 +1,2 @@
+# Binary search (4) - Calculator (binary template and STL)
+[Binary search (4) - Calculator (binary template and STL)](https://aiwithcloud.com/2022/09/15/binary_search_4___calculator_binary_template_and_stl/)

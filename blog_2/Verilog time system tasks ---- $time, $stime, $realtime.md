@@ -1,0 +1,2 @@
+# Verilog time system tasks ---- $time, $stime, $realtime
+[Verilog time system tasks ---- $time, $stime, $realtime](https://aiwithcloud.com/2022/09/15/verilog_time_system_tasks______time_stime_realtime/)

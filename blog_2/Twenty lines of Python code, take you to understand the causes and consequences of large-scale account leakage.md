@@ -1,0 +1,2 @@
+# Twenty lines of Python code, take you to understand the causes and consequences of large-scale account leakage
+[Twenty lines of Python code, take you to understand the causes and consequences of large-scale account leakage](https://aiwithcloud.com/2022/09/15/twenty_lines_of_python_code_take_you_to_understand_the_causes_and_consequences_of_large_scale_account_leakage/)

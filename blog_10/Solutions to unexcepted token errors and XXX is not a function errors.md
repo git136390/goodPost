@@ -1,0 +1,2 @@
+# Solutions to unexcepted token errors and XXX is not a function errors
+[Solutions to unexcepted token errors and XXX is not a function errors](https://aiwithcloud.com/2022/09/19/solutions_to_unexcepted_token_errors_and_xxx_is_not_a_function_errors/)

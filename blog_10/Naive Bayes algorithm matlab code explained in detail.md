@@ -1,0 +1,2 @@
+# Naive Bayes algorithm matlab code explained in detail
+[Naive Bayes algorithm matlab code explained in detail](https://aiwithcloud.com/2022/09/19/naive_bayes_algorithm_matlab_code_explained_in_detail/)

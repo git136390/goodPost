@@ -1,0 +1,2 @@
+# The method of exporting dictionary nested list and list nested dictionary to csv
+[The method of exporting dictionary nested list and list nested dictionary to csv](https://aiwithcloud.com/2022/09/16/the_method_of_exporting_dictionary_nested_list_and_list_nested_dictionary_to_csv/)

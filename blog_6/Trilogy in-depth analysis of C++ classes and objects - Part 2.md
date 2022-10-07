@@ -1,0 +1,2 @@
+# Trilogy in-depth analysis of C++ classes and objects - Part 2
+[Trilogy in-depth analysis of C++ classes and objects - Part 2](https://aiwithcloud.com/2022/09/16/trilogy_in_depth_analysis_of_c_classes_and_objects___part_2/)

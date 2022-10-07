@@ -1,0 +1,2 @@
+# Java-parameter passing case of method print array content
+[Java-parameter passing case of method print array content](https://aiwithcloud.com/2022/09/19/java_parameter_passing_case_of_method_print_array_content/)

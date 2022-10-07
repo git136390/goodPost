@@ -1,0 +1,2 @@
+# tensorboard learning - tf.train.SummaryWriter does not have this property
+[tensorboard learning - tf.train.SummaryWriter does not have this property](https://aiwithcloud.com/2022/09/16/tensorboard_learning___tf-train-summarywriter_does_not_have_this_property/)

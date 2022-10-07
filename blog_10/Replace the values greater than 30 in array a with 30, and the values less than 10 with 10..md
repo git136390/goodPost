@@ -1,0 +1,2 @@
+# Replace the values greater than 30 in array a with 30, and the values less than 10 with 10.
+[Replace the values greater than 30 in array a with 30, and the values less than 10 with 10.](https://aiwithcloud.com/2022/09/19/replace_the_values_greater_than_30_in_array_a_with_30_and_the_values_less_than_10_with_10/)

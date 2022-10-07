@@ -1,0 +1,2 @@
+# MySql queries duplicate records based on field names and deletes them! keep only one
+[MySql queries duplicate records based on field names and deletes them! keep only one](https://aiwithcloud.com/2022/09/15/mysql_queries_duplicate_records_based_on_field_names_and_deletes_them_keep_only_one/)

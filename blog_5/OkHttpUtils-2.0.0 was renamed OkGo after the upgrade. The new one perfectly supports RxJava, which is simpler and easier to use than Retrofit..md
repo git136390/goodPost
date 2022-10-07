@@ -1,0 +1,2 @@
+# OkHttpUtils-2.0.0 was renamed OkGo after the upgrade. The new one perfectly supports RxJava, which is simpler and easier to use than Retrofit.
+[OkHttpUtils-2.0.0 was renamed OkGo after the upgrade. The new one perfectly supports RxJava, which is simpler and easier to use than Retrofit.](https://aiwithcloud.com/2022/09/16/okhttputils_2-0-0_was_renamed_okgo_after_the_upgrade-_the_new_one_perfectly_supports_rxjava_which_is_simpler_and_easier_to_use_than_retrofit/)

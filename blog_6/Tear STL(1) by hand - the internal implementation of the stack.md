@@ -1,0 +1,2 @@
+# Tear STL(1) by hand - the internal implementation of the stack
+[Tear STL(1) by hand - the internal implementation of the stack](https://aiwithcloud.com/2022/09/16/tear_stl1_by_hand___the_internal_implementation_of_the_stack/)

@@ -1,0 +1,2 @@
+# Detailed configuration swagger interface documentation in SpringBoot
+[Detailed configuration swagger interface documentation in SpringBoot](https://aiwithcloud.com/2022/09/15/detailed_configuration_swagger_interface_documentation_in_springboot/)

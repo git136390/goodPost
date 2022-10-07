@@ -1,0 +1,2 @@
+# [Dry goods] Rapid deployment of Microsoft's open source GPU management tool OpenPAI
+[[Dry goods] Rapid deployment of Microsoft's open source GPU management tool OpenPAI](https://aiwithcloud.com/2022/09/16/dry_goods_rapid_deployment_of_microsofts_open_source_gpu_management_tool_openpai/)

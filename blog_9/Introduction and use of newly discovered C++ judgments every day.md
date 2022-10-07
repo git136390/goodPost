@@ -1,0 +1,2 @@
+# Introduction and use of newly discovered C++ judgments every day
+[Introduction and use of newly discovered C++ judgments every day](https://aiwithcloud.com/2022/09/19/introduction_and_use_of_newly_discovered_c_judgments_every_day/)

@@ -1,0 +1,2 @@
+# Java verification code generation tool class (concise and efficient)
+[Java verification code generation tool class (concise and efficient)](https://aiwithcloud.com/2022/09/19/java_verification_code_generation_tool_class_concise_and_efficient/)

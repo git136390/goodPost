@@ -1,0 +1,2 @@
+# Python simulates all kinds of garbled characters such as Kunjinxiao
+[Python simulates all kinds of garbled characters such as Kunjinxiao](https://aiwithcloud.com/2022/09/16/python_simulates_all_kinds_of_garbled_characters_such_as_kunjinxiao/)

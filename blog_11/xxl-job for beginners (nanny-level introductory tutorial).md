@@ -1,0 +1,2 @@
+# xxl-job for beginners (nanny-level introductory tutorial)
+[xxl-job for beginners (nanny-level introductory tutorial)](https://aiwithcloud.com/2022/09/19/xxl_job_for_beginners_nanny_level_introductory_tutorial/)

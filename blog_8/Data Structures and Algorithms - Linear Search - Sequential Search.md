@@ -1,0 +1,2 @@
+# Data Structures and Algorithms - Linear Search - Sequential Search
+[Data Structures and Algorithms - Linear Search - Sequential Search](https://aiwithcloud.com/2022/09/19/data_structures_and_algorithms___linear_search___sequential_search/)

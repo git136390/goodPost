@@ -1,0 +1,2 @@
+# VMware virtual machine installation Ubuntu20.04 detailed graphic tutorial
+[VMware virtual machine installation Ubuntu20.04 detailed graphic tutorial](https://aiwithcloud.com/2022/09/19/vmware_virtual_machine_installation_ubuntu20-04_detailed_graphic_tutorial/)

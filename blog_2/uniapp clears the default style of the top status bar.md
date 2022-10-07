@@ -1,0 +1,2 @@
+# uniapp clears the default style of the top status bar
+[uniapp clears the default style of the top status bar](https://aiwithcloud.com/2022/09/15/uniapp_clears_the_default_style_of_the_top_status_bar/)

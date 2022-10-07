@@ -1,0 +1,2 @@
+# PS5 Just Dance 2022 Ultimate Edition supports camera and PSMove
+[PS5 Just Dance 2022 Ultimate Edition supports camera and PSMove](https://aiwithcloud.com/2022/09/15/ps5_just_dance_2022_ultimate_edition_supports_camera_and_psmove/)

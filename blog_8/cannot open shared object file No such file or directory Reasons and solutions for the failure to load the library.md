@@ -1,0 +1,2 @@
+# cannot open shared object file No such file or directory Reasons and solutions for the failure to load the library
+[cannot open shared object file No such file or directory Reasons and solutions for the failure to load the library](https://aiwithcloud.com/2022/09/19/cannot_open_shared_object_file_no_such_file_or_directory_reasons_and_solutions_for_the_failure_to_load_the_library/)

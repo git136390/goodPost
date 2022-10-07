@@ -1,0 +1,2 @@
+# FRP  Summary of steps for using FRP to complete intranet penetration for Windows remote connection
+[FRP  Summary of steps for using FRP to complete intranet penetration for Windows remote connection](https://aiwithcloud.com/2022/09/19/frp__summary_of_steps_for_using_frp_to_complete_intranet_penetration_for_windows_remote_connection/)

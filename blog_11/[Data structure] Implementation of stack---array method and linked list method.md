@@ -1,0 +1,2 @@
+# [Data structure] Implementation of stack---array method and linked list method
+[[Data structure] Implementation of stack---array method and linked list method](https://aiwithcloud.com/2022/09/19/data_structure_implementation_of_stack___array_method_and_linked_list_method/)

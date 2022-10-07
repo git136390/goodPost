@@ -1,0 +1,2 @@
+# Python  batch traversal of multi-level file operations
+[Python  batch traversal of multi-level file operations](https://aiwithcloud.com/2022/09/16/python__batch_traversal_of_multi_level_file_operations/)

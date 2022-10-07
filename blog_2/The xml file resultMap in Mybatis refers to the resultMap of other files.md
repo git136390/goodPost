@@ -1,0 +1,2 @@
+# The xml file resultMap in Mybatis refers to the resultMap of other files
+[The xml file resultMap in Mybatis refers to the resultMap of other files](https://aiwithcloud.com/2022/09/15/the_xml_file_resultmap_in_mybatis_refers_to_the_resultmap_of_other_files/)

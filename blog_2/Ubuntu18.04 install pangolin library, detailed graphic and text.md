@@ -1,0 +1,2 @@
+# Ubuntu18.04 install pangolin library, detailed graphic and text
+[Ubuntu18.04 install pangolin library, detailed graphic and text](https://aiwithcloud.com/2022/09/15/ubuntu18-04_install_pangolin_library_detailed_graphic_and_text/)

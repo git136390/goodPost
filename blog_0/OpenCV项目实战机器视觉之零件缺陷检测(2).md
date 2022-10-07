@@ -1,0 +1,2 @@
+# OpenCV项目实战机器视觉之零件缺陷检测(2)
+[OpenCV项目实战机器视觉之零件缺陷检测(2)](https://aiwithcloud.com/2021/05/11/opencv%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%88%98%e6%9c%ba%e5%99%a8%e8%a7%86%e8%a7%89%e4%b9%8b%e9%9b%b6%e4%bb%b6%e7%bc%ba%e9%99%b7%e6%a3%80%e6%b5%8b2/)

@@ -1,0 +1,2 @@
+# Regular expression usage instructions (basic knowledge, atomic characters, pattern modification, atomic table, atomic group, repeated matching)
+[Regular expression usage instructions (basic knowledge, atomic characters, pattern modification, atomic table, atomic group, repeated matching)](https://aiwithcloud.com/2022/09/19/regular_expression_usage_instructions_basic_knowledge_atomic_characters_pattern_modification_atomic_table_atomic_group_repeated_matching/)

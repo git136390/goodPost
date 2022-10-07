@@ -1,0 +1,2 @@
+# Common protocols and corresponding port numbers at the application layer
+[Common protocols and corresponding port numbers at the application layer](https://aiwithcloud.com/2022/09/19/common_protocols_and_corresponding_port_numbers_at_the_application_layer/)

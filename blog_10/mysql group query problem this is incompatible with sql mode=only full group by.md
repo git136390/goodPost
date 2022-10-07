@@ -1,0 +1,2 @@
+# mysql group query problem this is incompatible with sql mode=only full group by
+[mysql group query problem this is incompatible with sql mode=only full group by](https://aiwithcloud.com/2022/09/19/mysql_group_query_problem_this_is_incompatible_with_sql_modeonly_full_group_by/)

@@ -1,0 +1,2 @@
+# Written test questions - determine whether a number is a happy number
+[Written test questions - determine whether a number is a happy number](https://aiwithcloud.com/2022/09/16/written_test_questions___determine_whether_a_number_is_a_happy_number/)

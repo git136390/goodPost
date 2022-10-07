@@ -1,0 +1,2 @@
+# [Commonly used tools] Still too troublesome to take screenshots Come and use the Snipping Tool, the native screenshot tool of Win10.
+[[Commonly used tools] Still too troublesome to take screenshots Come and use the Snipping Tool, the native screenshot tool of Win10.](https://aiwithcloud.com/2022/09/16/commonly_used_tools_still_too_troublesome_to_take_screenshots_come_and_use_the_snipping_tool_the_native_screenshot_tool_of_win10/)

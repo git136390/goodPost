@@ -1,0 +1,2 @@
+# Operator priority, associativity, whether to control the evaluation order [detailed]
+[Operator priority, associativity, whether to control the evaluation order [detailed]](https://aiwithcloud.com/2022/09/15/operator_priority_associativity_whether_to_control_the_evaluation_order_detailed/)

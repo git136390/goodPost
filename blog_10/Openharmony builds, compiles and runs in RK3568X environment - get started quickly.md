@@ -1,0 +1,2 @@
+# Openharmony builds, compiles and runs in RK3568X environment - get started quickly
+[Openharmony builds, compiles and runs in RK3568X environment - get started quickly](https://aiwithcloud.com/2022/09/19/openharmony_builds_compiles_and_runs_in_rk3568x_environment___get_started_quickly/)

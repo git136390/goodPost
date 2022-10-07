@@ -1,0 +1,2 @@
+# [Blue Bridge Cup Embedded] [HAL Library] Nine, DAC experiment
+[[Blue Bridge Cup Embedded] [HAL Library] Nine, DAC experiment](https://aiwithcloud.com/2022/09/16/blue_bridge_cup_embedded_hal_library_nine_dac_experiment/)

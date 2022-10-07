@@ -1,0 +1,2 @@
+# JavaScript language learning basics NaN type and Math mathematical calculation
+[JavaScript language learning basics NaN type and Math mathematical calculation](https://aiwithcloud.com/2022/09/16/javascript_language_learning_basics_nan_type_and_math_mathematical_calculation/)

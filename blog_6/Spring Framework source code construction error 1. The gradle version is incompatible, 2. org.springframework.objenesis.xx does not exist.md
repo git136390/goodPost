@@ -1,0 +1,2 @@
+# Spring Framework source code construction error 1. The gradle version is incompatible, 2. org.springframework.objenesis.xx does not exist
+[Spring Framework source code construction error 1. The gradle version is incompatible, 2. org.springframework.objenesis.xx does not exist](https://aiwithcloud.com/2022/09/16/spring_framework_source_code_construction_error_1-_the_gradle_version_is_incompatible_2-_org-springframework-objenesis-xx_does_not_exist/)

@@ -1,0 +1,2 @@
+# Question of the day Repeating numbers in an array (easy)
+[Question of the day Repeating numbers in an array (easy)](https://aiwithcloud.com/2022/09/16/question_of_the_day_repeating_numbers_in_an_array_easy/)

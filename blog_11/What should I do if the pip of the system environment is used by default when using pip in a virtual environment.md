@@ -1,0 +1,2 @@
+# What should I do if the pip of the system environment is used by default when using pip in a virtual environment
+[What should I do if the pip of the system environment is used by default when using pip in a virtual environment](https://aiwithcloud.com/2022/09/19/what_should_i_do_if_the_pip_of_the_system_environment_is_used_by_default_when_using_pip_in_a_virtual_environment/)

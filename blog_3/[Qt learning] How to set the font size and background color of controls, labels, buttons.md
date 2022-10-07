@@ -1,0 +1,2 @@
+# [Qt learning] How to set the font size and background color of controls, labels, buttons
+[[Qt learning] How to set the font size and background color of controls, labels, buttons](https://aiwithcloud.com/2022/09/15/qt_learning_how_to_set_the_font_size_and_background_color_of_controls_labels_buttons/)

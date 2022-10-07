@@ -1,0 +1,2 @@
+# Redis Detailed Explanation (7) - Redis Master-Slave Synchronization High Availability Architecture
+[Redis Detailed Explanation (7) - Redis Master-Slave Synchronization High Availability Architecture](https://aiwithcloud.com/2022/09/19/redis_detailed_explanation_7___redis_master_slave_synchronization_high_availability_architecture/)

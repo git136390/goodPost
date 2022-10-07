@@ -1,0 +1,2 @@
+# Hyperledger fabric 1.4 endorsement and endorsement strategy
+[Hyperledger fabric 1.4 endorsement and endorsement strategy](https://aiwithcloud.com/2022/09/15/hyperledger_fabric_1-4_endorsement_and_endorsement_strategy/)

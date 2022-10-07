@@ -1,0 +1,2 @@
+# PaddlePaddle stepping on the pit and pointing to the north series - Linux installation (1)
+[PaddlePaddle stepping on the pit and pointing to the north series - Linux installation (1)](https://aiwithcloud.com/2022/09/15/paddlepaddle_stepping_on_the_pit_and_pointing_to_the_north_series___linux_installation_1/)

@@ -1,0 +1,2 @@
+# Shared memory (1) - creation and release of shared memory
+[Shared memory (1) - creation and release of shared memory](https://aiwithcloud.com/2022/09/16/shared_memory_1___creation_and_release_of_shared_memory/)

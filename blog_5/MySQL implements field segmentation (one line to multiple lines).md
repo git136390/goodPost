@@ -1,0 +1,2 @@
+# MySQL implements field segmentation (one line to multiple lines)
+[MySQL implements field segmentation (one line to multiple lines)](https://aiwithcloud.com/2022/09/16/mysql_implements_field_segmentation_one_line_to_multiple_lines/)

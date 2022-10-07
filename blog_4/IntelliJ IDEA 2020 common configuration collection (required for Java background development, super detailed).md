@@ -1,0 +1,2 @@
+# IntelliJ IDEA 2020 common configuration collection (required for Java background development, super detailed)
+[IntelliJ IDEA 2020 common configuration collection (required for Java background development, super detailed)](https://aiwithcloud.com/2022/09/15/intellij_idea_2020_common_configuration_collection_required_for_java_background_development_super_detailed/)

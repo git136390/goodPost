@@ -1,0 +1,2 @@
+# The novice Xiaobai takes you to learn the MySQL PHP grammar series
+[The novice Xiaobai takes you to learn the MySQL PHP grammar series](https://aiwithcloud.com/2022/09/19/the_novice_xiaobai_takes_you_to_learn_the_mysql_php_grammar_series/)

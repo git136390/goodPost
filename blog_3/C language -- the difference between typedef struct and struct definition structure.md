@@ -1,0 +1,2 @@
+# C language -- the difference between typedef struct and struct definition structure
+[C language -- the difference between typedef struct and struct definition structure](https://aiwithcloud.com/2022/09/15/c_language____the_difference_between_typedef_struct_and_struct_definition_structure/)

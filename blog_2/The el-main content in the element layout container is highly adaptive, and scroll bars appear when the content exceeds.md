@@ -1,0 +1,2 @@
+# The el-main content in the element layout container is highly adaptive, and scroll bars appear when the content exceeds
+[The el-main content in the element layout container is highly adaptive, and scroll bars appear when the content exceeds](https://aiwithcloud.com/2022/09/15/the_el_main_content_in_the_element_layout_container_is_highly_adaptive_and_scroll_bars_appear_when_the_content_exceeds/)

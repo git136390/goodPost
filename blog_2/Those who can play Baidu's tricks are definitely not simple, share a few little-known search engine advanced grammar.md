@@ -1,0 +1,2 @@
+# Those who can play Baidu's tricks are definitely not simple, share a few little-known search engine advanced grammar
+[Those who can play Baidu's tricks are definitely not simple, share a few little-known search engine advanced grammar](https://aiwithcloud.com/2022/09/15/those_who_can_play_baidus_tricks_are_definitely_not_simple_share_a_few_little_known_search_engine_advanced_grammar/)

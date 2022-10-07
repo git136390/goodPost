@@ -1,0 +1,2 @@
+# Stop using Python loops, these three methods work better
+[Stop using Python loops, these three methods work better](https://aiwithcloud.com/2022/09/15/stop_using_python_loops_these_three_methods_work_better/)

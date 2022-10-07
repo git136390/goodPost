@@ -1,0 +1,2 @@
+# Semaphore (Semaphore) and thread counter (CountDownLatch)
+[Semaphore (Semaphore) and thread counter (CountDownLatch)](https://aiwithcloud.com/2022/09/15/semaphore_semaphore_and_thread_counter_countdownlatch/)

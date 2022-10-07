@@ -1,0 +1,2 @@
+# The zookeeper startup port is occupied, org.apache.zookeeper.server.admin.AdminServer$AdminServerException Problem starting
+[The zookeeper startup port is occupied, org.apache.zookeeper.server.admin.AdminServer$AdminServerException Problem starting](https://aiwithcloud.com/2022/09/19/the_zookeeper_startup_port_is_occupied_org-apache-zookeeper-server-admin-adminserveradminserverexception_problem_starting/)

@@ -1,0 +1,2 @@
+# Configuration and installation of win10 java visual processing library javacv
+[Configuration and installation of win10 java visual processing library javacv](https://aiwithcloud.com/2022/09/15/configuration_and_installation_of_win10_java_visual_processing_library_javacv/)

@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question] - Find the median of two sequences A and B + Find the main element of sequence A
+[[Kingdao data structure programming question] - Find the median of two sequences A and B + Find the main element of sequence A](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question___find_the_median_of_two_sequences_a_and_b__find_the_main_element_of_sequence_a/)

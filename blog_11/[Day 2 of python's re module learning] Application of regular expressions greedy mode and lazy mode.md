@@ -1,0 +1,2 @@
+# [Day 2 of python's re module learning] Application of regular expressions greedy mode and lazy mode
+[[Day 2 of python's re module learning] Application of regular expressions greedy mode and lazy mode](https://aiwithcloud.com/2022/09/19/day_2_of_pythons_re_module_learning_application_of_regular_expressions_greedy_mode_and_lazy_mode/)

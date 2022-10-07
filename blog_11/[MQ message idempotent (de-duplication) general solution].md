@@ -1,0 +1,2 @@
+# [MQ message idempotent (de-duplication) general solution]
+[[MQ message idempotent (de-duplication) general solution]](https://aiwithcloud.com/2022/09/19/mq_message_idempotent_de_duplication_general_solution/)

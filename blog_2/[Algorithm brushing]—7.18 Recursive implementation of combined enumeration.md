@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.18 Recursive implementation of combined enumeration
+[[Algorithm brushing]—7.18 Recursive implementation of combined enumeration](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-18_recursive_implementation_of_combined_enumeration/)

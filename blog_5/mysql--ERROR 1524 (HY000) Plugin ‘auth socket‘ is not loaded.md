@@ -1,0 +1,2 @@
+# mysql--ERROR 1524 (HY000) Plugin ‘auth socket‘ is not loaded
+[mysql--ERROR 1524 (HY000) Plugin ‘auth socket‘ is not loaded](https://aiwithcloud.com/2022/09/16/mysql__error_1524_hy000_plugin_auth_socket_is_not_loaded/)

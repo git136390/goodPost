@@ -1,0 +1,2 @@
+# C++11 thread, the creation method of the thread with parameters
+[C++11 thread, the creation method of the thread with parameters](https://aiwithcloud.com/2022/09/19/c11_thread_the_creation_method_of_the_thread_with_parameters/)

@@ -1,0 +1,2 @@
+# From the basics to the principle of MySQL index, it is enough to read this article
+[From the basics to the principle of MySQL index, it is enough to read this article](https://aiwithcloud.com/2022/09/19/from_the_basics_to_the_principle_of_mysql_index_it_is_enough_to_read_this_article/)

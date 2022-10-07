@@ -1,0 +1,2 @@
+# The method of deleting files (folders) that is more violent than 360 force deletion
+[The method of deleting files (folders) that is more violent than 360 force deletion](https://aiwithcloud.com/2022/09/19/the_method_of_deleting_files_folders_that_is_more_violent_than_360_force_deletion/)

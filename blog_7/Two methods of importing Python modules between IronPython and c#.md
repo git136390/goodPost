@@ -1,0 +1,2 @@
+# Two methods of importing Python modules between IronPython and c#
+[Two methods of importing Python modules between IronPython and c#](https://aiwithcloud.com/2022/09/16/two_methods_of_importing_python_modules_between_ironpython_and_c/)

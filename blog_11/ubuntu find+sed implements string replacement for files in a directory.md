@@ -1,0 +1,2 @@
+# ubuntu find+sed implements string replacement for files in a directory
+[ubuntu find+sed implements string replacement for files in a directory](https://aiwithcloud.com/2022/09/19/ubuntu_findsed_implements_string_replacement_for_files_in_a_directory/)

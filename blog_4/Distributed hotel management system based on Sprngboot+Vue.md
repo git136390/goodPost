@@ -1,0 +1,2 @@
+# Distributed hotel management system based on Sprngboot+Vue
+[Distributed hotel management system based on Sprngboot+Vue](https://aiwithcloud.com/2022/09/15/distributed_hotel_management_system_based_on_sprngbootvue/)

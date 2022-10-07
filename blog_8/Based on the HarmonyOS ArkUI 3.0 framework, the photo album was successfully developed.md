@@ -1,0 +1,2 @@
+# Based on the HarmonyOS ArkUI 3.0 framework, the photo album was successfully developed
+[Based on the HarmonyOS ArkUI 3.0 framework, the photo album was successfully developed](https://aiwithcloud.com/2022/09/19/based_on_the_harmonyos_arkui_3-0_framework_the_photo_album_was_successfully_developed/)

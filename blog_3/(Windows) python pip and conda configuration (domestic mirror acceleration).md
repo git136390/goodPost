@@ -1,0 +1,2 @@
+# (Windows) python pip and conda configuration (domestic mirror acceleration)
+[(Windows) python pip and conda configuration (domestic mirror acceleration)](https://aiwithcloud.com/2022/09/15/windows_python_pip_and_conda_configuration_domestic_mirror_acceleration/)

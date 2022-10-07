@@ -1,0 +1,2 @@
+# Communication protocol-FlatBuffer-protocol description file writing and batch conversion
+[Communication protocol-FlatBuffer-protocol description file writing and batch conversion](https://aiwithcloud.com/2022/09/19/communication_protocol_flatbuffer_protocol_description_file_writing_and_batch_conversion/)

@@ -1,0 +1,2 @@
+# Detailed explanation of sizeof() code examples (variables, arrays, pointers, structures)
+[Detailed explanation of sizeof() code examples (variables, arrays, pointers, structures)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_sizeof_code_examples_variables_arrays_pointers_structures/)

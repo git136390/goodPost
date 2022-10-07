@@ -1,0 +1,2 @@
+# [Verilog] CRC check (2) Use Verilog to generate CRC check code
+[[Verilog] CRC check (2) Use Verilog to generate CRC check code](https://aiwithcloud.com/2022/09/16/verilog_crc_check_2_use_verilog_to_generate_crc_check_code/)

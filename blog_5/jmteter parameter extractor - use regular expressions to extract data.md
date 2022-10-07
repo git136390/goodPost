@@ -1,0 +1,2 @@
+# jmteter parameter extractor - use regular expressions to extract data
+[jmteter parameter extractor - use regular expressions to extract data](https://aiwithcloud.com/2022/09/16/jmteter_parameter_extractor___use_regular_expressions_to_extract_data/)

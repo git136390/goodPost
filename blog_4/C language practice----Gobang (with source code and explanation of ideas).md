@@ -1,0 +1,2 @@
+# C language practice----Gobang (with source code and explanation of ideas)
+[C language practice----Gobang (with source code and explanation of ideas)](https://aiwithcloud.com/2022/09/15/c_language_practice____gobang_with_source_code_and_explanation_of_ideas/)

@@ -1,0 +1,2 @@
+# Selenium verification code ddddocr recognition with ddocr
+[Selenium verification code ddddocr recognition with ddocr](https://aiwithcloud.com/2022/09/19/selenium_verification_code_ddddocr_recognition_with_ddocr/)

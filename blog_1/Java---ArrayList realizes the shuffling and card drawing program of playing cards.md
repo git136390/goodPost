@@ -1,0 +1,2 @@
+# Java---ArrayList realizes the shuffling and card drawing program of playing cards
+[Java---ArrayList realizes the shuffling and card drawing program of playing cards](https://aiwithcloud.com/2022/09/15/java___arraylist_realizes_the_shuffling_and_card_drawing_program_of_playing_cards/)

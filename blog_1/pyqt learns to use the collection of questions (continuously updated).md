@@ -1,0 +1,2 @@
+# pyqt learns to use the collection of questions (continuously updated)
+[pyqt learns to use the collection of questions (continuously updated)](https://aiwithcloud.com/2022/09/15/pyqt_learns_to_use_the_collection_of_questions_continuously_updated/)

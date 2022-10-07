@@ -1,0 +1,2 @@
+# ubuntu(主机或者虚拟机)使用命令行进行截图
+[ubuntu(主机或者虚拟机)使用命令行进行截图](https://aiwithcloud.com/2022/04/21/ubuntu%e4%b8%bb%e6%9c%ba%e6%88%96%e8%80%85%e8%99%9a%e6%8b%9f%e6%9c%ba%e4%bd%bf%e7%94%a8%e5%91%bd%e4%bb%a4%e8%a1%8c%e8%bf%9b%e8%a1%8c%e6%88%aa%e5%9b%be/)

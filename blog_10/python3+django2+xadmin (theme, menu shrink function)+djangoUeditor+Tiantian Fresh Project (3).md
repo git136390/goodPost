@@ -1,0 +1,2 @@
+# python3+django2+xadmin (theme, menu shrink function)+djangoUeditor+Tiantian Fresh Project (3)
+[python3+django2+xadmin (theme, menu shrink function)+djangoUeditor+Tiantian Fresh Project (3)](https://aiwithcloud.com/2022/09/19/python3django2xadmin_theme_menu_shrink_functiondjangoueditortiantian_fresh_project_3/)

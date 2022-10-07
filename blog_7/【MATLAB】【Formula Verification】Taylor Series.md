@@ -1,0 +1,2 @@
+# 【MATLAB】【Formula Verification】Taylor Series
+[【MATLAB】【Formula Verification】Taylor Series](https://aiwithcloud.com/2022/09/16/%e3%80%90matlab%e3%80%91%e3%80%90formula_verification%e3%80%91taylor_series/)

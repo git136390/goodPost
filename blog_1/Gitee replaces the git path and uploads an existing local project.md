@@ -1,0 +1,2 @@
+# Gitee replaces the git path and uploads an existing local project
+[Gitee replaces the git path and uploads an existing local project](https://aiwithcloud.com/2022/09/15/gitee_replaces_the_git_path_and_uploads_an_existing_local_project/)

@@ -1,0 +1,2 @@
+# Type conversion function (atoi, atol...) Case conversion function (toupper...)
+[Type conversion function (atoi, atol...) Case conversion function (toupper...)](https://aiwithcloud.com/2022/09/15/type_conversion_function_atoi_atol-_case_conversion_function_toupper/)

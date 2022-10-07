@@ -1,0 +1,2 @@
+# python - the use of   str   methods of classes and objects
+[python - the use of   str   methods of classes and objects](https://aiwithcloud.com/2022/09/19/python___the_use_of___str___methods_of_classes_and_objects/)

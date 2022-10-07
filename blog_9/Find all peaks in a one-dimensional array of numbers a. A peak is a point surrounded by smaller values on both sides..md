@@ -1,0 +1,2 @@
+# Find all peaks in a one-dimensional array of numbers a. A peak is a point surrounded by smaller values on both sides.
+[Find all peaks in a one-dimensional array of numbers a. A peak is a point surrounded by smaller values on both sides.](https://aiwithcloud.com/2022/09/19/find_all_peaks_in_a_one_dimensional_array_of_numbers_a-_a_peak_is_a_point_surrounded_by_smaller_values_on_both_sides/)

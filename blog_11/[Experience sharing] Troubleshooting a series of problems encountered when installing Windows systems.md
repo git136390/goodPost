@@ -1,0 +1,2 @@
+# [Experience sharing] Troubleshooting a series of problems encountered when installing Windows systems
+[[Experience sharing] Troubleshooting a series of problems encountered when installing Windows systems](https://aiwithcloud.com/2022/09/19/experience_sharing_troubleshooting_a_series_of_problems_encountered_when_installing_windows_systems/)

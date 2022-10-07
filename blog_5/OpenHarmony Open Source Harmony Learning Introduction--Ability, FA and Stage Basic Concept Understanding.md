@@ -1,0 +1,2 @@
+# OpenHarmony Open Source Harmony Learning Introduction--Ability, FA and Stage Basic Concept Understanding
+[OpenHarmony Open Source Harmony Learning Introduction--Ability, FA and Stage Basic Concept Understanding](https://aiwithcloud.com/2022/09/16/openharmony_open_source_harmony_learning_introduction__ability_fa_and_stage_basic_concept_understanding/)

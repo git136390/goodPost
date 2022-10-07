@@ -1,0 +1,2 @@
+# ELK build (9) build a Docker container indicator monitoring platform
+[ELK build (9) build a Docker container indicator monitoring platform](https://aiwithcloud.com/2022/09/19/elk_build_9_build_a_docker_container_indicator_monitoring_platform/)

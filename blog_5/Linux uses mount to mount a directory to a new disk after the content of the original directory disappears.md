@@ -1,0 +1,2 @@
+# Linux uses mount to mount a directory to a new disk after the content of the original directory disappears
+[Linux uses mount to mount a directory to a new disk after the content of the original directory disappears](https://aiwithcloud.com/2022/09/16/linux_uses_mount_to_mount_a_directory_to_a_new_disk_after_the_content_of_the_original_directory_disappears/)

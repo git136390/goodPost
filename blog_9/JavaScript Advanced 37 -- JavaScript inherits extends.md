@@ -1,0 +1,2 @@
+# JavaScript Advanced 37 -- JavaScript inherits extends
+[JavaScript Advanced 37 -- JavaScript inherits extends](https://aiwithcloud.com/2022/09/19/javascript_advanced_37____javascript_inherits_extends/)

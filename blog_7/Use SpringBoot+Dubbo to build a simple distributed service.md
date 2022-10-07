@@ -1,0 +1,2 @@
+# Use SpringBoot+Dubbo to build a simple distributed service
+[Use SpringBoot+Dubbo to build a simple distributed service](https://aiwithcloud.com/2022/09/16/use_springbootdubbo_to_build_a_simple_distributed_service/)

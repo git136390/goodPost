@@ -1,0 +1,2 @@
+# Python uses pandleocr batch images to read tables and save them as excel
+[Python uses pandleocr batch images to read tables and save them as excel](https://aiwithcloud.com/2022/09/16/python_uses_pandleocr_batch_images_to_read_tables_and_save_them_as_excel/)

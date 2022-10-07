@@ -1,0 +1,2 @@
+# What is the difference and connection between a container and a Pod
+[What is the difference and connection between a container and a Pod](https://aiwithcloud.com/2022/09/16/what_is_the_difference_and_connection_between_a_container_and_a_pod/)

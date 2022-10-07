@@ -1,0 +1,2 @@
+# A detailed explanation of the knowledge points that must be seen when getting started with C++
+[A detailed explanation of the knowledge points that must be seen when getting started with C++](https://aiwithcloud.com/2022/09/19/a_detailed_explanation_of_the_knowledge_points_that_must_be_seen_when_getting_started_with_c/)

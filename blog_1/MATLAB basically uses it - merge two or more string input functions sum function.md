@@ -1,0 +1,2 @@
+# MATLAB basically uses it - merge two or more string input functions sum function
+[MATLAB basically uses it - merge two or more string input functions sum function](https://aiwithcloud.com/2022/09/15/matlab_basically_uses_it___merge_two_or_more_string_input_functions_sum_function/)

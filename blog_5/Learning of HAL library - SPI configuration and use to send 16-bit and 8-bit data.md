@@ -1,0 +1,2 @@
+# Learning of HAL library - SPI configuration and use to send 16-bit and 8-bit data
+[Learning of HAL library - SPI configuration and use to send 16-bit and 8-bit data](https://aiwithcloud.com/2022/09/16/learning_of_hal_library___spi_configuration_and_use_to_send_16_bit_and_8_bit_data/)

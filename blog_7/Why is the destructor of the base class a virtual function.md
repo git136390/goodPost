@@ -1,0 +1,2 @@
+# Why is the destructor of the base class a virtual function
+[Why is the destructor of the base class a virtual function](https://aiwithcloud.com/2022/09/16/why_is_the_destructor_of_the_base_class_a_virtual_function/)

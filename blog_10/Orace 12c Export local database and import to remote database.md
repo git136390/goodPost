@@ -1,0 +1,2 @@
+# Orace 12c Export local database and import to remote database
+[Orace 12c Export local database and import to remote database](https://aiwithcloud.com/2022/09/19/orace_12c_export_local_database_and_import_to_remote_database/)

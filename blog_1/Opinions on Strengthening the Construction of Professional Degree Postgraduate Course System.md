@@ -1,0 +1,2 @@
+# Opinions on Strengthening the Construction of Professional Degree Postgraduate Course System
+[Opinions on Strengthening the Construction of Professional Degree Postgraduate Course System](https://aiwithcloud.com/2022/09/15/opinions_on_strengthening_the_construction_of_professional_degree_postgraduate_course_system/)

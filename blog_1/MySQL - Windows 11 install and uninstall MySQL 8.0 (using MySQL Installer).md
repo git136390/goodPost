@@ -1,0 +1,2 @@
+# MySQL - Windows 11 install and uninstall MySQL 8.0 (using MySQL Installer)
+[MySQL - Windows 11 install and uninstall MySQL 8.0 (using MySQL Installer)](https://aiwithcloud.com/2022/09/15/mysql___windows_11_install_and_uninstall_mysql_8-0_using_mysql_installer/)

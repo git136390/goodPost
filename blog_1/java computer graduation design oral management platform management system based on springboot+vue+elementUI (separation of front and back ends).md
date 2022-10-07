@@ -1,0 +1,2 @@
+# java computer graduation design oral management platform management system based on springboot+vue+elementUI (separation of front and back ends)
+[java computer graduation design oral management platform management system based on springboot+vue+elementUI (separation of front and back ends)](https://aiwithcloud.com/2022/09/15/java_computer_graduation_design_oral_management_platform_management_system_based_on_springbootvueelementui_separation_of_front_and_back_ends/)

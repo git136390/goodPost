@@ -1,0 +1,2 @@
+# Learning OpenCV (3) Implementing matrix mask operations with filter2D
+[Learning OpenCV (3) Implementing matrix mask operations with filter2D](https://aiwithcloud.com/2022/09/16/learning_opencv_3_implementing_matrix_mask_operations_with_filter2d/)

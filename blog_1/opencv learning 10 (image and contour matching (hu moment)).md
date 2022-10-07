@@ -1,0 +1,2 @@
+# opencv learning 10 (image and contour matching (hu moment))
+[opencv learning 10 (image and contour matching (hu moment))](https://aiwithcloud.com/2022/09/15/opencv_learning_10_image_and_contour_matching_hu_moment/)

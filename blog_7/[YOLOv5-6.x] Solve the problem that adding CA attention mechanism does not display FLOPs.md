@@ -1,0 +1,2 @@
+# [YOLOv5-6.x] Solve the problem that adding CA attention mechanism does not display FLOPs
+[[YOLOv5-6.x] Solve the problem that adding CA attention mechanism does not display FLOPs](https://aiwithcloud.com/2022/09/16/yolov5_6-x_solve_the_problem_that_adding_ca_attention_mechanism_does_not_display_flops/)

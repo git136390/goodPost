@@ -1,0 +1,2 @@
+# Simple and easy to use classification + detection framework simpleAICV
+[Simple and easy to use classification + detection framework simpleAICV](https://aiwithcloud.com/2022/09/19/simple_and_easy_to_use_classification__detection_framework_simpleaicv/)

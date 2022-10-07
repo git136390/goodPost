@@ -1,0 +1,2 @@
+# vue3 uses the click event of the Element-plus Tabs tab
+[vue3 uses the click event of the Element-plus Tabs tab](https://aiwithcloud.com/2022/09/16/vue3_uses_the_click_event_of_the_element_plus_tabs_tab/)

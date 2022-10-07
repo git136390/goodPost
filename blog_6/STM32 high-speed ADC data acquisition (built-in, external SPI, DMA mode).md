@@ -1,0 +1,2 @@
+# STM32 high-speed ADC data acquisition (built-in, external SPI, DMA mode)
+[STM32 high-speed ADC data acquisition (built-in, external SPI, DMA mode)](https://aiwithcloud.com/2022/09/16/stm32_high_speed_adc_data_acquisition_built_in_external_spi_dma_mode/)

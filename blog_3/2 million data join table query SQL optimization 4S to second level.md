@@ -1,0 +1,2 @@
+# 2 million data join table query SQL optimization 4S to second level
+[2 million data join table query SQL optimization 4S to second level](https://aiwithcloud.com/2022/09/15/2_million_data_join_table_query_sql_optimization_4s_to_second_level/)

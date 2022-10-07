@@ -1,0 +1,2 @@
+# [CC++ cattle must brush every day]--- cattle brush questions series
+[[CC++ cattle must brush every day]--- cattle brush questions series](https://aiwithcloud.com/2022/09/19/cc_cattle_must_brush_every_day____cattle_brush_questions_series/)

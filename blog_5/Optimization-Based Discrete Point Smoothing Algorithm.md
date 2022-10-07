@@ -1,0 +1,2 @@
+# Optimization-Based Discrete Point Smoothing Algorithm
+[Optimization-Based Discrete Point Smoothing Algorithm](https://aiwithcloud.com/2022/09/16/optimization_based_discrete_point_smoothing_algorithm/)

@@ -1,0 +1,2 @@
+# Mathematical Modeling - Multiple Attribute Decision Modeling
+[Mathematical Modeling - Multiple Attribute Decision Modeling](https://aiwithcloud.com/2022/09/19/mathematical_modeling___multiple_attribute_decision_modeling/)

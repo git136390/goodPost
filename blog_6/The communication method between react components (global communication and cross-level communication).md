@@ -1,0 +1,2 @@
+# The communication method between react components (global communication and cross-level communication)
+[The communication method between react components (global communication and cross-level communication)](https://aiwithcloud.com/2022/09/16/the_communication_method_between_react_components_global_communication_and_cross_level_communication/)

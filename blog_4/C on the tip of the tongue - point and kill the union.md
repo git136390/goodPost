@@ -1,0 +1,2 @@
+# C on the tip of the tongue - point and kill the union
+[C on the tip of the tongue - point and kill the union](https://aiwithcloud.com/2022/09/15/c_on_the_tip_of_the_tongue___point_and_kill_the_union/)

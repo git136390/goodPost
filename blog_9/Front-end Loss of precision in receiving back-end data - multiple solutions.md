@@ -1,0 +1,2 @@
+# Front-end Loss of precision in receiving back-end data - multiple solutions
+[Front-end Loss of precision in receiving back-end data - multiple solutions](https://aiwithcloud.com/2022/09/19/front_end_loss_of_precision_in_receiving_back_end_data___multiple_solutions/)

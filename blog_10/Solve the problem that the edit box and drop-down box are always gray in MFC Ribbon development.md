@@ -1,0 +1,2 @@
+# Solve the problem that the edit box and drop-down box are always gray in MFC Ribbon development
+[Solve the problem that the edit box and drop-down box are always gray in MFC Ribbon development](https://aiwithcloud.com/2022/09/19/solve_the_problem_that_the_edit_box_and_drop_down_box_are_always_gray_in_mfc_ribbon_development/)

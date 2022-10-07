@@ -1,0 +1,2 @@
+# Build and configure nginx server in ubuntu environment
+[Build and configure nginx server in ubuntu environment](https://aiwithcloud.com/2022/09/19/build_and_configure_nginx_server_in_ubuntu_environment/)

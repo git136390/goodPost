@@ -1,0 +1,2 @@
+# Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+[Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception](https://aiwithcloud.com/2022/09/19/servlet-service_for_servlet_dispatcherservlet_in_context_with_path__threw_exception/)

@@ -1,0 +1,2 @@
+# Hongmeng OS application development - realize APP registration and login function
+[Hongmeng OS application development - realize APP registration and login function](https://aiwithcloud.com/2022/09/19/hongmeng_os_application_development___realize_app_registration_and_login_function/)

@@ -1,0 +1,2 @@
+# User collaborative recommendation algorithm source code for shopping mall based on springboot
+[User collaborative recommendation algorithm source code for shopping mall based on springboot](https://aiwithcloud.com/2022/09/19/user_collaborative_recommendation_algorithm_source_code_for_shopping_mall_based_on_springboot/)

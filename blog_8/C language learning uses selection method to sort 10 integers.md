@@ -1,0 +1,2 @@
+# C language learning uses selection method to sort 10 integers
+[C language learning uses selection method to sort 10 integers](https://aiwithcloud.com/2022/09/19/c_language_learning_uses_selection_method_to_sort_10_integers/)

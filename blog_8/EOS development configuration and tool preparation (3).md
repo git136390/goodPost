@@ -1,0 +1,2 @@
+# EOS development configuration and tool preparation (3)
+[EOS development configuration and tool preparation (3)](https://aiwithcloud.com/2022/09/19/eos_development_configuration_and_tool_preparation_3/)

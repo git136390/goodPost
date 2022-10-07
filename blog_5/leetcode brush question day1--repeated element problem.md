@@ -1,0 +1,2 @@
+# leetcode brush question day1--repeated element problem
+[leetcode brush question day1--repeated element problem](https://aiwithcloud.com/2022/09/16/leetcode_brush_question_day1__repeated_element_problem/)

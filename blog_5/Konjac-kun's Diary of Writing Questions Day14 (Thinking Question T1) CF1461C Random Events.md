@@ -1,0 +1,2 @@
+# Konjac-kun's Diary of Writing Questions Day14 (Thinking Question T1) CF1461C Random Events
+[Konjac-kun's Diary of Writing Questions Day14 (Thinking Question T1) CF1461C Random Events](https://aiwithcloud.com/2022/09/16/konjac_kuns_diary_of_writing_questions_day14_thinking_question_t1_cf1461c_random_events/)

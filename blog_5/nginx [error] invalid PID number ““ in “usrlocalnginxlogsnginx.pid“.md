@@ -1,0 +1,2 @@
+# nginx [error] invalid PID number ““ in “usrlocalnginxlogsnginx.pid“
+[nginx [error] invalid PID number ““ in “usrlocalnginxlogsnginx.pid“](https://aiwithcloud.com/2022/09/16/nginx_error_invalid_pid_number__in_usrlocalnginxlogsnginx-pid/)

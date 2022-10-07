@@ -1,0 +1,2 @@
+# Solidity implements smart contract tutorial (3) - airdrop contract
+[Solidity implements smart contract tutorial (3) - airdrop contract](https://aiwithcloud.com/2022/09/19/solidity_implements_smart_contract_tutorial_3___airdrop_contract/)

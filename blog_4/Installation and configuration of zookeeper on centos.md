@@ -1,0 +1,2 @@
+# Installation and configuration of zookeeper on centos
+[Installation and configuration of zookeeper on centos](https://aiwithcloud.com/2022/09/15/installation_and_configuration_of_zookeeper_on_centos/)

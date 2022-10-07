@@ -1,0 +1,2 @@
+# yum installation steps (network download and installation)
+[yum installation steps (network download and installation)](https://aiwithcloud.com/2022/09/16/yum_installation_steps_network_download_and_installation/)

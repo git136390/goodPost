@@ -1,0 +1,2 @@
+# Daily practice of LeetCode - CM11 linked list segmentation
+[Daily practice of LeetCode - CM11 linked list segmentation](https://aiwithcloud.com/2022/09/19/daily_practice_of_leetcode___cm11_linked_list_segmentation/)

@@ -1,0 +1,2 @@
+# (Popular explanation of machine learning Xiaobai) Flow workshop problem
+[(Popular explanation of machine learning Xiaobai) Flow workshop problem](https://aiwithcloud.com/2022/09/15/popular_explanation_of_machine_learning_xiaobai_flow_workshop_problem/)

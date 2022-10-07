@@ -1,0 +1,2 @@
+# [C++]-- Detailed explanation of memory management new and delete
+[[C++]-- Detailed explanation of memory management new and delete](https://aiwithcloud.com/2022/09/19/c___detailed_explanation_of_memory_management_new_and_delete/)

@@ -1,0 +1,2 @@
+# Springboot RestTemplate supports sending both HTTP and HTTPS requests
+[Springboot RestTemplate supports sending both HTTP and HTTPS requests](https://aiwithcloud.com/2022/09/16/springboot_resttemplate_supports_sending_both_http_and_https_requests/)

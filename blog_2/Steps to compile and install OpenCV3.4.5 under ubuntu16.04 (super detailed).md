@@ -1,0 +1,2 @@
+# Steps to compile and install OpenCV3.4.5 under ubuntu16.04 (super detailed)
+[Steps to compile and install OpenCV3.4.5 under ubuntu16.04 (super detailed)](https://aiwithcloud.com/2022/09/15/steps_to_compile_and_install_opencv3-4-5_under_ubuntu16-04_super_detailed/)

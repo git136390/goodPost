@@ -1,0 +1,2 @@
+# ELK construction (5) Linux system log monitoring platform construction
+[ELK construction (5) Linux system log monitoring platform construction](https://aiwithcloud.com/2022/09/19/elk_construction_5_linux_system_log_monitoring_platform_construction/)

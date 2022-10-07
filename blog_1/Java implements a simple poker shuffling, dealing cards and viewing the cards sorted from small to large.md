@@ -1,0 +1,2 @@
+# Java implements a simple poker shuffling, dealing cards and viewing the cards sorted from small to large
+[Java implements a simple poker shuffling, dealing cards and viewing the cards sorted from small to large](https://aiwithcloud.com/2022/09/15/java_implements_a_simple_poker_shuffling_dealing_cards_and_viewing_the_cards_sorted_from_small_to_large/)

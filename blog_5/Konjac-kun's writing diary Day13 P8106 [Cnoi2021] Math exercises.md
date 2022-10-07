@@ -1,0 +1,2 @@
+# Konjac-kun's writing diary Day13 P8106 [Cnoi2021] Math exercises
+[Konjac-kun's writing diary Day13 P8106 [Cnoi2021] Math exercises](https://aiwithcloud.com/2022/09/16/konjac_kuns_writing_diary_day13_p8106_cnoi2021_math_exercises/)

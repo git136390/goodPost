@@ -1,0 +1,2 @@
+# Summary of 6 basic usages of @RequestMapping in Spring MVC
+[Summary of 6 basic usages of @RequestMapping in Spring MVC](https://aiwithcloud.com/2022/09/16/summary_of_6_basic_usages_of_requestmapping_in_spring_mvc/)

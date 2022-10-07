@@ -1,0 +1,2 @@
+# STM32CubeMX series tutorial 6 external interrupt EXTI and soft interrupt SWI
+[STM32CubeMX series tutorial 6 external interrupt EXTI and soft interrupt SWI](https://aiwithcloud.com/2022/09/19/stm32cubemx_series_tutorial_6_external_interrupt_exti_and_soft_interrupt_swi/)

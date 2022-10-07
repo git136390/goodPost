@@ -1,0 +1,2 @@
+# 【Hiflow】Event registration function of the scene connection tool
+[【Hiflow】Event registration function of the scene connection tool](https://aiwithcloud.com/2022/09/15/%e3%80%90hiflow%e3%80%91event_registration_function_of_the_scene_connection_tool/)

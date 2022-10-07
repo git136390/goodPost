@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（九）Jupyter notebook调试
+[Jupyter notebook教程系列（九）Jupyter notebook调试](https://aiwithcloud.com/2022/04/30/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e4%b9%9d%ef%bc%89jupyter-notebook%e8%b0%83%e8%af%95/)

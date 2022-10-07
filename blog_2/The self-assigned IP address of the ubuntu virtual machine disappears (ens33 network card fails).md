@@ -1,0 +1,2 @@
+# The self-assigned IP address of the ubuntu virtual machine disappears (ens33 network card fails)
+[The self-assigned IP address of the ubuntu virtual machine disappears (ens33 network card fails)](https://aiwithcloud.com/2022/09/15/the_self_assigned_ip_address_of_the_ubuntu_virtual_machine_disappears_ens33_network_card_fails/)

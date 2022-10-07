@@ -1,0 +1,2 @@
+# After starting a cloud server, you need to do these things [based on CentOS]
+[After starting a cloud server, you need to do these things [based on CentOS]](https://aiwithcloud.com/2022/09/15/after_starting_a_cloud_server_you_need_to_do_these_things_based_on_centos/)

@@ -1,0 +1,2 @@
+# [Cloud native & microservice ten] SpringCloud's OpenFeign implements request header data transfer between services (the use of OpenFeign interceptor RequestInterceptor)
+[[Cloud native & microservice ten] SpringCloud's OpenFeign implements request header data transfer between services (the use of OpenFeign interceptor RequestInterceptor)](https://aiwithcloud.com/2022/09/16/cloud_native__microservice_ten_springclouds_openfeign_implements_request_header_data_transfer_between_services_the_use_of_openfeign_interceptor_requestinterceptor/)

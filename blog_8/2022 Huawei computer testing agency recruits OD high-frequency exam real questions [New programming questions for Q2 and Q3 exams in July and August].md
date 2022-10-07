@@ -1,0 +1,2 @@
+# 2022 Huawei computer testing agency recruits OD high-frequency exam real questions [New programming questions for Q2 and Q3 exams in July and August]
+[2022 Huawei computer testing agency recruits OD high-frequency exam real questions [New programming questions for Q2 and Q3 exams in July and August]](https://aiwithcloud.com/2022/09/19/2022_huawei_computer_testing_agency_recruits_od_high_frequency_exam_real_questions_new_programming_questions_for_q2_and_q3_exams_in_july_and_august/)

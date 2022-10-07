@@ -1,0 +1,2 @@
+# PaddlePaddle image prediction part predicts no output class name
+[PaddlePaddle image prediction part predicts no output class name](https://aiwithcloud.com/2022/09/15/paddlepaddle_image_prediction_part_predicts_no_output_class_name/)

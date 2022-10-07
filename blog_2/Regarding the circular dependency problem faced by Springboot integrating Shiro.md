@@ -1,0 +1,2 @@
+# Regarding the circular dependency problem faced by Springboot integrating Shiro
+[Regarding the circular dependency problem faced by Springboot integrating Shiro](https://aiwithcloud.com/2022/09/15/regarding_the_circular_dependency_problem_faced_by_springboot_integrating_shiro/)

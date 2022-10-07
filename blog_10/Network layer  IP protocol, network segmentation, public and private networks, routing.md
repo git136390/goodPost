@@ -1,0 +1,2 @@
+# Network layer  IP protocol, network segmentation, public and private networks, routing
+[Network layer  IP protocol, network segmentation, public and private networks, routing](https://aiwithcloud.com/2022/09/19/network_layer__ip_protocol_network_segmentation_public_and_private_networks_routing/)

@@ -1,0 +1,2 @@
+# Python3 practical gadget--website screening tool (with source code)
+[Python3 practical gadget--website screening tool (with source code)](https://aiwithcloud.com/2022/09/15/python3_practical_gadget__website_screening_tool_with_source_code/)

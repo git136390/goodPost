@@ -1,0 +1,2 @@
+# Beginner Android, use Bundle to exchange data between Activities (8)
+[Beginner Android, use Bundle to exchange data between Activities (8)](https://aiwithcloud.com/2022/09/15/beginner_android_use_bundle_to_exchange_data_between_activities_8/)

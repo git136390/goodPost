@@ -1,0 +1,2 @@
+# C++ file read in   newline problem after the last data
+[C++ file read in   newline problem after the last data](https://aiwithcloud.com/2022/09/15/c_file_read_in___newline_problem_after_the_last_data/)

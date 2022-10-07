@@ -1,0 +1,2 @@
+# Data Structures Operations on Headless Singly Linked Lists
+[Data Structures Operations on Headless Singly Linked Lists](https://aiwithcloud.com/2022/09/15/data_structures_operations_on_headless_singly_linked_lists/)

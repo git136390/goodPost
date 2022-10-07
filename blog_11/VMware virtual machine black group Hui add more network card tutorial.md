@@ -1,0 +1,2 @@
+# VMware virtual machine black group Hui add more network card tutorial
+[VMware virtual machine black group Hui add more network card tutorial](https://aiwithcloud.com/2022/09/19/vmware_virtual_machine_black_group_hui_add_more_network_card_tutorial/)

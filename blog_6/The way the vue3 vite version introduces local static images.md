@@ -1,0 +1,2 @@
+# The way the vue3 vite version introduces local static images
+[The way the vue3 vite version introduces local static images](https://aiwithcloud.com/2022/09/16/the_way_the_vue3_vite_version_introduces_local_static_images/)

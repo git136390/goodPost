@@ -1,0 +1,2 @@
+# Solve the problem that the ellipsis is still not displayed when DT ENDELLIPSIS is passed in when calling DrawText in the win10 system
+[Solve the problem that the ellipsis is still not displayed when DT ENDELLIPSIS is passed in when calling DrawText in the win10 system](https://aiwithcloud.com/2022/09/16/solve_the_problem_that_the_ellipsis_is_still_not_displayed_when_dt_endellipsis_is_passed_in_when_calling_drawtext_in_the_win10_system/)

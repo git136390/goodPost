@@ -1,0 +1,2 @@
+# It's time to show the real technology! Python QR code & confession artifact generated in one second!
+[It's time to show the real technology! Python QR code & confession artifact generated in one second!](https://aiwithcloud.com/2022/09/19/its_time_to_show_the_real_technology_python_qr_code__confession_artifact_generated_in_one_second/)

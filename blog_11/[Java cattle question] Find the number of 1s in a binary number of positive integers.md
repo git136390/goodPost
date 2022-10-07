@@ -1,0 +1,2 @@
+# [Java cattle question] Find the number of 1s in a binary number of positive integers
+[[Java cattle question] Find the number of 1s in a binary number of positive integers](https://aiwithcloud.com/2022/09/19/java_cattle_question_find_the_number_of_1s_in_a_binary_number_of_positive_integers/)

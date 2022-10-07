@@ -1,0 +1,2 @@
+# Spring from entry to proficient (18) AOP annotation development
+[Spring from entry to proficient (18) AOP annotation development](https://aiwithcloud.com/2022/09/16/spring_from_entry_to_proficient_18_aop_annotation_development/)

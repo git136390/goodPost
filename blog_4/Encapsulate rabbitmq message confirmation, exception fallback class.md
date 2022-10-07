@@ -1,0 +1,2 @@
+# Encapsulate rabbitmq message confirmation, exception fallback class
+[Encapsulate rabbitmq message confirmation, exception fallback class](https://aiwithcloud.com/2022/09/15/encapsulate_rabbitmq_message_confirmation_exception_fallback_class/)

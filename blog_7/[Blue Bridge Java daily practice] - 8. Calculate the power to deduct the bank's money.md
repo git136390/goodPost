@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] - 8. Calculate the power to deduct the bank's money
+[[Blue Bridge Java daily practice] - 8. Calculate the power to deduct the bank's money](https://aiwithcloud.com/2022/09/16/blue_bridge_java_daily_practice___8-_calculate_the_power_to_deduct_the_banks_money/)

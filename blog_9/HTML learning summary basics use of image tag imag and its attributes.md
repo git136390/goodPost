@@ -1,0 +1,2 @@
+# HTML learning summary basics use of image tag imag and its attributes
+[HTML learning summary basics use of image tag imag and its attributes](https://aiwithcloud.com/2022/09/19/html_learning_summary_basics_use_of_image_tag_imag_and_its_attributes/)

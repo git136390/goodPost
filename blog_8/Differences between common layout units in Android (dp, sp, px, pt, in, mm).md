@@ -1,0 +1,2 @@
+# Differences between common layout units in Android (dp, sp, px, pt, in, mm)
+[Differences between common layout units in Android (dp, sp, px, pt, in, mm)](https://aiwithcloud.com/2022/09/19/differences_between_common_layout_units_in_android_dp_sp_px_pt_in_mm/)

@@ -1,0 +1,2 @@
+# Detailed explanation of Redis bottom layer (1) Hash table and dictionary
+[Detailed explanation of Redis bottom layer (1) Hash table and dictionary](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_redis_bottom_layer_1_hash_table_and_dictionary/)

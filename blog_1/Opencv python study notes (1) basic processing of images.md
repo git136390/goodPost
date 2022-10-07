@@ -1,0 +1,2 @@
+# Opencv python study notes (1) basic processing of images
+[Opencv python study notes (1) basic processing of images](https://aiwithcloud.com/2022/09/15/opencv_python_study_notes_1_basic_processing_of_images/)

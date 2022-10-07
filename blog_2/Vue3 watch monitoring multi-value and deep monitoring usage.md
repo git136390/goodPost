@@ -1,0 +1,2 @@
+# Vue3 watch monitoring multi-value and deep monitoring usage
+[Vue3 watch monitoring multi-value and deep monitoring usage](https://aiwithcloud.com/2022/09/15/vue3_watch_monitoring_multi_value_and_deep_monitoring_usage/)

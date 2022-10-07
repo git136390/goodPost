@@ -1,0 +1,2 @@
+# The Mathf.SmoothDamp function in Unity3D is used with Mathf mathematical operations (C#)
+[The Mathf.SmoothDamp function in Unity3D is used with Mathf mathematical operations (C#)](https://aiwithcloud.com/2022/09/19/the_mathf-smoothdamp_function_in_unity3d_is_used_with_mathf_mathematical_operations_c/)

@@ -1,0 +1,2 @@
+# HAL library learning - GPIO input as external interrupt trigger
+[HAL library learning - GPIO input as external interrupt trigger](https://aiwithcloud.com/2022/09/19/hal_library_learning___gpio_input_as_external_interrupt_trigger/)

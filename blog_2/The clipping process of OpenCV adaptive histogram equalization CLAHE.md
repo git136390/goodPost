@@ -1,0 +1,2 @@
+# The clipping process of OpenCV adaptive histogram equalization CLAHE
+[The clipping process of OpenCV adaptive histogram equalization CLAHE](https://aiwithcloud.com/2022/09/15/the_clipping_process_of_opencv_adaptive_histogram_equalization_clahe/)

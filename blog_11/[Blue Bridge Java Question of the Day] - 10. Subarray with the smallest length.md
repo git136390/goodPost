@@ -1,0 +1,2 @@
+# [Blue Bridge Java Question of the Day] - 10. Subarray with the smallest length
+[[Blue Bridge Java Question of the Day] - 10. Subarray with the smallest length](https://aiwithcloud.com/2022/09/19/blue_bridge_java_question_of_the_day___10-_subarray_with_the_smallest_length/)

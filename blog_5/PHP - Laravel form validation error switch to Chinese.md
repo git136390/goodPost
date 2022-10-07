@@ -1,0 +1,2 @@
+# PHP - Laravel form validation error switch to Chinese
+[PHP - Laravel form validation error switch to Chinese](https://aiwithcloud.com/2022/09/16/php___laravel_form_validation_error_switch_to_chinese/)

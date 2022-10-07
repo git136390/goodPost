@@ -1,0 +1,2 @@
+# Basic Programming Topics 6-13 Search in Half (15 points)
+[Basic Programming Topics 6-13 Search in Half (15 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topics_6_13_search_in_half_15_points/)

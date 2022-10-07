@@ -1,0 +1,2 @@
+# Android studio APP development Chapter 5 Explanation of Common Controls
+[Android studio APP development Chapter 5 Explanation of Common Controls](https://aiwithcloud.com/2022/09/15/android_studio_app_development_chapter_5_explanation_of_common_controls/)

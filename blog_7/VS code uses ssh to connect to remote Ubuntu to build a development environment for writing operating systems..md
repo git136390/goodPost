@@ -1,0 +1,2 @@
+# VS code uses ssh to connect to remote Ubuntu to build a development environment for writing operating systems.
+[VS code uses ssh to connect to remote Ubuntu to build a development environment for writing operating systems.](https://aiwithcloud.com/2022/09/16/vs_code_uses_ssh_to_connect_to_remote_ubuntu_to_build_a_development_environment_for_writing_operating_systems/)

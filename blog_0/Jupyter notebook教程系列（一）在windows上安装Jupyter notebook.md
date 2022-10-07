@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（一）在windows上安装Jupyter notebook
+[Jupyter notebook教程系列（一）在windows上安装Jupyter notebook](https://aiwithcloud.com/2022/03/25/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e4%b8%80%ef%bc%89%e5%9c%a8windows%e4%b8%8a%e5%ae%89%e8%a3%85jupyter-notebook/)

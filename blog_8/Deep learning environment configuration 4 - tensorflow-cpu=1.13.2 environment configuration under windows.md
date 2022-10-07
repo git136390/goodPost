@@ -1,0 +1,2 @@
+# Deep learning environment configuration 4 - tensorflow-cpu=1.13.2 environment configuration under windows
+[Deep learning environment configuration 4 - tensorflow-cpu=1.13.2 environment configuration under windows](https://aiwithcloud.com/2022/09/19/deep_learning_environment_configuration_4___tensorflow_cpu1-13-2_environment_configuration_under_windows/)

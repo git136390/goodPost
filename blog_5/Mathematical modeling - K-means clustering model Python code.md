@@ -1,0 +1,2 @@
+# Mathematical modeling - K-means clustering model Python code
+[Mathematical modeling - K-means clustering model Python code](https://aiwithcloud.com/2022/09/16/mathematical_modeling___k_means_clustering_model_python_code/)

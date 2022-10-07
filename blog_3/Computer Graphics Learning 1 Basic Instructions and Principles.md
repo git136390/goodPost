@@ -1,0 +1,2 @@
+# Computer Graphics Learning 1 Basic Instructions and Principles
+[Computer Graphics Learning 1 Basic Instructions and Principles](https://aiwithcloud.com/2022/09/15/computer_graphics_learning_1_basic_instructions_and_principles/)

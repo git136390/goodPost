@@ -1,0 +1,2 @@
+# PyTorch Deep Learning Introductory Notes (12) Neural Network - Nonlinear Activation
+[PyTorch Deep Learning Introductory Notes (12) Neural Network - Nonlinear Activation](https://aiwithcloud.com/2022/09/16/pytorch_deep_learning_introductory_notes_12_neural_network___nonlinear_activation/)

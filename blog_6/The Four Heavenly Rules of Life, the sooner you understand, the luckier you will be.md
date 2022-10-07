@@ -1,0 +1,2 @@
+# The Four Heavenly Rules of Life, the sooner you understand, the luckier you will be
+[The Four Heavenly Rules of Life, the sooner you understand, the luckier you will be](https://aiwithcloud.com/2022/09/16/the_four_heavenly_rules_of_life_the_sooner_you_understand_the_luckier_you_will_be/)

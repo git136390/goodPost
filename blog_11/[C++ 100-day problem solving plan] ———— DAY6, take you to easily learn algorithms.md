@@ -1,0 +1,2 @@
+# [C++ 100-day problem solving plan] ———— DAY6, take you to easily learn algorithms
+[[C++ 100-day problem solving plan] ———— DAY6, take you to easily learn algorithms](https://aiwithcloud.com/2022/09/19/c_100_day_problem_solving_plan_-_day6_take_you_to_easily_learn_algorithms/)

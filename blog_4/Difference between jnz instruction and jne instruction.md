@@ -1,0 +1,2 @@
+# Difference between jnz instruction and jne instruction
+[Difference between jnz instruction and jne instruction](https://aiwithcloud.com/2022/09/15/difference_between_jnz_instruction_and_jne_instruction/)

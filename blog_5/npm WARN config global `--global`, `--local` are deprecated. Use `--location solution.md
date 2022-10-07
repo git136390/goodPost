@@ -1,0 +1,2 @@
+# npm WARN config global `--global`, `--local` are deprecated. Use `--location solution
+[npm WARN config global `--global`, `--local` are deprecated. Use `--location solution](https://aiwithcloud.com/2022/09/16/npm_warn_config_global___global___local_are_deprecated-_use___location_solution/)

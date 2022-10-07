@@ -1,0 +1,2 @@
+# Design Pattern Stratege Method of Component Collaboration
+[Design Pattern Stratege Method of Component Collaboration](https://aiwithcloud.com/2022/09/19/design_pattern_stratege_method_of_component_collaboration/)

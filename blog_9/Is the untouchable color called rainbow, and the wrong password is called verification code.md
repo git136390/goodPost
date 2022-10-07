@@ -1,0 +1,2 @@
+# Is the untouchable color called rainbow, and the wrong password is called verification code
+[Is the untouchable color called rainbow, and the wrong password is called verification code](https://aiwithcloud.com/2022/09/19/is_the_untouchable_color_called_rainbow_and_the_wrong_password_is_called_verification_code/)

@@ -1,0 +1,2 @@
+# The solution for plt.show() in pycharm does not display images
+[The solution for plt.show() in pycharm does not display images](https://aiwithcloud.com/2022/09/15/the_solution_for_plt-show_in_pycharm_does_not_display_images/)

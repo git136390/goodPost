@@ -1,0 +1,2 @@
+# JVM underlying principle part 4 hardware knowledge MarkWord object location creation and memory distribution in JVM
+[JVM underlying principle part 4 hardware knowledge MarkWord object location creation and memory distribution in JVM](https://aiwithcloud.com/2022/09/19/jvm_underlying_principle_part_4_hardware_knowledge_markword_object_location_creation_and_memory_distribution_in_jvm/)

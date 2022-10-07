@@ -1,0 +1,2 @@
+# Qt5 development tools---commonly used Qt5 development tools (with download address)
+[Qt5 development tools---commonly used Qt5 development tools (with download address)](https://aiwithcloud.com/2022/09/15/qt5_development_tools___commonly_used_qt5_development_tools_with_download_address/)

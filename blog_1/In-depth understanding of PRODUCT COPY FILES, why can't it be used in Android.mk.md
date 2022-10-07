@@ -1,0 +1,2 @@
+# In-depth understanding of PRODUCT COPY FILES, why can't it be used in Android.mk
+[In-depth understanding of PRODUCT COPY FILES, why can't it be used in Android.mk](https://aiwithcloud.com/2022/09/15/in_depth_understanding_of_product_copy_files_why_cant_it_be_used_in_android-mk/)

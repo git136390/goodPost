@@ -1,0 +1,2 @@
+# Programmers learn English - some process commands of Linux
+[Programmers learn English - some process commands of Linux](https://aiwithcloud.com/2022/09/19/programmers_learn_english___some_process_commands_of_linux/)

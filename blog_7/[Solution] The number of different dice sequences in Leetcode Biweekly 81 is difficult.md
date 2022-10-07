@@ -1,0 +1,2 @@
+# [Solution] The number of different dice sequences in Leetcode Biweekly 81 is difficult
+[[Solution] The number of different dice sequences in Leetcode Biweekly 81 is difficult](https://aiwithcloud.com/2022/09/16/solution_the_number_of_different_dice_sequences_in_leetcode_biweekly_81_is_difficult/)

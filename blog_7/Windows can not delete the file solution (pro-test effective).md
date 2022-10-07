@@ -1,0 +1,2 @@
+# Windows can not delete the file solution (pro-test effective)
+[Windows can not delete the file solution (pro-test effective)](https://aiwithcloud.com/2022/09/16/windows_can_not_delete_the_file_solution_pro_test_effective/)

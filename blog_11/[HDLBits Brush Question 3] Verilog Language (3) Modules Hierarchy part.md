@@ -1,0 +1,2 @@
+# [HDLBits Brush Question 3] Verilog Language (3) Modules Hierarchy part
+[[HDLBits Brush Question 3] Verilog Language (3) Modules Hierarchy part](https://aiwithcloud.com/2022/09/19/hdlbits_brush_question_3_verilog_language_3_modules_hierarchy_part/)

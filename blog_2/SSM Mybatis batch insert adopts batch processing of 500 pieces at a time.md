@@ -1,0 +1,2 @@
+# SSM Mybatis batch insert adopts batch processing of 500 pieces at a time
+[SSM Mybatis batch insert adopts batch processing of 500 pieces at a time](https://aiwithcloud.com/2022/09/15/ssm_mybatis_batch_insert_adopts_batch_processing_of_500_pieces_at_a_time/)

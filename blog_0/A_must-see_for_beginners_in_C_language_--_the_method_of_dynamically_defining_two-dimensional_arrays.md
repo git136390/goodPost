@@ -1,0 +1,2 @@
+# A_must-see_for_beginners_in_C_language_--_the_method_of_dynamically_defining_two-dimensional_arrays
+[A_must-see_for_beginners_in_C_language_--_the_method_of_dynamically_defining_two-dimensional_arrays](https://aiwithcloud.com/2022/09/14/a_must_see_for_beginners_in_c_language____the_method_of_dynamically_defining_two_dimensional_arrays/)

@@ -1,0 +1,2 @@
+# (detailed + example) JDK8 new feature 2 method introduction details
+[(detailed + example) JDK8 new feature 2 method introduction details](https://aiwithcloud.com/2022/09/15/detailed__example_jdk8_new_feature_2_method_introduction_details/)

@@ -1,0 +1,2 @@
+# STM32 Personal Notes - Embedded C Language Optimization
+[STM32 Personal Notes - Embedded C Language Optimization](https://aiwithcloud.com/2022/09/19/stm32_personal_notes___embedded_c_language_optimization/)

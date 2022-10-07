@@ -1,0 +1,2 @@
+# Pytorch foundation (seven) - linear layer (full connection layer)
+[Pytorch foundation (seven) - linear layer (full connection layer)](https://aiwithcloud.com/2022/09/19/pytorch_foundation_seven___linear_layer_full_connection_layer/)

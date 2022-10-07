@@ -1,0 +1,2 @@
+# How Vue3 antdv dynamically renders icons-vue icons (a-icon is no longer supported)
+[How Vue3 antdv dynamically renders icons-vue icons (a-icon is no longer supported)](https://aiwithcloud.com/2022/09/15/how_vue3_antdv_dynamically_renders_icons_vue_icons_a_icon_is_no_longer_supported/)

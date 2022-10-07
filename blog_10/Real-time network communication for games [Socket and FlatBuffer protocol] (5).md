@@ -1,0 +1,2 @@
+# Real-time network communication for games [Socket and FlatBuffer protocol] (5)
+[Real-time network communication for games [Socket and FlatBuffer protocol] (5)](https://aiwithcloud.com/2022/09/19/real_time_network_communication_for_games_socket_and_flatbuffer_protocol_5/)

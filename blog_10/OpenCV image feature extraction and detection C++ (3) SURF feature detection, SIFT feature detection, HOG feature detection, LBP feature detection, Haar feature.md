@@ -1,0 +1,2 @@
+# OpenCV image feature extraction and detection C++ (3) SURF feature detection, SIFT feature detection, HOG feature detection, LBP feature detection, Haar feature
+[OpenCV image feature extraction and detection C++ (3) SURF feature detection, SIFT feature detection, HOG feature detection, LBP feature detection, Haar feature](https://aiwithcloud.com/2022/09/19/opencv_image_feature_extraction_and_detection_c_3_surf_feature_detection_sift_feature_detection_hog_feature_detection_lbp_feature_detection_haar_feature/)

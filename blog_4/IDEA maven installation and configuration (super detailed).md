@@ -1,0 +1,2 @@
+# IDEA maven installation and configuration (super detailed)
+[IDEA maven installation and configuration (super detailed)](https://aiwithcloud.com/2022/09/15/idea_maven_installation_and_configuration_super_detailed/)

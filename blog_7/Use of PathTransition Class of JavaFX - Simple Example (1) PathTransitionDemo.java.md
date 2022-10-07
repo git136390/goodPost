@@ -1,0 +1,2 @@
+# Use of PathTransition Class of JavaFX - Simple Example (1) PathTransitionDemo.java
+[Use of PathTransition Class of JavaFX - Simple Example (1) PathTransitionDemo.java](https://aiwithcloud.com/2022/09/16/use_of_pathtransition_class_of_javafx___simple_example_1_pathtransitiondemo-java/)

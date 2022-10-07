@@ -1,0 +1,2 @@
+# C language example - a number is called perfect if it is exactly equal to the sum of its factors. (compiled by gcc)
+[C language example - a number is called perfect if it is exactly equal to the sum of its factors. (compiled by gcc)](https://aiwithcloud.com/2022/09/19/c_language_example___a_number_is_called_perfect_if_it_is_exactly_equal_to_the_sum_of_its_factors-_compiled_by_gcc/)

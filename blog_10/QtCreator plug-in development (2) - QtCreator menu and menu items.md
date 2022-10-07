@@ -1,0 +1,2 @@
+# QtCreator plug-in development (2) - QtCreator menu and menu items
+[QtCreator plug-in development (2) - QtCreator menu and menu items](https://aiwithcloud.com/2022/09/19/qtcreator_plug_in_development_2___qtcreator_menu_and_menu_items/)

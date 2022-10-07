@@ -1,0 +1,2 @@
+# JavaGUI development practice login interface simulation (connecting to database)
+[JavaGUI development practice login interface simulation (connecting to database)](https://aiwithcloud.com/2022/09/16/javagui_development_practice_login_interface_simulation_connecting_to_database/)

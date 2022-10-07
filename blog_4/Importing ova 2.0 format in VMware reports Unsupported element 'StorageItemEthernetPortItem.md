@@ -1,0 +1,2 @@
+# Importing ova 2.0 format in VMware reports Unsupported element 'StorageItemEthernetPortItem
+[Importing ova 2.0 format in VMware reports Unsupported element 'StorageItemEthernetPortItem](https://aiwithcloud.com/2022/09/15/importing_ova_2-0_format_in_vmware_reports_unsupported_element_storageitemethernetportitem/)

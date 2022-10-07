@@ -1,0 +1,2 @@
+# Handwritten the simplest simplefoc svpwm algorithm (easy to understand)
+[Handwritten the simplest simplefoc svpwm algorithm (easy to understand)](https://aiwithcloud.com/2022/09/19/handwritten_the_simplest_simplefoc_svpwm_algorithm_easy_to_understand/)

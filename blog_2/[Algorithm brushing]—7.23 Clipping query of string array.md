@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.23 Clipping query of string array
+[[Algorithm brushing]—7.23 Clipping query of string array](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-23_clipping_query_of_string_array/)

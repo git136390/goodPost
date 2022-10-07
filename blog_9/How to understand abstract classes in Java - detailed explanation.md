@@ -1,0 +1,2 @@
+# How to understand abstract classes in Java - detailed explanation
+[How to understand abstract classes in Java - detailed explanation](https://aiwithcloud.com/2022/09/19/how_to_understand_abstract_classes_in_java___detailed_explanation/)

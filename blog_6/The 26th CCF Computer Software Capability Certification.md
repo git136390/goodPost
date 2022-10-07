@@ -1,0 +1,2 @@
+# The 26th CCF Computer Software Capability Certification
+[The 26th CCF Computer Software Capability Certification](https://aiwithcloud.com/2022/09/16/the_26th_ccf_computer_software_capability_certification/)

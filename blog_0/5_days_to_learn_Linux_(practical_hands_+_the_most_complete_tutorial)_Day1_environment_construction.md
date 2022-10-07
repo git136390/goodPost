@@ -1,0 +1,2 @@
+# 5_days_to_learn_Linux_(practical_hands_+_the_most_complete_tutorial)_Day1_environment_construction
+[5_days_to_learn_Linux_(practical_hands_+_the_most_complete_tutorial)_Day1_environment_construction](https://aiwithcloud.com/2022/09/14/5_days_to_learn_linux_practical_hands__the_most_complete_tutorial_day1_environment_construction/)

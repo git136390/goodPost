@@ -1,0 +1,2 @@
+# AttributeError 'google.protobuf.pyext. message.RepeatedScalarConta' object has no attribute ' value
+[AttributeError 'google.protobuf.pyext. message.RepeatedScalarConta' object has no attribute ' value](https://aiwithcloud.com/2022/09/19/attributeerror_google-protobuf-pyext-_message-repeatedscalarconta_object_has_no_attribute__value/)

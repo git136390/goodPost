@@ -1,0 +1,2 @@
+# Python video operation - python realizes reading and saving video
+[Python video operation - python realizes reading and saving video](https://aiwithcloud.com/2022/09/16/python_video_operation___python_realizes_reading_and_saving_video/)

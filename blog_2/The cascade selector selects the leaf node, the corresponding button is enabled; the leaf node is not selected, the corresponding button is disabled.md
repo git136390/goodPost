@@ -1,0 +1,2 @@
+# The cascade selector selects the leaf node, the corresponding button is enabled; the leaf node is not selected, the corresponding button is disabled
+[The cascade selector selects the leaf node, the corresponding button is enabled; the leaf node is not selected, the corresponding button is disabled](https://aiwithcloud.com/2022/09/15/the_cascade_selector_selects_the_leaf_node_the_corresponding_button_is_enabled_the_leaf_node_is_not_selected_the_corresponding_button_is_disabled/)

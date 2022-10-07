@@ -1,0 +1,2 @@
+# Java data structure and algorithm - stack (detailed implementation)
+[Java data structure and algorithm - stack (detailed implementation)](https://aiwithcloud.com/2022/09/19/java_data_structure_and_algorithm___stack_detailed_implementation/)

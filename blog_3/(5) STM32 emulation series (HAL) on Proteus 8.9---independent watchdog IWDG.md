@@ -1,0 +1,2 @@
+# (5) STM32 emulation series (HAL) on Proteus 8.9---independent watchdog IWDG
+[(5) STM32 emulation series (HAL) on Proteus 8.9---independent watchdog IWDG](https://aiwithcloud.com/2022/09/15/5_stm32_emulation_series_hal_on_proteus_8-9___independent_watchdog_iwdg/)

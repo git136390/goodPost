@@ -1,0 +1,2 @@
+# Java randomly generates addition, subtraction, multiplication and division operations and records the results
+[Java randomly generates addition, subtraction, multiplication and division operations and records the results](https://aiwithcloud.com/2022/09/15/java_randomly_generates_addition_subtraction_multiplication_and_division_operations_and_records_the_results/)

@@ -1,0 +1,2 @@
+# Get file list information for COPYPASTE in Windows Explorer
+[Get file list information for COPYPASTE in Windows Explorer](https://aiwithcloud.com/2022/09/19/get_file_list_information_for_copypaste_in_windows_explorer/)

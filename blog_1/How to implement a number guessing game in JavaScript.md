@@ -1,0 +1,2 @@
+# How to implement a number guessing game in JavaScript
+[How to implement a number guessing game in JavaScript](https://aiwithcloud.com/2022/09/15/how_to_implement_a_number_guessing_game_in_javascript/)

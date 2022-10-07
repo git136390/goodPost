@@ -1,0 +1,2 @@
+# Common tool identification highlights---Windows emergency response tools
+[Common tool identification highlights---Windows emergency response tools](https://aiwithcloud.com/2022/09/15/common_tool_identification_highlights___windows_emergency_response_tools/)

@@ -1,0 +1,2 @@
+# Examples of preventing js events from bubbling (cancelBubble, stopPropagation)
+[Examples of preventing js events from bubbling (cancelBubble, stopPropagation)](https://aiwithcloud.com/2022/09/19/examples_of_preventing_js_events_from_bubbling_cancelbubble_stoppropagation/)

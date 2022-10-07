@@ -1,0 +1,2 @@
+# Centos7.8 set nginx to start automatically at bootnginx start, stop, view version and other commands summary
+[Centos7.8 set nginx to start automatically at bootnginx start, stop, view version and other commands summary](https://aiwithcloud.com/2022/09/19/centos7-8_set_nginx_to_start_automatically_at_bootnginx_start_stop_view_version_and_other_commands_summary/)

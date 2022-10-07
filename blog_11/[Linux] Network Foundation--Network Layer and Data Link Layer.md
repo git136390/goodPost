@@ -1,0 +1,2 @@
+# [Linux] Network Foundation--Network Layer and Data Link Layer
+[[Linux] Network Foundation--Network Layer and Data Link Layer](https://aiwithcloud.com/2022/09/19/linux_network_foundation__network_layer_and_data_link_layer/)

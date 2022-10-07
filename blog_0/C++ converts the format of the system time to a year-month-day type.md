@@ -1,0 +1,2 @@
+# C++ converts the format of the system time to a year-month-day type
+[C++ converts the format of the system time to a year-month-day type](https://aiwithcloud.com/2022/09/14/c_converts_the_format_of_the_system_time_to_a_year_month_day_type/)

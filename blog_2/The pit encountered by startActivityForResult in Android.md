@@ -1,0 +1,2 @@
+# The pit encountered by startActivityForResult in Android
+[The pit encountered by startActivityForResult in Android](https://aiwithcloud.com/2022/09/15/the_pit_encountered_by_startactivityforresult_in_android/)

@@ -1,0 +1,2 @@
+# [Solved] adb shell view process prompts that grep is not an internal command or an external command
+[[Solved] adb shell view process prompts that grep is not an internal command or an external command](https://aiwithcloud.com/2022/09/15/solved_adb_shell_view_process_prompts_that_grep_is_not_an_internal_command_or_an_external_command/)

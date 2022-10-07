@@ -1,0 +1,2 @@
+# Navicat connects Oracle to import dmp file and reports error ...XXX.dmp may be an original export dump file Solution
+[Navicat connects Oracle to import dmp file and reports error ...XXX.dmp may be an original export dump file Solution](https://aiwithcloud.com/2022/09/16/navicat_connects_oracle_to_import_dmp_file_and_reports_error_-xxx-dmp_may_be_an_original_export_dump_file_solution/)

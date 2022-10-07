@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.28 DFS solves the [target sum] problem
+[[Algorithm brushing]—7.28 DFS solves the [target sum] problem](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-28_dfs_solves_the_target_sum_problem/)

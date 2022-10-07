@@ -1,0 +1,2 @@
+# The reason why the newly compiled kernel driver module of Android cannot be loaded by init is solved
+[The reason why the newly compiled kernel driver module of Android cannot be loaded by init is solved](https://aiwithcloud.com/2022/09/16/the_reason_why_the_newly_compiled_kernel_driver_module_of_android_cannot_be_loaded_by_init_is_solved/)

@@ -1,0 +1,2 @@
+# C language learning - output even numbers between 1 and 40, output 5 numbers in one line
+[C language learning - output even numbers between 1 and 40, output 5 numbers in one line](https://aiwithcloud.com/2022/09/14/c_language_learning___output_even_numbers_between_1_and_40_output_5_numbers_in_one_line/)

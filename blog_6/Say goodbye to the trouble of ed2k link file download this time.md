@@ -1,0 +1,2 @@
+# Say goodbye to the trouble of ed2k link file download this time
+[Say goodbye to the trouble of ed2k link file download this time](https://aiwithcloud.com/2022/09/16/say_goodbye_to_the_trouble_of_ed2k_link_file_download_this_time/)

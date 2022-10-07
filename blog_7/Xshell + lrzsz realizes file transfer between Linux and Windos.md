@@ -1,0 +1,2 @@
+# Xshell + lrzsz realizes file transfer between Linux and Windos
+[Xshell + lrzsz realizes file transfer between Linux and Windos](https://aiwithcloud.com/2022/09/16/xshell__lrzsz_realizes_file_transfer_between_linux_and_windos/)

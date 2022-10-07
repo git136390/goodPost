@@ -1,0 +1,2 @@
+# Python crawler crawling dynamic page ideas + examples (1)
+[Python crawler crawling dynamic page ideas + examples (1)](https://aiwithcloud.com/2022/09/16/python_crawler_crawling_dynamic_page_ideas__examples_1/)

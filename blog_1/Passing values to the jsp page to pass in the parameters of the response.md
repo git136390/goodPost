@@ -1,0 +1,2 @@
+# Passing values to the jsp page to pass in the parameters of the response
+[Passing values to the jsp page to pass in the parameters of the response](https://aiwithcloud.com/2022/09/15/passing_values_to_the_jsp_page_to_pass_in_the_parameters_of_the_response/)

@@ -1,0 +1,2 @@
+# Anroid gets built-in external SD card path and read and write test
+[Anroid gets built-in external SD card path and read and write test](https://aiwithcloud.com/2022/09/15/anroid_gets_built_in_external_sd_card_path_and_read_and_write_test/)

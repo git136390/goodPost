@@ -1,0 +1,2 @@
+# Workflow diagram of gcc and code usage examples of common parameter options
+[Workflow diagram of gcc and code usage examples of common parameter options](https://aiwithcloud.com/2022/09/15/workflow_diagram_of_gcc_and_code_usage_examples_of_common_parameter_options/)

@@ -1,0 +1,2 @@
+# Linux instruction part (2) Initial understanding of redirection + pipeline
+[Linux instruction part (2) Initial understanding of redirection + pipeline](https://aiwithcloud.com/2022/09/16/linux_instruction_part_2_initial_understanding_of_redirection__pipeline/)

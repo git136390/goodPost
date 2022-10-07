@@ -1,0 +1,2 @@
+# Digital microphone PDM signal acquisition and STM32 I2S interface application (2)
+[Digital microphone PDM signal acquisition and STM32 I2S interface application (2)](https://aiwithcloud.com/2022/09/15/digital_microphone_pdm_signal_acquisition_and_stm32_i2s_interface_application_2/)

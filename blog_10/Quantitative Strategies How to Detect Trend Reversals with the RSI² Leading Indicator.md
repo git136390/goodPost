@@ -1,0 +1,2 @@
+# Quantitative Strategies How to Detect Trend Reversals with the RSI² Leading Indicator
+[Quantitative Strategies How to Detect Trend Reversals with the RSI² Leading Indicator](https://aiwithcloud.com/2022/09/19/quantitative_strategies_how_to_detect_trend_reversals_with_the_rsi%c2%b2_leading_indicator/)

@@ -1,0 +1,2 @@
+# PHP - Laravel view template (blade.php) loop convenience
+[PHP - Laravel view template (blade.php) loop convenience](https://aiwithcloud.com/2022/09/19/php___laravel_view_template_blade-php_loop_convenience/)

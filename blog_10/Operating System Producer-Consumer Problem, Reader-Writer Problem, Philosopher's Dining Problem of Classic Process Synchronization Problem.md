@@ -1,0 +1,2 @@
+# Operating System Producer-Consumer Problem, Reader-Writer Problem, Philosopher's Dining Problem of Classic Process Synchronization Problem
+[Operating System Producer-Consumer Problem, Reader-Writer Problem, Philosopher's Dining Problem of Classic Process Synchronization Problem](https://aiwithcloud.com/2022/09/19/operating_system_producer_consumer_problem_reader_writer_problem_philosophers_dining_problem_of_classic_process_synchronization_problem/)

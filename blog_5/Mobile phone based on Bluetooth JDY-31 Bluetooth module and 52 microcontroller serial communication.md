@@ -1,0 +1,2 @@
+# Mobile phone based on Bluetooth JDY-31 Bluetooth module and 52 microcontroller serial communication
+[Mobile phone based on Bluetooth JDY-31 Bluetooth module and 52 microcontroller serial communication](https://aiwithcloud.com/2022/09/16/mobile_phone_based_on_bluetooth_jdy_31_bluetooth_module_and_52_microcontroller_serial_communication/)

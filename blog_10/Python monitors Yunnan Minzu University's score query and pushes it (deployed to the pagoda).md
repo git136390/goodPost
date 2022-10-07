@@ -1,0 +1,2 @@
+# Python monitors Yunnan Minzu University's score query and pushes it (deployed to the pagoda)
+[Python monitors Yunnan Minzu University's score query and pushes it (deployed to the pagoda)](https://aiwithcloud.com/2022/09/19/python_monitors_yunnan_minzu_universitys_score_query_and_pushes_it_deployed_to_the_pagoda/)

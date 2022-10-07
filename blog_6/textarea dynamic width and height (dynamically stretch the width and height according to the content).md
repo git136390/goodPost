@@ -1,0 +1,2 @@
+# textarea dynamic width and height (dynamically stretch the width and height according to the content)
+[textarea dynamic width and height (dynamically stretch the width and height according to the content)](https://aiwithcloud.com/2022/09/16/textarea_dynamic_width_and_height_dynamically_stretch_the_width_and_height_according_to_the_content/)

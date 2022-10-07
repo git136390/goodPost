@@ -1,0 +1,2 @@
+# JavaScript - Implementing the nine-nine multiplication table
+[JavaScript - Implementing the nine-nine multiplication table](https://aiwithcloud.com/2022/09/16/javascript___implementing_the_nine_nine_multiplication_table/)

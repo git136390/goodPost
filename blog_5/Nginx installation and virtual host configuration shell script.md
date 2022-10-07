@@ -1,0 +1,2 @@
+# Nginx installation and virtual host configuration shell script
+[Nginx installation and virtual host configuration shell script](https://aiwithcloud.com/2022/09/16/nginx_installation_and_virtual_host_configuration_shell_script/)

@@ -1,0 +1,2 @@
+# Computer Vision Tutorial 2-5 Image Pyramid Send Her a Rose (with Code)
+[Computer Vision Tutorial 2-5 Image Pyramid Send Her a Rose (with Code)](https://aiwithcloud.com/2022/09/15/computer_vision_tutorial_2_5_image_pyramid_send_her_a_rose_with_code/)

@@ -1,0 +1,2 @@
+# Java tool class BeanUtils library introduction and object copy
+[Java tool class BeanUtils library introduction and object copy](https://aiwithcloud.com/2022/09/16/java_tool_class_beanutils_library_introduction_and_object_copy/)

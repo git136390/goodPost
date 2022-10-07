@@ -1,0 +1,2 @@
+# Ubuntu14.04 installs opencv3.4.5+opencv contrib3.4.5 detailed tutorial
+[Ubuntu14.04 installs opencv3.4.5+opencv contrib3.4.5 detailed tutorial](https://aiwithcloud.com/2022/09/19/ubuntu14-04_installs_opencv3-4-5opencv_contrib3-4-5_detailed_tutorial/)

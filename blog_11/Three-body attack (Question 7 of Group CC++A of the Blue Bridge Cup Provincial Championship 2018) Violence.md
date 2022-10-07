@@ -1,0 +1,2 @@
+# Three-body attack (Question 7 of Group CC++A of the Blue Bridge Cup Provincial Championship 2018) Violence
+[Three-body attack (Question 7 of Group CC++A of the Blue Bridge Cup Provincial Championship 2018) Violence](https://aiwithcloud.com/2022/09/19/three_body_attack_question_7_of_group_cca_of_the_blue_bridge_cup_provincial_championship_2018_violence/)

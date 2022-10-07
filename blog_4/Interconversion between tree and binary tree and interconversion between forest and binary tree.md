@@ -1,0 +1,2 @@
+# Interconversion between tree and binary tree and interconversion between forest and binary tree
+[Interconversion between tree and binary tree and interconversion between forest and binary tree](https://aiwithcloud.com/2022/09/15/interconversion_between_tree_and_binary_tree_and_interconversion_between_forest_and_binary_tree/)

@@ -1,0 +1,2 @@
+# SpringBoot integrated dependencies integrate Activiti7
+[SpringBoot integrated dependencies integrate Activiti7](https://aiwithcloud.com/2022/09/15/springboot_integrated_dependencies_integrate_activiti7/)

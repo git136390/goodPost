@@ -1,0 +1,2 @@
+# UDS Diagnostic Protocol Specifications and Requirements
+[UDS Diagnostic Protocol Specifications and Requirements](https://aiwithcloud.com/2022/09/16/uds_diagnostic_protocol_specifications_and_requirements/)

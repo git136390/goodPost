@@ -1,0 +1,2 @@
+# SQL Statements Four Ways to Add Foreign Keys to Tables
+[SQL Statements Four Ways to Add Foreign Keys to Tables](https://aiwithcloud.com/2022/09/19/sql_statements_four_ways_to_add_foreign_keys_to_tables/)

@@ -1,0 +1,2 @@
+# java security - java local command execution analysis
+[java security - java local command execution analysis](https://aiwithcloud.com/2022/09/19/java_security___java_local_command_execution_analysis/)

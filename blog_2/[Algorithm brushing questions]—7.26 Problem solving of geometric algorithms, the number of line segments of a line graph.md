@@ -1,0 +1,2 @@
+# [Algorithm brushing questions]—7.26 Problem solving of geometric algorithms, the number of line segments of a line graph
+[[Algorithm brushing questions]—7.26 Problem solving of geometric algorithms, the number of line segments of a line graph](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions-7-26_problem_solving_of_geometric_algorithms_the_number_of_line_segments_of_a_line_graph/)

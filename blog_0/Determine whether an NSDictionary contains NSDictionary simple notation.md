@@ -1,0 +1,2 @@
+# Determine whether an NSDictionary contains NSDictionary simple notation
+[Determine whether an NSDictionary contains NSDictionary simple notation](https://aiwithcloud.com/2022/09/14/determine_whether_an_nsdictionary_contains_nsdictionary_simple_notation/)

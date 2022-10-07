@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a tree diagram to show the knowledge structure of Python data analysts
+[[Python Practical Basics] How to draw a tree diagram to show the knowledge structure of Python data analysts](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_draw_a_tree_diagram_to_show_the_knowledge_structure_of_python_data_analysts/)

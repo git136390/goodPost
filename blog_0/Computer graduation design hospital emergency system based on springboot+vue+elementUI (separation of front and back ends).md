@@ -1,0 +1,2 @@
+# Computer graduation design hospital emergency system based on springboot+vue+elementUI (separation of front and back ends)
+[Computer graduation design hospital emergency system based on springboot+vue+elementUI (separation of front and back ends)](https://aiwithcloud.com/2022/09/14/computer_graduation_design_hospital_emergency_system_based_on_springbootvueelementui_separation_of_front_and_back_ends/)

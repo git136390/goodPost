@@ -1,0 +1,2 @@
+# The six major relationships of UML class diagrams, the best way to learn and understand
+[The six major relationships of UML class diagrams, the best way to learn and understand](https://aiwithcloud.com/2022/09/15/the_six_major_relationships_of_uml_class_diagrams_the_best_way_to_learn_and_understand/)

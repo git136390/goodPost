@@ -1,0 +1,2 @@
+# The most complete summary of common operation functions of C++ strings
+[The most complete summary of common operation functions of C++ strings](https://aiwithcloud.com/2022/09/19/the_most_complete_summary_of_common_operation_functions_of_c_strings/)

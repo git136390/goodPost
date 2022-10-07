@@ -1,0 +1,2 @@
+# How does git quickly synchronize the commit changes of other branches, git cherry-pick
+[How does git quickly synchronize the commit changes of other branches, git cherry-pick](https://aiwithcloud.com/2022/09/19/how_does_git_quickly_synchronize_the_commit_changes_of_other_branches_git_cherry_pick/)

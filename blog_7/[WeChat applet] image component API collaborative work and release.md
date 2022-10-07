@@ -1,0 +1,2 @@
+# [WeChat applet] image component API collaborative work and release
+[[WeChat applet] image component API collaborative work and release](https://aiwithcloud.com/2022/09/16/wechat_applet_image_component_api_collaborative_work_and_release/)

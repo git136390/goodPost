@@ -1,0 +1,2 @@
+# Vue2 data responsive principle - data hijacking (array articles)
+[Vue2 data responsive principle - data hijacking (array articles)](https://aiwithcloud.com/2022/09/15/vue2_data_responsive_principle___data_hijacking_array_articles/)

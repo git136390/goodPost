@@ -1,0 +1,2 @@
+# Web front-end final work - food retail comprehensive mall template web design source code (HTML+CSS)
+[Web front-end final work - food retail comprehensive mall template web design source code (HTML+CSS)](https://aiwithcloud.com/2022/09/16/web_front_end_final_work___food_retail_comprehensive_mall_template_web_design_source_code_htmlcss/)

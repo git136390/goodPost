@@ -1,0 +1,2 @@
+# Lectures 2 and 3 of Introduction to SQL - Introduction to Window Functions
+[Lectures 2 and 3 of Introduction to SQL - Introduction to Window Functions](https://aiwithcloud.com/2022/09/16/lectures_2_and_3_of_introduction_to_sql___introduction_to_window_functions/)

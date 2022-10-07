@@ -1,0 +1,2 @@
+# Java refinement knowledge point learning (necessary for entry to mastery) sequel
+[Java refinement knowledge point learning (necessary for entry to mastery) sequel](https://aiwithcloud.com/2022/09/16/java_refinement_knowledge_point_learning_necessary_for_entry_to_mastery_sequel/)

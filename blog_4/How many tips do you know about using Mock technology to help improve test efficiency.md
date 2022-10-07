@@ -1,0 +1,2 @@
+# How many tips do you know about using Mock technology to help improve test efficiency
+[How many tips do you know about using Mock technology to help improve test efficiency](https://aiwithcloud.com/2022/09/15/how_many_tips_do_you_know_about_using_mock_technology_to_help_improve_test_efficiency/)

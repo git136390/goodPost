@@ -1,0 +1,2 @@
+# JavaScript example - page effects 1 - changing the background color
+[JavaScript example - page effects 1 - changing the background color](https://aiwithcloud.com/2022/09/19/javascript_example___page_effects_1___changing_the_background_color/)

@@ -1,0 +1,2 @@
+# Vue routing cannot jump after deployment on windows IIS server
+[Vue routing cannot jump after deployment on windows IIS server](https://aiwithcloud.com/2022/09/16/vue_routing_cannot_jump_after_deployment_on_windows_iis_server/)

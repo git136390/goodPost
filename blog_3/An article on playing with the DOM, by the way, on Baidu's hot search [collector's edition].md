@@ -1,0 +1,2 @@
+# An article on playing with the DOM, by the way, on Baidu's hot search [collector's edition]
+[An article on playing with the DOM, by the way, on Baidu's hot search [collector's edition]](https://aiwithcloud.com/2022/09/15/an_article_on_playing_with_the_dom_by_the_way_on_baidus_hot_search_collectors_edition/)

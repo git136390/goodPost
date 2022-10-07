@@ -1,0 +1,2 @@
+# The input box monitors the input method to input Chinese
+[The input box monitors the input method to input Chinese](https://aiwithcloud.com/2022/09/16/the_input_box_monitors_the_input_method_to_input_chinese/)

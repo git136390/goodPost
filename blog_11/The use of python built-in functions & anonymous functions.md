@@ -1,0 +1,2 @@
+# The use of python built-in functions & anonymous functions
+[The use of python built-in functions & anonymous functions](https://aiwithcloud.com/2022/09/19/the_use_of_python_built_in_functions__anonymous_functions/)

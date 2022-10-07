@@ -1,0 +1,2 @@
+# 【MATLAB】【Formula Verification】Fourier Series
+[【MATLAB】【Formula Verification】Fourier Series](https://aiwithcloud.com/2022/09/16/%e3%80%90matlab%e3%80%91%e3%80%90formula_verification%e3%80%91fourier_series/)

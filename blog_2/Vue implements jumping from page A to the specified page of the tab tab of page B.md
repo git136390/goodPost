@@ -1,0 +1,2 @@
+# Vue implements jumping from page A to the specified page of the tab tab of page B
+[Vue implements jumping from page A to the specified page of the tab tab of page B](https://aiwithcloud.com/2022/09/15/vue_implements_jumping_from_page_a_to_the_specified_page_of_the_tab_tab_of_page_b/)

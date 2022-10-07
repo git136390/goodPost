@@ -1,0 +1,2 @@
+# Three ways to restore factory settings of Huawei switches
+[Three ways to restore factory settings of Huawei switches](https://aiwithcloud.com/2022/09/16/three_ways_to_restore_factory_settings_of_huawei_switches/)

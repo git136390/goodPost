@@ -1,0 +1,2 @@
+# Wrong question collection 6 - listen to your words, if you listen to your words
+[Wrong question collection 6 - listen to your words, if you listen to your words](https://aiwithcloud.com/2022/09/19/wrong_question_collection_6___listen_to_your_words_if_you_listen_to_your_words/)

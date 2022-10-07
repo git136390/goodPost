@@ -1,0 +1,2 @@
+# Java implementation to determine whether an integer is odd or even (Scanner use, if judgment use, % remainder use)
+[Java implementation to determine whether an integer is odd or even (Scanner use, if judgment use, % remainder use)](https://aiwithcloud.com/2022/09/19/java_implementation_to_determine_whether_an_integer_is_odd_or_even_scanner_use_if_judgment_use__remainder_use/)

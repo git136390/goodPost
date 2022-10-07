@@ -1,0 +1,2 @@
+# Talk about how to encrypt the password of the springboot project database
+[Talk about how to encrypt the password of the springboot project database](https://aiwithcloud.com/2022/09/19/talk_about_how_to_encrypt_the_password_of_the_springboot_project_database/)

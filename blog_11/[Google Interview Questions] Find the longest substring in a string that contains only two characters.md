@@ -1,0 +1,2 @@
+# [Google Interview Questions] Find the longest substring in a string that contains only two characters
+[[Google Interview Questions] Find the longest substring in a string that contains only two characters](https://aiwithcloud.com/2022/09/19/google_interview_questions_find_the_longest_substring_in_a_string_that_contains_only_two_characters/)

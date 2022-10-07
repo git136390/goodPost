@@ -1,0 +1,2 @@
+# Centos7 install, configure, start, shut down and uninstall redis
+[Centos7 install, configure, start, shut down and uninstall redis](https://aiwithcloud.com/2022/09/19/centos7_install_configure_start_shut_down_and_uninstall_redis/)

@@ -1,0 +1,2 @@
+# Solve the problem that numpy.array is very slow when calling python files in Android pytorch
+[Solve the problem that numpy.array is very slow when calling python files in Android pytorch](https://aiwithcloud.com/2022/09/15/solve_the_problem_that_numpy-array_is_very_slow_when_calling_python_files_in_android_pytorch/)

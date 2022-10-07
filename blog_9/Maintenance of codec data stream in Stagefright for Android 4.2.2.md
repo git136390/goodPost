@@ -1,0 +1,2 @@
+# Maintenance of codec data stream in Stagefright for Android 4.2.2
+[Maintenance of codec data stream in Stagefright for Android 4.2.2](https://aiwithcloud.com/2022/09/19/maintenance_of_codec_data_stream_in_stagefright_for_android_4-2-2/)

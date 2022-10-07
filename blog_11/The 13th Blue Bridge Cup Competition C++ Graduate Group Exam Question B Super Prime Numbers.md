@@ -1,0 +1,2 @@
+# The 13th Blue Bridge Cup Competition C++ Graduate Group Exam Question B Super Prime Numbers
+[The 13th Blue Bridge Cup Competition C++ Graduate Group Exam Question B Super Prime Numbers](https://aiwithcloud.com/2022/09/19/the_13th_blue_bridge_cup_competition_c_graduate_group_exam_question_b_super_prime_numbers/)

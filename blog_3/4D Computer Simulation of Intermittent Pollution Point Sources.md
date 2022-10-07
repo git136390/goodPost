@@ -1,0 +1,2 @@
+# 4D Computer Simulation of Intermittent Pollution Point Sources
+[4D Computer Simulation of Intermittent Pollution Point Sources](https://aiwithcloud.com/2022/09/15/4d_computer_simulation_of_intermittent_pollution_point_sources/)

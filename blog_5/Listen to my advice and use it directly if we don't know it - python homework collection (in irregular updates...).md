@@ -1,0 +1,2 @@
+# Listen to my advice and use it directly if we don't know it - python homework collection (in irregular updates...)
+[Listen to my advice and use it directly if we don't know it - python homework collection (in irregular updates...)](https://aiwithcloud.com/2022/09/16/listen_to_my_advice_and_use_it_directly_if_we_dont_know_it___python_homework_collection_in_irregular_updates/)

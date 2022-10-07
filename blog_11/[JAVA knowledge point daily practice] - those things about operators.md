@@ -1,0 +1,2 @@
+# [JAVA knowledge point daily practice] - those things about operators
+[[JAVA knowledge point daily practice] - those things about operators](https://aiwithcloud.com/2022/09/19/java_knowledge_point_daily_practice___those_things_about_operators/)

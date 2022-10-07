@@ -1,0 +1,2 @@
+# Simplest implementation of cellular automata in Python
+[Simplest implementation of cellular automata in Python](https://aiwithcloud.com/2022/09/15/simplest_implementation_of_cellular_automata_in_python/)

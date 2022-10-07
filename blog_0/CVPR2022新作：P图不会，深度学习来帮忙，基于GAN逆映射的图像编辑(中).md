@@ -1,0 +1,2 @@
+# CVPR2022新作：P图不会，深度学习来帮忙，基于GAN逆映射的图像编辑(中)
+[CVPR2022新作：P图不会，深度学习来帮忙，基于GAN逆映射的图像编辑(中)](https://aiwithcloud.com/2021/04/25/cvpr2022%e6%96%b0%e4%bd%9c%ef%bc%9ap%e5%9b%be%e4%b8%8d%e4%bc%9a%ef%bc%8c%e6%b7%b1%e5%ba%a6%e5%ad%a6%e4%b9%a0%e6%9d%a5%e5%b8%ae%e5%bf%99%ef%bc%8c%e5%9f%ba%e4%ba%8egan%e9%80%86%e6%98%a0%e5%b0%84/)

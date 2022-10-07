@@ -1,0 +1,2 @@
+# [Fifi Rename Baby] Batch Modify File Names and Extensions
+[[Fifi Rename Baby] Batch Modify File Names and Extensions](https://aiwithcloud.com/2022/09/16/fifi_rename_baby_batch_modify_file_names_and_extensions/)

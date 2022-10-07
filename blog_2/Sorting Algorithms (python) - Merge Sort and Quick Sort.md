@@ -1,0 +1,2 @@
+# Sorting Algorithms (python) - Merge Sort and Quick Sort
+[Sorting Algorithms (python) - Merge Sort and Quick Sort](https://aiwithcloud.com/2022/09/15/sorting_algorithms_python___merge_sort_and_quick_sort/)

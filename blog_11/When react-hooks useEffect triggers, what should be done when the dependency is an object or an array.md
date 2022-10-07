@@ -1,0 +1,2 @@
+# When react-hooks useEffect triggers, what should be done when the dependency is an object or an array
+[When react-hooks useEffect triggers, what should be done when the dependency is an object or an array](https://aiwithcloud.com/2022/09/19/when_react_hooks_useeffect_triggers_what_should_be_done_when_the_dependency_is_an_object_or_an_array/)

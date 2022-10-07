@@ -1,0 +1,2 @@
+# Detailed explanation of Huawei OSPF and BGP route reflector configuration
+[Detailed explanation of Huawei OSPF and BGP route reflector configuration](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_huawei_ospf_and_bgp_route_reflector_configuration/)

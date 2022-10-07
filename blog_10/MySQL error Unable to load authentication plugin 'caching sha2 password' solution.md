@@ -1,0 +1,2 @@
+# MySQL error Unable to load authentication plugin 'caching sha2 password' solution
+[MySQL error Unable to load authentication plugin 'caching sha2 password' solution](https://aiwithcloud.com/2022/09/19/mysql_error_unable_to_load_authentication_plugin_caching_sha2_password_solution/)

@@ -1,0 +1,2 @@
+# Similarities and differences between git prune, git remote prune, git fetch --prune
+[Similarities and differences between git prune, git remote prune, git fetch --prune](https://aiwithcloud.com/2022/09/15/similarities_and_differences_between_git_prune_git_remote_prune_git_fetch___prune/)

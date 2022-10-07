@@ -1,0 +1,2 @@
+# Run yolov5 on CPU (detailed steps + suitable for getting started)
+[Run yolov5 on CPU (detailed steps + suitable for getting started)](https://aiwithcloud.com/2022/09/19/run_yolov5_on_cpu_detailed_steps__suitable_for_getting_started/)

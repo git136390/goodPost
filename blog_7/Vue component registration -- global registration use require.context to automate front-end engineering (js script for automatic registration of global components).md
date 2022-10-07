@@ -1,0 +1,2 @@
+# Vue component registration -- global registration use require.context to automate front-end engineering (js script for automatic registration of global components)
+[Vue component registration -- global registration use require.context to automate front-end engineering (js script for automatic registration of global components)](https://aiwithcloud.com/2022/09/16/vue_component_registration____global_registration_use_require-context_to_automate_front_end_engineering_js_script_for_automatic_registration_of_global_components/)

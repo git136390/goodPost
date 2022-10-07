@@ -1,0 +1,2 @@
+# Microsoft Visual C++ Build Tools installation package is missing or damaged [Solution]
+[Microsoft Visual C++ Build Tools installation package is missing or damaged [Solution]](https://aiwithcloud.com/2022/09/15/microsoft_visual_c_build_tools_installation_package_is_missing_or_damaged_solution/)

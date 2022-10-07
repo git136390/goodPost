@@ -1,0 +1,2 @@
+# Debugging skills - BEBUG debugging switch in C language
+[Debugging skills - BEBUG debugging switch in C language](https://aiwithcloud.com/2022/09/19/debugging_skills___bebug_debugging_switch_in_c_language/)

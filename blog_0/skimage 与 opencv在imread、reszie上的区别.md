@@ -1,0 +1,2 @@
+# skimage 与 opencv在imread、reszie上的区别
+[skimage 与 opencv在imread、reszie上的区别](https://aiwithcloud.com/2021/07/21/skimage-%e4%b8%8e-opencv%e5%9c%a8imread%e3%80%81reszie%e4%b8%8a%e7%9a%84%e5%8c%ba%e5%88%ab/)

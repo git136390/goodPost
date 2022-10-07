@@ -1,0 +1,2 @@
+# Full solution of suid privilege escalation (superfine)
+[Full solution of suid privilege escalation (superfine)](https://aiwithcloud.com/2022/09/15/full_solution_of_suid_privilege_escalation_superfine/)

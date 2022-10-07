@@ -1,0 +1,2 @@
+# How to get an offer from a big factory  Programmers have something to say
+[How to get an offer from a big factory  Programmers have something to say](https://aiwithcloud.com/2022/09/15/how_to_get_an_offer_from_a_big_factory__programmers_have_something_to_say/)

@@ -1,0 +1,2 @@
+# Table display based on streamlit - the perfect solution
+[Table display based on streamlit - the perfect solution](https://aiwithcloud.com/2022/09/19/table_display_based_on_streamlit___the_perfect_solution/)

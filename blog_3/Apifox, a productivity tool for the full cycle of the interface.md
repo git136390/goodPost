@@ -1,0 +1,2 @@
+# Apifox, a productivity tool for the full cycle of the interface
+[Apifox, a productivity tool for the full cycle of the interface](https://aiwithcloud.com/2022/09/15/apifox_a_productivity_tool_for_the_full_cycle_of_the_interface/)

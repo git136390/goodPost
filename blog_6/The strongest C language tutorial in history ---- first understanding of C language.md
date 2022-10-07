@@ -1,0 +1,2 @@
+# The strongest C language tutorial in history ---- first understanding of C language
+[The strongest C language tutorial in history ---- first understanding of C language](https://aiwithcloud.com/2022/09/16/the_strongest_c_language_tutorial_in_history______first_understanding_of_c_language/)

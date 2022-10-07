@@ -1,0 +1,2 @@
+# Simulation implementation of stacks and queues and related test questions
+[Simulation implementation of stacks and queues and related test questions](https://aiwithcloud.com/2022/09/16/simulation_implementation_of_stacks_and_queues_and_related_test_questions/)

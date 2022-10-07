@@ -1,0 +1,2 @@
+# [leetcode] 9. Palindrome + 7. Integer Reversal + 8. String to Integer
+[[leetcode] 9. Palindrome + 7. Integer Reversal + 8. String to Integer](https://aiwithcloud.com/2022/09/19/leetcode_9-_palindrome__7-_integer_reversal__8-_string_to_integer/)

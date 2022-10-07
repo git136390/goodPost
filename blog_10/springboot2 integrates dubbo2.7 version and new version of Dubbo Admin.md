@@ -1,0 +1,2 @@
+# springboot2 integrates dubbo2.7 version and new version of Dubbo Admin
+[springboot2 integrates dubbo2.7 version and new version of Dubbo Admin](https://aiwithcloud.com/2022/09/19/springboot2_integrates_dubbo2-7_version_and_new_version_of_dubbo_admin/)

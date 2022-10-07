@@ -1,0 +1,2 @@
+# Arduino's secret incremental PID DC deceleration encoder motor that makes the car go straight
+[Arduino's secret incremental PID DC deceleration encoder motor that makes the car go straight](https://aiwithcloud.com/2022/09/19/arduinos_secret_incremental_pid_dc_deceleration_encoder_motor_that_makes_the_car_go_straight/)

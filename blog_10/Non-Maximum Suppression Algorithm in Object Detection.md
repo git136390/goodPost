@@ -1,0 +1,2 @@
+# Non-Maximum Suppression Algorithm in Object Detection
+[Non-Maximum Suppression Algorithm in Object Detection](https://aiwithcloud.com/2022/09/19/non_maximum_suppression_algorithm_in_object_detection/)

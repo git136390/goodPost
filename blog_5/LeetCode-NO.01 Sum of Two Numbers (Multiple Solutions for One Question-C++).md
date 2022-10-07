@@ -1,0 +1,2 @@
+# LeetCode-NO.01 Sum of Two Numbers (Multiple Solutions for One Question-C++)
+[LeetCode-NO.01 Sum of Two Numbers (Multiple Solutions for One Question-C++)](https://aiwithcloud.com/2022/09/16/leetcode_no-01_sum_of_two_numbers_multiple_solutions_for_one_question_c/)

@@ -1,0 +1,2 @@
+# [Python combat basics] How to draw a dashboard chart to visually display the progress of the goal
+[[Python combat basics] How to draw a dashboard chart to visually display the progress of the goal](https://aiwithcloud.com/2022/09/16/python_combat_basics_how_to_draw_a_dashboard_chart_to_visually_display_the_progress_of_the_goal/)

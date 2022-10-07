@@ -1,0 +1,2 @@
+# ELK build (6) build mysql performance, execution efficiency monitoring platform
+[ELK build (6) build mysql performance, execution efficiency monitoring platform](https://aiwithcloud.com/2022/09/19/elk_build_6_build_mysql_performance_execution_efficiency_monitoring_platform/)

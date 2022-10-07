@@ -1,0 +1,2 @@
+# Linux kernel mechanism summary file system open files (forty-eight)
+[Linux kernel mechanism summary file system open files (forty-eight)](https://aiwithcloud.com/2022/09/16/linux_kernel_mechanism_summary_file_system_open_files_forty_eight/)

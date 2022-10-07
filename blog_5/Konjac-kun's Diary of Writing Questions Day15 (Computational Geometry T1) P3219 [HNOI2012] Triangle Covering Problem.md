@@ -1,0 +1,2 @@
+# Konjac-kun's Diary of Writing Questions Day15 (Computational Geometry T1) P3219 [HNOI2012] Triangle Covering Problem
+[Konjac-kun's Diary of Writing Questions Day15 (Computational Geometry T1) P3219 [HNOI2012] Triangle Covering Problem](https://aiwithcloud.com/2022/09/16/konjac_kuns_diary_of_writing_questions_day15_computational_geometry_t1_p3219_hnoi2012_triangle_covering_problem/)

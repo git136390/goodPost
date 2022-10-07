@@ -1,0 +1,2 @@
+# vue+element ui upload file, the displayed file parameter content is only uid
+[vue+element ui upload file, the displayed file parameter content is only uid](https://aiwithcloud.com/2022/09/16/vueelement_ui_upload_file_the_displayed_file_parameter_content_is_only_uid/)

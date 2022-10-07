@@ -1,0 +1,2 @@
+# Detailed explanation of the drawing method using the pyplot package of matplotlib
+[Detailed explanation of the drawing method using the pyplot package of matplotlib](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_the_drawing_method_using_the_pyplot_package_of_matplotlib/)

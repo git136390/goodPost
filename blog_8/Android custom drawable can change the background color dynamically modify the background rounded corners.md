@@ -1,0 +1,2 @@
+# Android custom drawable can change the background color dynamically modify the background rounded corners
+[Android custom drawable can change the background color dynamically modify the background rounded corners](https://aiwithcloud.com/2022/09/19/android_custom_drawable_can_change_the_background_color_dynamically_modify_the_background_rounded_corners/)

@@ -1,0 +1,2 @@
+# [nodemon] app crashed - waiting for file changes before starting...Solution
+[[nodemon] app crashed - waiting for file changes before starting...Solution](https://aiwithcloud.com/2022/09/15/nodemon_app_crashed___waiting_for_file_changes_before_starting-solution/)

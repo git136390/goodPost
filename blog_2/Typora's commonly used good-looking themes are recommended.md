@@ -1,0 +1,2 @@
+# Typora's commonly used good-looking themes are recommended
+[Typora's commonly used good-looking themes are recommended](https://aiwithcloud.com/2022/09/15/typoras_commonly_used_good_looking_themes_are_recommended/)

@@ -1,0 +1,2 @@
+# C++ classic problem  04 static members and this pointer
+[C++ classic problem  04 static members and this pointer](https://aiwithcloud.com/2022/09/15/c_classic_problem__04_static_members_and_this_pointer/)

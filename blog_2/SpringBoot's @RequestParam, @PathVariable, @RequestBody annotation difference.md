@@ -1,0 +1,2 @@
+# SpringBoot's @RequestParam, @PathVariable, @RequestBody annotation difference
+[SpringBoot's @RequestParam, @PathVariable, @RequestBody annotation difference](https://aiwithcloud.com/2022/09/15/springboots_requestparam_pathvariable_requestbody_annotation_difference/)

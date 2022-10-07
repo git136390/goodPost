@@ -1,0 +1,2 @@
+# Software Engineering - Software Requirements Analysis
+[Software Engineering - Software Requirements Analysis](https://aiwithcloud.com/2022/09/19/software_engineering___software_requirements_analysis/)

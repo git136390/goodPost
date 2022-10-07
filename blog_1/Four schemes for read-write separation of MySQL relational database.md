@@ -1,0 +1,2 @@
+# Four schemes for read-write separation of MySQL relational database
+[Four schemes for read-write separation of MySQL relational database](https://aiwithcloud.com/2022/09/14/four_schemes_for_read_write_separation_of_mysql_relational_database/)

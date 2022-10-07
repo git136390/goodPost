@@ -1,0 +1,2 @@
+# Basic use of Python crawler series (4) requests library
+[Basic use of Python crawler series (4) requests library](https://aiwithcloud.com/2022/09/15/basic_use_of_python_crawler_series_4_requests_library/)

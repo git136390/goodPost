@@ -1,0 +1,2 @@
+# Failed to execute goal org.apache.maven.pluginsmaven-resources-plugin solution
+[Failed to execute goal org.apache.maven.pluginsmaven-resources-plugin solution](https://aiwithcloud.com/2022/09/14/failed_to_execute_goal_org-apache-maven-pluginsmaven_resources_plugin_solution/)

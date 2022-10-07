@@ -1,0 +1,2 @@
+# How to split the contents of one file into two other files in python
+[How to split the contents of one file into two other files in python](https://aiwithcloud.com/2022/09/15/how_to_split_the_contents_of_one_file_into_two_other_files_in_python/)

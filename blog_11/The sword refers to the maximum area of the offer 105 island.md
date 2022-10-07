@@ -1,0 +1,2 @@
+# The sword refers to the maximum area of the offer 105 island
+[The sword refers to the maximum area of the offer 105 island](https://aiwithcloud.com/2022/09/19/the_sword_refers_to_the_maximum_area_of_the_offer_105_island/)

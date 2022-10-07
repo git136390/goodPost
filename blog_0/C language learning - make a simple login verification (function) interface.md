@@ -1,0 +1,2 @@
+# C language learning - make a simple login verification (function) interface
+[C language learning - make a simple login verification (function) interface](https://aiwithcloud.com/2022/09/14/c_language_learning___make_a_simple_login_verification_function_interface/)

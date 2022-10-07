@@ -1,0 +1,2 @@
+# RC low-pass filter cutoff frequency formula derivation
+[RC low-pass filter cutoff frequency formula derivation](https://aiwithcloud.com/2022/09/16/rc_low_pass_filter_cutoff_frequency_formula_derivation/)

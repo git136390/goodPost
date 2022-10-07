@@ -1,0 +1,2 @@
+# mysql-installer installation tutorial (detailed graphic)
+[mysql-installer installation tutorial (detailed graphic)](https://aiwithcloud.com/2022/09/19/mysql_installer_installation_tutorial_detailed_graphic/)

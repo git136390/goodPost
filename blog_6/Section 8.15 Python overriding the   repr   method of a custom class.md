@@ -1,0 +1,2 @@
+# Section 8.15 Python overriding the   repr   method of a custom class
+[Section 8.15 Python overriding the   repr   method of a custom class](https://aiwithcloud.com/2022/09/16/section_8-15_python_overriding_the___repr___method_of_a_custom_class/)

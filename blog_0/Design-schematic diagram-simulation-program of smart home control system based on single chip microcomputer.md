@@ -1,0 +1,2 @@
+# Design-schematic diagram-simulation-program of smart home control system based on single chip microcomputer
+[Design-schematic diagram-simulation-program of smart home control system based on single chip microcomputer](https://aiwithcloud.com/2022/09/14/design_schematic_diagram_simulation_program_of_smart_home_control_system_based_on_single_chip_microcomputer/)

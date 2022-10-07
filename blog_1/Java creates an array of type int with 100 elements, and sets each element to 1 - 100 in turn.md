@@ -1,0 +1,2 @@
+# Java creates an array of type int with 100 elements, and sets each element to 1 - 100 in turn
+[Java creates an array of type int with 100 elements, and sets each element to 1 - 100 in turn](https://aiwithcloud.com/2022/09/15/java_creates_an_array_of_type_int_with_100_elements_and_sets_each_element_to_1___100_in_turn/)

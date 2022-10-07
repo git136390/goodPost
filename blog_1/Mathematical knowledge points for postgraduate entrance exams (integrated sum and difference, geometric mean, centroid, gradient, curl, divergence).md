@@ -1,0 +1,2 @@
+# Mathematical knowledge points for postgraduate entrance exams (integrated sum and difference, geometric mean, centroid, gradient, curl, divergence)
+[Mathematical knowledge points for postgraduate entrance exams (integrated sum and difference, geometric mean, centroid, gradient, curl, divergence)](https://aiwithcloud.com/2022/09/15/mathematical_knowledge_points_for_postgraduate_entrance_exams_integrated_sum_and_difference_geometric_mean_centroid_gradient_curl_divergence/)

@@ -1,0 +1,2 @@
+# Detailed usage of TypeScript functions (default parameters, optional parameters, residual parameters, overload declaration)
+[Detailed usage of TypeScript functions (default parameters, optional parameters, residual parameters, overload declaration)](https://aiwithcloud.com/2022/09/14/detailed_usage_of_typescript_functions_default_parameters_optional_parameters_residual_parameters_overload_declaration/)

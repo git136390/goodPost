@@ -1,0 +1,2 @@
+# [Detailed explanation of C language] - custom type (structure, enumeration, union)
+[[Detailed explanation of C language] - custom type (structure, enumeration, union)](https://aiwithcloud.com/2022/09/16/detailed_explanation_of_c_language___custom_type_structure_enumeration_union/)

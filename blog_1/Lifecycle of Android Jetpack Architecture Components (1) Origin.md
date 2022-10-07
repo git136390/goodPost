@@ -1,0 +1,2 @@
+# Lifecycle of Android Jetpack Architecture Components (1) Origin
+[Lifecycle of Android Jetpack Architecture Components (1) Origin](https://aiwithcloud.com/2022/09/15/lifecycle_of_android_jetpack_architecture_components_1_origin/)

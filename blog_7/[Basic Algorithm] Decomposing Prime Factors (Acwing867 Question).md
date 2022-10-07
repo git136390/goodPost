@@ -1,0 +1,2 @@
+# [Basic Algorithm] Decomposing Prime Factors (Acwing867 Question)
+[[Basic Algorithm] Decomposing Prime Factors (Acwing867 Question)](https://aiwithcloud.com/2022/09/16/basic_algorithm_decomposing_prime_factors_acwing867_question/)

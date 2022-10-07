@@ -1,0 +1,2 @@
+# Custom AVA dataset preparation (implemented on window)
+[Custom AVA dataset preparation (implemented on window)](https://aiwithcloud.com/2022/09/19/custom_ava_dataset_preparation_implemented_on_window/)

@@ -1,0 +1,2 @@
+# Windows System Reinstall - Mac Make Win10 Startup Disk
+[Windows System Reinstall - Mac Make Win10 Startup Disk](https://aiwithcloud.com/2022/09/15/windows_system_reinstall___mac_make_win10_startup_disk/)

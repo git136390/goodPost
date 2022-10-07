@@ -1,0 +1,2 @@
+# Does Java still use System.currentTimeMillis() to print code execution time Use StopWatch as much as you can and learn it now!
+[Does Java still use System.currentTimeMillis() to print code execution time Use StopWatch as much as you can and learn it now!](https://aiwithcloud.com/2022/09/15/does_java_still_use_system-currenttimemillis_to_print_code_execution_time_use_stopwatch_as_much_as_you_can_and_learn_it_now/)

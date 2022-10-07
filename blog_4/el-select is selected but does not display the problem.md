@@ -1,0 +1,2 @@
+# el-select is selected but does not display the problem
+[el-select is selected but does not display the problem](https://aiwithcloud.com/2022/09/15/el_select_is_selected_but_does_not_display_the_problem/)

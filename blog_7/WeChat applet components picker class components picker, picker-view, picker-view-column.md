@@ -1,0 +1,2 @@
+# WeChat applet components picker class components picker, picker-view, picker-view-column
+[WeChat applet components picker class components picker, picker-view, picker-view-column](https://aiwithcloud.com/2022/09/16/wechat_applet_components_picker_class_components_picker_picker_view_picker_view_column/)

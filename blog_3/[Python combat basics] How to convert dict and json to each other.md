@@ -1,0 +1,2 @@
+# [Python combat basics] How to convert dict and json to each other
+[[Python combat basics] How to convert dict and json to each other](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_to_convert_dict_and_json_to_each_other/)

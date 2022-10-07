@@ -1,0 +1,2 @@
+# jacoco plugin configuration to generate unit test coverage report
+[jacoco plugin configuration to generate unit test coverage report](https://aiwithcloud.com/2022/09/19/jacoco_plugin_configuration_to_generate_unit_test_coverage_report/)

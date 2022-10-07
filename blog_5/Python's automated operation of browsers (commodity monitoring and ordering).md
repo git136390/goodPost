@@ -1,0 +1,2 @@
+# Python's automated operation of browsers (commodity monitoring and ordering)
+[Python's automated operation of browsers (commodity monitoring and ordering)](https://aiwithcloud.com/2022/09/16/pythons_automated_operation_of_browsers_commodity_monitoring_and_ordering/)

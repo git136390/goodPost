@@ -1,0 +1,2 @@
+# CentOS basic environment construction (Nginx, Git, Lrzsz)
+[CentOS basic environment construction (Nginx, Git, Lrzsz)](https://aiwithcloud.com/2022/09/19/centos_basic_environment_construction_nginx_git_lrzsz/)

@@ -1,0 +1,2 @@
+# iOS Image draws pictures according to TintColor (UIImageRenderingMode)
+[iOS Image draws pictures according to TintColor (UIImageRenderingMode)](https://aiwithcloud.com/2022/09/15/ios_image_draws_pictures_according_to_tintcolor_uiimagerenderingmode/)

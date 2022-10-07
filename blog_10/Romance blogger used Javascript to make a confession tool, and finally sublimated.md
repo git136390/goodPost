@@ -1,0 +1,2 @@
+# Romance blogger used Javascript to make a confession tool, and finally sublimated
+[Romance blogger used Javascript to make a confession tool, and finally sublimated](https://aiwithcloud.com/2022/09/19/romance_blogger_used_javascript_to_make_a_confession_tool_and_finally_sublimated/)

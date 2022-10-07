@@ -1,0 +1,2 @@
+# C++ STL learning (9) functor (function objects, functor)
+[C++ STL learning (9) functor (function objects, functor)](https://aiwithcloud.com/2022/09/15/c_stl_learning_9_functor_function_objects_functor/)

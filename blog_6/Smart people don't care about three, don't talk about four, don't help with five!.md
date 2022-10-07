@@ -1,0 +1,2 @@
+# Smart people don't care about three, don't talk about four, don't help with five!
+[Smart people don't care about three, don't talk about four, don't help with five!](https://aiwithcloud.com/2022/09/16/smart_people_dont_care_about_three_dont_talk_about_four_dont_help_with_five/)

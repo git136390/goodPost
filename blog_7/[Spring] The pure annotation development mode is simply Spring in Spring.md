@@ -1,0 +1,2 @@
+# [Spring] The pure annotation development mode is simply Spring in Spring
+[[Spring] The pure annotation development mode is simply Spring in Spring](https://aiwithcloud.com/2022/09/16/spring_the_pure_annotation_development_mode_is_simply_spring_in_spring/)

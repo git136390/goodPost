@@ -1,0 +1,2 @@
+# C++ Smart pointer (1) - the difference between auto ptr, unique ptr
+[C++ Smart pointer (1) - the difference between auto ptr, unique ptr](https://aiwithcloud.com/2022/09/15/c_smart_pointer_1___the_difference_between_auto_ptr_unique_ptr/)

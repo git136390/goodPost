@@ -1,0 +1,2 @@
+# Migration steps and problems encountered from WeChat applet to uniapp
+[Migration steps and problems encountered from WeChat applet to uniapp](https://aiwithcloud.com/2022/09/16/migration_steps_and_problems_encountered_from_wechat_applet_to_uniapp/)

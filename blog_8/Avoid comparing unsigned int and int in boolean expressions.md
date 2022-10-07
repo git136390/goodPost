@@ -1,0 +1,2 @@
+# Avoid comparing unsigned int and int in boolean expressions
+[Avoid comparing unsigned int and int in boolean expressions](https://aiwithcloud.com/2022/09/19/avoid_comparing_unsigned_int_and_int_in_boolean_expressions/)

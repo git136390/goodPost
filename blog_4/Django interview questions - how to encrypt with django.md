@@ -1,0 +1,2 @@
+# Django interview questions - how to encrypt with django
+[Django interview questions - how to encrypt with django](https://aiwithcloud.com/2022/09/15/django_interview_questions___how_to_encrypt_with_django/)

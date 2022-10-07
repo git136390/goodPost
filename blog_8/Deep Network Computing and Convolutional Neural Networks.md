@@ -1,0 +1,2 @@
+# Deep Network Computing and Convolutional Neural Networks
+[Deep Network Computing and Convolutional Neural Networks](https://aiwithcloud.com/2022/09/19/deep_network_computing_and_convolutional_neural_networks/)

@@ -1,0 +1,2 @@
+# Linux builds a Java environment and deploys the project
+[Linux builds a Java environment and deploys the project](https://aiwithcloud.com/2022/09/19/linux_builds_a_java_environment_and_deploys_the_project/)

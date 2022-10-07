@@ -1,0 +1,2 @@
+# SpringCloud's Open Feign Service Call Quick Start Analysis Case
+[SpringCloud's Open Feign Service Call Quick Start Analysis Case](https://aiwithcloud.com/2022/09/19/springclouds_open_feign_service_call_quick_start_analysis_case/)

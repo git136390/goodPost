@@ -1,0 +1,2 @@
+# Vue is based on the element-china-area-data plugin to realize the linkage between provinces and cities
+[Vue is based on the element-china-area-data plugin to realize the linkage between provinces and cities](https://aiwithcloud.com/2022/09/15/vue_is_based_on_the_element_china_area_data_plugin_to_realize_the_linkage_between_provinces_and_cities/)

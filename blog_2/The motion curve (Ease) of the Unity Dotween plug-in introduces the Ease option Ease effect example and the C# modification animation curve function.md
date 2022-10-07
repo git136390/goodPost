@@ -1,0 +1,2 @@
+# The motion curve (Ease) of the Unity Dotween plug-in introduces the Ease option Ease effect example and the C# modification animation curve function
+[The motion curve (Ease) of the Unity Dotween plug-in introduces the Ease option Ease effect example and the C# modification animation curve function](https://aiwithcloud.com/2022/09/15/the_motion_curve_ease_of_the_unity_dotween_plug_in_introduces_the_ease_option_ease_effect_example_and_the_c_modification_animation_curve_function/)

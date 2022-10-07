@@ -1,0 +1,2 @@
+# C++ encapsulates a string class (by the way, why is the operator generally implemented inside and outside)
+[C++ encapsulates a string class (by the way, why is the operator generally implemented inside and outside)](https://aiwithcloud.com/2022/09/15/c_encapsulates_a_string_class_by_the_way_why_is_the_operator_generally_implemented_inside_and_outside/)

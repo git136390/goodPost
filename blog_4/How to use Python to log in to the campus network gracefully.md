@@ -1,0 +1,2 @@
+# How to use Python to log in to the campus network gracefully
+[How to use Python to log in to the campus network gracefully](https://aiwithcloud.com/2022/09/15/how_to_use_python_to_log_in_to_the_campus_network_gracefully/)

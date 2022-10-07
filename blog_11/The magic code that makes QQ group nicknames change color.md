@@ -1,0 +1,2 @@
+# The magic code that makes QQ group nicknames change color
+[The magic code that makes QQ group nicknames change color](https://aiwithcloud.com/2022/09/19/the_magic_code_that_makes_qq_group_nicknames_change_color/)

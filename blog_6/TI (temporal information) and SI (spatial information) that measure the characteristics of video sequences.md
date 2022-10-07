@@ -1,0 +1,2 @@
+# TI (temporal information) and SI (spatial information) that measure the characteristics of video sequences
+[TI (temporal information) and SI (spatial information) that measure the characteristics of video sequences](https://aiwithcloud.com/2022/09/16/ti_temporal_information_and_si_spatial_information_that_measure_the_characteristics_of_video_sequences/)

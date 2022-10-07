@@ -1,0 +1,2 @@
+# Touch screen porting and Qt4.6.2 porting based on beagleboard-xm
+[Touch screen porting and Qt4.6.2 porting based on beagleboard-xm](https://aiwithcloud.com/2022/09/16/touch_screen_porting_and_qt4-6-2_porting_based_on_beagleboard_xm/)

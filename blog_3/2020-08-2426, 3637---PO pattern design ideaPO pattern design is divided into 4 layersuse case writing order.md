@@ -1,0 +1,2 @@
+# 2020-08-2426, 3637---PO pattern design ideaPO pattern design is divided into 4 layersuse case writing order
+[2020-08-2426, 3637---PO pattern design ideaPO pattern design is divided into 4 layersuse case writing order](https://aiwithcloud.com/2022/09/15/2020_08_2426_3637___po_pattern_design_ideapo_pattern_design_is_divided_into_4_layersuse_case_writing_order/)

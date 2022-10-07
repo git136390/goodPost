@@ -1,0 +1,2 @@
+# Java's dynamic website of community epidemic data based on springboot+vue
+[Java's dynamic website of community epidemic data based on springboot+vue](https://aiwithcloud.com/2022/09/15/javas_dynamic_website_of_community_epidemic_data_based_on_springbootvue/)

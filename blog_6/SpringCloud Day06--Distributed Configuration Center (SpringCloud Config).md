@@ -1,0 +1,2 @@
+# SpringCloud Day06--Distributed Configuration Center (SpringCloud Config)
+[SpringCloud Day06--Distributed Configuration Center (SpringCloud Config)](https://aiwithcloud.com/2022/09/16/springcloud_day06__distributed_configuration_center_springcloud_config/)

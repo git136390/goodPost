@@ -1,0 +1,2 @@
+# EDA Experiment Digital Frequency Meter (FREQ) Design (VHDL)
+[EDA Experiment Digital Frequency Meter (FREQ) Design (VHDL)](https://aiwithcloud.com/2022/09/19/eda_experiment_digital_frequency_meter_freq_design_vhdl/)

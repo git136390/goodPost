@@ -1,0 +1,2 @@
+# The creation type of Java design pattern detailed explanation of factory pattern (simple factory + factory method + abstract factory)
+[The creation type of Java design pattern detailed explanation of factory pattern (simple factory + factory method + abstract factory)](https://aiwithcloud.com/2022/09/16/the_creation_type_of_java_design_pattern_detailed_explanation_of_factory_pattern_simple_factory__factory_method__abstract_factory/)

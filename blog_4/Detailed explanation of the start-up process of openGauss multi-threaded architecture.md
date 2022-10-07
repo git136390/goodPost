@@ -1,0 +1,2 @@
+# Detailed explanation of the start-up process of openGauss multi-threaded architecture
+[Detailed explanation of the start-up process of openGauss multi-threaded architecture](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_start_up_process_of_opengauss_multi_threaded_architecture/)

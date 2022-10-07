@@ -1,0 +1,2 @@
+# Front-end naming conventions and common naming arrangements
+[Front-end naming conventions and common naming arrangements](https://aiwithcloud.com/2022/09/19/front_end_naming_conventions_and_common_naming_arrangements/)

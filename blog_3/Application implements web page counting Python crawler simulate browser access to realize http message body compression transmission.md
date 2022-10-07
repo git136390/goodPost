@@ -1,0 +1,2 @@
+# Application implements web page counting Python crawler simulate browser access to realize http message body compression transmission
+[Application implements web page counting Python crawler simulate browser access to realize http message body compression transmission](https://aiwithcloud.com/2022/09/15/application_implements_web_page_counting_python_crawler_simulate_browser_access_to_realize_http_message_body_compression_transmission/)

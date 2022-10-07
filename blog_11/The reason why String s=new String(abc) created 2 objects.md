@@ -1,0 +1,2 @@
+# The reason why String s=new String(abc) created 2 objects
+[The reason why String s=new String(abc) created 2 objects](https://aiwithcloud.com/2022/09/19/the_reason_why_string_snew_stringabc_created_2_objects/)

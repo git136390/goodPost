@@ -1,0 +1,2 @@
+# STM32CUBEMX configuration tutorial (3) General GPIO configuration
+[STM32CUBEMX configuration tutorial (3) General GPIO configuration](https://aiwithcloud.com/2022/09/15/stm32cubemx_configuration_tutorial_3_general_gpio_configuration/)

@@ -1,0 +1,2 @@
+# QT Click the button to change the text in the input box to display the enhanced version
+[QT Click the button to change the text in the input box to display the enhanced version](https://aiwithcloud.com/2022/09/19/qt_click_the_button_to_change_the_text_in_the_input_box_to_display_the_enhanced_version/)

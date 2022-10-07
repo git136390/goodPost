@@ -1,0 +1,2 @@
+# The optimal implementation of java prime number output (multiple methods)
+[The optimal implementation of java prime number output (multiple methods)](https://aiwithcloud.com/2022/09/16/the_optimal_implementation_of_java_prime_number_output_multiple_methods/)

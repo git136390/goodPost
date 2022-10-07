@@ -1,0 +1,2 @@
+# Java splits a string according to a specific character (truncation starts with  and ends with )
+[Java splits a string according to a specific character (truncation starts with  and ends with )](https://aiwithcloud.com/2022/09/19/java_splits_a_string_according_to_a_specific_character_truncation_starts_with__and_ends_with_/)

@@ -1,0 +1,2 @@
+# Mathematical modeling - BP neural network model Python code
+[Mathematical modeling - BP neural network model Python code](https://aiwithcloud.com/2022/09/19/mathematical_modeling___bp_neural_network_model_python_code/)

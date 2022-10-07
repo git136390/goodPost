@@ -1,0 +1,2 @@
+# 【MPC5744P】S32DS pit reports an error, RTOS cannot be started, and the clock source is faulty
+[【MPC5744P】S32DS pit reports an error, RTOS cannot be started, and the clock source is faulty](https://aiwithcloud.com/2022/09/15/%e3%80%90mpc5744p%e3%80%91s32ds_pit_reports_an_error_rtos_cannot_be_started_and_the_clock_source_is_faulty/)

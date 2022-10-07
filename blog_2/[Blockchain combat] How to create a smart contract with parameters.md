@@ -1,0 +1,2 @@
+# [Blockchain combat] How to create a smart contract with parameters
+[[Blockchain combat] How to create a smart contract with parameters](https://aiwithcloud.com/2022/09/15/blockchain_combat_how_to_create_a_smart_contract_with_parameters/)

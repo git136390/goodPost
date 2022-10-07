@@ -1,0 +1,2 @@
+# Mathematical modeling commonly used algorithm - Dijkstra algorithm to find the shortest path (Dijkstra)
+[Mathematical modeling commonly used algorithm - Dijkstra algorithm to find the shortest path (Dijkstra)](https://aiwithcloud.com/2022/09/15/mathematical_modeling_commonly_used_algorithm___dijkstra_algorithm_to_find_the_shortest_path_dijkstra/)

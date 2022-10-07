@@ -1,0 +1,2 @@
+# [Kubernetes series] K8s actual container and Pods resource allocation
+[[Kubernetes series] K8s actual container and Pods resource allocation](https://aiwithcloud.com/2022/09/16/kubernetes_series_k8s_actual_container_and_pods_resource_allocation/)

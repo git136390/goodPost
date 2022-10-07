@@ -1,0 +1,2 @@
+# Two ways to deploy war package in tomcat container under docker
+[Two ways to deploy war package in tomcat container under docker](https://aiwithcloud.com/2022/09/19/two_ways_to_deploy_war_package_in_tomcat_container_under_docker/)

@@ -1,0 +1,2 @@
+# When I wrote a thunder fighter in python for my cousin
+[When I wrote a thunder fighter in python for my cousin](https://aiwithcloud.com/2022/09/19/when_i_wrote_a_thunder_fighter_in_python_for_my_cousin/)

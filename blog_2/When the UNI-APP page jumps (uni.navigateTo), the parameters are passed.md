@@ -1,0 +1,2 @@
+# When the UNI-APP page jumps (uni.navigateTo), the parameters are passed
+[When the UNI-APP page jumps (uni.navigateTo), the parameters are passed](https://aiwithcloud.com/2022/09/15/when_the_uni_app_page_jumps_uni-navigateto_the_parameters_are_passed/)

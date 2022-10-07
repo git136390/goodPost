@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.19 Depth-first search, backtracking to solve practical problems
+[[Algorithm brushing]—7.19 Depth-first search, backtracking to solve practical problems](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-19_depth_first_search_backtracking_to_solve_practical_problems/)

@@ -1,0 +1,2 @@
+# Surpass Day23 - Java Map interface, HashMap interface, HashCode collection, Properties class, TreeSet collection
+[Surpass Day23 - Java Map interface, HashMap interface, HashCode collection, Properties class, TreeSet collection](https://aiwithcloud.com/2022/09/19/surpass_day23___java_map_interface_hashmap_interface_hashcode_collection_properties_class_treeset_collection/)

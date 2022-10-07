@@ -1,0 +1,2 @@
+# LeetCode brush questions record - question 707 (design linked list)
+[LeetCode brush questions record - question 707 (design linked list)](https://aiwithcloud.com/2022/09/19/leetcode_brush_questions_record___question_707_design_linked_list/)

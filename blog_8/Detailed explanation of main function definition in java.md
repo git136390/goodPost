@@ -1,0 +1,2 @@
+# Detailed explanation of main function definition in java
+[Detailed explanation of main function definition in java](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_main_function_definition_in_java/)

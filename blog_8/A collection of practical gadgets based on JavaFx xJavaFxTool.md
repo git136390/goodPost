@@ -1,0 +1,2 @@
+# A collection of practical gadgets based on JavaFx xJavaFxTool
+[A collection of practical gadgets based on JavaFx xJavaFxTool](https://aiwithcloud.com/2022/09/19/a_collection_of_practical_gadgets_based_on_javafx_xjavafxtool/)

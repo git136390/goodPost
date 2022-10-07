@@ -1,0 +1,2 @@
+# Build a face dataset using opencv and built-in camera
+[Build a face dataset using opencv and built-in camera](https://aiwithcloud.com/2022/09/15/build_a_face_dataset_using_opencv_and_built_in_camera/)

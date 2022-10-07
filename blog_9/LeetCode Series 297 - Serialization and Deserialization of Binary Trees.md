@@ -1,0 +1,2 @@
+# LeetCode Series 297 - Serialization and Deserialization of Binary Trees
+[LeetCode Series 297 - Serialization and Deserialization of Binary Trees](https://aiwithcloud.com/2022/09/19/leetcode_series_297___serialization_and_deserialization_of_binary_trees/)

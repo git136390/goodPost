@@ -1,0 +1,2 @@
+# The second lecture of SQL introduction - the use of IF function
+[The second lecture of SQL introduction - the use of IF function](https://aiwithcloud.com/2022/09/15/the_second_lecture_of_sql_introduction___the_use_of_if_function/)

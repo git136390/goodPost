@@ -1,0 +1,2 @@
+# C++1114 New Features Interpretation Second Explicit Keyword
+[C++1114 New Features Interpretation Second Explicit Keyword](https://aiwithcloud.com/2022/09/15/c1114_new_features_interpretation_second_explicit_keyword/)

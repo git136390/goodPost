@@ -1,0 +1,2 @@
+# Error 500 Internal Privoxy Error when accessing the URL
+[Error 500 Internal Privoxy Error when accessing the URL](https://aiwithcloud.com/2022/09/14/error_500_internal_privoxy_error_when_accessing_the_url/)

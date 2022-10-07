@@ -1,0 +1,2 @@
+# Parameter configuration for connecting to mysql database
+[Parameter configuration for connecting to mysql database](https://aiwithcloud.com/2022/09/19/parameter_configuration_for_connecting_to_mysql_database/)

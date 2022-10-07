@@ -1,0 +1,2 @@
+# Twenty-one, Python function small homework - password strength detection
+[Twenty-one, Python function small homework - password strength detection](https://aiwithcloud.com/2022/09/16/twenty_one_python_function_small_homework___password_strength_detection/)

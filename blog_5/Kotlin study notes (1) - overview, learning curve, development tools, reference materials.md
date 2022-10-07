@@ -1,0 +1,2 @@
+# Kotlin study notes (1) - overview, learning curve, development tools, reference materials
+[Kotlin study notes (1) - overview, learning curve, development tools, reference materials](https://aiwithcloud.com/2022/09/16/kotlin_study_notes_1___overview_learning_curve_development_tools_reference_materials/)

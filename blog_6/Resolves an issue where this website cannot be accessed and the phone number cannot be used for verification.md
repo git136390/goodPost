@@ -1,0 +1,2 @@
+# Resolves an issue where this website cannot be accessed and the phone number cannot be used for verification
+[Resolves an issue where this website cannot be accessed and the phone number cannot be used for verification](https://aiwithcloud.com/2022/09/16/resolves_an_issue_where_this_website_cannot_be_accessed_and_the_phone_number_cannot_be_used_for_verification/)

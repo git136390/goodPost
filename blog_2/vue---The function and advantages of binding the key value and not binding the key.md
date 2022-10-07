@@ -1,0 +1,2 @@
+# vue---The function and advantages of binding the key value and not binding the key
+[vue---The function and advantages of binding the key value and not binding the key](https://aiwithcloud.com/2022/09/15/vue___the_function_and_advantages_of_binding_the_key_value_and_not_binding_the_key/)

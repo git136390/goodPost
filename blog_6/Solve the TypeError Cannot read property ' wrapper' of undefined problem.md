@@ -1,0 +1,2 @@
+# Solve the TypeError Cannot read property ' wrapper' of undefined problem
+[Solve the TypeError Cannot read property ' wrapper' of undefined problem](https://aiwithcloud.com/2022/09/16/solve_the_typeerror_cannot_read_property__wrapper_of_undefined_problem/)

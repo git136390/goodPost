@@ -1,0 +1,2 @@
+# Error notes java.lang.StackOverflowError java.lang.ExceptionInInitializerError Java singleton mode error notes
+[Error notes java.lang.StackOverflowError java.lang.ExceptionInInitializerError Java singleton mode error notes](https://aiwithcloud.com/2022/09/15/error_notes_java-lang-stackoverflowerror_java-lang-exceptionininitializererror_java_singleton_mode_error_notes/)

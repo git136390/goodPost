@@ -1,0 +1,2 @@
+# MySQL multi-table association one-to-many query to get the latest data
+[MySQL multi-table association one-to-many query to get the latest data](https://aiwithcloud.com/2022/09/15/mysql_multi_table_association_one_to_many_query_to_get_the_latest_data/)

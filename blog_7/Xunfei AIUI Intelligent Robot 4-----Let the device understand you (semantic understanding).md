@@ -1,0 +1,2 @@
+# Xunfei AIUI Intelligent Robot 4-----Let the device understand you (semantic understanding)
+[Xunfei AIUI Intelligent Robot 4-----Let the device understand you (semantic understanding)](https://aiwithcloud.com/2022/09/16/xunfei_aiui_intelligent_robot_4_____let_the_device_understand_you_semantic_understanding/)

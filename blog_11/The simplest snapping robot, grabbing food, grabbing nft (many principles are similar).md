@@ -1,0 +1,2 @@
+# The simplest snapping robot, grabbing food, grabbing nft (many principles are similar)
+[The simplest snapping robot, grabbing food, grabbing nft (many principles are similar)](https://aiwithcloud.com/2022/09/19/the_simplest_snapping_robot_grabbing_food_grabbing_nft_many_principles_are_similar/)

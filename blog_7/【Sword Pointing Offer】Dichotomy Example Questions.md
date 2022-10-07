@@ -1,0 +1,2 @@
+# 【Sword Pointing Offer】Dichotomy Example Questions
+[【Sword Pointing Offer】Dichotomy Example Questions](https://aiwithcloud.com/2022/09/16/%e3%80%90sword_pointing_offer%e3%80%91dichotomy_example_questions/)

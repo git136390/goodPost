@@ -1,0 +1,2 @@
+# The OpenHarmony warehouse is organized and you can specify the system type to download the corresponding code
+[The OpenHarmony warehouse is organized and you can specify the system type to download the corresponding code](https://aiwithcloud.com/2022/09/15/the_openharmony_warehouse_is_organized_and_you_can_specify_the_system_type_to_download_the_corresponding_code/)

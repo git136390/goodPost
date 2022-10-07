@@ -1,0 +1,2 @@
+# When there is no data in the templet in the table in layui, '--' replaces
+[When there is no data in the templet in the table in layui, '--' replaces](https://aiwithcloud.com/2022/09/15/when_there_is_no_data_in_the_templet_in_the_table_in_layui____replaces/)

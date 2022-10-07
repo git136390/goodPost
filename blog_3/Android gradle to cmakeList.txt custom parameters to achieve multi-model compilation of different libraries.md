@@ -1,0 +1,2 @@
+# Android gradle to cmakeList.txt custom parameters to achieve multi-model compilation of different libraries
+[Android gradle to cmakeList.txt custom parameters to achieve multi-model compilation of different libraries](https://aiwithcloud.com/2022/09/15/android_gradle_to_cmakelist-txt_custom_parameters_to_achieve_multi_model_compilation_of_different_libraries/)

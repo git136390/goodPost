@@ -1,0 +1,2 @@
+# C++ inheritance - private inheritance derived class uses base class member functions
+[C++ inheritance - private inheritance derived class uses base class member functions](https://aiwithcloud.com/2022/09/15/c_inheritance___private_inheritance_derived_class_uses_base_class_member_functions/)

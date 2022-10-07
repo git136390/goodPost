@@ -1,0 +1,2 @@
+# [Machine Learning] Talking about Normal Equation Method & Gradient Descent
+[[Machine Learning] Talking about Normal Equation Method & Gradient Descent](https://aiwithcloud.com/2022/09/16/machine_learning_talking_about_normal_equation_method__gradient_descent/)

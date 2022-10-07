@@ -1,0 +1,2 @@
+# The leetcode sword refers to offer II008 and the shortest subarray greater than or equal to target
+[The leetcode sword refers to offer II008 and the shortest subarray greater than or equal to target](https://aiwithcloud.com/2022/09/16/the_leetcode_sword_refers_to_offer_ii008_and_the_shortest_subarray_greater_than_or_equal_to_target/)

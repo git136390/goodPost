@@ -1,0 +1,2 @@
+# Basic Programming Topic Set 7-2 Then What Time (15 points)
+[Basic Programming Topic Set 7-2 Then What Time (15 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topic_set_7_2_then_what_time_15_points/)

@@ -1,0 +1,2 @@
+# The control algorithm of the balance car (PID, LQR, MPC) and the arduino program navigation sticker
+[The control algorithm of the balance car (PID, LQR, MPC) and the arduino program navigation sticker](https://aiwithcloud.com/2022/09/19/the_control_algorithm_of_the_balance_car_pid_lqr_mpc_and_the_arduino_program_navigation_sticker/)

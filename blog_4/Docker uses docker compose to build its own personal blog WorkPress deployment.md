@@ -1,0 +1,2 @@
+# Docker uses docker compose to build its own personal blog WorkPress deployment
+[Docker uses docker compose to build its own personal blog WorkPress deployment](https://aiwithcloud.com/2022/09/15/docker_uses_docker_compose_to_build_its_own_personal_blog_workpress_deployment/)

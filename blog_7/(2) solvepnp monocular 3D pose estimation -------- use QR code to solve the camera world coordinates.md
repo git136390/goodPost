@@ -1,0 +1,2 @@
+# (2) solvepnp monocular 3D pose estimation -------- use QR code to solve the camera world coordinates
+[(2) solvepnp monocular 3D pose estimation -------- use QR code to solve the camera world coordinates](https://aiwithcloud.com/2022/09/19/2_solvepnp_monocular_3d_pose_estimation__________use_qr_code_to_solve_the_camera_world_coordinates/)

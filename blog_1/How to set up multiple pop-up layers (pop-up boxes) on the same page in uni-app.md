@@ -1,0 +1,2 @@
+# How to set up multiple pop-up layers (pop-up boxes) on the same page in uni-app
+[How to set up multiple pop-up layers (pop-up boxes) on the same page in uni-app](https://aiwithcloud.com/2022/09/15/how_to_set_up_multiple_pop_up_layers_pop_up_boxes_on_the_same_page_in_uni_app/)

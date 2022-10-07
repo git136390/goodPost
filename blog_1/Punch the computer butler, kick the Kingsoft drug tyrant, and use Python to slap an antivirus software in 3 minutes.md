@@ -1,0 +1,2 @@
+# Punch the computer butler, kick the Kingsoft drug tyrant, and use Python to slap an antivirus software in 3 minutes
+[Punch the computer butler, kick the Kingsoft drug tyrant, and use Python to slap an antivirus software in 3 minutes](https://aiwithcloud.com/2022/09/15/punch_the_computer_butler_kick_the_kingsoft_drug_tyrant_and_use_python_to_slap_an_antivirus_software_in_3_minutes/)

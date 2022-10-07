@@ -1,0 +1,2 @@
+# Mobaihe CM201-1 line machine tutorial to save bricks (can be used in most cases)
+[Mobaihe CM201-1 line machine tutorial to save bricks (can be used in most cases)](https://aiwithcloud.com/2022/09/19/mobaihe_cm201_1_line_machine_tutorial_to_save_bricks_can_be_used_in_most_cases/)

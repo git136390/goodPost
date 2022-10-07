@@ -1,0 +1,2 @@
+# LeetCode 1716 calculation force to deduct bank money (java)
+[LeetCode 1716 calculation force to deduct bank money (java)](https://aiwithcloud.com/2022/09/16/leetcode_1716_calculation_force_to_deduct_bank_money_java/)

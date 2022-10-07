@@ -1,0 +1,2 @@
+# python object oriented programming practice processing
+[python object oriented programming practice processing](https://aiwithcloud.com/2022/09/16/python_object_oriented_programming_practice_processing/)

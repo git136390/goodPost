@@ -1,0 +1,2 @@
+# QtCreator plug-in development (5) - QtCreator navigator example
+[QtCreator plug-in development (5) - QtCreator navigator example](https://aiwithcloud.com/2022/09/19/qtcreator_plug_in_development_5___qtcreator_navigator_example/)

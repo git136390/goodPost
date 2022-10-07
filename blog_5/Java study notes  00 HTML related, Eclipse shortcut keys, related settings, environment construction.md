@@ -1,0 +1,2 @@
+# Java study notes  00 HTML related, Eclipse shortcut keys, related settings, environment construction
+[Java study notes  00 HTML related, Eclipse shortcut keys, related settings, environment construction](https://aiwithcloud.com/2022/09/16/java_study_notes__00_html_related_eclipse_shortcut_keys_related_settings_environment_construction/)

@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] —— 5. The key with the longest key duration
+[[Blue Bridge Java daily practice] —— 5. The key with the longest key duration](https://aiwithcloud.com/2022/09/15/blue_bridge_java_daily_practice_-_5-_the_key_with_the_longest_key_duration/)

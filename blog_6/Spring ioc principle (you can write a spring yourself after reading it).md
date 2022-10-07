@@ -1,0 +1,2 @@
+# Spring ioc principle (you can write a spring yourself after reading it)
+[Spring ioc principle (you can write a spring yourself after reading it)](https://aiwithcloud.com/2022/09/16/spring_ioc_principle_you_can_write_a_spring_yourself_after_reading_it/)

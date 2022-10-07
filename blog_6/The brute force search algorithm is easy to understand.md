@@ -1,0 +1,2 @@
+# The brute force search algorithm is easy to understand
+[The brute force search algorithm is easy to understand](https://aiwithcloud.com/2022/09/16/the_brute_force_search_algorithm_is_easy_to_understand/)

@@ -1,0 +1,2 @@
+# The senior told me that the MySQL of the big factory is connected through SSH
+[The senior told me that the MySQL of the big factory is connected through SSH](https://aiwithcloud.com/2022/09/16/the_senior_told_me_that_the_mysql_of_the_big_factory_is_connected_through_ssh/)

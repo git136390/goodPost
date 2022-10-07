@@ -1,0 +1,2 @@
+# Import Google, Bing, AutoNavi and other maps and satellite images into QGIS
+[Import Google, Bing, AutoNavi and other maps and satellite images into QGIS](https://aiwithcloud.com/2022/09/15/import_google_bing_autonavi_and_other_maps_and_satellite_images_into_qgis/)

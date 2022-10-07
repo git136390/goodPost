@@ -1,0 +1,2 @@
+# Deep profiling data storage in memory - shaped storage
+[Deep profiling data storage in memory - shaped storage](https://aiwithcloud.com/2022/09/14/deep_profiling_data_storage_in_memory___shaped_storage/)

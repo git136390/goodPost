@@ -1,0 +1,2 @@
+# Based on the local, linking the world  Schneider Electric Industrial SI Alliance joins hands with partners to go to the future industry
+[Based on the local, linking the world  Schneider Electric Industrial SI Alliance joins hands with partners to go to the future industry](https://aiwithcloud.com/2022/09/15/based_on_the_local_linking_the_world__schneider_electric_industrial_si_alliance_joins_hands_with_partners_to_go_to_the_future_industry/)

@@ -1,0 +1,2 @@
+# Re-recognize keyboard and mouse - keyboard events and mouse events
+[Re-recognize keyboard and mouse - keyboard events and mouse events](https://aiwithcloud.com/2022/09/19/re_recognize_keyboard_and_mouse___keyboard_events_and_mouse_events/)

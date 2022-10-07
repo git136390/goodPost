@@ -1,0 +1,2 @@
+# SQL Daily Practice (Nioke New Question Bank) - Day 1 Basic Query
+[SQL Daily Practice (Nioke New Question Bank) - Day 1 Basic Query](https://aiwithcloud.com/2022/09/19/sql_daily_practice_nioke_new_question_bank___day_1_basic_query/)

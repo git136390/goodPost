@@ -1,0 +1,2 @@
+# Python Daily Practice (New Question Bank of Niu Ke) - Day 15 Dictionary and Function Practice
+[Python Daily Practice (New Question Bank of Niu Ke) - Day 15 Dictionary and Function Practice](https://aiwithcloud.com/2022/09/19/python_daily_practice_new_question_bank_of_niu_ke___day_15_dictionary_and_function_practice/)

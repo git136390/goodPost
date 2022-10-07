@@ -1,0 +1,2 @@
+# LeetCode 1700 Number of students unable to eat lunch (java))
+[LeetCode 1700 Number of students unable to eat lunch (java))](https://aiwithcloud.com/2022/09/16/leetcode_1700_number_of_students_unable_to_eat_lunch_java/)

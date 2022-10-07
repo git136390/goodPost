@@ -1,0 +1,2 @@
+# Zotero 6.0 new version function introduction (2) - combined with ipad (ios) for literature reading
+[Zotero 6.0 new version function introduction (2) - combined with ipad (ios) for literature reading](https://aiwithcloud.com/2022/09/15/zotero_6-0_new_version_function_introduction_2___combined_with_ipad_ios_for_literature_reading/)

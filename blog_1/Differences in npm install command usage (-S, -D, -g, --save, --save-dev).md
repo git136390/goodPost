@@ -1,0 +1,2 @@
+# Differences in npm install command usage (-S, -D, -g, --save, --save-dev)
+[Differences in npm install command usage (-S, -D, -g, --save, --save-dev)](https://aiwithcloud.com/2022/09/14/differences_in_npm_install_command_usage__s__d__g___save___save_dev/)

@@ -1,0 +1,2 @@
+# keepalived+Nginx high availability cluster deployment (master-slave hot standby mode)
+[keepalived+Nginx high availability cluster deployment (master-slave hot standby mode)](https://aiwithcloud.com/2022/09/16/keepalivednginx_high_availability_cluster_deployment_master_slave_hot_standby_mode/)

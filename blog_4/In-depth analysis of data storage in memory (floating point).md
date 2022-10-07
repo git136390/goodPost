@@ -1,0 +1,2 @@
+# In-depth analysis of data storage in memory (floating point)
+[In-depth analysis of data storage in memory (floating point)](https://aiwithcloud.com/2022/09/15/in_depth_analysis_of_data_storage_in_memory_floating_point/)

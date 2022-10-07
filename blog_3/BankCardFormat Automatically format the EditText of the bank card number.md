@@ -1,0 +1,2 @@
+# BankCardFormat Automatically format the EditText of the bank card number
+[BankCardFormat Automatically format the EditText of the bank card number](https://aiwithcloud.com/2022/09/15/bankcardformat_automatically_format_the_edittext_of_the_bank_card_number/)

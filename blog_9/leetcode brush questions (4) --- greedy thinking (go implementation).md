@@ -1,0 +1,2 @@
+# leetcode brush questions (4) --- greedy thinking (go implementation)
+[leetcode brush questions (4) --- greedy thinking (go implementation)](https://aiwithcloud.com/2022/09/19/leetcode_brush_questions_4_____greedy_thinking_go_implementation/)

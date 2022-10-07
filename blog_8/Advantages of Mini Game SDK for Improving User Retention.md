@@ -1,0 +1,2 @@
+# Advantages of Mini Game SDK for Improving User Retention
+[Advantages of Mini Game SDK for Improving User Retention](https://aiwithcloud.com/2022/09/19/advantages_of_mini_game_sdk_for_improving_user_retention/)

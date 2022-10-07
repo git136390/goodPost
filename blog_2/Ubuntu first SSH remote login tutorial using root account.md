@@ -1,0 +1,2 @@
+# Ubuntu first SSH remote login tutorial using root account
+[Ubuntu first SSH remote login tutorial using root account](https://aiwithcloud.com/2022/09/15/ubuntu_first_ssh_remote_login_tutorial_using_root_account/)

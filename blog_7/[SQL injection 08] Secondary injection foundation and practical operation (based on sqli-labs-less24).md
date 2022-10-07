@@ -1,0 +1,2 @@
+# [SQL injection 08] Secondary injection foundation and practical operation (based on sqli-labs-less24)
+[[SQL injection 08] Secondary injection foundation and practical operation (based on sqli-labs-less24)](https://aiwithcloud.com/2022/09/16/sql_injection_08_secondary_injection_foundation_and_practical_operation_based_on_sqli_labs_less24/)

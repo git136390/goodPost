@@ -1,0 +1,2 @@
+# OpenCV computer image processing - convexity defect + point polygon test + shape matching + contour layering and cv.findContours()
+[OpenCV computer image processing - convexity defect + point polygon test + shape matching + contour layering and cv.findContours()](https://aiwithcloud.com/2022/09/16/opencv_computer_image_processing___convexity_defect__point_polygon_test__shape_matching__contour_layering_and_cv-findcontours/)

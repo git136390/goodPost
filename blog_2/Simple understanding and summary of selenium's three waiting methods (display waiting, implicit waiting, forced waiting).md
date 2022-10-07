@@ -1,0 +1,2 @@
+# Simple understanding and summary of selenium's three waiting methods (display waiting, implicit waiting, forced waiting)
+[Simple understanding and summary of selenium's three waiting methods (display waiting, implicit waiting, forced waiting)](https://aiwithcloud.com/2022/09/15/simple_understanding_and_summary_of_seleniums_three_waiting_methods_display_waiting_implicit_waiting_forced_waiting/)

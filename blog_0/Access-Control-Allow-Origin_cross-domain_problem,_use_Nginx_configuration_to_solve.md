@@ -1,0 +1,2 @@
+# Access-Control-Allow-Origin_cross-domain_problem,_use_Nginx_configuration_to_solve
+[Access-Control-Allow-Origin_cross-domain_problem,_use_Nginx_configuration_to_solve](https://aiwithcloud.com/2022/09/14/access_control_allow_origin_cross_domain_problem_use_nginx_configuration_to_solve/)

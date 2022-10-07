@@ -1,0 +1,2 @@
+# Linux nine Kernel construction process, Image introduction, Image usage instructions
+[Linux nine Kernel construction process, Image introduction, Image usage instructions](https://aiwithcloud.com/2022/09/16/linux_nine_kernel_construction_process_image_introduction_image_usage_instructions/)

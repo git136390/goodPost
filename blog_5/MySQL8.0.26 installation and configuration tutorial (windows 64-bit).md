@@ -1,0 +1,2 @@
+# MySQL8.0.26 installation and configuration tutorial (windows 64-bit)
+[MySQL8.0.26 installation and configuration tutorial (windows 64-bit)](https://aiwithcloud.com/2022/09/16/mysql8-0-26_installation_and_configuration_tutorial_windows_64_bit/)

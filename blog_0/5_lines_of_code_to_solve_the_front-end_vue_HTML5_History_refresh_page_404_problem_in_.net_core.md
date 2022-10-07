@@ -1,0 +1,2 @@
+# 5_lines_of_code_to_solve_the_front-end_vue_HTML5_History_refresh_page_404_problem_in_.net_core
+[5_lines_of_code_to_solve_the_front-end_vue_HTML5_History_refresh_page_404_problem_in_.net_core](https://aiwithcloud.com/2022/09/14/5_lines_of_code_to_solve_the_front_end_vue_html5_history_refresh_page_404_problem_in_-net_core/)

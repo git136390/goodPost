@@ -1,0 +1,2 @@
+# 【MPC5744P】S32DS can't continue to download the program after burning to 98%
+[【MPC5744P】S32DS can't continue to download the program after burning to 98%](https://aiwithcloud.com/2022/09/15/%e3%80%90mpc5744p%e3%80%91s32ds_cant_continue_to_download_the_program_after_burning_to_98/)

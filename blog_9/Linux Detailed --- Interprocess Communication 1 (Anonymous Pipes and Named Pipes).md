@@ -1,0 +1,2 @@
+# Linux Detailed --- Interprocess Communication 1 (Anonymous Pipes and Named Pipes)
+[Linux Detailed --- Interprocess Communication 1 (Anonymous Pipes and Named Pipes)](https://aiwithcloud.com/2022/09/19/linux_detailed_____interprocess_communication_1_anonymous_pipes_and_named_pipes/)

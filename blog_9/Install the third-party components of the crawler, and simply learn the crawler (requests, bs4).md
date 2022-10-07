@@ -1,0 +1,2 @@
+# Install the third-party components of the crawler, and simply learn the crawler (requests, bs4)
+[Install the third-party components of the crawler, and simply learn the crawler (requests, bs4)](https://aiwithcloud.com/2022/09/19/install_the_third_party_components_of_the_crawler_and_simply_learn_the_crawler_requests_bs4/)

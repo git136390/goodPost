@@ -1,0 +1,2 @@
+# Custom type conversion in SpringBoot (Take LocalDateTime as an example)
+[Custom type conversion in SpringBoot (Take LocalDateTime as an example)](https://aiwithcloud.com/2022/09/19/custom_type_conversion_in_springboot_take_localdatetime_as_an_example/)

@@ -1,0 +1,2 @@
+# JavaScript learning summarizes the use of strings in the basics
+[JavaScript learning summarizes the use of strings in the basics](https://aiwithcloud.com/2022/09/16/javascript_learning_summarizes_the_use_of_strings_in_the_basics/)

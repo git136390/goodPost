@@ -1,0 +1,2 @@
+# Spring interceptor gets the json data in the request body and converts it into a Java object solution
+[Spring interceptor gets the json data in the request body and converts it into a Java object solution](https://aiwithcloud.com/2022/09/15/spring_interceptor_gets_the_json_data_in_the_request_body_and_converts_it_into_a_java_object_solution/)

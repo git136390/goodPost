@@ -1,0 +1,2 @@
+# Simple implementation ideas and cases of class decorators
+[Simple implementation ideas and cases of class decorators](https://aiwithcloud.com/2022/09/15/simple_implementation_ideas_and_cases_of_class_decorators/)

@@ -1,0 +1,2 @@
+# Error using HikariPool in SpringCloud Possibly consider using a shorter maxLifetime value
+[Error using HikariPool in SpringCloud Possibly consider using a shorter maxLifetime value](https://aiwithcloud.com/2022/09/19/error_using_hikaripool_in_springcloud_possibly_consider_using_a_shorter_maxlifetime_value/)

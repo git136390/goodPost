@@ -1,0 +1,2 @@
+# Class attributes and methods should be divided into two classes or stored in one class
+[Class attributes and methods should be divided into two classes or stored in one class](https://aiwithcloud.com/2022/09/15/class_attributes_and_methods_should_be_divided_into_two_classes_or_stored_in_one_class/)

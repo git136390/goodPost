@@ -1,0 +1,2 @@
+# iOS reverse programming (20) class-dump installation and use (how to export the APP header file process)
+[iOS reverse programming (20) class-dump installation and use (how to export the APP header file process)](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_20_class_dump_installation_and_use_how_to_export_the_app_header_file_process/)

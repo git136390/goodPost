@@ -1,0 +1,2 @@
+# MySQL8.0.25 installation and configuration tutorial (windows 64-bit) is the most detailed
+[MySQL8.0.25 installation and configuration tutorial (windows 64-bit) is the most detailed](https://aiwithcloud.com/2022/09/19/mysql8-0-25_installation_and_configuration_tutorial_windows_64_bit_is_the_most_detailed/)

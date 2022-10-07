@@ -1,0 +1,2 @@
+# Selenium+Java gets the number of specified elements in the page
+[Selenium+Java gets the number of specified elements in the page](https://aiwithcloud.com/2022/09/15/seleniumjava_gets_the_number_of_specified_elements_in_the_page/)

@@ -1,0 +1,2 @@
+# Getting Started with Cmake (1) Basic Compilation Commands
+[Getting Started with Cmake (1) Basic Compilation Commands](https://aiwithcloud.com/2022/09/15/getting_started_with_cmake_1_basic_compilation_commands/)

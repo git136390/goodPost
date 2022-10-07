@@ -1,0 +1,2 @@
+# Android_Studio_connects_to_Huawei_Matepad_harmonyOS_real_machine_debugging
+[Android_Studio_connects_to_Huawei_Matepad_harmonyOS_real_machine_debugging](https://aiwithcloud.com/2022/09/14/android_studio_connects_to_huawei_matepad_harmonyos_real_machine_debugging/)

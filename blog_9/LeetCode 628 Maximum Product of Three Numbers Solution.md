@@ -1,0 +1,2 @@
+# LeetCode 628 Maximum Product of Three Numbers Solution
+[LeetCode 628 Maximum Product of Three Numbers Solution](https://aiwithcloud.com/2022/09/19/leetcode_628_maximum_product_of_three_numbers_solution/)

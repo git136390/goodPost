@@ -1,0 +1,2 @@
+# (detailed + example) JDK8 new feature 2 simple example of foreach, sorting, thread calling
+[(detailed + example) JDK8 new feature 2 simple example of foreach, sorting, thread calling](https://aiwithcloud.com/2022/09/15/detailed__example_jdk8_new_feature_2_simple_example_of_foreach_sorting_thread_calling/)

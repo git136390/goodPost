@@ -1,0 +1,2 @@
+# ElasticSearch geolocation search----how to use Geo-shape  geo shape
+[ElasticSearch geolocation search----how to use Geo-shape  geo shape](https://aiwithcloud.com/2022/09/19/elasticsearch_geolocation_search____how_to_use_geo_shape__geo_shape/)

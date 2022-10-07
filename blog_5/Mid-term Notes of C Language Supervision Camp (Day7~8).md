@@ -1,0 +1,2 @@
+# Mid-term Notes of C Language Supervision Camp (Day7~8)
+[Mid-term Notes of C Language Supervision Camp (Day7~8)](https://aiwithcloud.com/2022/09/16/mid_term_notes_of_c_language_supervision_camp_day78/)

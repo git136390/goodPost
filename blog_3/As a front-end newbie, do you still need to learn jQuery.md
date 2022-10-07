@@ -1,0 +1,2 @@
+# As a front-end newbie, do you still need to learn jQuery
+[As a front-end newbie, do you still need to learn jQuery](https://aiwithcloud.com/2022/09/15/as_a_front_end_newbie_do_you_still_need_to_learn_jquery/)

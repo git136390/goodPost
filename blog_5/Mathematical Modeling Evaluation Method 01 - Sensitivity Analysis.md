@@ -1,0 +1,2 @@
+# Mathematical Modeling Evaluation Method 01 - Sensitivity Analysis
+[Mathematical Modeling Evaluation Method 01 - Sensitivity Analysis](https://aiwithcloud.com/2022/09/16/mathematical_modeling_evaluation_method_01___sensitivity_analysis/)

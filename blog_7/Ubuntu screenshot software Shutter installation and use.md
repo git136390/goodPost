@@ -1,0 +1,2 @@
+# Ubuntu screenshot software Shutter installation and use
+[Ubuntu screenshot software Shutter installation and use](https://aiwithcloud.com/2022/09/16/ubuntu_screenshot_software_shutter_installation_and_use/)

@@ -1,0 +1,2 @@
+# How to use labelme to label semantic segmentation datasets, the most detailed deep learning labeling tutorial
+[How to use labelme to label semantic segmentation datasets, the most detailed deep learning labeling tutorial](https://aiwithcloud.com/2022/09/15/how_to_use_labelme_to_label_semantic_segmentation_datasets_the_most_detailed_deep_learning_labeling_tutorial/)

@@ -1,0 +1,2 @@
+# MySQL constraints, table design, new addition, aggregation query, multi-table query (table addition, deletion, modification and query advanced)
+[MySQL constraints, table design, new addition, aggregation query, multi-table query (table addition, deletion, modification and query advanced)](https://aiwithcloud.com/2022/09/16/mysql_constraints_table_design_new_addition_aggregation_query_multi_table_query_table_addition_deletion_modification_and_query_advanced/)

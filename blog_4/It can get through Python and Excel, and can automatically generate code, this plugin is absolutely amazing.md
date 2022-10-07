@@ -1,0 +1,2 @@
+# It can get through Python and Excel, and can automatically generate code, this plugin is absolutely amazing
+[It can get through Python and Excel, and can automatically generate code, this plugin is absolutely amazing](https://aiwithcloud.com/2022/09/16/it_can_get_through_python_and_excel_and_can_automatically_generate_code_this_plugin_is_absolutely_amazing/)

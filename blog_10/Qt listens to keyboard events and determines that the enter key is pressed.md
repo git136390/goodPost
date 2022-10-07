@@ -1,0 +1,2 @@
+# Qt listens to keyboard events and determines that the enter key is pressed
+[Qt listens to keyboard events and determines that the enter key is pressed](https://aiwithcloud.com/2022/09/19/qt_listens_to_keyboard_events_and_determines_that_the_enter_key_is_pressed/)

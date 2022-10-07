@@ -1,0 +1,2 @@
+# The use of Navicat Premium 15 database - nanny level tutorial
+[The use of Navicat Premium 15 database - nanny level tutorial](https://aiwithcloud.com/2022/09/15/the_use_of_navicat_premium_15_database___nanny_level_tutorial/)

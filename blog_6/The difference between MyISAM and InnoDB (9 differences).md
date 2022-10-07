@@ -1,0 +1,2 @@
+# The difference between MyISAM and InnoDB (9 differences)
+[The difference between MyISAM and InnoDB (9 differences)](https://aiwithcloud.com/2022/09/16/the_difference_between_myisam_and_innodb_9_differences/)

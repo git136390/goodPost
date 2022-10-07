@@ -1,0 +1,2 @@
+# Java gives a sorted integer array and implements binary search
+[Java gives a sorted integer array and implements binary search](https://aiwithcloud.com/2022/09/19/java_gives_a_sorted_integer_array_and_implements_binary_search/)

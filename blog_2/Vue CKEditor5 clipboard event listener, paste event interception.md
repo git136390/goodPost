@@ -1,0 +1,2 @@
+# Vue CKEditor5 clipboard event listener, paste event interception
+[Vue CKEditor5 clipboard event listener, paste event interception](https://aiwithcloud.com/2022/09/15/vue_ckeditor5_clipboard_event_listener_paste_event_interception/)

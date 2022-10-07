@@ -1,0 +1,2 @@
+# Daily learning summary golang(day1)---array, slice, pointer
+[Daily learning summary golang(day1)---array, slice, pointer](https://aiwithcloud.com/2022/09/15/daily_learning_summary_golangday1___array_slice_pointer/)

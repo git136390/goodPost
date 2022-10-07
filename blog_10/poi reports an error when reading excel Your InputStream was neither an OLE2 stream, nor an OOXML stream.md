@@ -1,0 +1,2 @@
+# poi reports an error when reading excel Your InputStream was neither an OLE2 stream, nor an OOXML stream
+[poi reports an error when reading excel Your InputStream was neither an OLE2 stream, nor an OOXML stream](https://aiwithcloud.com/2022/09/19/poi_reports_an_error_when_reading_excel_your_inputstream_was_neither_an_ole2_stream_nor_an_ooxml_stream/)

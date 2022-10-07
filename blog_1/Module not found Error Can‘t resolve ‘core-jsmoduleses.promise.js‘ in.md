@@ -1,0 +1,2 @@
+# Module not found Error Can‘t resolve ‘core-jsmoduleses.promise.js‘ in
+[Module not found Error Can‘t resolve ‘core-jsmoduleses.promise.js‘ in](https://aiwithcloud.com/2022/09/15/module_not_found_error_cant_resolve_core_jsmoduleses-promise-js_in/)

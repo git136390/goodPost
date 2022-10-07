@@ -1,0 +1,2 @@
+# Developers, the MySQL column has been updated, helping you easily from installation to entry-level
+[Developers, the MySQL column has been updated, helping you easily from installation to entry-level](https://aiwithcloud.com/2022/09/15/developers_the_mysql_column_has_been_updated_helping_you_easily_from_installation_to_entry_level/)

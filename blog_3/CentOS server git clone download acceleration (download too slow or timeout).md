@@ -1,0 +1,2 @@
+# CentOS server git clone download acceleration (download too slow or timeout)
+[CentOS server git clone download acceleration (download too slow or timeout)](https://aiwithcloud.com/2022/09/15/centos_server_git_clone_download_acceleration_download_too_slow_or_timeout/)

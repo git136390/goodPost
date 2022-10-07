@@ -1,0 +1,2 @@
+# Teach you how to use Python to create a downloader that downloads videos in batches and can visually display the download progress
+[Teach you how to use Python to create a downloader that downloads videos in batches and can visually display the download progress](https://aiwithcloud.com/2022/09/16/teach_you_how_to_use_python_to_create_a_downloader_that_downloads_videos_in_batches_and_can_visually_display_the_download_progress/)

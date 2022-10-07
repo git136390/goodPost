@@ -1,0 +1,2 @@
+# Process Communication - Shared Memory Mechanism (Experiment 6)
+[Process Communication - Shared Memory Mechanism (Experiment 6)](https://aiwithcloud.com/2022/09/15/process_communication___shared_memory_mechanism_experiment_6/)

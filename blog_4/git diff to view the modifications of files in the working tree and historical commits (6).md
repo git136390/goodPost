@@ -1,0 +1,2 @@
+# git diff to view the modifications of files in the working tree and historical commits (6)
+[git diff to view the modifications of files in the working tree and historical commits (6)](https://aiwithcloud.com/2022/09/15/git_diff_to_view_the_modifications_of_files_in_the_working_tree_and_historical_commits_6/)

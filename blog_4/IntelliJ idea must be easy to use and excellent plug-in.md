@@ -1,0 +1,2 @@
+# IntelliJ idea must be easy to use and excellent plug-in
+[IntelliJ idea must be easy to use and excellent plug-in](https://aiwithcloud.com/2022/09/15/intellij_idea_must_be_easy_to_use_and_excellent_plug_in/)

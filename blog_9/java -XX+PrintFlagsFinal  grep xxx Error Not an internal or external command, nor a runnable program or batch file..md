@@ -1,0 +1,2 @@
+# java -XX+PrintFlagsFinal  grep xxx Error Not an internal or external command, nor a runnable program or batch file.
+[java -XX+PrintFlagsFinal  grep xxx Error Not an internal or external command, nor a runnable program or batch file.](https://aiwithcloud.com/2022/09/19/java__xxprintflagsfinal__grep_xxx_error_not_an_internal_or_external_command_nor_a_runnable_program_or_batch_file/)

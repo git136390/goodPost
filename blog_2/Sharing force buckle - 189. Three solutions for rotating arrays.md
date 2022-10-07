@@ -1,0 +1,2 @@
+# Sharing force buckle - 189. Three solutions for rotating arrays
+[Sharing force buckle - 189. Three solutions for rotating arrays](https://aiwithcloud.com/2022/09/15/sharing_force_buckle___189-_three_solutions_for_rotating_arrays/)

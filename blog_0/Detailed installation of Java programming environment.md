@@ -1,0 +1,2 @@
+# Detailed installation of Java programming environment
+[Detailed installation of Java programming environment](https://aiwithcloud.com/2022/09/14/detailed_installation_of_java_programming_environment/)

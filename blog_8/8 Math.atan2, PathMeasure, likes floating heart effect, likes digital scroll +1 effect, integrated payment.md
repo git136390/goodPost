@@ -1,0 +1,2 @@
+# 8 Math.atan2, PathMeasure, likes floating heart effect, likes digital scroll +1 effect, integrated payment
+[8 Math.atan2, PathMeasure, likes floating heart effect, likes digital scroll +1 effect, integrated payment](https://aiwithcloud.com/2022/09/19/8_math-atan2_pathmeasure_likes_floating_heart_effect_likes_digital_scroll_1_effect_integrated_payment/)

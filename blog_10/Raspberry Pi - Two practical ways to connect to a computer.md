@@ -1,0 +1,2 @@
+# Raspberry Pi - Two practical ways to connect to a computer
+[Raspberry Pi - Two practical ways to connect to a computer](https://aiwithcloud.com/2022/09/19/raspberry_pi___two_practical_ways_to_connect_to_a_computer/)

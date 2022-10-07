@@ -1,0 +1,2 @@
+# Pandas. Parser. CParserError: an error occurred when tag data.C error: line 3 is expected to have 2
+[Pandas. Parser. CParserError: an error occurred when tag data.C error: line 3 is expected to have 2](https://aiwithcloud.com/2021/02/08/pandas-parser-cparsererror-an-error-occurred-when-tag-data-c-error-line-3-is-expected-to-have-2/)

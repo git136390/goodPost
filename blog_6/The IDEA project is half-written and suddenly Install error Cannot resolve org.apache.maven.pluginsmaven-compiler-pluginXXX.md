@@ -1,0 +1,2 @@
+# The IDEA project is half-written and suddenly Install error Cannot resolve org.apache.maven.pluginsmaven-compiler-pluginXXX
+[The IDEA project is half-written and suddenly Install error Cannot resolve org.apache.maven.pluginsmaven-compiler-pluginXXX](https://aiwithcloud.com/2022/09/16/the_idea_project_is_half_written_and_suddenly_install_error_cannot_resolve_org-apache-maven-pluginsmaven_compiler_pluginxxx/)

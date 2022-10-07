@@ -1,0 +1,2 @@
+# The angle bracket wrapping problem when Vue expands vetur to organize code in VSCode
+[The angle bracket wrapping problem when Vue expands vetur to organize code in VSCode](https://aiwithcloud.com/2022/09/15/the_angle_bracket_wrapping_problem_when_vue_expands_vetur_to_organize_code_in_vscode/)

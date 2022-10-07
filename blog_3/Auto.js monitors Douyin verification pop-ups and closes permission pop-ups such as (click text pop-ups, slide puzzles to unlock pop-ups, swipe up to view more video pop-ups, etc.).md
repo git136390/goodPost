@@ -1,0 +1,2 @@
+# Auto.js monitors Douyin verification pop-ups and closes permission pop-ups such as (click text pop-ups, slide puzzles to unlock pop-ups, swipe up to view more video pop-ups, etc.)
+[Auto.js monitors Douyin verification pop-ups and closes permission pop-ups such as (click text pop-ups, slide puzzles to unlock pop-ups, swipe up to view more video pop-ups, etc.)](https://aiwithcloud.com/2022/09/15/auto-js_monitors_douyin_verification_pop_ups_and_closes_permission_pop_ups_such_as_click_text_pop_ups_slide_puzzles_to_unlock_pop_ups_swipe_up_to_view_more_video_pop_ups_etc/)

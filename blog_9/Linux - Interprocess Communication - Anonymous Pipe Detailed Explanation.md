@@ -1,0 +1,2 @@
+# Linux - Interprocess Communication - Anonymous Pipe Detailed Explanation
+[Linux - Interprocess Communication - Anonymous Pipe Detailed Explanation](https://aiwithcloud.com/2022/09/19/linux___interprocess_communication___anonymous_pipe_detailed_explanation/)

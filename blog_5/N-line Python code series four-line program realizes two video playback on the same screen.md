@@ -1,0 +1,2 @@
+# N-line Python code series four-line program realizes two video playback on the same screen
+[N-line Python code series four-line program realizes two video playback on the same screen](https://aiwithcloud.com/2022/09/16/n_line_python_code_series_four_line_program_realizes_two_video_playback_on_the_same_screen/)

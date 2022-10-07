@@ -1,0 +1,2 @@
+# [Competition summary and problem solving] Codeforces Global Round 1 Pay attention to greed, simple dp skills, and AC automata + digital dp
+[[Competition summary and problem solving] Codeforces Global Round 1 Pay attention to greed, simple dp skills, and AC automata + digital dp](https://aiwithcloud.com/2022/09/19/competition_summary_and_problem_solving_codeforces_global_round_1_pay_attention_to_greed_simple_dp_skills_and_ac_automata__digital_dp/)

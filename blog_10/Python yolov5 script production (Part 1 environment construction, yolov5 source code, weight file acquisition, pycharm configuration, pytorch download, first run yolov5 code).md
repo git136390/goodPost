@@ -1,0 +1,2 @@
+# Python yolov5 script production (Part 1 environment construction, yolov5 source code, weight file acquisition, pycharm configuration, pytorch download, first run yolov5 code)
+[Python yolov5 script production (Part 1 environment construction, yolov5 source code, weight file acquisition, pycharm configuration, pytorch download, first run yolov5 code)](https://aiwithcloud.com/2022/09/19/python_yolov5_script_production_part_1_environment_construction_yolov5_source_code_weight_file_acquisition_pycharm_configuration_pytorch_download_first_run_yolov5_code/)

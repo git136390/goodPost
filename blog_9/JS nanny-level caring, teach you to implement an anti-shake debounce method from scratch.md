@@ -1,0 +1,2 @@
+# JS nanny-level caring, teach you to implement an anti-shake debounce method from scratch
+[JS nanny-level caring, teach you to implement an anti-shake debounce method from scratch](https://aiwithcloud.com/2022/09/19/js_nanny_level_caring_teach_you_to_implement_an_anti_shake_debounce_method_from_scratch/)

@@ -1,0 +1,2 @@
+# Quickly start HarmonyOS development with zero basis 3---JS layout development guide, page life cycle analysis, how to jump between pages and pass parameters
+[Quickly start HarmonyOS development with zero basis 3---JS layout development guide, page life cycle analysis, how to jump between pages and pass parameters](https://aiwithcloud.com/2022/09/16/quickly_start_harmonyos_development_with_zero_basis_3___js_layout_development_guide_page_life_cycle_analysis_how_to_jump_between_pages_and_pass_parameters/)

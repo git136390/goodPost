@@ -1,0 +1,2 @@
+# Daily practice of LeetCode - the number of times the number appears in the Offer 56 array
+[Daily practice of LeetCode - the number of times the number appears in the Offer 56 array](https://aiwithcloud.com/2022/09/19/daily_practice_of_leetcode___the_number_of_times_the_number_appears_in_the_offer_56_array/)

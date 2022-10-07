@@ -1,0 +1,2 @@
+# [A little bit of daily progress series] Java basic core must test face-to-face
+[[A little bit of daily progress series] Java basic core must test face-to-face](https://aiwithcloud.com/2022/09/15/a_little_bit_of_daily_progress_series_java_basic_core_must_test_face_to_face/)

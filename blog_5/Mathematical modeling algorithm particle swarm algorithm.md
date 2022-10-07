@@ -1,0 +1,2 @@
+# Mathematical modeling algorithm particle swarm algorithm
+[Mathematical modeling algorithm particle swarm algorithm](https://aiwithcloud.com/2022/09/16/mathematical_modeling_algorithm_particle_swarm_algorithm/)

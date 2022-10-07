@@ -1,0 +1,2 @@
+# Website Deployment 1 - Purchase a server and install a domain name and record it
+[Website Deployment 1 - Purchase a server and install a domain name and record it](https://aiwithcloud.com/2022/09/16/website_deployment_1___purchase_a_server_and_install_a_domain_name_and_record_it/)

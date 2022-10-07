@@ -1,0 +1,2 @@
+# After the laptop is connected to WiFi, the browser cannot access the Internet, but it can be connected to the mobile phone hotspot. problem solved! ! !
+[After the laptop is connected to WiFi, the browser cannot access the Internet, but it can be connected to the mobile phone hotspot. problem solved! ! !](https://aiwithcloud.com/2022/09/15/after_the_laptop_is_connected_to_wifi_the_browser_cannot_access_the_internet_but_it_can_be_connected_to_the_mobile_phone_hotspot-_problem_solved__/)

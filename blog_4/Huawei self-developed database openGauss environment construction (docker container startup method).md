@@ -1,0 +1,2 @@
+# Huawei self-developed database openGauss environment construction (docker container startup method)
+[Huawei self-developed database openGauss environment construction (docker container startup method)](https://aiwithcloud.com/2022/09/15/huawei_self_developed_database_opengauss_environment_construction_docker_container_startup_method/)

@@ -1,0 +1,2 @@
+# Design and Implementation of C++ High Concurrency Memory Pool
+[Design and Implementation of C++ High Concurrency Memory Pool](https://aiwithcloud.com/2022/09/15/design_and_implementation_of_c_high_concurrency_memory_pool/)

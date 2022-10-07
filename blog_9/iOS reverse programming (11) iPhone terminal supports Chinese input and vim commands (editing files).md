@@ -1,0 +1,2 @@
+# iOS reverse programming (11) iPhone terminal supports Chinese input and vim commands (editing files)
+[iOS reverse programming (11) iPhone terminal supports Chinese input and vim commands (editing files)](https://aiwithcloud.com/2022/09/19/ios_reverse_programming_11_iphone_terminal_supports_chinese_input_and_vim_commands_editing_files/)

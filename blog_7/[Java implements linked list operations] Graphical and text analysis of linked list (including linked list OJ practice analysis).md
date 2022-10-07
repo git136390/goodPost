@@ -1,0 +1,2 @@
+# [Java implements linked list operations] Graphical and text analysis of linked list (including linked list OJ practice analysis)
+[[Java implements linked list operations] Graphical and text analysis of linked list (including linked list OJ practice analysis)](https://aiwithcloud.com/2022/09/16/java_implements_linked_list_operations_graphical_and_text_analysis_of_linked_list_including_linked_list_oj_practice_analysis/)

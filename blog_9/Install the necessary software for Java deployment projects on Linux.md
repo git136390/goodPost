@@ -1,0 +1,2 @@
+# Install the necessary software for Java deployment projects on Linux
+[Install the necessary software for Java deployment projects on Linux](https://aiwithcloud.com/2022/09/19/install_the_necessary_software_for_java_deployment_projects_on_linux/)

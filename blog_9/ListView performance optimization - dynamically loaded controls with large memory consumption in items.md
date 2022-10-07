@@ -1,0 +1,2 @@
+# ListView performance optimization - dynamically loaded controls with large memory consumption in items
+[ListView performance optimization - dynamically loaded controls with large memory consumption in items](https://aiwithcloud.com/2022/09/19/listview_performance_optimization___dynamically_loaded_controls_with_large_memory_consumption_in_items/)

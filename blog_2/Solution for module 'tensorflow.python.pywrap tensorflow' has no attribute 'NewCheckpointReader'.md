@@ -1,0 +1,2 @@
+# Solution for module 'tensorflow.python.pywrap tensorflow' has no attribute 'NewCheckpointReader'
+[Solution for module 'tensorflow.python.pywrap tensorflow' has no attribute 'NewCheckpointReader'](https://aiwithcloud.com/2022/09/15/solution_for_module_tensorflow-python-pywrap_tensorflow_has_no_attribute_newcheckpointreader/)

@@ -1,0 +1,2 @@
+# Sequential stack - 9 basic operations and implementation (C language)
+[Sequential stack - 9 basic operations and implementation (C language)](https://aiwithcloud.com/2022/09/16/sequential_stack___9_basic_operations_and_implementation_c_language/)

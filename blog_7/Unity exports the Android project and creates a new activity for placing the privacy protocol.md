@@ -1,0 +1,2 @@
+# Unity exports the Android project and creates a new activity for placing the privacy protocol
+[Unity exports the Android project and creates a new activity for placing the privacy protocol](https://aiwithcloud.com/2022/09/16/unity_exports_the_android_project_and_creates_a_new_activity_for_placing_the_privacy_protocol/)

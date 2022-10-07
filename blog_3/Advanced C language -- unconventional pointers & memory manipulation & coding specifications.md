@@ -1,0 +1,2 @@
+# Advanced C language -- unconventional pointers & memory manipulation & coding specifications
+[Advanced C language -- unconventional pointers & memory manipulation & coding specifications](https://aiwithcloud.com/2022/09/15/advanced_c_language____unconventional_pointers__memory_manipulation__coding_specifications/)

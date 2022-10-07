@@ -1,0 +1,2 @@
+# vue3+Element uses recursive calls to encapsulate the navigation bar
+[vue3+Element uses recursive calls to encapsulate the navigation bar](https://aiwithcloud.com/2022/09/19/vue3element_uses_recursive_calls_to_encapsulate_the_navigation_bar/)

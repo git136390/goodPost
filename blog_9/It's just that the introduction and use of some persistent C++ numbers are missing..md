@@ -1,0 +1,2 @@
+# It's just that the introduction and use of some persistent C++ numbers are missing.
+[It's just that the introduction and use of some persistent C++ numbers are missing.](https://aiwithcloud.com/2022/09/19/its_just_that_the_introduction_and_use_of_some_persistent_c_numbers_are_missing/)

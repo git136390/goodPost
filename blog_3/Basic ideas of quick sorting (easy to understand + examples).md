@@ -1,0 +1,2 @@
+# Basic ideas of quick sorting (easy to understand + examples)
+[Basic ideas of quick sorting (easy to understand + examples)](https://aiwithcloud.com/2022/09/15/basic_ideas_of_quick_sorting_easy_to_understand__examples/)

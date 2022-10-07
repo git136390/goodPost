@@ -1,0 +1,2 @@
+# Python Daily Practice (New Question Bank of Niu Ke) - Day 13 Conditional Statements
+[Python Daily Practice (New Question Bank of Niu Ke) - Day 13 Conditional Statements](https://aiwithcloud.com/2022/09/16/python_daily_practice_new_question_bank_of_niu_ke___day_13_conditional_statements/)

@@ -1,0 +1,2 @@
+# SpringBoot uses Maven to integrate minio to realize the storage of static resources and objects; solve the problem of dependency conflict with okhttp
+[SpringBoot uses Maven to integrate minio to realize the storage of static resources and objects; solve the problem of dependency conflict with okhttp](https://aiwithcloud.com/2022/09/16/springboot_uses_maven_to_integrate_minio_to_realize_the_storage_of_static_resources_and_objects_solve_the_problem_of_dependency_conflict_with_okhttp/)

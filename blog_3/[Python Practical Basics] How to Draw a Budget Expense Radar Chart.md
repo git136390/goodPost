@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to Draw a Budget Expense Radar Chart
+[[Python Practical Basics] How to Draw a Budget Expense Radar Chart](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_draw_a_budget_expense_radar_chart/)

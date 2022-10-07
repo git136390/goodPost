@@ -1,0 +1,2 @@
+# Interviewer What are the implementation methods of Java multithreading and how
+[Interviewer What are the implementation methods of Java multithreading and how](https://aiwithcloud.com/2022/09/19/interviewer_what_are_the_implementation_methods_of_java_multithreading_and_how/)

@@ -1,0 +1,2 @@
+# Opening office (Word, Excel, etc.) prompts The application failed to start normally (0xc0000142). Please click OK to close the application
+[Opening office (Word, Excel, etc.) prompts The application failed to start normally (0xc0000142). Please click OK to close the application](https://aiwithcloud.com/2022/09/16/opening_office_word_excel_etc-_prompts_the_application_failed_to_start_normally_0xc0000142-_please_click_ok_to_close_the_application/)

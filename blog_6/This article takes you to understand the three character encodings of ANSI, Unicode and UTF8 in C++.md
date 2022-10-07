@@ -1,0 +1,2 @@
+# This article takes you to understand the three character encodings of ANSI, Unicode and UTF8 in C++
+[This article takes you to understand the three character encodings of ANSI, Unicode and UTF8 in C++](https://aiwithcloud.com/2022/09/16/this_article_takes_you_to_understand_the_three_character_encodings_of_ansi_unicode_and_utf8_in_c/)

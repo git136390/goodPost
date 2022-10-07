@@ -1,0 +1,2 @@
+# curl (7) Failed to connect to raw.githubusercontent.com port 443 Several solutions for Connection refused
+[curl (7) Failed to connect to raw.githubusercontent.com port 443 Several solutions for Connection refused](https://aiwithcloud.com/2022/09/15/curl_7_failed_to_connect_to_raw-githubusercontent-com_port_443_several_solutions_for_connection_refused/)

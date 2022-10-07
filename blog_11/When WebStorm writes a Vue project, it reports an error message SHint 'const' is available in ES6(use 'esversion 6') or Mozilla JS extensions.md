@@ -1,0 +1,2 @@
+# When WebStorm writes a Vue project, it reports an error message SHint 'const' is available in ES6(use 'esversion 6') or Mozilla JS extensions
+[When WebStorm writes a Vue project, it reports an error message SHint 'const' is available in ES6(use 'esversion 6') or Mozilla JS extensions](https://aiwithcloud.com/2022/09/19/when_webstorm_writes_a_vue_project_it_reports_an_error_message_shint_const_is_available_in_es6use_esversion_6_or_mozilla_js_extensions/)

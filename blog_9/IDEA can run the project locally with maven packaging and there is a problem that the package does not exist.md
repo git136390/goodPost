@@ -1,0 +1,2 @@
+# IDEA can run the project locally with maven packaging and there is a problem that the package does not exist
+[IDEA can run the project locally with maven packaging and there is a problem that the package does not exist](https://aiwithcloud.com/2022/09/19/idea_can_run_the_project_locally_with_maven_packaging_and_there_is_a_problem_that_the_package_does_not_exist/)

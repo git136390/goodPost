@@ -1,0 +1,2 @@
+# The problem of not changing the external value when the slice in the Golang function is append
+[The problem of not changing the external value when the slice in the Golang function is append](https://aiwithcloud.com/2022/09/16/the_problem_of_not_changing_the_external_value_when_the_slice_in_the_golang_function_is_append/)

@@ -1,0 +1,2 @@
+# [Solved] Formatting code shortcut Ctrl+Shift+F in eclipse is invalid
+[[Solved] Formatting code shortcut Ctrl+Shift+F in eclipse is invalid](https://aiwithcloud.com/2022/09/15/solved_formatting_code_shortcut_ctrlshiftf_in_eclipse_is_invalid/)

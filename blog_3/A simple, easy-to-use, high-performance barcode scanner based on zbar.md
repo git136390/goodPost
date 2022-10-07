@@ -1,0 +1,2 @@
+# A simple, easy-to-use, high-performance barcode scanner based on zbar
+[A simple, easy-to-use, high-performance barcode scanner based on zbar](https://aiwithcloud.com/2022/09/15/a_simple_easy_to_use_high_performance_barcode_scanner_based_on_zbar/)

@@ -1,0 +1,2 @@
+# [Blockchain combat] How Solidity accesses contract built-in objects
+[[Blockchain combat] How Solidity accesses contract built-in objects](https://aiwithcloud.com/2022/09/15/blockchain_combat_how_solidity_accesses_contract_built_in_objects/)

@@ -1,0 +1,2 @@
+# Xiaomi router mini R1C R1CM openwrt source change source
+[Xiaomi router mini R1C R1CM openwrt source change source](https://aiwithcloud.com/2022/09/16/xiaomi_router_mini_r1c_r1cm_openwrt_source_change_source/)

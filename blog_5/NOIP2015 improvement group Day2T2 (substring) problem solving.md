@@ -1,0 +1,2 @@
+# NOIP2015 improvement group Day2T2 (substring) problem solving
+[NOIP2015 improvement group Day2T2 (substring) problem solving](https://aiwithcloud.com/2022/09/16/noip2015_improvement_group_day2t2_substring_problem_solving/)

@@ -1,0 +1,2 @@
+# C language linked list - create linked list and assign value from keyboard input
+[C language linked list - create linked list and assign value from keyboard input](https://aiwithcloud.com/2022/09/14/c_language_linked_list___create_linked_list_and_assign_value_from_keyboard_input/)

@@ -1,0 +1,2 @@
+# Misunderstanding of computer network - source-destination IP and source-destination MAC change problem
+[Misunderstanding of computer network - source-destination IP and source-destination MAC change problem](https://aiwithcloud.com/2022/09/15/misunderstanding_of_computer_network___source_destination_ip_and_source_destination_mac_change_problem/)

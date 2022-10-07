@@ -1,0 +1,2 @@
+# Three methods for Android to get the current system date and time
+[Three methods for Android to get the current system date and time](https://aiwithcloud.com/2022/09/16/three_methods_for_android_to_get_the_current_system_date_and_time/)

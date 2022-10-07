@@ -1,0 +1,2 @@
+# A very simple and beautiful page is loading resources jquery - loading
+[A very simple and beautiful page is loading resources jquery - loading](https://aiwithcloud.com/2022/09/15/a_very_simple_and_beautiful_page_is_loading_resources_jquery___loading/)

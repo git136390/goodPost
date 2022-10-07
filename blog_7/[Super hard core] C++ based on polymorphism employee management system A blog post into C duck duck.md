@@ -1,0 +1,2 @@
+# [Super hard core] C++ based on polymorphism employee management system A blog post into C duck duck
+[[Super hard core] C++ based on polymorphism employee management system A blog post into C duck duck](https://aiwithcloud.com/2022/09/16/super_hard_core_c_based_on_polymorphism_employee_management_system_a_blog_post_into_c_duck_duck/)

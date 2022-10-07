@@ -1,0 +1,2 @@
+# WeChat applet - image width and height adaptive (the image cannot be adapted to stretch the label)
+[WeChat applet - image width and height adaptive (the image cannot be adapted to stretch the label)](https://aiwithcloud.com/2022/09/16/wechat_applet___image_width_and_height_adaptive_the_image_cannot_be_adapted_to_stretch_the_label/)

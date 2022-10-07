@@ -1,0 +1,2 @@
+# VMware virtual machine installation soft routing Openwrt
+[VMware virtual machine installation soft routing Openwrt](https://aiwithcloud.com/2022/09/16/vmware_virtual_machine_installation_soft_routing_openwrt/)

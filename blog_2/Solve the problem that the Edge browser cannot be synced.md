@@ -1,0 +1,2 @@
+# Solve the problem that the Edge browser cannot be synced
+[Solve the problem that the Edge browser cannot be synced](https://aiwithcloud.com/2022/09/15/solve_the_problem_that_the_edge_browser_cannot_be_synced/)

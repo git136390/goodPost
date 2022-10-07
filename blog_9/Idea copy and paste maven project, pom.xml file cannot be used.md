@@ -1,0 +1,2 @@
+# Idea copy and paste maven project, pom.xml file cannot be used
+[Idea copy and paste maven project, pom.xml file cannot be used](https://aiwithcloud.com/2022/09/19/idea_copy_and_paste_maven_project_pom-xml_file_cannot_be_used/)

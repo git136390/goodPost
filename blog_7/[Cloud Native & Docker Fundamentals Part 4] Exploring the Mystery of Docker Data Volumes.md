@@ -1,0 +1,2 @@
+# [Cloud Native & Docker Fundamentals Part 4] Exploring the Mystery of Docker Data Volumes
+[[Cloud Native & Docker Fundamentals Part 4] Exploring the Mystery of Docker Data Volumes](https://aiwithcloud.com/2022/09/16/cloud_native__docker_fundamentals_part_4_exploring_the_mystery_of_docker_data_volumes/)

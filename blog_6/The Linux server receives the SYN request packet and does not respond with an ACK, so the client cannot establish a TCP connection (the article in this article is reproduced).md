@@ -1,0 +1,2 @@
+# The Linux server receives the SYN request packet and does not respond with an ACK, so the client cannot establish a TCP connection (the article in this article is reproduced)
+[The Linux server receives the SYN request packet and does not respond with an ACK, so the client cannot establish a TCP connection (the article in this article is reproduced)](https://aiwithcloud.com/2022/09/16/the_linux_server_receives_the_syn_request_packet_and_does_not_respond_with_an_ack_so_the_client_cannot_establish_a_tcp_connection_the_article_in_this_article_is_reproduced/)

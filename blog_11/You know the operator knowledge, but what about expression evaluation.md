@@ -1,0 +1,2 @@
+# You know the operator knowledge, but what about expression evaluation
+[You know the operator knowledge, but what about expression evaluation](https://aiwithcloud.com/2022/09/19/you_know_the_operator_knowledge_but_what_about_expression_evaluation/)

@@ -1,0 +1,2 @@
+# This is also too distinguishable - the difference and role of instance methods, class methods, and static methods in Python
+[This is also too distinguishable - the difference and role of instance methods, class methods, and static methods in Python](https://aiwithcloud.com/2022/09/15/this_is_also_too_distinguishable___the_difference_and_role_of_instance_methods_class_methods_and_static_methods_in_python/)

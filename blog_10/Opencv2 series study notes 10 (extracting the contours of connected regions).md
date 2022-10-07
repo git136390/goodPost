@@ -1,0 +1,2 @@
+# Opencv2 series study notes 10 (extracting the contours of connected regions)
+[Opencv2 series study notes 10 (extracting the contours of connected regions)](https://aiwithcloud.com/2022/09/19/opencv2_series_study_notes_10_extracting_the_contours_of_connected_regions/)

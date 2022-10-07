@@ -1,0 +1,2 @@
+# Python crawler primary (3) BeautifulSoup parsing web pages
+[Python crawler primary (3) BeautifulSoup parsing web pages](https://aiwithcloud.com/2022/09/16/python_crawler_primary_3_beautifulsoup_parsing_web_pages/)

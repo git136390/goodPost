@@ -1,0 +1,2 @@
+# Java language learning summary extension Collections collection tool class method usage
+[Java language learning summary extension Collections collection tool class method usage](https://aiwithcloud.com/2022/09/19/java_language_learning_summary_extension_collections_collection_tool_class_method_usage/)

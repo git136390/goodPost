@@ -1,0 +1,2 @@
+# WeChat applet click event method to pass custom parameters
+[WeChat applet click event method to pass custom parameters](https://aiwithcloud.com/2022/09/16/wechat_applet_click_event_method_to_pass_custom_parameters/)

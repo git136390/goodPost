@@ -1,0 +1,2 @@
+# SpringBoot+vue imitation NetEase cloud music website (2) - database design
+[SpringBoot+vue imitation NetEase cloud music website (2) - database design](https://aiwithcloud.com/2022/09/16/springbootvue_imitation_netease_cloud_music_website_2___database_design/)

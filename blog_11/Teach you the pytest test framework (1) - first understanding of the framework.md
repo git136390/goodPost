@@ -1,0 +1,2 @@
+# Teach you the pytest test framework (1) - first understanding of the framework
+[Teach you the pytest test framework (1) - first understanding of the framework](https://aiwithcloud.com/2022/09/19/teach_you_the_pytest_test_framework_1___first_understanding_of_the_framework/)

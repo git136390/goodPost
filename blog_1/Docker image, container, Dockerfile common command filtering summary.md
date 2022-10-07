@@ -1,0 +1,2 @@
+# Docker image, container, Dockerfile common command filtering summary
+[Docker image, container, Dockerfile common command filtering summary](https://aiwithcloud.com/2022/09/14/docker_image_container_dockerfile_common_command_filtering_summary/)

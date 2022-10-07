@@ -1,0 +1,2 @@
+# ubuntu系统The system is running in low-graphics mode error
+[ubuntu系统The system is running in low-graphics mode error](https://aiwithcloud.com/2022/04/10/ubuntu%e7%b3%bb%e7%bb%9fthe-system-is-running-in-low-graphics-mode-error/)

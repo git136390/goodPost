@@ -1,0 +1,2 @@
+# Practical tips, Python converts all Chinese names into pinyin in one second!
+[Practical tips, Python converts all Chinese names into pinyin in one second!](https://aiwithcloud.com/2022/09/16/practical_tips_python_converts_all_chinese_names_into_pinyin_in_one_second/)

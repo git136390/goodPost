@@ -1,0 +1,2 @@
+# PaddlePaddle is trained with color map is inconsistent in size error
+[PaddlePaddle is trained with color map is inconsistent in size error](https://aiwithcloud.com/2022/09/15/paddlepaddle_is_trained_with_color_map_is_inconsistent_in_size_error/)

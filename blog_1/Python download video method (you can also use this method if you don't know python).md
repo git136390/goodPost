@@ -1,0 +1,2 @@
+# Python download video method (you can also use this method if you don't know python)
+[Python download video method (you can also use this method if you don't know python)](https://aiwithcloud.com/2022/09/15/python_download_video_method_you_can_also_use_this_method_if_you_dont_know_python/)

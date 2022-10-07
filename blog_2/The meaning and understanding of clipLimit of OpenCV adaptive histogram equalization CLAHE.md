@@ -1,0 +1,2 @@
+# The meaning and understanding of clipLimit of OpenCV adaptive histogram equalization CLAHE
+[The meaning and understanding of clipLimit of OpenCV adaptive histogram equalization CLAHE](https://aiwithcloud.com/2022/09/15/the_meaning_and_understanding_of_cliplimit_of_opencv_adaptive_histogram_equalization_clahe/)

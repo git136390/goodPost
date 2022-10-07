@@ -1,0 +1,2 @@
+# On how of platform populate in dts selectively loads device node as platform device
+[On how of platform populate in dts selectively loads device node as platform device](https://aiwithcloud.com/2022/09/19/on_how_of_platform_populate_in_dts_selectively_loads_device_node_as_platform_device/)

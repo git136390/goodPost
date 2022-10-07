@@ -1,0 +1,2 @@
+# Huawei USG6000 Firewall Security Policy Configuration Example (CLI Mode)
+[Huawei USG6000 Firewall Security Policy Configuration Example (CLI Mode)](https://aiwithcloud.com/2022/09/15/huawei_usg6000_firewall_security_policy_configuration_example_cli_mode/)

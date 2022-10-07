@@ -1,0 +1,2 @@
+# Operating System - Illustrating the flow of recorded semaphores
+[Operating System - Illustrating the flow of recorded semaphores](https://aiwithcloud.com/2022/09/19/operating_system___illustrating_the_flow_of_recorded_semaphores/)

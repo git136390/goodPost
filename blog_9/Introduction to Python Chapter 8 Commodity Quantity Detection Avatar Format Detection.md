@@ -1,0 +1,2 @@
+# Introduction to Python Chapter 8 Commodity Quantity Detection Avatar Format Detection
+[Introduction to Python Chapter 8 Commodity Quantity Detection Avatar Format Detection](https://aiwithcloud.com/2022/09/19/introduction_to_python_chapter_8_commodity_quantity_detection_avatar_format_detection/)

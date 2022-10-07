@@ -1,0 +1,2 @@
+# Blast! Hand in hand to teach you how to understand a Java project, yyds
+[Blast! Hand in hand to teach you how to understand a Java project, yyds](https://aiwithcloud.com/2022/09/15/blast_hand_in_hand_to_teach_you_how_to_understand_a_java_project_yyds/)

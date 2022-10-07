@@ -1,0 +1,2 @@
+# Ethereum Private Chain Construction (2) - Interpretation of genesis.json Field
+[Ethereum Private Chain Construction (2) - Interpretation of genesis.json Field](https://aiwithcloud.com/2022/09/14/ethereum_private_chain_construction_2___interpretation_of_genesis-json_field/)

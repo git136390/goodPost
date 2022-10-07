@@ -1,0 +1,2 @@
+# bash in Linux ls command not found... Similar command is 'lz'
+[bash in Linux ls command not found... Similar command is 'lz'](https://aiwithcloud.com/2022/09/15/bash_in_linux_ls_command_not_found-_similar_command_is_lz/)

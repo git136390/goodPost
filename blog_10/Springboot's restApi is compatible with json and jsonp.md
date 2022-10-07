@@ -1,0 +1,2 @@
+# Springboot's restApi is compatible with json and jsonp
+[Springboot's restApi is compatible with json and jsonp](https://aiwithcloud.com/2022/09/19/springboots_restapi_is_compatible_with_json_and_jsonp/)

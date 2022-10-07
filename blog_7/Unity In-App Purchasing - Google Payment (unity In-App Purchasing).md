@@ -1,0 +1,2 @@
+# Unity In-App Purchasing - Google Payment (unity In-App Purchasing)
+[Unity In-App Purchasing - Google Payment (unity In-App Purchasing)](https://aiwithcloud.com/2022/09/16/unity_in_app_purchasing___google_payment_unity_in_app_purchasing/)

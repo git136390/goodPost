@@ -1,0 +1,2 @@
+# 在keras中实现Many to one以及many to many的LSTM
+[在keras中实现Many to one以及many to many的LSTM](https://aiwithcloud.com/2021/03/15/%e5%9c%a8keras%e4%b8%ad%e5%ae%9e%e7%8e%b0many-to-one%e4%bb%a5%e5%8f%8amany-to-many%e7%9a%84lstm/)

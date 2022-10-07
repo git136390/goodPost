@@ -1,0 +1,2 @@
+# Find the length of the string [pointer minus pointer method]
+[Find the length of the string [pointer minus pointer method]](https://aiwithcloud.com/2022/09/15/find_the_length_of_the_string_pointer_minus_pointer_method/)

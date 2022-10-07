@@ -1,0 +1,2 @@
+# [jS Advanced] 3. Object-oriented Advanced (1. Object Creation Mode 2. Inheritance Mode)
+[[jS Advanced] 3. Object-oriented Advanced (1. Object Creation Mode 2. Inheritance Mode)](https://aiwithcloud.com/2022/09/19/js_advanced_3-_object_oriented_advanced_1-_object_creation_mode_2-_inheritance_mode/)

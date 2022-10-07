@@ -1,0 +1,2 @@
+# CentOS install lrzsz upload (rz) and download (sz) files (Mac and Windows)
+[CentOS install lrzsz upload (rz) and download (sz) files (Mac and Windows)](https://aiwithcloud.com/2022/09/15/centos_install_lrzsz_upload_rz_and_download_sz_files_mac_and_windows/)

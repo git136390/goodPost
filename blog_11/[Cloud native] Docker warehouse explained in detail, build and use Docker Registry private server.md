@@ -1,0 +1,2 @@
+# [Cloud native] Docker warehouse explained in detail, build and use Docker Registry private server
+[[Cloud native] Docker warehouse explained in detail, build and use Docker Registry private server](https://aiwithcloud.com/2022/09/19/cloud_native_docker_warehouse_explained_in_detail_build_and_use_docker_registry_private_server/)

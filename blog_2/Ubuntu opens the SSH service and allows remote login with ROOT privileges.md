@@ -1,0 +1,2 @@
+# Ubuntu opens the SSH service and allows remote login with ROOT privileges
+[Ubuntu opens the SSH service and allows remote login with ROOT privileges](https://aiwithcloud.com/2022/09/15/ubuntu_opens_the_ssh_service_and_allows_remote_login_with_root_privileges/)

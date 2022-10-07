@@ -1,0 +1,2 @@
+# Hadoop3.x template virtual machine configuration diagram for big data
+[Hadoop3.x template virtual machine configuration diagram for big data](https://aiwithcloud.com/2022/09/15/hadoop3-x_template_virtual_machine_configuration_diagram_for_big_data/)

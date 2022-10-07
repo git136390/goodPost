@@ -1,0 +1,2 @@
+# Section 19 Scanning Techniques - Tools for Windows-Based Systems
+[Section 19 Scanning Techniques - Tools for Windows-Based Systems](https://aiwithcloud.com/2022/09/15/section_19_scanning_techniques___tools_for_windows_based_systems/)

@@ -1,0 +1,2 @@
+# java split string Unclosed character class near index error
+[java split string Unclosed character class near index error](https://aiwithcloud.com/2022/09/16/java_split_string_unclosed_character_class_near_index_error/)

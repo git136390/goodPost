@@ -1,0 +1,2 @@
+# Detailed introduction of Vue family bucket Vue-router
+[Detailed introduction of Vue family bucket Vue-router](https://aiwithcloud.com/2022/09/15/detailed_introduction_of_vue_family_bucket_vue_router/)

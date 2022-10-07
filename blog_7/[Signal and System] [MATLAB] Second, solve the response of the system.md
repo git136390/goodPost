@@ -1,0 +1,2 @@
+# [Signal and System] [MATLAB] Second, solve the response of the system
+[[Signal and System] [MATLAB] Second, solve the response of the system](https://aiwithcloud.com/2022/09/16/signal_and_system_matlab_second_solve_the_response_of_the_system/)

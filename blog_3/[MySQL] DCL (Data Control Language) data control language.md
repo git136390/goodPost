@@ -1,0 +1,2 @@
+# [MySQL] DCL (Data Control Language) data control language
+[[MySQL] DCL (Data Control Language) data control language](https://aiwithcloud.com/2022/09/15/mysql_dcl_data_control_language_data_control_language/)

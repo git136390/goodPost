@@ -1,0 +1,2 @@
+# Conversion method of simplified and traditional Chinese characters in python
+[Conversion method of simplified and traditional Chinese characters in python](https://aiwithcloud.com/2022/09/14/conversion_method_of_simplified_and_traditional_chinese_characters_in_python/)

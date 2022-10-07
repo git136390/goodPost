@@ -1,0 +1,2 @@
+# Detailed explanation of redis master-slave replication (environment for sentry mode)
+[Detailed explanation of redis master-slave replication (environment for sentry mode)](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_redis_master_slave_replication_environment_for_sentry_mode/)

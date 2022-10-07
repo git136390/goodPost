@@ -1,0 +1,2 @@
+# [JavaWeb] Servlet series - template method design pattern, HttpServlet source code analysis, the welcome page of the Web site, about the WEB-INF directory
+[[JavaWeb] Servlet series - template method design pattern, HttpServlet source code analysis, the welcome page of the Web site, about the WEB-INF directory](https://aiwithcloud.com/2022/09/19/javaweb_servlet_series___template_method_design_pattern_httpservlet_source_code_analysis_the_welcome_page_of_the_web_site_about_the_web_inf_directory/)

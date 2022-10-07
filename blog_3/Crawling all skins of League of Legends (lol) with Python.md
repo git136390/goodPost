@@ -1,0 +1,2 @@
+# Crawling all skins of League of Legends (lol) with Python
+[Crawling all skins of League of Legends (lol) with Python](https://aiwithcloud.com/2022/09/15/crawling_all_skins_of_league_of_legends_lol_with_python/)

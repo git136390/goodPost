@@ -1,0 +1,2 @@
+# A simple method for UGUI to realize irregular image click (pixel click)
+[A simple method for UGUI to realize irregular image click (pixel click)](https://aiwithcloud.com/2022/09/15/a_simple_method_for_ugui_to_realize_irregular_image_click_pixel_click/)

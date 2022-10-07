@@ -1,0 +1,2 @@
+# [Front-end Soul Scripting Language JavaScript⑤]——The use of arrays in JS
+[[Front-end Soul Scripting Language JavaScript⑤]——The use of arrays in JS](https://aiwithcloud.com/2022/09/16/front_end_soul_scripting_language_javascript%e2%91%a4-the_use_of_arrays_in_js/)

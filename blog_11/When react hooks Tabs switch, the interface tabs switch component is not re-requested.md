@@ -1,0 +1,2 @@
+# When react hooks Tabs switch, the interface tabs switch component is not re-requested
+[When react hooks Tabs switch, the interface tabs switch component is not re-requested](https://aiwithcloud.com/2022/09/19/when_react_hooks_tabs_switch_the_interface_tabs_switch_component_is_not_re_requested/)

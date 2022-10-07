@@ -1,0 +1,2 @@
+# Crawling webpage data appears Chinese garbled UTF-8 Chinese garbled
+[Crawling webpage data appears Chinese garbled UTF-8 Chinese garbled](https://aiwithcloud.com/2022/09/15/crawling_webpage_data_appears_chinese_garbled_utf_8_chinese_garbled/)

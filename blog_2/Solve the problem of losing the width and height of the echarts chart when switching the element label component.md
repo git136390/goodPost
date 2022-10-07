@@ -1,0 +1,2 @@
+# Solve the problem of losing the width and height of the echarts chart when switching the element label component
+[Solve the problem of losing the width and height of the echarts chart when switching the element label component](https://aiwithcloud.com/2022/09/15/solve_the_problem_of_losing_the_width_and_height_of_the_echarts_chart_when_switching_the_element_label_component/)

@@ -1,0 +1,2 @@
+# Compile the JVMTI dynamic link library available under 32-bit windows system
+[Compile the JVMTI dynamic link library available under 32-bit windows system](https://aiwithcloud.com/2022/09/19/compile_the_jvmti_dynamic_link_library_available_under_32_bit_windows_system/)

@@ -1,0 +1,2 @@
+# Win10 wsl2 modify the default installation directory to another disk
+[Win10 wsl2 modify the default installation directory to another disk](https://aiwithcloud.com/2022/09/16/win10_wsl2_modify_the_default_installation_directory_to_another_disk/)

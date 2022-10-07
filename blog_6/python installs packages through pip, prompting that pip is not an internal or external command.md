@@ -1,0 +1,2 @@
+# python installs packages through pip, prompting that pip is not an internal or external command
+[python installs packages through pip, prompting that pip is not an internal or external command](https://aiwithcloud.com/2022/09/16/python_installs_packages_through_pip_prompting_that_pip_is_not_an_internal_or_external_command/)

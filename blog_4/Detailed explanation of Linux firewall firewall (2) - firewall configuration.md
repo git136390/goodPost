@@ -1,0 +1,2 @@
+# Detailed explanation of Linux firewall firewall (2) - firewall configuration
+[Detailed explanation of Linux firewall firewall (2) - firewall configuration](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_linux_firewall_firewall_2___firewall_configuration/)

@@ -1,0 +1,2 @@
+# The latest arrangement of Java interview questions in 2022, with vernacular answers
+[The latest arrangement of Java interview questions in 2022, with vernacular answers](https://aiwithcloud.com/2022/09/16/the_latest_arrangement_of_java_interview_questions_in_2022_with_vernacular_answers/)

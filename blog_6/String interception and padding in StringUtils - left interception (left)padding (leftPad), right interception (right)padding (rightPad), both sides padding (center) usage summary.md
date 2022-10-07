@@ -1,0 +1,2 @@
+# String interception and padding in StringUtils - left interception (left)padding (leftPad), right interception (right)padding (rightPad), both sides padding (center) usage summary
+[String interception and padding in StringUtils - left interception (left)padding (leftPad), right interception (right)padding (rightPad), both sides padding (center) usage summary](https://aiwithcloud.com/2022/09/16/string_interception_and_padding_in_stringutils___left_interception_leftpadding_leftpad_right_interception_rightpadding_rightpad_both_sides_padding_center_usage_summary/)

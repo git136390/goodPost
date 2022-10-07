@@ -1,0 +1,2 @@
+# uniapp uses the uni-data-picker plugin to implement pop-up windows for provinces and cities (compatible with apps)
+[uniapp uses the uni-data-picker plugin to implement pop-up windows for provinces and cities (compatible with apps)](https://aiwithcloud.com/2022/09/15/uniapp_uses_the_uni_data_picker_plugin_to_implement_pop_up_windows_for_provinces_and_cities_compatible_with_apps/)

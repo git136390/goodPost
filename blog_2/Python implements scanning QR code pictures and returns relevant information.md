@@ -1,0 +1,2 @@
+# Python implements scanning QR code pictures and returns relevant information
+[Python implements scanning QR code pictures and returns relevant information](https://aiwithcloud.com/2022/09/15/python_implements_scanning_qr_code_pictures_and_returns_relevant_information/)

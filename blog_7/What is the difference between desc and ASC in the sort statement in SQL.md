@@ -1,0 +1,2 @@
+# What is the difference between desc and ASC in the sort statement in SQL
+[What is the difference between desc and ASC in the sort statement in SQL](https://aiwithcloud.com/2022/09/16/what_is_the_difference_between_desc_and_asc_in_the_sort_statement_in_sql/)

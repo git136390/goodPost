@@ -1,0 +1,2 @@
+# [FFmpeg+Qt development] Detailed steps to build an environment under Windows
+[[FFmpeg+Qt development] Detailed steps to build an environment under Windows](https://aiwithcloud.com/2022/09/15/ffmpegqt_development_detailed_steps_to_build_an_environment_under_windows/)

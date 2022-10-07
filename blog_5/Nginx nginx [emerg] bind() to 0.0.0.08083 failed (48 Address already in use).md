@@ -1,0 +1,2 @@
+# Nginx nginx [emerg] bind() to 0.0.0.08083 failed (48 Address already in use)
+[Nginx nginx [emerg] bind() to 0.0.0.08083 failed (48 Address already in use)](https://aiwithcloud.com/2022/09/16/nginx_nginx_emerg_bind_to_0-0-0-08083_failed_48_address_already_in_use/)

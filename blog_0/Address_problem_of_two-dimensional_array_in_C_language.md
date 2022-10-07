@@ -1,0 +1,2 @@
+# Address_problem_of_two-dimensional_array_in_C_language
+[Address_problem_of_two-dimensional_array_in_C_language](https://aiwithcloud.com/2022/09/14/address_problem_of_two_dimensional_array_in_c_language/)

@@ -1,0 +1,2 @@
+# Search (1) -----Sequential search and halved search of the sequence table
+[Search (1) -----Sequential search and halved search of the sequence table](https://aiwithcloud.com/2022/09/16/search_1______sequential_search_and_halved_search_of_the_sequence_table/)

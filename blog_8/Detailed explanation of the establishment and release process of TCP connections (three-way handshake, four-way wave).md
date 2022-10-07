@@ -1,0 +1,2 @@
+# Detailed explanation of the establishment and release process of TCP connections (three-way handshake, four-way wave)
+[Detailed explanation of the establishment and release process of TCP connections (three-way handshake, four-way wave)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_the_establishment_and_release_process_of_tcp_connections_three_way_handshake_four_way_wave/)

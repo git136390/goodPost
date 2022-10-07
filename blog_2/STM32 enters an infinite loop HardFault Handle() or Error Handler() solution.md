@@ -1,0 +1,2 @@
+# STM32 enters an infinite loop HardFault Handle() or Error Handler() solution
+[STM32 enters an infinite loop HardFault Handle() or Error Handler() solution](https://aiwithcloud.com/2022/09/15/stm32_enters_an_infinite_loop_hardfault_handle_or_error_handler_solution/)

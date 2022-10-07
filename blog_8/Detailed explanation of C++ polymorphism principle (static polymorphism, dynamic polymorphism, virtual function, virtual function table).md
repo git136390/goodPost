@@ -1,0 +1,2 @@
+# Detailed explanation of C++ polymorphism principle (static polymorphism, dynamic polymorphism, virtual function, virtual function table)
+[Detailed explanation of C++ polymorphism principle (static polymorphism, dynamic polymorphism, virtual function, virtual function table)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_c_polymorphism_principle_static_polymorphism_dynamic_polymorphism_virtual_function_virtual_function_table/)

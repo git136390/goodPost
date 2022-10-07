@@ -1,0 +1,2 @@
+# High-performance distributed object storage - MinIO combat operation (MinIO expansion)
+[High-performance distributed object storage - MinIO combat operation (MinIO expansion)](https://aiwithcloud.com/2022/09/19/high_performance_distributed_object_storage___minio_combat_operation_minio_expansion/)

@@ -1,0 +1,2 @@
+# Java environment configuration tutorial under Windows
+[Java environment configuration tutorial under Windows](https://aiwithcloud.com/2022/09/19/java_environment_configuration_tutorial_under_windows/)

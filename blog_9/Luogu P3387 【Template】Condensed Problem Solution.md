@@ -1,0 +1,2 @@
+# Luogu P3387 【Template】Condensed Problem Solution
+[Luogu P3387 【Template】Condensed Problem Solution](https://aiwithcloud.com/2022/09/19/luogu_p3387_%e3%80%90template%e3%80%91condensed_problem_solution/)

@@ -1,0 +1,2 @@
+# Jmeter upload file interface ((multipartform-data data request))
+[Jmeter upload file interface ((multipartform-data data request))](https://aiwithcloud.com/2022/09/16/jmeter_upload_file_interface_multipartform_data_data_request/)

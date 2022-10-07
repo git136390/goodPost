@@ -1,0 +1,2 @@
+# [Python combat basics] Generate letter pairs and write to files
+[[Python combat basics] Generate letter pairs and write to files](https://aiwithcloud.com/2022/09/15/python_combat_basics_generate_letter_pairs_and_write_to_files/)

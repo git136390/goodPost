@@ -1,0 +1,2 @@
+# [Learn Rust together] Preparation before Rust learning - annotation and formatted output
+[[Learn Rust together] Preparation before Rust learning - annotation and formatted output](https://aiwithcloud.com/2022/09/19/learn_rust_together_preparation_before_rust_learning___annotation_and_formatted_output/)

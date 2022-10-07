@@ -1,0 +1,2 @@
+# Web implementation imitation electronic instrument website contains HTML CSS part with renderings
+[Web implementation imitation electronic instrument website contains HTML CSS part with renderings](https://aiwithcloud.com/2022/09/19/web_implementation_imitation_electronic_instrument_website_contains_html_css_part_with_renderings/)

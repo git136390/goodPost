@@ -1,0 +1,2 @@
+# PTA 6-4 Find the sum of the elements of the four sides of an n×n square matrix
+[PTA 6-4 Find the sum of the elements of the four sides of an n×n square matrix](https://aiwithcloud.com/2022/09/15/pta_6_4_find_the_sum_of_the_elements_of_the_four_sides_of_an_nxn_square_matrix/)

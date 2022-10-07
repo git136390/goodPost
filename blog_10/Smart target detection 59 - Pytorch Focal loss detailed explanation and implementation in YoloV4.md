@@ -1,0 +1,2 @@
+# Smart target detection 59 - Pytorch Focal loss detailed explanation and implementation in YoloV4
+[Smart target detection 59 - Pytorch Focal loss detailed explanation and implementation in YoloV4](https://aiwithcloud.com/2022/09/19/smart_target_detection_59___pytorch_focal_loss_detailed_explanation_and_implementation_in_yolov4/)

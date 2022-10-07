@@ -1,0 +1,2 @@
+# How to do binary search on log files Introduction of open source file binary search tool timecat
+[How to do binary search on log files Introduction of open source file binary search tool timecat](https://aiwithcloud.com/2022/09/19/how_to_do_binary_search_on_log_files_introduction_of_open_source_file_binary_search_tool_timecat/)

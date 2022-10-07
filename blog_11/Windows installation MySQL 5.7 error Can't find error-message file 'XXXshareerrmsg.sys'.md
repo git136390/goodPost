@@ -1,0 +1,2 @@
+# Windows installation MySQL 5.7 error Can't find error-message file 'XXXshareerrmsg.sys'
+[Windows installation MySQL 5.7 error Can't find error-message file 'XXXshareerrmsg.sys'](https://aiwithcloud.com/2022/09/19/windows_installation_mysql_5-7_error_cant_find_error_message_file_xxxshareerrmsg-sys/)

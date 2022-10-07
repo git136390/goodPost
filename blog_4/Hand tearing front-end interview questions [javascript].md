@@ -1,0 +1,2 @@
+# Hand tearing front-end interview questions [javascript]
+[Hand tearing front-end interview questions [javascript]](https://aiwithcloud.com/2022/09/15/hand_tearing_front_end_interview_questions_javascript/)

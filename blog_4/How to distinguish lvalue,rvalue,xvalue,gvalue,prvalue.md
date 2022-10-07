@@ -1,0 +1,2 @@
+# How to distinguish lvalue,rvalue,xvalue,gvalue,prvalue
+[How to distinguish lvalue,rvalue,xvalue,gvalue,prvalue](https://aiwithcloud.com/2022/09/15/how_to_distinguish_lvaluervaluexvaluegvalueprvalue/)

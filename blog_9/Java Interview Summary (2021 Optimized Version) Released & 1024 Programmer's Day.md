@@ -1,0 +1,2 @@
+# Java Interview Summary (2021 Optimized Version) Released & 1024 Programmer's Day
+[Java Interview Summary (2021 Optimized Version) Released & 1024 Programmer's Day](https://aiwithcloud.com/2022/09/19/java_interview_summary_2021_optimized_version_released__1024_programmers_day/)

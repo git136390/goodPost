@@ -1,0 +1,2 @@
+# springboot configuration database password encryption
+[springboot configuration database password encryption](https://aiwithcloud.com/2022/09/15/springboot_configuration_database_password_encryption/)

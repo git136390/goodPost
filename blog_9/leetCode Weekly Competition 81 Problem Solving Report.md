@@ -1,0 +1,2 @@
+# leetCode Weekly Competition 81 Problem Solving Report
+[leetCode Weekly Competition 81 Problem Solving Report](https://aiwithcloud.com/2022/09/19/leetcode_weekly_competition_81_problem_solving_report/)

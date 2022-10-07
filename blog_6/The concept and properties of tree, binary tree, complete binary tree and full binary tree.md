@@ -1,0 +1,2 @@
+# The concept and properties of tree, binary tree, complete binary tree and full binary tree
+[The concept and properties of tree, binary tree, complete binary tree and full binary tree](https://aiwithcloud.com/2022/09/16/the_concept_and_properties_of_tree_binary_tree_complete_binary_tree_and_full_binary_tree/)

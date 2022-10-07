@@ -1,0 +1,2 @@
+# c++ shared ptr uses enable shared from this to convert from this to shared ptr (C++ class related)
+[c++ shared ptr uses enable shared from this to convert from this to shared ptr (C++ class related)](https://aiwithcloud.com/2022/09/15/c_shared_ptr_uses_enable_shared_from_this_to_convert_from_this_to_shared_ptr_c_class_related/)

@@ -1,0 +1,2 @@
+# Learn Mysql master-slave cluster configuration from scratch
+[Learn Mysql master-slave cluster configuration from scratch](https://aiwithcloud.com/2022/09/16/learn_mysql_master_slave_cluster_configuration_from_scratch/)

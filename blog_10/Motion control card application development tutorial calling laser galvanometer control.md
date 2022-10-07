@@ -1,0 +1,2 @@
+# Motion control card application development tutorial calling laser galvanometer control
+[Motion control card application development tutorial calling laser galvanometer control](https://aiwithcloud.com/2022/09/19/motion_control_card_application_development_tutorial_calling_laser_galvanometer_control/)

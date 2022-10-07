@@ -1,0 +1,2 @@
+# Minesweeper implemented in C language (full-featured version)
+[Minesweeper implemented in C language (full-featured version)](https://aiwithcloud.com/2022/09/16/minesweeper_implemented_in_c_language_full_featured_version/)

@@ -1,0 +1,2 @@
+# How to analyze the execution time of a SQL statement in MySQL
+[How to analyze the execution time of a SQL statement in MySQL](https://aiwithcloud.com/2022/09/19/how_to_analyze_the_execution_time_of_a_sql_statement_in_mysql/)

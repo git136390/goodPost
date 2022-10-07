@@ -1,0 +1,2 @@
+# [Summer vacation algorithm check-in (backtracking)--7.19]
+[[Summer vacation algorithm check-in (backtracking)--7.19]](https://aiwithcloud.com/2022/09/15/summer_vacation_algorithm_check_in_backtracking__7-19/)

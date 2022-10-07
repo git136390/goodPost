@@ -1,0 +1,2 @@
+# Django REST project combat online Chinese character recognition
+[Django REST project combat online Chinese character recognition](https://aiwithcloud.com/2022/09/19/django_rest_project_combat_online_chinese_character_recognition/)

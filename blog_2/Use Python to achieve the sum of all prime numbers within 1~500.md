@@ -1,0 +1,2 @@
+# Use Python to achieve the sum of all prime numbers within 1~500
+[Use Python to achieve the sum of all prime numbers within 1~500](https://aiwithcloud.com/2022/09/15/use_python_to_achieve_the_sum_of_all_prime_numbers_within_1500/)

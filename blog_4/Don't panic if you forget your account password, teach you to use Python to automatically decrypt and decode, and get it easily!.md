@@ -1,0 +1,2 @@
+# Don't panic if you forget your account password, teach you to use Python to automatically decrypt and decode, and get it easily!
+[Don't panic if you forget your account password, teach you to use Python to automatically decrypt and decode, and get it easily!](https://aiwithcloud.com/2022/09/15/dont_panic_if_you_forget_your_account_password_teach_you_to_use_python_to_automatically_decrypt_and_decode_and_get_it_easily/)

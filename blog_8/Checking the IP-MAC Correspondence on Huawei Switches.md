@@ -1,0 +1,2 @@
+# Checking the IP-MAC Correspondence on Huawei Switches
+[Checking the IP-MAC Correspondence on Huawei Switches](https://aiwithcloud.com/2022/09/19/checking_the_ip_mac_correspondence_on_huawei_switches/)

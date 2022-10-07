@@ -1,0 +1,2 @@
+# Get the absolute paths of all files in the current folder through the cmd command and store them in the specified directory
+[Get the absolute paths of all files in the current folder through the cmd command and store them in the specified directory](https://aiwithcloud.com/2022/09/15/get_the_absolute_paths_of_all_files_in_the_current_folder_through_the_cmd_command_and_store_them_in_the_specified_directory/)

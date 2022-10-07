@@ -1,0 +1,2 @@
+# QtCreator plug-in development (6) - QtCreator options page
+[QtCreator plug-in development (6) - QtCreator options page](https://aiwithcloud.com/2022/09/19/qtcreator_plug_in_development_6___qtcreator_options_page/)

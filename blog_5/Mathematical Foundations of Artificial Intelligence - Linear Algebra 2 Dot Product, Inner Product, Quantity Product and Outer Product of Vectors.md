@@ -1,0 +1,2 @@
+# Mathematical Foundations of Artificial Intelligence - Linear Algebra 2 Dot Product, Inner Product, Quantity Product and Outer Product of Vectors
+[Mathematical Foundations of Artificial Intelligence - Linear Algebra 2 Dot Product, Inner Product, Quantity Product and Outer Product of Vectors](https://aiwithcloud.com/2022/09/16/mathematical_foundations_of_artificial_intelligence___linear_algebra_2_dot_product_inner_product_quantity_product_and_outer_product_of_vectors/)

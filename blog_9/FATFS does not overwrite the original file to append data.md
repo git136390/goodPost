@@ -1,0 +1,2 @@
+# FATFS does not overwrite the original file to append data
+[FATFS does not overwrite the original file to append data](https://aiwithcloud.com/2022/09/19/fatfs_does_not_overwrite_the_original_file_to_append_data/)

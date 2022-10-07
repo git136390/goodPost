@@ -1,0 +1,2 @@
+# [Linux driver development] Detailed device tree explanation (2) Detailed explanation of device tree syntax
+[[Linux driver development] Detailed device tree explanation (2) Detailed explanation of device tree syntax](https://aiwithcloud.com/2022/09/16/linux_driver_development_detailed_device_tree_explanation_2_detailed_explanation_of_device_tree_syntax/)

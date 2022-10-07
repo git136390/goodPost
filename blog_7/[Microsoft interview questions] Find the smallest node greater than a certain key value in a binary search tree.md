@@ -1,0 +1,2 @@
+# [Microsoft interview questions] Find the smallest node greater than a certain key value in a binary search tree
+[[Microsoft interview questions] Find the smallest node greater than a certain key value in a binary search tree](https://aiwithcloud.com/2022/09/16/microsoft_interview_questions_find_the_smallest_node_greater_than_a_certain_key_value_in_a_binary_search_tree/)

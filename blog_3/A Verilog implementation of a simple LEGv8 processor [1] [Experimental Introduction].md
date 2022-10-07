@@ -1,0 +1,2 @@
+# A Verilog implementation of a simple LEGv8 processor [1] [Experimental Introduction]
+[A Verilog implementation of a simple LEGv8 processor [1] [Experimental Introduction]](https://aiwithcloud.com/2022/09/15/a_verilog_implementation_of_a_simple_legv8_processor_1_experimental_introduction/)

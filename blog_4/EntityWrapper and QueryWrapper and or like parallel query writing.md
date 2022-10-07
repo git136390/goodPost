@@ -1,0 +1,2 @@
+# EntityWrapper and QueryWrapper and or like parallel query writing
+[EntityWrapper and QueryWrapper and or like parallel query writing](https://aiwithcloud.com/2022/09/15/entitywrapper_and_querywrapper_and_or_like_parallel_query_writing/)

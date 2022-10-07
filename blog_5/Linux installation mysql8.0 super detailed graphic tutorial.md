@@ -1,0 +1,2 @@
+# Linux installation mysql8.0 super detailed graphic tutorial
+[Linux installation mysql8.0 super detailed graphic tutorial](https://aiwithcloud.com/2022/09/16/linux_installation_mysql8-0_super_detailed_graphic_tutorial/)

@@ -1,0 +1,2 @@
+# openCV learning - automatic processing of pictures & videos
+[openCV learning - automatic processing of pictures & videos](https://aiwithcloud.com/2022/09/16/opencv_learning___automatic_processing_of_pictures__videos/)

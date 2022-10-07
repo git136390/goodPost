@@ -1,0 +1,2 @@
+# IDEA runs the whole process of Maven project configuration (for rookies)
+[IDEA runs the whole process of Maven project configuration (for rookies)](https://aiwithcloud.com/2022/09/15/idea_runs_the_whole_process_of_maven_project_configuration_for_rookies/)

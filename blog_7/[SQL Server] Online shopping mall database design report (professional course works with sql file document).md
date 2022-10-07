@@ -1,0 +1,2 @@
+# [SQL Server] Online shopping mall database design report (professional course works with sql file document)
+[[SQL Server] Online shopping mall database design report (professional course works with sql file document)](https://aiwithcloud.com/2022/09/16/sql_server_online_shopping_mall_database_design_report_professional_course_works_with_sql_file_document/)

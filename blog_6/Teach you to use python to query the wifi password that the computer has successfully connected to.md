@@ -1,0 +1,2 @@
+# Teach you to use python to query the wifi password that the computer has successfully connected to
+[Teach you to use python to query the wifi password that the computer has successfully connected to](https://aiwithcloud.com/2022/09/16/teach_you_to_use_python_to_query_the_wifi_password_that_the_computer_has_successfully_connected_to/)

@@ -1,0 +1,2 @@
+# STM32 external crystal oscillator circuit design and matching
+[STM32 external crystal oscillator circuit design and matching](https://aiwithcloud.com/2022/09/15/stm32_external_crystal_oscillator_circuit_design_and_matching/)

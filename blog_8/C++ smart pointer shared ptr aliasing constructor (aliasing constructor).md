@@ -1,0 +1,2 @@
+# C++ smart pointer shared ptr aliasing constructor (aliasing constructor)
+[C++ smart pointer shared ptr aliasing constructor (aliasing constructor)](https://aiwithcloud.com/2022/09/19/c_smart_pointer_shared_ptr_aliasing_constructor_aliasing_constructor/)

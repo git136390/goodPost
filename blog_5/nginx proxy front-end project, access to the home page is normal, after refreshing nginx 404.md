@@ -1,0 +1,2 @@
+# nginx proxy front-end project, access to the home page is normal, after refreshing nginx 404
+[nginx proxy front-end project, access to the home page is normal, after refreshing nginx 404](https://aiwithcloud.com/2022/09/16/nginx_proxy_front_end_project_access_to_the_home_page_is_normal_after_refreshing_nginx_404/)

@@ -1,0 +1,2 @@
+# Getting Started with Airtest - Basic Use of AirtestIDE
+[Getting Started with Airtest - Basic Use of AirtestIDE](https://aiwithcloud.com/2022/09/15/getting_started_with_airtest___basic_use_of_airtestide/)

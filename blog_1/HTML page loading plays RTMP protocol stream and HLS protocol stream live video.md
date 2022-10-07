@@ -1,0 +1,2 @@
+# HTML page loading plays RTMP protocol stream and HLS protocol stream live video
+[HTML page loading plays RTMP protocol stream and HLS protocol stream live video](https://aiwithcloud.com/2022/09/15/html_page_loading_plays_rtmp_protocol_stream_and_hls_protocol_stream_live_video/)

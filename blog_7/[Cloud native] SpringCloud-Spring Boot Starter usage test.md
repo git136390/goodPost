@@ -1,0 +1,2 @@
+# [Cloud native] SpringCloud-Spring Boot Starter usage test
+[[Cloud native] SpringCloud-Spring Boot Starter usage test](https://aiwithcloud.com/2022/09/16/cloud_native_springcloud_spring_boot_starter_usage_test/)

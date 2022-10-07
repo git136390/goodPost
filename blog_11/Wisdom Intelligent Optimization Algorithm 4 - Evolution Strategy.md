@@ -1,0 +1,2 @@
+# Wisdom Intelligent Optimization Algorithm 4 - Evolution Strategy
+[Wisdom Intelligent Optimization Algorithm 4 - Evolution Strategy](https://aiwithcloud.com/2022/09/19/wisdom_intelligent_optimization_algorithm_4___evolution_strategy/)

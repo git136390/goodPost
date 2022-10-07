@@ -1,0 +1,2 @@
+# Java Given a non-empty array of integers, each element appears twice except one that appears only once. Find the element that appears only once.
+[Java Given a non-empty array of integers, each element appears twice except one that appears only once. Find the element that appears only once.](https://aiwithcloud.com/2022/09/15/java_given_a_non_empty_array_of_integers_each_element_appears_twice_except_one_that_appears_only_once-_find_the_element_that_appears_only_once/)

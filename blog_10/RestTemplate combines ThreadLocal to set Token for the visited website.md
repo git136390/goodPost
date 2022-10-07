@@ -1,0 +1,2 @@
+# RestTemplate combines ThreadLocal to set Token for the visited website
+[RestTemplate combines ThreadLocal to set Token for the visited website](https://aiwithcloud.com/2022/09/19/resttemplate_combines_threadlocal_to_set_token_for_the_visited_website/)

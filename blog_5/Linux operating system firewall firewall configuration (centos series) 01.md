@@ -1,0 +1,2 @@
+# Linux operating system firewall firewall configuration (centos series) 01
+[Linux operating system firewall firewall configuration (centos series) 01](https://aiwithcloud.com/2022/09/16/linux_operating_system_firewall_firewall_configuration_centos_series_01/)

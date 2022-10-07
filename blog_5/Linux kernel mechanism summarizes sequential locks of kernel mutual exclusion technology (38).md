@@ -1,0 +1,2 @@
+# Linux kernel mechanism summarizes sequential locks of kernel mutual exclusion technology (38)
+[Linux kernel mechanism summarizes sequential locks of kernel mutual exclusion technology (38)](https://aiwithcloud.com/2022/09/16/linux_kernel_mechanism_summarizes_sequential_locks_of_kernel_mutual_exclusion_technology_38/)

@@ -1,0 +1,2 @@
+# (Advanced) PywebIO module in python makes a big data screen
+[(Advanced) PywebIO module in python makes a big data screen](https://aiwithcloud.com/2022/09/19/advanced_pywebio_module_in_python_makes_a_big_data_screen/)

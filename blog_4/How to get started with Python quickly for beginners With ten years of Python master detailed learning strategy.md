@@ -1,0 +1,2 @@
+# How to get started with Python quickly for beginners With ten years of Python master detailed learning strategy
+[How to get started with Python quickly for beginners With ten years of Python master detailed learning strategy](https://aiwithcloud.com/2022/09/15/how_to_get_started_with_python_quickly_for_beginners_with_ten_years_of_python_master_detailed_learning_strategy/)

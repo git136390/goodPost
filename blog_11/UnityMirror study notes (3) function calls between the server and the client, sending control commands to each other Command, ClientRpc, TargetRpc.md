@@ -1,0 +1,2 @@
+# UnityMirror study notes (3) function calls between the server and the client, sending control commands to each other Command, ClientRpc, TargetRpc
+[UnityMirror study notes (3) function calls between the server and the client, sending control commands to each other Command, ClientRpc, TargetRpc](https://aiwithcloud.com/2022/09/19/unitymirror_study_notes_3_function_calls_between_the_server_and_the_client_sending_control_commands_to_each_other_command_clientrpc_targetrpc/)

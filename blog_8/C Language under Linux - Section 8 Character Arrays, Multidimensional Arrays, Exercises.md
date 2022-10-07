@@ -1,0 +1,2 @@
+# C Language under Linux - Section 8 Character Arrays, Multidimensional Arrays, Exercises
+[C Language under Linux - Section 8 Character Arrays, Multidimensional Arrays, Exercises](https://aiwithcloud.com/2022/09/19/c_language_under_linux___section_8_character_arrays_multidimensional_arrays_exercises/)

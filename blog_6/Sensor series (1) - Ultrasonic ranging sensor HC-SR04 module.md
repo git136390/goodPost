@@ -1,0 +1,2 @@
+# Sensor series (1) - Ultrasonic ranging sensor HC-SR04 module
+[Sensor series (1) - Ultrasonic ranging sensor HC-SR04 module](https://aiwithcloud.com/2022/09/16/sensor_series_1___ultrasonic_ranging_sensor_hc_sr04_module/)

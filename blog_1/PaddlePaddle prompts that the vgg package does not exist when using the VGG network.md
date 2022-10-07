@@ -1,0 +1,2 @@
+# PaddlePaddle prompts that the vgg package does not exist when using the VGG network
+[PaddlePaddle prompts that the vgg package does not exist when using the VGG network](https://aiwithcloud.com/2022/09/15/paddlepaddle_prompts_that_the_vgg_package_does_not_exist_when_using_the_vgg_network/)

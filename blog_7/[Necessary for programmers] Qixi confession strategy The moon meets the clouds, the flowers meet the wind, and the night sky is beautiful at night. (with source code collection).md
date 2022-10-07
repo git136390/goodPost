@@ -1,0 +1,2 @@
+# [Necessary for programmers] Qixi confession strategy The moon meets the clouds, the flowers meet the wind, and the night sky is beautiful at night. (with source code collection)
+[[Necessary for programmers] Qixi confession strategy The moon meets the clouds, the flowers meet the wind, and the night sky is beautiful at night. (with source code collection)](https://aiwithcloud.com/2022/09/16/necessary_for_programmers_qixi_confession_strategy_the_moon_meets_the_clouds_the_flowers_meet_the_wind_and_the_night_sky_is_beautiful_at_night-_with_source_code_collection/)

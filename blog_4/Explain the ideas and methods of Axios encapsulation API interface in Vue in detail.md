@@ -1,0 +1,2 @@
+# Explain the ideas and methods of Axios encapsulation API interface in Vue in detail
+[Explain the ideas and methods of Axios encapsulation API interface in Vue in detail](https://aiwithcloud.com/2022/09/15/explain_the_ideas_and_methods_of_axios_encapsulation_api_interface_in_vue_in_detail/)

@@ -1,0 +1,2 @@
+# Encyclopedia and comparative analysis of event capture methods for GUI graphical interface applications implemented by PyQt (Python+Qt)
+[Encyclopedia and comparative analysis of event capture methods for GUI graphical interface applications implemented by PyQt (Python+Qt)](https://aiwithcloud.com/2022/09/19/encyclopedia_and_comparative_analysis_of_event_capture_methods_for_gui_graphical_interface_applications_implemented_by_pyqt_pythonqt/)

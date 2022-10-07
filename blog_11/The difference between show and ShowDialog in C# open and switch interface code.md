@@ -1,0 +1,2 @@
+# The difference between show and ShowDialog in C# open and switch interface code
+[The difference between show and ShowDialog in C# open and switch interface code](https://aiwithcloud.com/2022/09/19/the_difference_between_show_and_showdialog_in_c_open_and_switch_interface_code/)

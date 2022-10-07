@@ -1,0 +1,2 @@
+# Java-based SSM supermarket order management system (computer graduation design)
+[Java-based SSM supermarket order management system (computer graduation design)](https://aiwithcloud.com/2022/09/16/java_based_ssm_supermarket_order_management_system_computer_graduation_design/)

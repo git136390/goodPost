@@ -1,0 +1,2 @@
+# Vue scaffolding installation and creation, full illustration
+[Vue scaffolding installation and creation, full illustration](https://aiwithcloud.com/2022/09/19/vue_scaffolding_installation_and_creation_full_illustration/)

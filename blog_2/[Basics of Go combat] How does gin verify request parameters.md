@@ -1,0 +1,2 @@
+# [Basics of Go combat] How does gin verify request parameters
+[[Basics of Go combat] How does gin verify request parameters](https://aiwithcloud.com/2022/09/15/basics_of_go_combat_how_does_gin_verify_request_parameters/)

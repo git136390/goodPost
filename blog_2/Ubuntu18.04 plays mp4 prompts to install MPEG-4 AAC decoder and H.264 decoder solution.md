@@ -1,0 +1,2 @@
+# Ubuntu18.04 plays mp4 prompts to install MPEG-4 AAC decoder and H.264 decoder solution
+[Ubuntu18.04 plays mp4 prompts to install MPEG-4 AAC decoder and H.264 decoder solution](https://aiwithcloud.com/2022/09/15/ubuntu18-04_plays_mp4_prompts_to_install_mpeg_4_aac_decoder_and_h-264_decoder_solution/)

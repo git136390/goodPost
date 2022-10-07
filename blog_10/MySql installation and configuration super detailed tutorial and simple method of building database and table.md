@@ -1,0 +1,2 @@
+# MySql installation and configuration super detailed tutorial and simple method of building database and table
+[MySql installation and configuration super detailed tutorial and simple method of building database and table](https://aiwithcloud.com/2022/09/19/mysql_installation_and_configuration_super_detailed_tutorial_and_simple_method_of_building_database_and_table/)

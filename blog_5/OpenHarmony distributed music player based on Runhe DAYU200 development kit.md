@@ -1,0 +1,2 @@
+# OpenHarmony distributed music player based on Runhe DAYU200 development kit
+[OpenHarmony distributed music player based on Runhe DAYU200 development kit](https://aiwithcloud.com/2022/09/16/openharmony_distributed_music_player_based_on_runhe_dayu200_development_kit/)

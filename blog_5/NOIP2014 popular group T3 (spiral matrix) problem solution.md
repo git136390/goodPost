@@ -1,0 +1,2 @@
+# NOIP2014 popular group T3 (spiral matrix) problem solution
+[NOIP2014 popular group T3 (spiral matrix) problem solution](https://aiwithcloud.com/2022/09/16/noip2014_popular_group_t3_spiral_matrix_problem_solution/)

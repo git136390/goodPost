@@ -1,0 +1,2 @@
+# What is the difference between count() and count(1) in MySQL Which has the best performance
+[What is the difference between count() and count(1) in MySQL Which has the best performance](https://aiwithcloud.com/2022/09/16/what_is_the_difference_between_count_and_count1_in_mysql_which_has_the_best_performance/)

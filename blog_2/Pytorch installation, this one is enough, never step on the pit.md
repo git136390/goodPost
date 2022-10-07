@@ -1,0 +1,2 @@
+# Pytorch installation, this one is enough, never step on the pit
+[Pytorch installation, this one is enough, never step on the pit](https://aiwithcloud.com/2022/09/15/pytorch_installation_this_one_is_enough_never_step_on_the_pit/)

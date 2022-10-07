@@ -1,0 +1,2 @@
+# scss installation and Module build failed TypeError this.getOptions is not a function installation node-Sass error
+[scss installation and Module build failed TypeError this.getOptions is not a function installation node-Sass error](https://aiwithcloud.com/2022/09/19/scss_installation_and_module_build_failed_typeerror_this-getoptions_is_not_a_function_installation_node_sass_error/)

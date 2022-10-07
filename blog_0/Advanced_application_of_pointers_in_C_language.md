@@ -1,0 +1,2 @@
+# Advanced_application_of_pointers_in_C_language
+[Advanced_application_of_pointers_in_C_language](https://aiwithcloud.com/2022/09/14/advanced_application_of_pointers_in_c_language/)

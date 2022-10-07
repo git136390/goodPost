@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] —— 3. Merge two ordered linked lists
+[[Blue Bridge Java daily practice] —— 3. Merge two ordered linked lists](https://aiwithcloud.com/2022/09/16/blue_bridge_java_daily_practice_-_3-_merge_two_ordered_linked_lists/)

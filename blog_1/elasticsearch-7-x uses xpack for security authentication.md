@@ -1,0 +1,2 @@
+# elasticsearch-7-x uses xpack for security authentication
+[elasticsearch-7-x uses xpack for security authentication](https://aiwithcloud.com/2022/09/14/elasticsearch_7_x_uses_xpack_for_security_authentication/)

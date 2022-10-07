@@ -1,0 +1,2 @@
+# Java learning journey - the use of collections (Map collection)
+[Java learning journey - the use of collections (Map collection)](https://aiwithcloud.com/2022/09/19/java_learning_journey___the_use_of_collections_map_collection/)

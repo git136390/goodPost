@@ -1,0 +1,2 @@
+# [Linux learning] One-stop explanation of installing Qt5 in virtual machine VMware
+[[Linux learning] One-stop explanation of installing Qt5 in virtual machine VMware](https://aiwithcloud.com/2022/09/15/linux_learning_one_stop_explanation_of_installing_qt5_in_virtual_machine_vmware/)

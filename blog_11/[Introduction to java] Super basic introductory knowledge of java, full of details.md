@@ -1,0 +1,2 @@
+# [Introduction to java] Super basic introductory knowledge of java, full of details
+[[Introduction to java] Super basic introductory knowledge of java, full of details](https://aiwithcloud.com/2022/09/19/introduction_to_java_super_basic_introductory_knowledge_of_java_full_of_details/)

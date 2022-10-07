@@ -1,0 +1,2 @@
+# LeetCode 1. Sum of two numbers + 125. Verification palindrome
+[LeetCode 1. Sum of two numbers + 125. Verification palindrome](https://aiwithcloud.com/2022/09/19/leetcode_1-_sum_of_two_numbers__125-_verification_palindrome/)

@@ -1,0 +1,2 @@
+# VS2019 debugging practical debugging skills (excellent programmers must see)
+[VS2019 debugging practical debugging skills (excellent programmers must see)](https://aiwithcloud.com/2022/09/16/vs2019_debugging_practical_debugging_skills_excellent_programmers_must_see/)

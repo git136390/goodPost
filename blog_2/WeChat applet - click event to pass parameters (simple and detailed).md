@@ -1,0 +1,2 @@
+# WeChat applet - click event to pass parameters (simple and detailed)
+[WeChat applet - click event to pass parameters (simple and detailed)](https://aiwithcloud.com/2022/09/15/wechat_applet___click_event_to_pass_parameters_simple_and_detailed/)

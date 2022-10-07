@@ -1,0 +1,2 @@
+# Java implements greedy snake battle game (full version)
+[Java implements greedy snake battle game (full version)](https://aiwithcloud.com/2022/09/19/java_implements_greedy_snake_battle_game_full_version/)

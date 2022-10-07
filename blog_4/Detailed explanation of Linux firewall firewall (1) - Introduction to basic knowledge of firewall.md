@@ -1,0 +1,2 @@
+# Detailed explanation of Linux firewall firewall (1) - Introduction to basic knowledge of firewall
+[Detailed explanation of Linux firewall firewall (1) - Introduction to basic knowledge of firewall](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_linux_firewall_firewall_1___introduction_to_basic_knowledge_of_firewall/)

@@ -1,0 +1,2 @@
+# Changed career as a programmer, from a monthly salary of 5k to 50k, a 45-year-old programmer expressed his sadness all the way
+[Changed career as a programmer, from a monthly salary of 5k to 50k, a 45-year-old programmer expressed his sadness all the way](https://aiwithcloud.com/2022/09/15/changed_career_as_a_programmer_from_a_monthly_salary_of_5k_to_50k_a_45_year_old_programmer_expressed_his_sadness_all_the_way/)

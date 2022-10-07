@@ -1,0 +1,2 @@
+# C++ Get the year, month, day, and hour, minute, and second of the current time
+[C++ Get the year, month, day, and hour, minute, and second of the current time](https://aiwithcloud.com/2022/09/14/c_get_the_year_month_day_and_hour_minute_and_second_of_the_current_time/)

@@ -1,0 +1,2 @@
+# Use the cmd command to clear the directory under Windows
+[Use the cmd command to clear the directory under Windows](https://aiwithcloud.com/2022/09/16/use_the_cmd_command_to_clear_the_directory_under_windows/)

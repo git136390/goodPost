@@ -1,0 +1,2 @@
+# About AttributeError type object 'XXX' has no attribute 'XXX'
+[About AttributeError type object 'XXX' has no attribute 'XXX'](https://aiwithcloud.com/2022/09/15/about_attributeerror_type_object_xxx_has_no_attribute_xxx/)

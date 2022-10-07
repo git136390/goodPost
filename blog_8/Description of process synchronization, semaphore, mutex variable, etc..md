@@ -1,0 +1,2 @@
+# Description of process synchronization, semaphore, mutex variable, etc.
+[Description of process synchronization, semaphore, mutex variable, etc.](https://aiwithcloud.com/2022/09/19/description_of_process_synchronization_semaphore_mutex_variable_etc/)

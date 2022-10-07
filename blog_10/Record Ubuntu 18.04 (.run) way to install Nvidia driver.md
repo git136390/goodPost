@@ -1,0 +1,2 @@
+# Record Ubuntu 18.04 (.run) way to install Nvidia driver
+[Record Ubuntu 18.04 (.run) way to install Nvidia driver](https://aiwithcloud.com/2022/09/19/record_ubuntu_18-04_-run_way_to_install_nvidia_driver/)

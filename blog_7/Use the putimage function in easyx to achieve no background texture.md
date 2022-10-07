@@ -1,0 +1,2 @@
+# Use the putimage function in easyx to achieve no background texture
+[Use the putimage function in easyx to achieve no background texture](https://aiwithcloud.com/2022/09/16/use_the_putimage_function_in_easyx_to_achieve_no_background_texture/)

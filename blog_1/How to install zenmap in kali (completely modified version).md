@@ -1,0 +1,2 @@
+# How to install zenmap in kali (completely modified version)
+[How to install zenmap in kali (completely modified version)](https://aiwithcloud.com/2022/09/15/how_to_install_zenmap_in_kali_completely_modified_version/)

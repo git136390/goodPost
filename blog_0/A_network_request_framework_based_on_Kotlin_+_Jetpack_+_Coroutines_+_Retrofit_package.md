@@ -1,0 +1,2 @@
+# A_network_request_framework_based_on_Kotlin_+_Jetpack_+_Coroutines_+_Retrofit_package
+[A_network_request_framework_based_on_Kotlin_+_Jetpack_+_Coroutines_+_Retrofit_package](https://aiwithcloud.com/2022/09/14/a_network_request_framework_based_on_kotlin__jetpack__coroutines__retrofit_package/)

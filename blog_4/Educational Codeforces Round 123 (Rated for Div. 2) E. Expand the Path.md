@@ -1,0 +1,2 @@
+# Educational Codeforces Round 123 (Rated for Div. 2) E. Expand the Path
+[Educational Codeforces Round 123 (Rated for Div. 2) E. Expand the Path](https://aiwithcloud.com/2022/09/15/educational_codeforces_round_123_rated_for_div-_2_e-_expand_the_path/)

@@ -1,0 +1,2 @@
+# C++ basic knowledge points (8) exceptions, conversion functions, smart pointers
+[C++ basic knowledge points (8) exceptions, conversion functions, smart pointers](https://aiwithcloud.com/2022/09/19/c_basic_knowledge_points_8_exceptions_conversion_functions_smart_pointers/)

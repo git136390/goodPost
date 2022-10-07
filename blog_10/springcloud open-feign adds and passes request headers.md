@@ -1,0 +1,2 @@
+# springcloud open-feign adds and passes request headers
+[springcloud open-feign adds and passes request headers](https://aiwithcloud.com/2022/09/19/springcloud_open_feign_adds_and_passes_request_headers/)

@@ -1,0 +1,2 @@
+# Summary of problems encountered in learning documents and making office supplies
+[Summary of problems encountered in learning documents and making office supplies](https://aiwithcloud.com/2022/09/19/summary_of_problems_encountered_in_learning_documents_and_making_office_supplies/)

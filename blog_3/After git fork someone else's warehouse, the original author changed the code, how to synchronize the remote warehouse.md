@@ -1,0 +1,2 @@
+# After git fork someone else's warehouse, the original author changed the code, how to synchronize the remote warehouse
+[After git fork someone else's warehouse, the original author changed the code, how to synchronize the remote warehouse](https://aiwithcloud.com/2022/09/15/after_git_fork_someone_elses_warehouse_the_original_author_changed_the_code_how_to_synchronize_the_remote_warehouse/)

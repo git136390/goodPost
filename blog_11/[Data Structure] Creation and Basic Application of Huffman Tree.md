@@ -1,0 +1,2 @@
+# [Data Structure] Creation and Basic Application of Huffman Tree
+[[Data Structure] Creation and Basic Application of Huffman Tree](https://aiwithcloud.com/2022/09/19/data_structure_creation_and_basic_application_of_huffman_tree/)

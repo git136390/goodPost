@@ -1,0 +1,2 @@
+# Hexadecimal format string to hexadecimal format integer source function
+[Hexadecimal format string to hexadecimal format integer source function](https://aiwithcloud.com/2022/09/19/hexadecimal_format_string_to_hexadecimal_format_integer_source_function/)

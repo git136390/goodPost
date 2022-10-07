@@ -1,0 +1,2 @@
+# HTML (table structure, associated with three small exercises)
+[HTML (table structure, associated with three small exercises)](https://aiwithcloud.com/2022/09/19/html_table_structure_associated_with_three_small_exercises/)

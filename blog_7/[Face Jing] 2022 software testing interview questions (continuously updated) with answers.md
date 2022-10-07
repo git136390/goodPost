@@ -1,0 +1,2 @@
+# [Face Jing] 2022 software testing interview questions (continuously updated) with answers
+[[Face Jing] 2022 software testing interview questions (continuously updated) with answers](https://aiwithcloud.com/2022/09/16/face_jing_2022_software_testing_interview_questions_continuously_updated_with_answers/)

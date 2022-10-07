@@ -1,0 +1,2 @@
+# The train ticket is gone in seconds, don't panic a Python automatic ticket grabbing artifact, collect it and go home
+[The train ticket is gone in seconds, don't panic a Python automatic ticket grabbing artifact, collect it and go home](https://aiwithcloud.com/2022/09/19/the_train_ticket_is_gone_in_seconds_dont_panic_a_python_automatic_ticket_grabbing_artifact_collect_it_and_go_home/)

@@ -1,0 +1,2 @@
+# Detailed explanation and calculation of the greatest common divisor and the least common multiple
+[Detailed explanation and calculation of the greatest common divisor and the least common multiple](https://aiwithcloud.com/2022/09/15/detailed_explanation_and_calculation_of_the_greatest_common_divisor_and_the_least_common_multiple/)

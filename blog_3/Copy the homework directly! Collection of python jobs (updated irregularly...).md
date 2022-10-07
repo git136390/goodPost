@@ -1,0 +1,2 @@
+# Copy the homework directly! Collection of python jobs (updated irregularly...)
+[Copy the homework directly! Collection of python jobs (updated irregularly...)](https://aiwithcloud.com/2022/09/15/copy_the_homework_directly_collection_of_python_jobs_updated_irregularly/)

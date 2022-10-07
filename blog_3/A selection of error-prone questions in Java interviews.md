@@ -1,0 +1,2 @@
+# A selection of error-prone questions in Java interviews
+[A selection of error-prone questions in Java interviews](https://aiwithcloud.com/2022/09/15/a_selection_of_error_prone_questions_in_java_interviews/)

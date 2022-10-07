@@ -1,0 +1,2 @@
+# Using yolov5 to implement mask wearing detection algorithm (very detailed)
+[Using yolov5 to implement mask wearing detection algorithm (very detailed)](https://aiwithcloud.com/2022/09/19/using_yolov5_to_implement_mask_wearing_detection_algorithm_very_detailed/)

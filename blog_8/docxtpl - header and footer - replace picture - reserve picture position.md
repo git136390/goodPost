@@ -1,0 +1,2 @@
+# docxtpl - header and footer - replace picture - reserve picture position
+[docxtpl - header and footer - replace picture - reserve picture position](https://aiwithcloud.com/2022/09/19/docxtpl___header_and_footer___replace_picture___reserve_picture_position/)

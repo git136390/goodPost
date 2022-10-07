@@ -1,0 +1,2 @@
+# JVM underlying principles chapter five JVM five memory models Runtime Data Area
+[JVM underlying principles chapter five JVM five memory models Runtime Data Area](https://aiwithcloud.com/2022/09/19/jvm_underlying_principles_chapter_five_jvm_five_memory_models_runtime_data_area/)

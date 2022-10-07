@@ -1,0 +1,2 @@
+# vue-cli-service is not an internal or external command, nor is it a runnable program
+[vue-cli-service is not an internal or external command, nor is it a runnable program](https://aiwithcloud.com/2022/09/15/vue_cli_service_is_not_an_internal_or_external_command_nor_is_it_a_runnable_program/)

@@ -1,0 +1,2 @@
+# Raspberry Pi and OpenCV realize face recognition (face recognition)
+[Raspberry Pi and OpenCV realize face recognition (face recognition)](https://aiwithcloud.com/2022/09/19/raspberry_pi_and_opencv_realize_face_recognition_face_recognition/)

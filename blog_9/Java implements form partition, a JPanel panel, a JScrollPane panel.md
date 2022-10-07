@@ -1,0 +1,2 @@
+# Java implements form partition, a JPanel panel, a JScrollPane panel
+[Java implements form partition, a JPanel panel, a JScrollPane panel](https://aiwithcloud.com/2022/09/19/java_implements_form_partition_a_jpanel_panel_a_jscrollpane_panel/)

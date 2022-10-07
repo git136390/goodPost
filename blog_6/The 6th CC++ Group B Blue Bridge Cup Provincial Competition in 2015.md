@@ -1,0 +1,2 @@
+# The 6th CC++ Group B Blue Bridge Cup Provincial Competition in 2015
+[The 6th CC++ Group B Blue Bridge Cup Provincial Competition in 2015](https://aiwithcloud.com/2022/09/16/the_6th_cc_group_b_blue_bridge_cup_provincial_competition_in_2015/)

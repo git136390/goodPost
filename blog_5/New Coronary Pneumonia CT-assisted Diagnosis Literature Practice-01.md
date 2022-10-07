@@ -1,0 +1,2 @@
+# New Coronary Pneumonia CT-assisted Diagnosis Literature Practice-01
+[New Coronary Pneumonia CT-assisted Diagnosis Literature Practice-01](https://aiwithcloud.com/2022/09/16/new_coronary_pneumonia_ct_assisted_diagnosis_literature_practice_01/)

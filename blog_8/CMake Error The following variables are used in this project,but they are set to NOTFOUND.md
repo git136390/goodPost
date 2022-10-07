@@ -1,0 +1,2 @@
+# CMake Error The following variables are used in this project,but they are set to NOTFOUND
+[CMake Error The following variables are used in this project,but they are set to NOTFOUND](https://aiwithcloud.com/2022/09/19/cmake_error_the_following_variables_are_used_in_this_projectbut_they_are_set_to_notfound/)

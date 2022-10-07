@@ -1,0 +1,2 @@
+# [Linux learning] - Allow the local root user to open ssh remote login operation in ubuntu
+[[Linux learning] - Allow the local root user to open ssh remote login operation in ubuntu](https://aiwithcloud.com/2022/09/15/linux_learning___allow_the_local_root_user_to_open_ssh_remote_login_operation_in_ubuntu/)

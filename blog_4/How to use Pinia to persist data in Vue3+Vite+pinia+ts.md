@@ -1,0 +1,2 @@
+# How to use Pinia to persist data in Vue3+Vite+pinia+ts
+[How to use Pinia to persist data in Vue3+Vite+pinia+ts](https://aiwithcloud.com/2022/09/15/how_to_use_pinia_to_persist_data_in_vue3vitepiniats/)

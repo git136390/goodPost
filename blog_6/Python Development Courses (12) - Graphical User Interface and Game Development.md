@@ -1,0 +1,2 @@
+# Python Development Courses (12) - Graphical User Interface and Game Development
+[Python Development Courses (12) - Graphical User Interface and Game Development](https://aiwithcloud.com/2022/09/16/python_development_courses_12___graphical_user_interface_and_game_development/)

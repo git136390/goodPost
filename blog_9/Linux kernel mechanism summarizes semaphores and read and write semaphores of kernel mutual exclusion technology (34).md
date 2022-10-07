@@ -1,0 +1,2 @@
+# Linux kernel mechanism summarizes semaphores and read and write semaphores of kernel mutual exclusion technology (34)
+[Linux kernel mechanism summarizes semaphores and read and write semaphores of kernel mutual exclusion technology (34)](https://aiwithcloud.com/2022/09/19/linux_kernel_mechanism_summarizes_semaphores_and_read_and_write_semaphores_of_kernel_mutual_exclusion_technology_34/)

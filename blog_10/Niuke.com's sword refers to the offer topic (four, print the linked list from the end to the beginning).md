@@ -1,0 +1,2 @@
+# Niuke.com's sword refers to the offer topic (four, print the linked list from the end to the beginning)
+[Niuke.com's sword refers to the offer topic (four, print the linked list from the end to the beginning)](https://aiwithcloud.com/2022/09/19/niuke-coms_sword_refers_to_the_offer_topic_four_print_the_linked_list_from_the_end_to_the_beginning/)

@@ -1,0 +1,2 @@
+# Tree Array of Algorithm Templates (HDU 1166 Enemy Array)
+[Tree Array of Algorithm Templates (HDU 1166 Enemy Array)](https://aiwithcloud.com/2022/09/15/tree_array_of_algorithm_templates_hdu_1166_enemy_array/)

@@ -1,0 +1,2 @@
+# I said that the MySQL joint index follows the leftmost prefix matching principle, the interviewer asked me to go back and wait for the notification
+[I said that the MySQL joint index follows the leftmost prefix matching principle, the interviewer asked me to go back and wait for the notification](https://aiwithcloud.com/2022/09/15/i_said_that_the_mysql_joint_index_follows_the_leftmost_prefix_matching_principle_the_interviewer_asked_me_to_go_back_and_wait_for_the_notification/)

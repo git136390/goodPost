@@ -1,0 +1,2 @@
+# 3 ways for Python crawlers to parse web pages, worth collecting
+[3 ways for Python crawlers to parse web pages, worth collecting](https://aiwithcloud.com/2022/09/19/3_ways_for_python_crawlers_to_parse_web_pages_worth_collecting/)

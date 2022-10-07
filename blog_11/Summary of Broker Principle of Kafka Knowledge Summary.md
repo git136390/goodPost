@@ -1,0 +1,2 @@
+# Summary of Broker Principle of Kafka Knowledge Summary
+[Summary of Broker Principle of Kafka Knowledge Summary](https://aiwithcloud.com/2022/09/19/summary_of_broker_principle_of_kafka_knowledge_summary/)

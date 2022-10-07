@@ -1,0 +1,2 @@
+# STM32 USB AUDIO Basics ③——Introduction and differences of analog MIC, ECM digital microphone, MEMS digital microphone, PDM, PCM
+[STM32 USB AUDIO Basics ③——Introduction and differences of analog MIC, ECM digital microphone, MEMS digital microphone, PDM, PCM](https://aiwithcloud.com/2022/09/16/stm32_usb_audio_basics_%e2%91%a2-introduction_and_differences_of_analog_mic_ecm_digital_microphone_mems_digital_microphone_pdm_pcm/)

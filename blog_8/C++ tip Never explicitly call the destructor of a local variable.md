@@ -1,0 +1,2 @@
+# C++ tip Never explicitly call the destructor of a local variable
+[C++ tip Never explicitly call the destructor of a local variable](https://aiwithcloud.com/2022/09/19/c_tip_never_explicitly_call_the_destructor_of_a_local_variable/)

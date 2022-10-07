@@ -1,0 +1,2 @@
+# Google and Firefox Hackbar plugin download and installation
+[Google and Firefox Hackbar plugin download and installation](https://aiwithcloud.com/2022/09/19/google_and_firefox_hackbar_plugin_download_and_installation/)

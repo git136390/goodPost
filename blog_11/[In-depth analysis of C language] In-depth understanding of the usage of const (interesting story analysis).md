@@ -1,0 +1,2 @@
+# [In-depth analysis of C language] In-depth understanding of the usage of const (interesting story analysis)
+[[In-depth analysis of C language] In-depth understanding of the usage of const (interesting story analysis)](https://aiwithcloud.com/2022/09/19/in_depth_analysis_of_c_language_in_depth_understanding_of_the_usage_of_const_interesting_story_analysis/)

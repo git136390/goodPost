@@ -1,0 +1,2 @@
+# SQL database statement creation and management of stored procedures
+[SQL database statement creation and management of stored procedures](https://aiwithcloud.com/2022/09/16/sql_database_statement_creation_and_management_of_stored_procedures/)

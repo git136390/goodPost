@@ -1,0 +1,2 @@
+# Mathematical modeling method—[08] Pros and cons distance method (Topsis)
+[Mathematical modeling method—[08] Pros and cons distance method (Topsis)](https://aiwithcloud.com/2022/09/19/mathematical_modeling_method-08_pros_and_cons_distance_method_topsis/)

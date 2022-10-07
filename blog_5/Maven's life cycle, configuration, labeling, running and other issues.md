@@ -1,0 +1,2 @@
+# Maven's life cycle, configuration, labeling, running and other issues
+[Maven's life cycle, configuration, labeling, running and other issues](https://aiwithcloud.com/2022/09/16/mavens_life_cycle_configuration_labeling_running_and_other_issues/)

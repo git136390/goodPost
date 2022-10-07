@@ -1,0 +1,2 @@
+# The image conversion program implemented by GDI+ can be called through command line parameters
+[The image conversion program implemented by GDI+ can be called through command line parameters](https://aiwithcloud.com/2022/09/15/the_image_conversion_program_implemented_by_gdi_can_be_called_through_command_line_parameters/)

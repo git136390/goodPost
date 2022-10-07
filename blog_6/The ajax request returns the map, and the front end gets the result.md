@@ -1,0 +1,2 @@
+# The ajax request returns the map, and the front end gets the result
+[The ajax request returns the map, and the front end gets the result](https://aiwithcloud.com/2022/09/16/the_ajax_request_returns_the_map_and_the_front_end_gets_the_result/)

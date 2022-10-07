@@ -1,0 +1,2 @@
+# STM32 multi-serial port to achieve printf - based on cubemx
+[STM32 multi-serial port to achieve printf - based on cubemx](https://aiwithcloud.com/2022/09/19/stm32_multi_serial_port_to_achieve_printf___based_on_cubemx/)

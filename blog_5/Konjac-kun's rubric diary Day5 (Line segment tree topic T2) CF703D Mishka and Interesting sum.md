@@ -1,0 +1,2 @@
+# Konjac-kun's rubric diary Day5 (Line segment tree topic T2) CF703D Mishka and Interesting sum
+[Konjac-kun's rubric diary Day5 (Line segment tree topic T2) CF703D Mishka and Interesting sum](https://aiwithcloud.com/2022/09/16/konjac_kuns_rubric_diary_day5_line_segment_tree_topic_t2_cf703d_mishka_and_interesting_sum/)

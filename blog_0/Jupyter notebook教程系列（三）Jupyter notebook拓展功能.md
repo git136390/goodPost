@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（三）Jupyter notebook拓展功能
+[Jupyter notebook教程系列（三）Jupyter notebook拓展功能](https://aiwithcloud.com/2021/04/05/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e4%b8%89%ef%bc%89jupyter-notebook%e6%8b%93%e5%b1%95%e5%8a%9f%e8%83%bd/)

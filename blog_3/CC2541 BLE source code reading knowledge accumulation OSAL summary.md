@@ -1,0 +1,2 @@
+# CC2541 BLE source code reading knowledge accumulation OSAL summary
+[CC2541 BLE source code reading knowledge accumulation OSAL summary](https://aiwithcloud.com/2022/09/15/cc2541_ble_source_code_reading_knowledge_accumulation_osal_summary/)

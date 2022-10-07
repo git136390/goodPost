@@ -1,0 +1,2 @@
+# TypeError_ List of Tensors when single Tensor expected - when using const with tf.random_normal
+[TypeError_ List of Tensors when single Tensor expected - when using const with tf.random_normal](https://aiwithcloud.com/?p=1397)

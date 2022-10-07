@@ -1,0 +1,2 @@
+# SQL obtains table information in the database table name, table creation time, total number of rows, data size, etc.
+[SQL obtains table information in the database table name, table creation time, total number of rows, data size, etc.](https://aiwithcloud.com/2022/09/16/sql_obtains_table_information_in_the_database_table_name_table_creation_time_total_number_of_rows_data_size_etc/)

@@ -1,0 +1,2 @@
+# pytorch model parameter assignment - tensor.copy () method
+[pytorch model parameter assignment - tensor.copy () method](https://aiwithcloud.com/2022/09/19/pytorch_model_parameter_assignment___tensor-copy__method/)

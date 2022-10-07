@@ -1,0 +1,2 @@
+# The sword refers to the offer - the integer power of the value (super detailed explanation)
+[The sword refers to the offer - the integer power of the value (super detailed explanation)](https://aiwithcloud.com/2022/09/19/the_sword_refers_to_the_offer___the_integer_power_of_the_value_super_detailed_explanation/)

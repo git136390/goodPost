@@ -1,0 +1,2 @@
+# The sword refers to Offer II 049. The sum of the path numbers from the root node to the leaf node
+[The sword refers to Offer II 049. The sum of the path numbers from the root node to the leaf node](https://aiwithcloud.com/2022/09/16/the_sword_refers_to_offer_ii_049-_the_sum_of_the_path_numbers_from_the_root_node_to_the_leaf_node/)

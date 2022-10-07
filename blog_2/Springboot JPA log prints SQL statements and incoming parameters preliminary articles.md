@@ -1,0 +1,2 @@
+# Springboot JPA log prints SQL statements and incoming parameters preliminary articles
+[Springboot JPA log prints SQL statements and incoming parameters preliminary articles](https://aiwithcloud.com/2022/09/15/springboot_jpa_log_prints_sql_statements_and_incoming_parameters_preliminary_articles/)

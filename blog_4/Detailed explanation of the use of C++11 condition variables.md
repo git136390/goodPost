@@ -1,0 +1,2 @@
+# Detailed explanation of the use of C++11 condition variables
+[Detailed explanation of the use of C++11 condition variables](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_use_of_c11_condition_variables/)

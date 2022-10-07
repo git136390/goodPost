@@ -1,0 +1,2 @@
+# NOIP2015 improvement group Day2T1 (jumping stone) problem solution
+[NOIP2015 improvement group Day2T1 (jumping stone) problem solution](https://aiwithcloud.com/2022/09/19/noip2015_improvement_group_day2t1_jumping_stone_problem_solution/)

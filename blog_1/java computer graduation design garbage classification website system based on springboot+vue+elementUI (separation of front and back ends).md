@@ -1,0 +1,2 @@
+# java computer graduation design garbage classification website system based on springboot+vue+elementUI (separation of front and back ends)
+[java computer graduation design garbage classification website system based on springboot+vue+elementUI (separation of front and back ends)](https://aiwithcloud.com/2022/09/15/java_computer_graduation_design_garbage_classification_website_system_based_on_springbootvueelementui_separation_of_front_and_back_ends/)

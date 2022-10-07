@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（二）Jupyter notebook的基本用法
+[Jupyter notebook教程系列（二）Jupyter notebook的基本用法](https://aiwithcloud.com/2022/01/04/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e4%ba%8c%ef%bc%89jupyter-notebook%e7%9a%84%e5%9f%ba%e6%9c%ac%e7%94%a8%e6%b3%95/)

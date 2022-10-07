@@ -1,0 +1,2 @@
+# UFLDL tutorial notes and practice answers three (Softmax regression and self-learning)
+[UFLDL tutorial notes and practice answers three (Softmax regression and self-learning)](https://aiwithcloud.com/2022/09/16/ufldl_tutorial_notes_and_practice_answers_three_softmax_regression_and_self_learning/)

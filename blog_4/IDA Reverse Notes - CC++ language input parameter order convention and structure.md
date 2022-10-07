@@ -1,0 +1,2 @@
+# IDA Reverse Notes - CC++ language input parameter order convention and structure
+[IDA Reverse Notes - CC++ language input parameter order convention and structure](https://aiwithcloud.com/2022/09/15/ida_reverse_notes___cc_language_input_parameter_order_convention_and_structure/)

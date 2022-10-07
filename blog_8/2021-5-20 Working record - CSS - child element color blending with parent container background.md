@@ -1,0 +1,2 @@
+# 2021-5-20 Working record - CSS - child element color blending with parent container background
+[2021-5-20 Working record - CSS - child element color blending with parent container background](https://aiwithcloud.com/2022/09/19/2021_5_20_working_record___css___child_element_color_blending_with_parent_container_background/)

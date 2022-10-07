@@ -1,0 +1,2 @@
+# Detailed explanation of MySQL optimization (4) - MySQL cache settings
+[Detailed explanation of MySQL optimization (4) - MySQL cache settings](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_mysql_optimization_4___mysql_cache_settings/)

@@ -1,0 +1,2 @@
+# LITTLE ENDIAN BITFIELD and   BIG ENDIAN BITFIELD of iphdr and tcphdr structures in Linux
+[LITTLE ENDIAN BITFIELD and   BIG ENDIAN BITFIELD of iphdr and tcphdr structures in Linux](https://aiwithcloud.com/2022/09/15/__little_endian_bitfield_and___big_endian_bitfield_of_iphdr_and_tcphdr_structures_in_linux/)

@@ -1,0 +1,2 @@
+# The solution for mistakenly deleting apt and apt-get under the arm architecture version (such as tx2)
+[The solution for mistakenly deleting apt and apt-get under the arm architecture version (such as tx2)](https://aiwithcloud.com/2022/09/16/the_solution_for_mistakenly_deleting_apt_and_apt_get_under_the_arm_architecture_version_such_as_tx2/)

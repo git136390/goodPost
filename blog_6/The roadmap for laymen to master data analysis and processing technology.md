@@ -1,0 +1,2 @@
+# The roadmap for laymen to master data analysis and processing technology
+[The roadmap for laymen to master data analysis and processing technology](https://aiwithcloud.com/2022/09/16/the_roadmap_for_laymen_to_master_data_analysis_and_processing_technology/)

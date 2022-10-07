@@ -1,0 +1,2 @@
+# Python meets SQL, so a useful third-party Python library appears
+[Python meets SQL, so a useful third-party Python library appears](https://aiwithcloud.com/2022/09/15/python_meets_sql_so_a_useful_third_party_python_library_appears/)

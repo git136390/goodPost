@@ -1,0 +1,2 @@
+# Where is the dist folder generated after Nuxt.js run build
+[Where is the dist folder generated after Nuxt.js run build](https://aiwithcloud.com/2022/09/15/where_is_the_dist_folder_generated_after_nuxt-js_run_build/)

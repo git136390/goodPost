@@ -1,0 +1,2 @@
+# Replacing Mybatis Generator, this code generation artifact is simpler to configure and more efficient to develop
+[Replacing Mybatis Generator, this code generation artifact is simpler to configure and more efficient to develop](https://aiwithcloud.com/2022/09/19/replacing_mybatis_generator_this_code_generation_artifact_is_simpler_to_configure_and_more_efficient_to_develop/)

@@ -1,0 +1,2 @@
+# C language - find the number of different bits in two numbers in binary
+[C language - find the number of different bits in two numbers in binary](https://aiwithcloud.com/2022/09/15/c_language___find_the_number_of_different_bits_in_two_numbers_in_binary/)

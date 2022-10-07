@@ -1,0 +1,2 @@
+# Java foundation - person class derives student and teacher
+[Java foundation - person class derives student and teacher](https://aiwithcloud.com/2022/09/19/java_foundation___person_class_derives_student_and_teacher/)

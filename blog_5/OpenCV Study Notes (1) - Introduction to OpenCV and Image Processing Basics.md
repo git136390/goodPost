@@ -1,0 +1,2 @@
+# OpenCV Study Notes (1) - Introduction to OpenCV and Image Processing Basics
+[OpenCV Study Notes (1) - Introduction to OpenCV and Image Processing Basics](https://aiwithcloud.com/2022/09/16/opencv_study_notes_1___introduction_to_opencv_and_image_processing_basics/)

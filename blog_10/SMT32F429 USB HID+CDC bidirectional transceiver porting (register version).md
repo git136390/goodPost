@@ -1,0 +1,2 @@
+# SMT32F429 USB HID+CDC bidirectional transceiver porting (register version)
+[SMT32F429 USB HID+CDC bidirectional transceiver porting (register version)](https://aiwithcloud.com/2022/09/19/smt32f429_usb_hidcdc_bidirectional_transceiver_porting_register_version/)

@@ -1,0 +1,2 @@
+# error MSB8020 Unable to find build tools for v142 (platform toolset=v142). To build with the v142 build tools, install the v142 build tools
+[error MSB8020 Unable to find build tools for v142 (platform toolset=v142). To build with the v142 build tools, install the v142 build tools](https://aiwithcloud.com/2022/09/15/error_msb8020_unable_to_find_build_tools_for_v142_platform_toolsetv142-_to_build_with_the_v142_build_tools_install_the_v142_build_tools/)

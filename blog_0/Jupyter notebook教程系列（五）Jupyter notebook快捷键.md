@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（五）Jupyter notebook快捷键
+[Jupyter notebook教程系列（五）Jupyter notebook快捷键](https://aiwithcloud.com/2021/08/29/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e4%ba%94%ef%bc%89jupyter-notebook%e5%bf%ab%e6%8d%b7%e9%94%ae/)

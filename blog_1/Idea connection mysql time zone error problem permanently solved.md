@@ -1,0 +1,2 @@
+# Idea connection mysql time zone error problem permanently solved
+[Idea connection mysql time zone error problem permanently solved](https://aiwithcloud.com/2022/09/15/idea_connection_mysql_time_zone_error_problem_permanently_solved/)

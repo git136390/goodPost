@@ -1,0 +1,2 @@
+# Springboot gets the user's real ip through HttpServletRequest
+[Springboot gets the user's real ip through HttpServletRequest](https://aiwithcloud.com/2022/09/15/springboot_gets_the_users_real_ip_through_httpservletrequest/)

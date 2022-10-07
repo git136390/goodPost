@@ -1,0 +1,2 @@
+# Solution to the problem of no Qt platform plugin could be initialized
+[Solution to the problem of no Qt platform plugin could be initialized](https://aiwithcloud.com/2022/09/15/solution_to_the_problem_of_no_qt_platform_plugin_could_be_initialized/)

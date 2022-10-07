@@ -1,0 +1,2 @@
+# [Blockchain combat] How to create and use functions in Solidity smart contracts
+[[Blockchain combat] How to create and use functions in Solidity smart contracts](https://aiwithcloud.com/2022/09/15/blockchain_combat_how_to_create_and_use_functions_in_solidity_smart_contracts/)

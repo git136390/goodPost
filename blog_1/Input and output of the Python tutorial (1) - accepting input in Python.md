@@ -1,0 +1,2 @@
+# Input and output of the Python tutorial (1) - accepting input in Python
+[Input and output of the Python tutorial (1) - accepting input in Python](https://aiwithcloud.com/2022/09/15/input_and_output_of_the_python_tutorial_1___accepting_input_in_python/)

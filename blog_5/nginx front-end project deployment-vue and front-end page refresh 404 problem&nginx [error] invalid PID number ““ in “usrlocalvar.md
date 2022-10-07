@@ -1,0 +1,2 @@
+# nginx front-end project deployment-vue and front-end page refresh 404 problem&nginx [error] invalid PID number ““ in “usrlocalvar
+[nginx front-end project deployment-vue and front-end page refresh 404 problem&nginx [error] invalid PID number ““ in “usrlocalvar](https://aiwithcloud.com/2022/09/16/nginx_front_end_project_deployment_vue_and_front_end_page_refresh_404_problemnginx_error_invalid_pid_number__in_usrlocalvar/)

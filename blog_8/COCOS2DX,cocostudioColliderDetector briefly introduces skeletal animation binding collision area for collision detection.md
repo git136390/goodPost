@@ -1,0 +1,2 @@
+# COCOS2DX,cocostudioColliderDetector briefly introduces skeletal animation binding collision area for collision detection
+[COCOS2DX,cocostudioColliderDetector briefly introduces skeletal animation binding collision area for collision detection](https://aiwithcloud.com/2022/09/19/cocos2dxcocostudiocolliderdetector_briefly_introduces_skeletal_animation_binding_collision_area_for_collision_detection/)

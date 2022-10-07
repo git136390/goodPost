@@ -1,0 +1,2 @@
+# QT + FFMPEG implements basic player (3) video playback implementation
+[QT + FFMPEG implements basic player (3) video playback implementation](https://aiwithcloud.com/2022/09/16/qt__ffmpeg_implements_basic_player_3_video_playback_implementation/)

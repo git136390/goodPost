@@ -1,0 +1,2 @@
+# [Blue Bridge Java Question of the Day] - 11. Cooking sequence (greedy instant kill difficult questions)
+[[Blue Bridge Java Question of the Day] - 11. Cooking sequence (greedy instant kill difficult questions)](https://aiwithcloud.com/2022/09/15/blue_bridge_java_question_of_the_day___11-_cooking_sequence_greedy_instant_kill_difficult_questions/)

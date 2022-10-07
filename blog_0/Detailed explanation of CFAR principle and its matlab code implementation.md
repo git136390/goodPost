@@ -1,0 +1,2 @@
+# Detailed explanation of CFAR principle and its matlab code implementation
+[Detailed explanation of CFAR principle and its matlab code implementation](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_cfar_principle_and_its_matlab_code_implementation/)

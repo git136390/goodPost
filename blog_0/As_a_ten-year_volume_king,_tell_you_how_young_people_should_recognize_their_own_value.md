@@ -1,0 +1,2 @@
+# As_a_ten-year_volume_king,_tell_you_how_young_people_should_recognize_their_own_value
+[As_a_ten-year_volume_king,_tell_you_how_young_people_should_recognize_their_own_value](https://aiwithcloud.com/2022/09/14/as_a_ten_year_volume_king_tell_you_how_young_people_should_recognize_their_own_value/)

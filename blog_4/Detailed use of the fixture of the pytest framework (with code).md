@@ -1,0 +1,2 @@
+# Detailed use of the fixture of the pytest framework (with code)
+[Detailed use of the fixture of the pytest framework (with code)](https://aiwithcloud.com/2022/09/15/detailed_use_of_the_fixture_of_the_pytest_framework_with_code/)

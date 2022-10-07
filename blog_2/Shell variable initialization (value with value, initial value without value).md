@@ -1,0 +1,2 @@
+# Shell variable initialization (value with value, initial value without value)
+[Shell variable initialization (value with value, initial value without value)](https://aiwithcloud.com/2022/09/15/shell_variable_initialization_value_with_value_initial_value_without_value/)

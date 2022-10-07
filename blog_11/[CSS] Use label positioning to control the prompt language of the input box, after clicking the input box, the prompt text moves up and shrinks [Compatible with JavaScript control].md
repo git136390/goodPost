@@ -1,0 +1,2 @@
+# [CSS] Use label positioning to control the prompt language of the input box, after clicking the input box, the prompt text moves up and shrinks [Compatible with JavaScript control]
+[[CSS] Use label positioning to control the prompt language of the input box, after clicking the input box, the prompt text moves up and shrinks [Compatible with JavaScript control]](https://aiwithcloud.com/2022/09/19/css_use_label_positioning_to_control_the_prompt_language_of_the_input_box_after_clicking_the_input_box_the_prompt_text_moves_up_and_shrinks_compatible_with_javascript_control/)

@@ -1,0 +1,2 @@
+# [Magic change YOLOv5-6.x (on)] Combining lightweight network Shufflenetv2, Mobilenetv3 and Ghostnet
+[[Magic change YOLOv5-6.x (on)] Combining lightweight network Shufflenetv2, Mobilenetv3 and Ghostnet](https://aiwithcloud.com/2022/09/19/magic_change_yolov5_6-x_on_combining_lightweight_network_shufflenetv2_mobilenetv3_and_ghostnet/)

@@ -1,0 +1,2 @@
+# A brief introduction and application of Random Forests
+[A brief introduction and application of Random Forests](https://aiwithcloud.com/2022/09/15/a_brief_introduction_and_application_of_random_forests/)

@@ -1,0 +1,2 @@
+# Git error fatal Authentication failed for 'httpsgit...solution
+[Git error fatal Authentication failed for 'httpsgit...solution](https://aiwithcloud.com/2022/09/19/git_error_fatal_authentication_failed_for_httpsgit-solution/)

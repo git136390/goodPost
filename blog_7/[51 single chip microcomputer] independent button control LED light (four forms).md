@@ -1,0 +1,2 @@
+# [51 single chip microcomputer] independent button control LED light (four forms)
+[[51 single chip microcomputer] independent button control LED light (four forms)](https://aiwithcloud.com/2022/09/16/51_single_chip_microcomputer_independent_button_control_led_light_four_forms/)

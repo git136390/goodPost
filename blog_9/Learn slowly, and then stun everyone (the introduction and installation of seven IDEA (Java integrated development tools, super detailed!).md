@@ -1,0 +1,2 @@
+# Learn slowly, and then stun everyone (the introduction and installation of seven IDEA (Java integrated development tools, super detailed!)
+[Learn slowly, and then stun everyone (the introduction and installation of seven IDEA (Java integrated development tools, super detailed!)](https://aiwithcloud.com/2022/09/19/learn_slowly_and_then_stun_everyone_the_introduction_and_installation_of_seven_idea_java_integrated_development_tools_super_detailed/)

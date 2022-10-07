@@ -1,0 +1,2 @@
+# How to get the real height of the element (including the decimal point) through jq
+[How to get the real height of the element (including the decimal point) through jq](https://aiwithcloud.com/2022/09/19/how_to_get_the_real_height_of_the_element_including_the_decimal_point_through_jq/)

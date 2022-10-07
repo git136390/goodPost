@@ -1,0 +1,2 @@
+# [Solved] How to use matplotlib to draw 3D surface graphs in Python (freely rotatable 3D graphs)
+[[Solved] How to use matplotlib to draw 3D surface graphs in Python (freely rotatable 3D graphs)](https://aiwithcloud.com/2022/09/15/solved_how_to_use_matplotlib_to_draw_3d_surface_graphs_in_python_freely_rotatable_3d_graphs/)

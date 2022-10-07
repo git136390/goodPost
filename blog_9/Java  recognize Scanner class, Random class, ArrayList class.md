@@ -1,0 +1,2 @@
+# Java  recognize Scanner class, Random class, ArrayList class
+[Java  recognize Scanner class, Random class, ArrayList class](https://aiwithcloud.com/2022/09/19/java__recognize_scanner_class_random_class_arraylist_class/)

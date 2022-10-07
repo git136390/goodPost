@@ -1,0 +1,2 @@
+# Practical simulation│Single sign-on SSO implementation
+[Practical simulation│Single sign-on SSO implementation](https://aiwithcloud.com/2022/09/19/practical_simulation%e2%94%82single_sign_on_sso_implementation/)

@@ -1,0 +1,2 @@
+# Konjac-kun's Diary of Writing Questions Day7 (Mathematics T1) CF1278F Cards
+[Konjac-kun's Diary of Writing Questions Day7 (Mathematics T1) CF1278F Cards](https://aiwithcloud.com/2022/09/16/konjac_kuns_diary_of_writing_questions_day7_mathematics_t1_cf1278f_cards/)

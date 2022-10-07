@@ -1,0 +1,2 @@
+# G2Plot Line Linear x-axis does not leave blanks at the head and tail (or specify a blank range)
+[G2Plot Line Linear x-axis does not leave blanks at the head and tail (or specify a blank range)](https://aiwithcloud.com/2022/09/14/g2plot_line_linear_x_axis_does_not_leave_blanks_at_the_head_and_tail_or_specify_a_blank_range/)

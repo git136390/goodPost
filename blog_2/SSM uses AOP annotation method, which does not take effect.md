@@ -1,0 +1,2 @@
+# SSM uses AOP annotation method, which does not take effect
+[SSM uses AOP annotation method, which does not take effect](https://aiwithcloud.com/2022/09/15/ssm_uses_aop_annotation_method_which_does_not_take_effect/)

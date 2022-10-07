@@ -1,0 +1,2 @@
+# Partial understanding of EtherCAT application layer protocol (1)
+[Partial understanding of EtherCAT application layer protocol (1)](https://aiwithcloud.com/2022/09/19/partial_understanding_of_ethercat_application_layer_protocol_1/)

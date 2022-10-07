@@ -1,0 +1,2 @@
+# Transfer [Python3 web crawler development combat] basic usage of requests
+[Transfer [Python3 web crawler development combat] basic usage of requests](https://aiwithcloud.com/2022/09/16/transfer_python3_web_crawler_development_combat_basic_usage_of_requests/)

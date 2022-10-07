@@ -1,0 +1,2 @@
+# The ultra-large-scale industrial practical semantic segmentation dataset PSSL and pre-training model are open source!
+[The ultra-large-scale industrial practical semantic segmentation dataset PSSL and pre-training model are open source!](https://aiwithcloud.com/2022/09/15/the_ultra_large_scale_industrial_practical_semantic_segmentation_dataset_pssl_and_pre_training_model_are_open_source/)

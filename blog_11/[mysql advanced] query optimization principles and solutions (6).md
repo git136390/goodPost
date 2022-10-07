@@ -1,0 +1,2 @@
+# [mysql advanced] query optimization principles and solutions (6)
+[[mysql advanced] query optimization principles and solutions (6)](https://aiwithcloud.com/2022/09/19/mysql_advanced_query_optimization_principles_and_solutions_6/)

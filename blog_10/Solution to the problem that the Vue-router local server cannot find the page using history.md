@@ -1,0 +1,2 @@
+# Solution to the problem that the Vue-router local server cannot find the page using history
+[Solution to the problem that the Vue-router local server cannot find the page using history](https://aiwithcloud.com/2022/09/19/solution_to_the_problem_that_the_vue_router_local_server_cannot_find_the_page_using_history/)

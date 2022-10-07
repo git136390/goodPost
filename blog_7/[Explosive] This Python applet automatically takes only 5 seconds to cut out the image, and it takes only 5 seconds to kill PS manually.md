@@ -1,0 +1,2 @@
+# [Explosive] This Python applet automatically takes only 5 seconds to cut out the image, and it takes only 5 seconds to kill PS manually
+[[Explosive] This Python applet automatically takes only 5 seconds to cut out the image, and it takes only 5 seconds to kill PS manually](https://aiwithcloud.com/2022/09/16/explosive_this_python_applet_automatically_takes_only_5_seconds_to_cut_out_the_image_and_it_takes_only_5_seconds_to_kill_ps_manually/)

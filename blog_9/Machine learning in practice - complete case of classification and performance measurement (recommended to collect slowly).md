@@ -1,0 +1,2 @@
+# Machine learning in practice - complete case of classification and performance measurement (recommended to collect slowly)
+[Machine learning in practice - complete case of classification and performance measurement (recommended to collect slowly)](https://aiwithcloud.com/2022/09/19/machine_learning_in_practice___complete_case_of_classification_and_performance_measurement_recommended_to_collect_slowly/)

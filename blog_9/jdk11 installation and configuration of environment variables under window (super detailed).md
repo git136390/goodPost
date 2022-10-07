@@ -1,0 +1,2 @@
+# jdk11 installation and configuration of environment variables under window (super detailed)
+[jdk11 installation and configuration of environment variables under window (super detailed)](https://aiwithcloud.com/2022/09/19/jdk11_installation_and_configuration_of_environment_variables_under_window_super_detailed/)

@@ -1,0 +1,2 @@
+# How to upgrade mysql5.x version to mysql8.x version, what needs to be changed
+[How to upgrade mysql5.x version to mysql8.x version, what needs to be changed](https://aiwithcloud.com/2022/09/19/how_to_upgrade_mysql5-x_version_to_mysql8-x_version_what_needs_to_be_changed/)

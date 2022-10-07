@@ -1,0 +1,2 @@
+# The problem of multi-person circle reporting in C language programming
+[The problem of multi-person circle reporting in C language programming](https://aiwithcloud.com/2022/09/19/the_problem_of_multi_person_circle_reporting_in_c_language_programming/)

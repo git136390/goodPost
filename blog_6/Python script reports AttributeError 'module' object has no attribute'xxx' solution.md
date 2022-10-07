@@ -1,0 +1,2 @@
+# Python script reports AttributeError 'module' object has no attribute'xxx' solution
+[Python script reports AttributeError 'module' object has no attribute'xxx' solution](https://aiwithcloud.com/2022/09/16/python_script_reports_attributeerror_module_object_has_no_attributexxx_solution/)

@@ -1,0 +1,2 @@
+# Detailed explanation of WeChat applet (2 Detailed explanation of global configuration of applet)
+[Detailed explanation of WeChat applet (2 Detailed explanation of global configuration of applet)](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_wechat_applet_2_detailed_explanation_of_global_configuration_of_applet/)

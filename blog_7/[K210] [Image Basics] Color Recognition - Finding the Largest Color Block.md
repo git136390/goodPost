@@ -1,0 +1,2 @@
+# [K210] [Image Basics] Color Recognition - Finding the Largest Color Block
+[[K210] [Image Basics] Color Recognition - Finding the Largest Color Block](https://aiwithcloud.com/2022/09/16/k210_image_basics_color_recognition___finding_the_largest_color_block/)

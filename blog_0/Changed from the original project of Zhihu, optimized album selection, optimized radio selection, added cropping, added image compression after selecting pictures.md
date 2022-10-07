@@ -1,0 +1,2 @@
+# Changed from the original project of Zhihu, optimized album selection, optimized radio selection, added cropping, added image compression after selecting pictures
+[Changed from the original project of Zhihu, optimized album selection, optimized radio selection, added cropping, added image compression after selecting pictures](https://aiwithcloud.com/2022/09/14/changed_from_the_original_project_of_zhihu_optimized_album_selection_optimized_radio_selection_added_cropping_added_image_compression_after_selecting_pictures/)

@@ -1,0 +1,2 @@
+# Structural Types of Java Design Patterns Decorator Patterns
+[Structural Types of Java Design Patterns Decorator Patterns](https://aiwithcloud.com/2022/09/19/structural_types_of_java_design_patterns_decorator_patterns/)

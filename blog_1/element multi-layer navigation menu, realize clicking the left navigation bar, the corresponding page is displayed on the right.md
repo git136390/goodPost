@@ -1,0 +1,2 @@
+# element multi-layer navigation menu, realize clicking the left navigation bar, the corresponding page is displayed on the right
+[element multi-layer navigation menu, realize clicking the left navigation bar, the corresponding page is displayed on the right](https://aiwithcloud.com/2022/09/14/element_multi_layer_navigation_menu_realize_clicking_the_left_navigation_bar_the_corresponding_page_is_displayed_on_the_right/)

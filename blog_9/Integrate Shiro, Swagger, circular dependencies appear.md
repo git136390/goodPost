@@ -1,0 +1,2 @@
+# Integrate Shiro, Swagger, circular dependencies appear
+[Integrate Shiro, Swagger, circular dependencies appear](https://aiwithcloud.com/2022/09/19/integrate_shiro_swagger_circular_dependencies_appear/)

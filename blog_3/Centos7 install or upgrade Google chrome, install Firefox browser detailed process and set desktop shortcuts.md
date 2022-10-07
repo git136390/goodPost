@@ -1,0 +1,2 @@
+# Centos7 install or upgrade Google chrome, install Firefox browser detailed process and set desktop shortcuts
+[Centos7 install or upgrade Google chrome, install Firefox browser detailed process and set desktop shortcuts](https://aiwithcloud.com/2022/09/15/centos7_install_or_upgrade_google_chrome_install_firefox_browser_detailed_process_and_set_desktop_shortcuts/)

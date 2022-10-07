@@ -1,0 +1,2 @@
+# SVG images are displayed on the page in the form of https links, and can inherit the color and size of the parent class (similar to Alibaba iconfont)
+[SVG images are displayed on the page in the form of https links, and can inherit the color and size of the parent class (similar to Alibaba iconfont)](https://aiwithcloud.com/2022/09/19/svg_images_are_displayed_on_the_page_in_the_form_of_https_links_and_can_inherit_the_color_and_size_of_the_parent_class_similar_to_alibaba_iconfont/)

@@ -1,0 +1,2 @@
+# Detailed explanation of Android Handler mechanism (3) Memory leak
+[Detailed explanation of Android Handler mechanism (3) Memory leak](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_android_handler_mechanism_3_memory_leak/)

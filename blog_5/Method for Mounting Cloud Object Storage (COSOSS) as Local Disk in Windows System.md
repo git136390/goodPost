@@ -1,0 +1,2 @@
+# Method for Mounting Cloud Object Storage (COSOSS) as Local Disk in Windows System
+[Method for Mounting Cloud Object Storage (COSOSS) as Local Disk in Windows System](https://aiwithcloud.com/2022/09/16/method_for_mounting_cloud_object_storage_cososs_as_local_disk_in_windows_system/)

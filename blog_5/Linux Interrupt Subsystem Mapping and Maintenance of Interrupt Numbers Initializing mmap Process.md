@@ -1,0 +1,2 @@
+# Linux Interrupt Subsystem Mapping and Maintenance of Interrupt Numbers Initializing mmap Process
+[Linux Interrupt Subsystem Mapping and Maintenance of Interrupt Numbers Initializing mmap Process](https://aiwithcloud.com/2022/09/16/linux_interrupt_subsystem_mapping_and_maintenance_of_interrupt_numbers_initializing_mmap_process/)

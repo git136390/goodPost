@@ -1,0 +1,2 @@
+# About the problem of hyperlink invalidation caused by using richedit5.0
+[About the problem of hyperlink invalidation caused by using richedit5.0](https://aiwithcloud.com/2022/09/15/about_the_problem_of_hyperlink_invalidation_caused_by_using_richedit5-0/)

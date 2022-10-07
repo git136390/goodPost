@@ -1,0 +1,2 @@
+# [23rd School Recruitment] Summary of Bank Technology Post Internships - Updating
+[[23rd School Recruitment] Summary of Bank Technology Post Internships - Updating](https://aiwithcloud.com/2022/09/15/23rd_school_recruitment_summary_of_bank_technology_post_internships___updating/)

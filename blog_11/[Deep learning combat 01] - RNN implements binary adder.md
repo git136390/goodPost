@@ -1,0 +1,2 @@
+# [Deep learning combat 01] - RNN implements binary adder
+[[Deep learning combat 01] - RNN implements binary adder](https://aiwithcloud.com/2022/09/19/deep_learning_combat_01___rnn_implements_binary_adder/)

@@ -1,0 +1,2 @@
+# Intranet penetration uses server forwarding to realize public network access to local intranet frp service construction
+[Intranet penetration uses server forwarding to realize public network access to local intranet frp service construction](https://aiwithcloud.com/2022/09/15/intranet_penetration_uses_server_forwarding_to_realize_public_network_access_to_local_intranet_frp_service_construction/)

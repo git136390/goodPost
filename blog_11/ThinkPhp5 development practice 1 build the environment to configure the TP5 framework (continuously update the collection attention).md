@@ -1,0 +1,2 @@
+# ThinkPhp5 development practice 1 build the environment to configure the TP5 framework (continuously update the collection attention)
+[ThinkPhp5 development practice 1 build the environment to configure the TP5 framework (continuously update the collection attention)](https://aiwithcloud.com/2022/09/19/thinkphp5_development_practice_1_build_the_environment_to_configure_the_tp5_framework_continuously_update_the_collection_attention/)

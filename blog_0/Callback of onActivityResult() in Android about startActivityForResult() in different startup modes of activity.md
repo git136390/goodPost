@@ -1,0 +1,2 @@
+# Callback of onActivityResult() in Android about startActivityForResult() in different startup modes of activity
+[Callback of onActivityResult() in Android about startActivityForResult() in different startup modes of activity](https://aiwithcloud.com/2022/09/14/callback_of_onactivityresult_in_android_about_startactivityforresult_in_different_startup_modes_of_activity/)

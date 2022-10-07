@@ -1,0 +1,2 @@
+# Computer graduation design Python+django's recruitment and job search visualization web search engine design (source code + system + mysql database + Lw document)
+[Computer graduation design Python+django's recruitment and job search visualization web search engine design (source code + system + mysql database + Lw document)](https://aiwithcloud.com/2022/09/14/computer_graduation_design_pythondjangos_recruitment_and_job_search_visualization_web_search_engine_design_source_code__system__mysql_database__lw_document/)

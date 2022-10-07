@@ -1,0 +1,2 @@
+# Zero Basic Algorithm 100 Days Day 4 - Prefix Sum (Basic Algorithm)
+[Zero Basic Algorithm 100 Days Day 4 - Prefix Sum (Basic Algorithm)](https://aiwithcloud.com/2022/09/19/zero_basic_algorithm_100_days_day_4___prefix_sum_basic_algorithm/)

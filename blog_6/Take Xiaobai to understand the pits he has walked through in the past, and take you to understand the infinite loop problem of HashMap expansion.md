@@ -1,0 +1,2 @@
+# Take Xiaobai to understand the pits he has walked through in the past, and take you to understand the infinite loop problem of HashMap expansion
+[Take Xiaobai to understand the pits he has walked through in the past, and take you to understand the infinite loop problem of HashMap expansion](https://aiwithcloud.com/2022/09/16/take_xiaobai_to_understand_the_pits_he_has_walked_through_in_the_past_and_take_you_to_understand_the_infinite_loop_problem_of_hashmap_expansion/)

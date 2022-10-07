@@ -1,0 +1,2 @@
+# The first part of C language shared by rookies hello world at the beginning of the millennium
+[The first part of C language shared by rookies hello world at the beginning of the millennium](https://aiwithcloud.com/2022/09/16/the_first_part_of_c_language_shared_by_rookies_hello_world_at_the_beginning_of_the_millennium/)

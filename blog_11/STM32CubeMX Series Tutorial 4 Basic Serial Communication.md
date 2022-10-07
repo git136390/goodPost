@@ -1,0 +1,2 @@
+# STM32CubeMX Series Tutorial 4 Basic Serial Communication
+[STM32CubeMX Series Tutorial 4 Basic Serial Communication](https://aiwithcloud.com/2022/09/19/stm32cubemx_series_tutorial_4_basic_serial_communication/)

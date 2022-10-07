@@ -1,0 +1,2 @@
+# Why don't you generally use an integer to assign an initial value to a pointer variable [cc++]
+[Why don't you generally use an integer to assign an initial value to a pointer variable [cc++]](https://aiwithcloud.com/2022/09/16/why_dont_you_generally_use_an_integer_to_assign_an_initial_value_to_a_pointer_variable_cc/)

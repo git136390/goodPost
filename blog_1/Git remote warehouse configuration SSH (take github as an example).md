@@ -1,0 +1,2 @@
+# Git remote warehouse configuration SSH (take github as an example)
+[Git remote warehouse configuration SSH (take github as an example)](https://aiwithcloud.com/2022/09/15/git_remote_warehouse_configuration_ssh_take_github_as_an_example/)

@@ -1,0 +1,2 @@
+# Lambda Expressions and Functional Interfaces (Supplementary)
+[Lambda Expressions and Functional Interfaces (Supplementary)](https://aiwithcloud.com/2022/09/19/lambda_expressions_and_functional_interfaces_supplementary/)

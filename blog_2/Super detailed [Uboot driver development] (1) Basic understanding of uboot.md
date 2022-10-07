@@ -1,0 +1,2 @@
+# Super detailed [Uboot driver development] (1) Basic understanding of uboot
+[Super detailed [Uboot driver development] (1) Basic understanding of uboot](https://aiwithcloud.com/2022/09/15/super_detailed_uboot_driver_development_1_basic_understanding_of_uboot/)

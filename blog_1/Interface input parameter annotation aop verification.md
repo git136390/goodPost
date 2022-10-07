@@ -1,0 +1,2 @@
+# Interface input parameter annotation aop verification
+[Interface input parameter annotation aop verification](https://aiwithcloud.com/2022/09/15/interface_input_parameter_annotation_aop_verification/)

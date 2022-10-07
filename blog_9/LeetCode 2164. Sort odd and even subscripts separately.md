@@ -1,0 +1,2 @@
+# LeetCode 2164. Sort odd and even subscripts separately
+[LeetCode 2164. Sort odd and even subscripts separately](https://aiwithcloud.com/2022/09/19/leetcode_2164-_sort_odd_and_even_subscripts_separately/)

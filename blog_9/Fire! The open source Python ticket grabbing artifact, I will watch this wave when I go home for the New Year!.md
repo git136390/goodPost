@@ -1,0 +1,2 @@
+# Fire! The open source Python ticket grabbing artifact, I will watch this wave when I go home for the New Year!
+[Fire! The open source Python ticket grabbing artifact, I will watch this wave when I go home for the New Year!](https://aiwithcloud.com/2022/09/19/fire_the_open_source_python_ticket_grabbing_artifact_i_will_watch_this_wave_when_i_go_home_for_the_new_year/)

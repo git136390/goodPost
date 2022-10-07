@@ -1,0 +1,2 @@
+# The uniapp applet enables component injection on demand lazyCodeLoading requiredComponents
+[The uniapp applet enables component injection on demand lazyCodeLoading requiredComponents](https://aiwithcloud.com/2022/09/16/the_uniapp_applet_enables_component_injection_on_demand_lazycodeloading_requiredcomponents/)

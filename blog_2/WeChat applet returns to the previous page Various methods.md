@@ -1,0 +1,2 @@
+# WeChat applet returns to the previous page Various methods
+[WeChat applet returns to the previous page Various methods](https://aiwithcloud.com/2022/09/15/wechat_applet_returns_to_the_previous_page_various_methods/)

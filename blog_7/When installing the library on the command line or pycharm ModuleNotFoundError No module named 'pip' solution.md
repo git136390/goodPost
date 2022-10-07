@@ -1,0 +1,2 @@
+# When installing the library on the command line or pycharm ModuleNotFoundError No module named 'pip' solution
+[When installing the library on the command line or pycharm ModuleNotFoundError No module named 'pip' solution](https://aiwithcloud.com/2022/09/16/when_installing_the_library_on_the_command_line_or_pycharm_modulenotfounderror_no_module_named_pip_solution/)

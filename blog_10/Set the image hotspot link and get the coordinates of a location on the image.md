@@ -1,0 +1,2 @@
+# Set the image hotspot link and get the coordinates of a location on the image
+[Set the image hotspot link and get the coordinates of a location on the image](https://aiwithcloud.com/2022/09/19/set_the_image_hotspot_link_and_get_the_coordinates_of_a_location_on_the_image/)

@@ -1,0 +1,2 @@
+# Ubuntu20.04 compiles and compiles visual SLAM fourteen lectures slambook2ch7
+[Ubuntu20.04 compiles and compiles visual SLAM fourteen lectures slambook2ch7](https://aiwithcloud.com/2022/09/16/ubuntu20-04_compiles_and_compiles_visual_slam_fourteen_lectures_slambook2ch7/)

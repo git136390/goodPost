@@ -1,0 +1,2 @@
+# ImportError: No module named '_tkinter', please install the python3-tk package
+[ImportError: No module named '_tkinter', please install the python3-tk package](https://aiwithcloud.com/2022/01/19/importerror-no-module-named-_tkinter-please-install-the-python3-tk-package/)

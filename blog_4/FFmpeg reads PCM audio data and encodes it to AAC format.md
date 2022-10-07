@@ -1,0 +1,2 @@
+# FFmpeg reads PCM audio data and encodes it to AAC format
+[FFmpeg reads PCM audio data and encodes it to AAC format](https://aiwithcloud.com/2022/09/15/ffmpeg_reads_pcm_audio_data_and_encodes_it_to_aac_format/)

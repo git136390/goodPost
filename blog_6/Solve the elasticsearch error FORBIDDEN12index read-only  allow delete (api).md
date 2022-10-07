@@ -1,0 +1,2 @@
+# Solve the elasticsearch error FORBIDDEN12index read-only  allow delete (api)
+[Solve the elasticsearch error FORBIDDEN12index read-only  allow delete (api)](https://aiwithcloud.com/2022/09/16/solve_the_elasticsearch_error_forbidden12index_read_only__allow_delete_api/)

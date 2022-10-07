@@ -1,0 +1,2 @@
+# Get the login address, account and password of the Pagoda Linux panel
+[Get the login address, account and password of the Pagoda Linux panel](https://aiwithcloud.com/2022/09/15/get_the_login_address_account_and_password_of_the_pagoda_linux_panel/)

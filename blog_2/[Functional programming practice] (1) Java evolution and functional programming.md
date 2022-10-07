@@ -1,0 +1,2 @@
+# [Functional programming practice] (1) Java evolution and functional programming
+[[Functional programming practice] (1) Java evolution and functional programming](https://aiwithcloud.com/2022/09/15/functional_programming_practice_1_java_evolution_and_functional_programming/)

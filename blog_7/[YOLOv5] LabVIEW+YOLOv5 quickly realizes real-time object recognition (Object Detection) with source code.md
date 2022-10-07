@@ -1,0 +1,2 @@
+# [YOLOv5] LabVIEW+YOLOv5 quickly realizes real-time object recognition (Object Detection) with source code
+[[YOLOv5] LabVIEW+YOLOv5 quickly realizes real-time object recognition (Object Detection) with source code](https://aiwithcloud.com/2022/09/16/yolov5_labviewyolov5_quickly_realizes_real_time_object_recognition_object_detection_with_source_code/)

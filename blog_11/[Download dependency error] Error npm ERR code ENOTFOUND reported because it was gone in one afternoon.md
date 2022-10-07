@@ -1,0 +1,2 @@
+# [Download dependency error] Error npm ERR code ENOTFOUND reported because it was gone in one afternoon
+[[Download dependency error] Error npm ERR code ENOTFOUND reported because it was gone in one afternoon](https://aiwithcloud.com/2022/09/19/download_dependency_error_error_npm_err_code_enotfound_reported_because_it_was_gone_in_one_afternoon/)

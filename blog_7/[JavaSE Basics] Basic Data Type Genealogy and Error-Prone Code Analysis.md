@@ -1,0 +1,2 @@
+# [JavaSE Basics] Basic Data Type Genealogy and Error-Prone Code Analysis
+[[JavaSE Basics] Basic Data Type Genealogy and Error-Prone Code Analysis](https://aiwithcloud.com/2022/09/16/javase_basics_basic_data_type_genealogy_and_error_prone_code_analysis/)

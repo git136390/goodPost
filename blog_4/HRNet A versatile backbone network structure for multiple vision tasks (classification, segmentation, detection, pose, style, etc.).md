@@ -1,0 +1,2 @@
+# HRNet A versatile backbone network structure for multiple vision tasks (classification, segmentation, detection, pose, style, etc.)
+[HRNet A versatile backbone network structure for multiple vision tasks (classification, segmentation, detection, pose, style, etc.)](https://aiwithcloud.com/2022/09/15/hrnet_a_versatile_backbone_network_structure_for_multiple_vision_tasks_classification_segmentation_detection_pose_style_etc/)

@@ -1,0 +1,2 @@
+# 2022 Solve ROS rosdep initupdate, the success rate is 100% available for personal testing
+[2022 Solve ROS rosdep initupdate, the success rate is 100% available for personal testing](https://aiwithcloud.com/2022/09/15/2022_solve_ros_rosdep_initupdate_the_success_rate_is_100_available_for_personal_testing/)

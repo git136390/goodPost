@@ -1,0 +1,2 @@
+# Front-end detailed introduction to the usage of bullet screen tags (marquee)
+[Front-end detailed introduction to the usage of bullet screen tags (marquee)](https://aiwithcloud.com/2022/09/15/front_end_detailed_introduction_to_the_usage_of_bullet_screen_tags_marquee/)

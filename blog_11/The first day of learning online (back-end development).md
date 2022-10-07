@@ -1,0 +1,2 @@
+# The first day of learning online (back-end development)
+[The first day of learning online (back-end development)](https://aiwithcloud.com/2022/09/19/the_first_day_of_learning_online_back_end_development/)

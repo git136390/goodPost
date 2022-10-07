@@ -1,0 +1,2 @@
+# If a MySql record exists, a field will be accumulated, and if it does not exist, a new record will be inserted
+[If a MySql record exists, a field will be accumulated, and if it does not exist, a new record will be inserted](https://aiwithcloud.com/2022/09/15/if_a_mysql_record_exists_a_field_will_be_accumulated_and_if_it_does_not_exist_a_new_record_will_be_inserted/)

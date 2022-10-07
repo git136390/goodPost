@@ -1,0 +1,2 @@
+# linux3.3 v4l2 video capture driver framework (connection between vfe, camera i2c driver, v4l2 subdev, etc.)
+[linux3.3 v4l2 video capture driver framework (connection between vfe, camera i2c driver, v4l2 subdev, etc.)](https://aiwithcloud.com/2022/09/19/linux3-3_v4l2_video_capture_driver_framework_connection_between_vfe_camera_i2c_driver_v4l2_subdev_etc/)

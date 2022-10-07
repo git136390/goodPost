@@ -1,0 +1,2 @@
+# Detailed explanation of java thread pool and detailed explanation of five thread pool methods
+[Detailed explanation of java thread pool and detailed explanation of five thread pool methods](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_java_thread_pool_and_detailed_explanation_of_five_thread_pool_methods/)

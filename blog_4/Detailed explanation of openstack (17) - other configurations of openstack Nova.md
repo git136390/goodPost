@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (17) - other configurations of openstack Nova
+[Detailed explanation of openstack (17) - other configurations of openstack Nova](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_openstack_17___other_configurations_of_openstack_nova/)

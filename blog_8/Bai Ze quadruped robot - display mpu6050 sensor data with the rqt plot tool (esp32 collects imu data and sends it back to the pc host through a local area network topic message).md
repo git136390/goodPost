@@ -1,0 +1,2 @@
+# Bai Ze quadruped robot - display mpu6050 sensor data with the rqt plot tool (esp32 collects imu data and sends it back to the pc host through a local area network topic message)
+[Bai Ze quadruped robot - display mpu6050 sensor data with the rqt plot tool (esp32 collects imu data and sends it back to the pc host through a local area network topic message)](https://aiwithcloud.com/2022/09/19/bai_ze_quadruped_robot___display_mpu6050_sensor_data_with_the_rqt_plot_tool_esp32_collects_imu_data_and_sends_it_back_to_the_pc_host_through_a_local_area_network_topic_message/)

@@ -1,0 +1,2 @@
+# Python crawler basic case (object-oriented) - crawling cat's eye movies and saving data to excel
+[Python crawler basic case (object-oriented) - crawling cat's eye movies and saving data to excel](https://aiwithcloud.com/2022/09/15/python_crawler_basic_case_object_oriented___crawling_cats_eye_movies_and_saving_data_to_excel/)

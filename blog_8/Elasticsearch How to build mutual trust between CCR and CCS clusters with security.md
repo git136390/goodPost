@@ -1,0 +1,2 @@
+# Elasticsearch How to build mutual trust between CCR and CCS clusters with security
+[Elasticsearch How to build mutual trust between CCR and CCS clusters with security](https://aiwithcloud.com/2022/09/19/elasticsearch_how_to_build_mutual_trust_between_ccr_and_ccs_clusters_with_security/)

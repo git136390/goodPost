@@ -1,0 +1,2 @@
+# GIT warehouse slimming and GIT LFS migration instructions
+[GIT warehouse slimming and GIT LFS migration instructions](https://aiwithcloud.com/2022/09/19/git_warehouse_slimming_and_git_lfs_migration_instructions/)

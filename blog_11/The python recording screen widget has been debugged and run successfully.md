@@ -1,0 +1,2 @@
+# The python recording screen widget has been debugged and run successfully
+[The python recording screen widget has been debugged and run successfully](https://aiwithcloud.com/2022/09/19/the_python_recording_screen_widget_has_been_debugged_and_run_successfully/)

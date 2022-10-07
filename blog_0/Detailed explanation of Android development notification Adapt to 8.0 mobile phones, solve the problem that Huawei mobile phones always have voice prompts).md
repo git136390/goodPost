@@ -1,0 +1,2 @@
+# Detailed explanation of Android development notification Adapt to 8.0 mobile phones, solve the problem that Huawei mobile phones always have voice prompts)
+[Detailed explanation of Android development notification Adapt to 8.0 mobile phones, solve the problem that Huawei mobile phones always have voice prompts)](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_android_development_notification_adapt_to_8-0_mobile_phones_solve_the_problem_that_huawei_mobile_phones_always_have_voice_prompts/)

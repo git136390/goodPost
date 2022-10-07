@@ -1,0 +1,2 @@
+# Front-end Realize click on a certain part of the picture to jump (bitmap)
+[Front-end Realize click on a certain part of the picture to jump (bitmap)](https://aiwithcloud.com/2022/09/19/front_end_realize_click_on_a_certain_part_of_the_picture_to_jump_bitmap/)

@@ -1,0 +1,2 @@
+# 【Embedded】Combination of enumeration type and structure
+[【Embedded】Combination of enumeration type and structure](https://aiwithcloud.com/2022/09/15/%e3%80%90embedded%e3%80%91combination_of_enumeration_type_and_structure/)

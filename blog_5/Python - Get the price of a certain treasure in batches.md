@@ -1,0 +1,2 @@
+# Python - Get the price of a certain treasure in batches
+[Python - Get the price of a certain treasure in batches](https://aiwithcloud.com/2022/09/16/python___get_the_price_of_a_certain_treasure_in_batches/)

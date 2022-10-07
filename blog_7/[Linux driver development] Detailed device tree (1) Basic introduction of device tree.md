@@ -1,0 +1,2 @@
+# [Linux driver development] Detailed device tree (1) Basic introduction of device tree
+[[Linux driver development] Detailed device tree (1) Basic introduction of device tree](https://aiwithcloud.com/2022/09/16/linux_driver_development_detailed_device_tree_1_basic_introduction_of_device_tree/)

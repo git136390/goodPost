@@ -1,0 +1,2 @@
+# WeChat applet realizes tab switching (swipeable switching)
+[WeChat applet realizes tab switching (swipeable switching)](https://aiwithcloud.com/2022/09/15/wechat_applet_realizes_tab_switching_swipeable_switching/)

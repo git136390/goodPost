@@ -1,0 +1,2 @@
+# Usage of getColumnIndex() method of Cursor class in Android
+[Usage of getColumnIndex() method of Cursor class in Android](https://aiwithcloud.com/2022/09/16/usage_of_getcolumnindex_method_of_cursor_class_in_android/)

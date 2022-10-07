@@ -1,0 +1,2 @@
+# maven-clean-plugin, maven-resources-plugin, maven-jar-plugin, maven-compiler-plugin plugin download failed when building maven project
+[maven-clean-plugin, maven-resources-plugin, maven-jar-plugin, maven-compiler-plugin plugin download failed when building maven project](https://aiwithcloud.com/2022/09/16/maven_clean_plugin_maven_resources_plugin_maven_jar_plugin_maven_compiler_plugin_plugin_download_failed_when_building_maven_project/)

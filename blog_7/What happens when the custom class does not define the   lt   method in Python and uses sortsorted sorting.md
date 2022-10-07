@@ -1,0 +1,2 @@
+# What happens when the custom class does not define the   lt   method in Python and uses sortsorted sorting
+[What happens when the custom class does not define the   lt   method in Python and uses sortsorted sorting](https://aiwithcloud.com/2022/09/16/what_happens_when_the_custom_class_does_not_define_the___lt___method_in_python_and_uses_sortsorted_sorting/)

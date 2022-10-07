@@ -1,0 +1,2 @@
+# 10,000-word long article, learn ElasticSearch, this article is enough!
+[10,000-word long article, learn ElasticSearch, this article is enough!](https://aiwithcloud.com/2022/09/15/10000_word_long_article_learn_elasticsearch_this_article_is_enough/)

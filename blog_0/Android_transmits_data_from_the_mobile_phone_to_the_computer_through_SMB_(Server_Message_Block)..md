@@ -1,0 +1,2 @@
+# Android_transmits_data_from_the_mobile_phone_to_the_computer_through_SMB_(Server_Message_Block).
+[Android_transmits_data_from_the_mobile_phone_to_the_computer_through_SMB_(Server_Message_Block).](https://aiwithcloud.com/2022/09/14/android_transmits_data_from_the_mobile_phone_to_the_computer_through_smb_server_message_block/)

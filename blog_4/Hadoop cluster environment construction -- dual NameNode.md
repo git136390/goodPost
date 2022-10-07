@@ -1,0 +1,2 @@
+# Hadoop cluster environment construction -- dual NameNode
+[Hadoop cluster environment construction -- dual NameNode](https://aiwithcloud.com/2022/09/15/hadoop_cluster_environment_construction____dual_namenode/)

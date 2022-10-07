@@ -1,0 +1,2 @@
+# iOS reverse programming (15) Cycript syntax advanced (encapsulate .cy script file)
+[iOS reverse programming (15) Cycript syntax advanced (encapsulate .cy script file)](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_15_cycript_syntax_advanced_encapsulate_-cy_script_file/)

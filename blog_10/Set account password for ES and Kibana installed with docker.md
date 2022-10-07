@@ -1,0 +1,2 @@
+# Set account password for ES and Kibana installed with docker
+[Set account password for ES and Kibana installed with docker](https://aiwithcloud.com/2022/09/19/set_account_password_for_es_and_kibana_installed_with_docker/)

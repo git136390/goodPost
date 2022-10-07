@@ -1,0 +1,2 @@
+# Axios simple configuration and solution to cross-domain
+[Axios simple configuration and solution to cross-domain](https://aiwithcloud.com/2022/09/15/axios_simple_configuration_and_solution_to_cross_domain/)

@@ -1,0 +1,2 @@
+# [Algorithm brushing questions]—7.21 takes you to understand the matrix, and the matrix is set to zero
+[[Algorithm brushing questions]—7.21 takes you to understand the matrix, and the matrix is set to zero](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions-7-21_takes_you_to_understand_the_matrix_and_the_matrix_is_set_to_zero/)

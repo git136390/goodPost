@@ -1,0 +1,2 @@
+# Solve the dialog dialog box in element When the second one pops up on the first pop-up box, the page will be blocked by the mask layer
+[Solve the dialog dialog box in element When the second one pops up on the first pop-up box, the page will be blocked by the mask layer](https://aiwithcloud.com/2022/09/15/solve_the_dialog_dialog_box_in_element_when_the_second_one_pops_up_on_the_first_pop_up_box_the_page_will_be_blocked_by_the_mask_layer/)

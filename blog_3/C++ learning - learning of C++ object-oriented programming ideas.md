@@ -1,0 +1,2 @@
+# C++ learning - learning of C++ object-oriented programming ideas
+[C++ learning - learning of C++ object-oriented programming ideas](https://aiwithcloud.com/2022/09/15/c_learning___learning_of_c_object_oriented_programming_ideas/)

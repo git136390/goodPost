@@ -1,0 +1,2 @@
+# Developers, you may have some misunderstandings about cloud computing
+[Developers, you may have some misunderstandings about cloud computing](https://aiwithcloud.com/2022/09/15/developers_you_may_have_some_misunderstandings_about_cloud_computing/)

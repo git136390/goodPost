@@ -1,0 +1,2 @@
+# Generation and use of dynamic library in Linux environment
+[Generation and use of dynamic library in Linux environment](https://aiwithcloud.com/2022/09/15/generation_and_use_of_dynamic_library_in_linux_environment/)

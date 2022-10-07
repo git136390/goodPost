@@ -1,0 +1,2 @@
+# Talking about the storage of C language data in detail
+[Talking about the storage of C language data in detail](https://aiwithcloud.com/2022/09/16/talking_about_the_storage_of_c_language_data_in_detail/)

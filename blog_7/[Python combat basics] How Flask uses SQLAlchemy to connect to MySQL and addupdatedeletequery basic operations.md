@@ -1,0 +1,2 @@
+# [Python combat basics] How Flask uses SQLAlchemy to connect to MySQL and addupdatedeletequery basic operations
+[[Python combat basics] How Flask uses SQLAlchemy to connect to MySQL and addupdatedeletequery basic operations](https://aiwithcloud.com/2022/09/16/python_combat_basics_how_flask_uses_sqlalchemy_to_connect_to_mysql_and_addupdatedeletequery_basic_operations/)

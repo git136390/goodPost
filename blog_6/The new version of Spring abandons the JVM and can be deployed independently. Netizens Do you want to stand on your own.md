@@ -1,0 +1,2 @@
+# The new version of Spring abandons the JVM and can be deployed independently. Netizens Do you want to stand on your own
+[The new version of Spring abandons the JVM and can be deployed independently. Netizens Do you want to stand on your own](https://aiwithcloud.com/2022/09/16/the_new_version_of_spring_abandons_the_jvm_and_can_be_deployed_independently-_netizens_do_you_want_to_stand_on_your_own__/)

@@ -1,0 +1,2 @@
+# How to turn off genuine verification on MC server in Linux; MC adds unpurchased users as administrator minecraft private server configuration
+[How to turn off genuine verification on MC server in Linux; MC adds unpurchased users as administrator minecraft private server configuration](https://aiwithcloud.com/2022/09/15/how_to_turn_off_genuine_verification_on_mc_server_in_linux_mc_adds_unpurchased_users_as_administrator_minecraft_private_server_configuration/)

@@ -1,0 +1,2 @@
+# Python confession code so beautiful, everyone who has used it has found the object... [full screen of roses blooming]
+[Python confession code so beautiful, everyone who has used it has found the object... [full screen of roses blooming]](https://aiwithcloud.com/2022/09/19/python_confession_code_so_beautiful_everyone_who_has_used_it_has_found_the_object-_full_screen_of_roses_blooming/)

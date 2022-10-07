@@ -1,0 +1,2 @@
+# Share a small tool for python to get the regional epidemic risk level
+[Share a small tool for python to get the regional epidemic risk level](https://aiwithcloud.com/2022/09/16/share_a_small_tool_for_python_to_get_the_regional_epidemic_risk_level/)

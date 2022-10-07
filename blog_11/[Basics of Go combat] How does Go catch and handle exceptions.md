@@ -1,0 +1,2 @@
+# [Basics of Go combat] How does Go catch and handle exceptions
+[[Basics of Go combat] How does Go catch and handle exceptions](https://aiwithcloud.com/2022/09/19/basics_of_go_combat_how_does_go_catch_and_handle_exceptions/)

@@ -1,0 +1,2 @@
+# [Kubernetes series] How to elegantly configure Java microservices
+[[Kubernetes series] How to elegantly configure Java microservices](https://aiwithcloud.com/2022/09/19/kubernetes_series_how_to_elegantly_configure_java_microservices/)

@@ -1,0 +1,2 @@
+# Conditional judgment function CASE WHEN in SQL, and usage of IF
+[Conditional judgment function CASE WHEN in SQL, and usage of IF](https://aiwithcloud.com/2022/09/14/conditional_judgment_function_case_when_in_sql_and_usage_of_if/)

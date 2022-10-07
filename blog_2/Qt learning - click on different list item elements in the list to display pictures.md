@@ -1,0 +1,2 @@
+# Qt learning - click on different list item elements in the list to display pictures
+[Qt learning - click on different list item elements in the list to display pictures](https://aiwithcloud.com/2022/09/15/qt_learning___click_on_different_list_item_elements_in_the_list_to_display_pictures/)

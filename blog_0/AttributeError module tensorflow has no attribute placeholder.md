@@ -1,0 +1,2 @@
+# AttributeError: module tensorflow has no attribute placeholder
+[AttributeError: module tensorflow has no attribute placeholder](https://aiwithcloud.com/2021/04/08/attributeerror-module-tensorflow-has-no-attribute-placeholder/)

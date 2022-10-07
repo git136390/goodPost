@@ -1,0 +1,2 @@
+# Java collection (9) Iterator iterator execution principle
+[Java collection (9) Iterator iterator execution principle](https://aiwithcloud.com/2022/09/19/java_collection_9_iterator_iterator_execution_principle/)

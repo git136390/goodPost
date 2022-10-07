@@ -1,0 +1,2 @@
+# Python reads and writes json, formats and writes json files
+[Python reads and writes json, formats and writes json files](https://aiwithcloud.com/2022/09/15/python_reads_and_writes_json_formats_and_writes_json_files/)

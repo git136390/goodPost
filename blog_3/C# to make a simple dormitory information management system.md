@@ -1,0 +1,2 @@
+# C# to make a simple dormitory information management system
+[C# to make a simple dormitory information management system](https://aiwithcloud.com/2022/09/15/c_to_make_a_simple_dormitory_information_management_system/)

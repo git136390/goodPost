@@ -1,0 +1,2 @@
+# JS replace a character or string (multiple) within a string
+[JS replace a character or string (multiple) within a string](https://aiwithcloud.com/2022/09/16/js_replace_a_character_or_string_multiple_within_a_string/)

@@ -1,0 +1,2 @@
+# Detailed explanation of the method of passing parameters in two-dimensional arrays in C++
+[Detailed explanation of the method of passing parameters in two-dimensional arrays in C++](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_method_of_passing_parameters_in_two_dimensional_arrays_in_c/)

@@ -1,0 +1,2 @@
+# Detailed explanation - OTUS (Otsu method - maximum inter-class variance) principle and C language code implementation
+[Detailed explanation - OTUS (Otsu method - maximum inter-class variance) principle and C language code implementation](https://aiwithcloud.com/2022/09/15/detailed_explanation___otus_otsu_method___maximum_inter_class_variance_principle_and_c_language_code_implementation/)

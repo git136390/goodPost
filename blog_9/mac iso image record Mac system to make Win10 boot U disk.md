@@ -1,0 +1,2 @@
+# mac iso image record Mac system to make Win10 boot U disk
+[mac iso image record Mac system to make Win10 boot U disk](https://aiwithcloud.com/2022/09/19/mac_iso_image_record_mac_system_to_make_win10_boot_u_disk/)

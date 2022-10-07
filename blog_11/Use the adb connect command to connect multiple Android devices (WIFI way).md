@@ -1,0 +1,2 @@
+# Use the adb connect command to connect multiple Android devices (WIFI way)
+[Use the adb connect command to connect multiple Android devices (WIFI way)](https://aiwithcloud.com/2022/09/19/use_the_adb_connect_command_to_connect_multiple_android_devices_wifi_way/)

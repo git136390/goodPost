@@ -1,0 +1,2 @@
+# Excel attachment download Response parameter settings (custom files and solve Chinese garbled characters)
+[Excel attachment download Response parameter settings (custom files and solve Chinese garbled characters)](https://aiwithcloud.com/2022/09/19/excel_attachment_download_response_parameter_settings_custom_files_and_solve_chinese_garbled_characters/)

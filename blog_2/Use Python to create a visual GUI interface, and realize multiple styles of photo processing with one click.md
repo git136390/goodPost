@@ -1,0 +1,2 @@
+# Use Python to create a visual GUI interface, and realize multiple styles of photo processing with one click
+[Use Python to create a visual GUI interface, and realize multiple styles of photo processing with one click](https://aiwithcloud.com/2022/09/15/use_python_to_create_a_visual_gui_interface_and_realize_multiple_styles_of_photo_processing_with_one_click/)

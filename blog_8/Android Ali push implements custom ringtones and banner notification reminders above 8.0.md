@@ -1,0 +1,2 @@
+# Android Ali push implements custom ringtones and banner notification reminders above 8.0
+[Android Ali push implements custom ringtones and banner notification reminders above 8.0](https://aiwithcloud.com/2022/09/19/android_ali_push_implements_custom_ringtones_and_banner_notification_reminders_above_8-0/)

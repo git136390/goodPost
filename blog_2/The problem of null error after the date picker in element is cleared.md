@@ -1,0 +1,2 @@
+# The problem of null error after the date picker in element is cleared
+[The problem of null error after the date picker in element is cleared](https://aiwithcloud.com/2022/09/15/the_problem_of_null_error_after_the_date_picker_in_element_is_cleared/)

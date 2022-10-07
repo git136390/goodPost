@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a map of China to display provincial GDP data
+[[Python Practical Basics] How to draw a map of China to display provincial GDP data](https://aiwithcloud.com/2022/09/16/python_practical_basics_how_to_draw_a_map_of_china_to_display_provincial_gdp_data/)

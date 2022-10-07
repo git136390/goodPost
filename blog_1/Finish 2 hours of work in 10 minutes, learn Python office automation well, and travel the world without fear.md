@@ -1,0 +1,2 @@
+# Finish 2 hours of work in 10 minutes, learn Python office automation well, and travel the world without fear
+[Finish 2 hours of work in 10 minutes, learn Python office automation well, and travel the world without fear](https://aiwithcloud.com/2022/09/14/finish_2_hours_of_work_in_10_minutes_learn_python_office_automation_well_and_travel_the_world_without_fear/)

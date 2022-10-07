@@ -1,0 +1,2 @@
+# Java based implementation of fighting landlords (perfecting the function of grabbing landlords)
+[Java based implementation of fighting landlords (perfecting the function of grabbing landlords)](https://aiwithcloud.com/2022/09/15/java_based_implementation_of_fighting_landlords_perfecting_the_function_of_grabbing_landlords/)

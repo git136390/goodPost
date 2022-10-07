@@ -1,0 +1,2 @@
+# Linux system CentOS 7.6 install Vim editor and basic use
+[Linux system CentOS 7.6 install Vim editor and basic use](https://aiwithcloud.com/2022/09/16/linux_system_centos_7-6_install_vim_editor_and_basic_use/)

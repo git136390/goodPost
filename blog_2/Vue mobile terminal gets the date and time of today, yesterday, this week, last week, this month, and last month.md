@@ -1,0 +1,2 @@
+# Vue mobile terminal gets the date and time of today, yesterday, this week, last week, this month, and last month
+[Vue mobile terminal gets the date and time of today, yesterday, this week, last week, this month, and last month](https://aiwithcloud.com/2022/09/15/vue_mobile_terminal_gets_the_date_and_time_of_today_yesterday_this_week_last_week_this_month_and_last_month/)

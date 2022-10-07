@@ -1,0 +1,2 @@
+# Skill 4vue3 routing jump to pass parameters and receive instances
+[Skill 4vue3 routing jump to pass parameters and receive instances](https://aiwithcloud.com/2022/09/19/skill_4vue3_routing_jump_to_pass_parameters_and_receive_instances/)

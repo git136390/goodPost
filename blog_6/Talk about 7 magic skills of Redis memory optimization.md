@@ -1,0 +1,2 @@
+# Talk about 7 magic skills of Redis memory optimization
+[Talk about 7 magic skills of Redis memory optimization](https://aiwithcloud.com/2022/09/16/talk_about_7_magic_skills_of_redis_memory_optimization/)

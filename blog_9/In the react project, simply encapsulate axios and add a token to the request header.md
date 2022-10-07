@@ -1,0 +1,2 @@
+# In the react project, simply encapsulate axios and add a token to the request header
+[In the react project, simply encapsulate axios and add a token to the request header](https://aiwithcloud.com/2022/09/19/in_the_react_project_simply_encapsulate_axios_and_add_a_token_to_the_request_header/)

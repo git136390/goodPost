@@ -1,0 +1,2 @@
+# It seems to be a fun GAN6 - Keras builds LSGAN least squares GAN
+[It seems to be a fun GAN6 - Keras builds LSGAN least squares GAN](https://aiwithcloud.com/2022/09/19/it_seems_to_be_a_fun_gan6___keras_builds_lsgan_least_squares_gan/)

@@ -1,0 +1,2 @@
+# [Linux system programming learning] Makefile simple introduction
+[[Linux system programming learning] Makefile simple introduction](https://aiwithcloud.com/2022/09/15/linux_system_programming_learning_makefile_simple_introduction/)

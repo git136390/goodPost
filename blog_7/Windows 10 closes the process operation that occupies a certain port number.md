@@ -1,0 +1,2 @@
+# Windows 10 closes the process operation that occupies a certain port number
+[Windows 10 closes the process operation that occupies a certain port number](https://aiwithcloud.com/2022/09/16/windows_10_closes_the_process_operation_that_occupies_a_certain_port_number/)

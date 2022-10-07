@@ -1,0 +1,2 @@
+# Qt toolbar control addition, layout of multiple Dock windows
+[Qt toolbar control addition, layout of multiple Dock windows](https://aiwithcloud.com/2022/09/19/qt_toolbar_control_addition_layout_of_multiple_dock_windows/)

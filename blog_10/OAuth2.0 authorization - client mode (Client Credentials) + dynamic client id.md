@@ -1,0 +1,2 @@
+# OAuth2.0 authorization - client mode (Client Credentials) + dynamic client id
+[OAuth2.0 authorization - client mode (Client Credentials) + dynamic client id](https://aiwithcloud.com/2022/09/19/oauth2-0_authorization___client_mode_client_credentials__dynamic_client_id/)

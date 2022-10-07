@@ -1,0 +1,2 @@
+# 【Entry 29】Design of Human Resource Management System Experiment Based on OpenGauss Database
+[【Entry 29】Design of Human Resource Management System Experiment Based on OpenGauss Database](https://aiwithcloud.com/2022/09/16/%e3%80%90entry_29%e3%80%91design_of_human_resource_management_system_experiment_based_on_opengauss_database/)

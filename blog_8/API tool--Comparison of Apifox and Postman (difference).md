@@ -1,0 +1,2 @@
+# API tool--Comparison of Apifox and Postman (difference)
+[API tool--Comparison of Apifox and Postman (difference)](https://aiwithcloud.com/2022/09/19/api_tool__comparison_of_apifox_and_postman_difference/)

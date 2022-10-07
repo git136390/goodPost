@@ -1,0 +1,2 @@
+# Getting started with Python Use while loop to calculate the sum of even numbers between 1-100
+[Getting started with Python Use while loop to calculate the sum of even numbers between 1-100](https://aiwithcloud.com/2022/09/15/getting_started_with_python_use_while_loop_to_calculate_the_sum_of_even_numbers_between_1_100/)

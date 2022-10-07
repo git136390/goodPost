@@ -1,0 +1,2 @@
+# PHP - Laravel View Template (blade.php) Template Inheritance (@extends, @yield, @section)
+[PHP - Laravel View Template (blade.php) Template Inheritance (@extends, @yield, @section)](https://aiwithcloud.com/2022/09/15/php___laravel_view_template_blade-php_template_inheritance_extends_yield_section/)

@@ -1,0 +1,2 @@
+# python + pandas read txt, csv, excel files with different spaces, and skip the specified error row data
+[python + pandas read txt, csv, excel files with different spaces, and skip the specified error row data](https://aiwithcloud.com/2022/09/15/python__pandas_read_txt_csv_excel_files_with_different_spaces_and_skip_the_specified_error_row_data/)

@@ -1,0 +1,2 @@
+# Python practical case flight fare prediction is so effective
+[Python practical case flight fare prediction is so effective](https://aiwithcloud.com/2022/09/19/python_practical_case_flight_fare_prediction_is_so_effective/)

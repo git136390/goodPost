@@ -1,0 +1,2 @@
+# Introduction to Mini Program Development 11-A QR code supports WeChat, DingTalk, and Alipay to scan the code to open the Mini Program
+[Introduction to Mini Program Development 11-A QR code supports WeChat, DingTalk, and Alipay to scan the code to open the Mini Program](https://aiwithcloud.com/2022/09/19/introduction_to_mini_program_development_11_a_qr_code_supports_wechat_dingtalk_and_alipay_to_scan_the_code_to_open_the_mini_program/)

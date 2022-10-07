@@ -1,0 +1,2 @@
+# F12 packet capture is used to analyze the whole process of postman interface testing
+[F12 packet capture is used to analyze the whole process of postman interface testing](https://aiwithcloud.com/2022/09/15/f12_packet_capture_is_used_to_analyze_the_whole_process_of_postman_interface_testing/)

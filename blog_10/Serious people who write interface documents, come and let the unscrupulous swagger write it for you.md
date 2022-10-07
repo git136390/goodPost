@@ -1,0 +1,2 @@
+# Serious people who write interface documents, come and let the unscrupulous swagger write it for you
+[Serious people who write interface documents, come and let the unscrupulous swagger write it for you](https://aiwithcloud.com/2022/09/19/serious_people_who_write_interface_documents_come_and_let_the_unscrupulous_swagger_write_it_for_you/)

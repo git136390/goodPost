@@ -1,0 +1,2 @@
+# KEPServerEX 6 analog data (OPCUA channel create connection)
+[KEPServerEX 6 analog data (OPCUA channel create connection)](https://aiwithcloud.com/2022/09/19/kepserverex_6_analog_data_opcua_channel_create_connection/)

@@ -1,0 +1,2 @@
+# Difference between Android gravity and layout gravity
+[Difference between Android gravity and layout gravity](https://aiwithcloud.com/2022/09/14/difference_between_android_gravity_and_layout_gravity/)

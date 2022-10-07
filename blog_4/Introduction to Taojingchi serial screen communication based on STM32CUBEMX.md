@@ -1,0 +1,2 @@
+# Introduction to Taojingchi serial screen communication based on STM32CUBEMX
+[Introduction to Taojingchi serial screen communication based on STM32CUBEMX](https://aiwithcloud.com/2022/09/15/introduction_to_taojingchi_serial_screen_communication_based_on_stm32cubemx/)

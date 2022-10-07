@@ -1,0 +1,2 @@
+# SQL Server2019 installation steps and offline installation of Microsoft machine learning components cannot continue in the next step
+[SQL Server2019 installation steps and offline installation of Microsoft machine learning components cannot continue in the next step](https://aiwithcloud.com/2022/09/15/sql_server2019_installation_steps_and_offline_installation_of_microsoft_machine_learning_components_cannot_continue_in_the_next_step/)

@@ -1,0 +1,2 @@
+# The solution that the computing node systemctl status openstack-nova-compute.service cannot get up
+[The solution that the computing node systemctl status openstack-nova-compute.service cannot get up](https://aiwithcloud.com/2022/09/16/the_solution_that_the_computing_node_systemctl_status_openstack_nova_compute-service_cannot_get_up/)

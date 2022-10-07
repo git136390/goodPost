@@ -1,0 +1,2 @@
+# AttributeError type object  has no attribute 'objects' and Field defines a relation
+[AttributeError type object  has no attribute 'objects' and Field defines a relation](https://aiwithcloud.com/2022/09/19/attributeerror_type_object__has_no_attribute_objects_and_field_defines_a_relation/)

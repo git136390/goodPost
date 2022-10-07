@@ -1,0 +1,2 @@
+# Python common operators (arithmetic, comparison, assignment, logical, member)
+[Python common operators (arithmetic, comparison, assignment, logical, member)](https://aiwithcloud.com/2022/09/19/python_common_operators_arithmetic_comparison_assignment_logical_member/)

@@ -1,0 +1,2 @@
+# OpenCV adaptive histogram equalization CLAHE image and processing of non-divisible block size
+[OpenCV adaptive histogram equalization CLAHE image and processing of non-divisible block size](https://aiwithcloud.com/2022/09/15/opencv_adaptive_histogram_equalization_clahe_image_and_processing_of_non_divisible_block_size/)

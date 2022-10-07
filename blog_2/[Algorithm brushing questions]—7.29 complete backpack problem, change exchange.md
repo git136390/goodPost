@@ -1,0 +1,2 @@
+# [Algorithm brushing questions]—7.29 complete backpack problem, change exchange
+[[Algorithm brushing questions]—7.29 complete backpack problem, change exchange](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions-7-29_complete_backpack_problem_change_exchange/)

@@ -1,0 +1,2 @@
+# Dynamic programming solution - longest decreasing (or increasing) sequence
+[Dynamic programming solution - longest decreasing (or increasing) sequence](https://aiwithcloud.com/2022/09/19/dynamic_programming_solution___longest_decreasing_or_increasing_sequence/)

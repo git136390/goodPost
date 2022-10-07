@@ -1,0 +1,2 @@
+# Python PyQt5 GUI tutorial (1) pyqt5 introduction and installation
+[Python PyQt5 GUI tutorial (1) pyqt5 introduction and installation](https://aiwithcloud.com/2022/09/15/python_pyqt5_gui_tutorial_1_pyqt5_introduction_and_installation/)

@@ -1,0 +1,2 @@
+# Linux from getting started to abandoning Nginx configuration Index of  index page
+[Linux from getting started to abandoning Nginx configuration Index of  index page](https://aiwithcloud.com/2022/09/16/linux_from_getting_started_to_abandoning_nginx_configuration_index_of__index_page/)

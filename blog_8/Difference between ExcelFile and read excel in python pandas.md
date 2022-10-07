@@ -1,0 +1,2 @@
+# Difference between ExcelFile and read excel in python pandas
+[Difference between ExcelFile and read excel in python pandas](https://aiwithcloud.com/2022/09/19/difference_between_excelfile_and_read_excel_in_python_pandas/)

@@ -1,0 +1,2 @@
+# Multi-way search tree of data structure and algorithm (2-3 tree, 2-3-4 tree, B tree, B+ tree)
+[Multi-way search tree of data structure and algorithm (2-3 tree, 2-3-4 tree, B tree, B+ tree)](https://aiwithcloud.com/2022/09/19/multi_way_search_tree_of_data_structure_and_algorithm_2_3_tree_2_3_4_tree_b_tree_b_tree/)

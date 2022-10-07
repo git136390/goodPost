@@ -1,0 +1,2 @@
+# Good news for XShell users, a new generation of free SSH terminal WindTerm that supports multiple platforms is here
+[Good news for XShell users, a new generation of free SSH terminal WindTerm that supports multiple platforms is here](https://aiwithcloud.com/2022/09/15/good_news_for_xshell_users_a_new_generation_of_free_ssh_terminal_windterm_that_supports_multiple_platforms_is_here/)

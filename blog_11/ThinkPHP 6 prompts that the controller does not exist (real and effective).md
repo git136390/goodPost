@@ -1,0 +1,2 @@
+# ThinkPHP 6 prompts that the controller does not exist (real and effective)
+[ThinkPHP 6 prompts that the controller does not exist (real and effective)](https://aiwithcloud.com/2022/09/19/thinkphp_6_prompts_that_the_controller_does_not_exist_real_and_effective/)

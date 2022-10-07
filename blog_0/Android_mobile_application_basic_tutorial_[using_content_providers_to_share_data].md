@@ -1,0 +1,2 @@
+# Android_mobile_application_basic_tutorial_[using_content_providers_to_share_data]
+[Android_mobile_application_basic_tutorial_[using_content_providers_to_share_data]](https://aiwithcloud.com/2022/09/14/android_mobile_application_basic_tutorial_using_content_providers_to_share_data/)

@@ -1,0 +1,2 @@
+# user specified IP address is supported only when connecting to networks with user configured subnets
+[user specified IP address is supported only when connecting to networks with user configured subnets](https://aiwithcloud.com/2022/09/19/user_specified_ip_address_is_supported_only_when_connecting_to_networks_with_user_configured_subnets/)

@@ -1,0 +1,2 @@
+# JSP programming review question bank (objective questions)
+[JSP programming review question bank (objective questions)](https://aiwithcloud.com/2022/09/19/jsp_programming_review_question_bank_objective_questions/)

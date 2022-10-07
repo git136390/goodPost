@@ -1,0 +1,2 @@
+# VUE uses Element-ui expressions to concatenate strings el-table-column prop concatenate strings
+[VUE uses Element-ui expressions to concatenate strings el-table-column prop concatenate strings](https://aiwithcloud.com/2022/09/16/vue_uses_element_ui_expressions_to_concatenate_strings_el_table_column_prop_concatenate_strings/)

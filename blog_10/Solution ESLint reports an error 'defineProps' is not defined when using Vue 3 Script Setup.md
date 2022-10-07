@@ -1,0 +1,2 @@
+# Solution ESLint reports an error 'defineProps' is not defined when using Vue 3 Script Setup
+[Solution ESLint reports an error 'defineProps' is not defined when using Vue 3 Script Setup](https://aiwithcloud.com/2022/09/19/solution_eslint_reports_an_error_defineprops_is_not_defined_when_using_vue_3_script_setup/)

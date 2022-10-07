@@ -1,0 +1,2 @@
+# Deep Learning of Java Chain of Responsibility Pattern
+[Deep Learning of Java Chain of Responsibility Pattern](https://aiwithcloud.com/2022/09/15/deep_learning_of_java_chain_of_responsibility_pattern/)

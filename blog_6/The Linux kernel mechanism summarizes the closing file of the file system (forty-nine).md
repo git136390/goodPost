@@ -1,0 +1,2 @@
+# The Linux kernel mechanism summarizes the closing file of the file system (forty-nine)
+[The Linux kernel mechanism summarizes the closing file of the file system (forty-nine)](https://aiwithcloud.com/2022/09/16/the_linux_kernel_mechanism_summarizes_the_closing_file_of_the_file_system_forty_nine/)

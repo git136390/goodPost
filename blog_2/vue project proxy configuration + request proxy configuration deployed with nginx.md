@@ -1,0 +1,2 @@
+# vue project proxy configuration + request proxy configuration deployed with nginx
+[vue project proxy configuration + request proxy configuration deployed with nginx](https://aiwithcloud.com/2022/09/15/vue_project_proxy_configuration__request_proxy_configuration_deployed_with_nginx/)

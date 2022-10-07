@@ -1,0 +1,2 @@
+# Ethereum Private Chain Construction (1) - Environment Configuration and Metamask Connection
+[Ethereum Private Chain Construction (1) - Environment Configuration and Metamask Connection](https://aiwithcloud.com/2022/09/15/ethereum_private_chain_construction_1___environment_configuration_and_metamask_connection/)

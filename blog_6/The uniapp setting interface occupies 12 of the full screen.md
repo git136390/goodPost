@@ -1,0 +1,2 @@
+# The uniapp setting interface occupies 12 of the full screen
+[The uniapp setting interface occupies 12 of the full screen](https://aiwithcloud.com/2022/09/16/the_uniapp_setting_interface_occupies_12_of_the_full_screen/)

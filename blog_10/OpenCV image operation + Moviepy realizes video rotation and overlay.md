@@ -1,0 +1,2 @@
+# OpenCV image operation + Moviepy realizes video rotation and overlay
+[OpenCV image operation + Moviepy realizes video rotation and overlay](https://aiwithcloud.com/2022/09/19/opencv_image_operation__moviepy_realizes_video_rotation_and_overlay/)

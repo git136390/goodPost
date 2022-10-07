@@ -1,0 +1,2 @@
+# [Network Protocols] Detailed explanation of vlan if vlan
+[[Network Protocols] Detailed explanation of vlan if vlan](https://aiwithcloud.com/2022/09/15/network_protocols_detailed_explanation_of_vlan_if_vlan/)

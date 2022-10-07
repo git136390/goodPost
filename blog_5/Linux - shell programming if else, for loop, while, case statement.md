@@ -1,0 +1,2 @@
+# Linux - shell programming if else, for loop, while, case statement
+[Linux - shell programming if else, for loop, while, case statement](https://aiwithcloud.com/2022/09/16/linux___shell_programming_if_else_for_loop_while_case_statement/)

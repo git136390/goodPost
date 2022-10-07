@@ -1,0 +1,2 @@
+# yarn create project 1616 Incorrect filename, directory name or volume label syntax.
+[yarn create project 1616 Incorrect filename, directory name or volume label syntax.](https://aiwithcloud.com/2022/09/19/yarn_create_project_1616_incorrect_filename_directory_name_or_volume_label_syntax/)

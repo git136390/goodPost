@@ -1,0 +1,2 @@
+# [Individual problem solutions for the 13th Blue Bridge Cup Provincial Competition in 2022]
+[[Individual problem solutions for the 13th Blue Bridge Cup Provincial Competition in 2022]](https://aiwithcloud.com/2022/09/19/individual_problem_solutions_for_the_13th_blue_bridge_cup_provincial_competition_in_2022/)

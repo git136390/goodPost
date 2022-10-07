@@ -1,0 +1,2 @@
+# Python study notes - (14) Advanced usage in python loops
+[Python study notes - (14) Advanced usage in python loops](https://aiwithcloud.com/2022/09/19/python_study_notes___14_advanced_usage_in_python_loops/)

@@ -1,0 +1,2 @@
+# Mathematical modeling commonly used algorithm - Bellman-Ford algorithm to find the shortest path (Bellman-Ford)
+[Mathematical modeling commonly used algorithm - Bellman-Ford algorithm to find the shortest path (Bellman-Ford)](https://aiwithcloud.com/2022/09/15/mathematical_modeling_commonly_used_algorithm___bellman_ford_algorithm_to_find_the_shortest_path_bellman_ford/)

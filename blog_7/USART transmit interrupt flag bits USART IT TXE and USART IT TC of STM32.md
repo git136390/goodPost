@@ -1,0 +1,2 @@
+# USART transmit interrupt flag bits USART IT TXE and USART IT TC of STM32
+[USART transmit interrupt flag bits USART IT TXE and USART IT TC of STM32](https://aiwithcloud.com/2022/09/16/usart_transmit_interrupt_flag_bits_usart_it_txe_and_usart_it_tc_of_stm32/)

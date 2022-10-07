@@ -1,0 +1,2 @@
+# Ultra-detailed OpenMV and STM32 microcontroller communication (with full version source code)
+[Ultra-detailed OpenMV and STM32 microcontroller communication (with full version source code)](https://aiwithcloud.com/2022/09/16/ultra_detailed_openmv_and_stm32_microcontroller_communication_with_full_version_source_code/)

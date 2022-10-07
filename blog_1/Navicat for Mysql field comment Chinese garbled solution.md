@@ -1,0 +1,2 @@
+# Navicat for Mysql field comment Chinese garbled solution
+[Navicat for Mysql field comment Chinese garbled solution](https://aiwithcloud.com/2022/09/15/navicat_for_mysql_field_comment_chinese_garbled_solution/)

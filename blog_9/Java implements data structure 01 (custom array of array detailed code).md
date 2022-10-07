@@ -1,0 +1,2 @@
+# Java implements data structure 01 (custom array of array detailed code)
+[Java implements data structure 01 (custom array of array detailed code)](https://aiwithcloud.com/2022/09/19/java_implements_data_structure_01_custom_array_of_array_detailed_code/)

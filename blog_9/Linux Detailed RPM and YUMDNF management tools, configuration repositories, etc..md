@@ -1,0 +1,2 @@
+# Linux Detailed RPM and YUMDNF management tools, configuration repositories, etc.
+[Linux Detailed RPM and YUMDNF management tools, configuration repositories, etc.](https://aiwithcloud.com/2022/09/19/linux_detailed_rpm_and_yumdnf_management_tools_configuration_repositories_etc/)

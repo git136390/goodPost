@@ -1,0 +1,2 @@
+# [Python combat basics] How Pandas changes the order of columns of the table data type DataFrame
+[[Python combat basics] How Pandas changes the order of columns of the table data type DataFrame](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_pandas_changes_the_order_of_columns_of_the_table_data_type_dataframe/)

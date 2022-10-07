@@ -1,0 +1,2 @@
+# Unity gets the width, height and set size of the UI, and clones the UI from the layout group will lose the size of the problem
+[Unity gets the width, height and set size of the UI, and clones the UI from the layout group will lose the size of the problem](https://aiwithcloud.com/2022/09/19/unity_gets_the_width_height_and_set_size_of_the_ui_and_clones_the_ui_from_the_layout_group_will_lose_the_size_of_the_problem/)

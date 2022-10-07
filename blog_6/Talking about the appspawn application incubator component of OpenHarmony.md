@@ -1,0 +1,2 @@
+# Talking about the appspawn application incubator component of OpenHarmony
+[Talking about the appspawn application incubator component of OpenHarmony](https://aiwithcloud.com/2022/09/16/talking_about_the_appspawn_application_incubator_component_of_openharmony/)

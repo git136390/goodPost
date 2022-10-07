@@ -1,0 +1,2 @@
+# Tp uses behavior hooks to automatically register facade proxy facades
+[Tp uses behavior hooks to automatically register facade proxy facades](https://aiwithcloud.com/2022/09/16/tp_uses_behavior_hooks_to_automatically_register_facade_proxy_facades/)

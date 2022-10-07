@@ -1,0 +1,2 @@
+# Quickly collect the Pytest framework environment switching practical tutorial
+[Quickly collect the Pytest framework environment switching practical tutorial](https://aiwithcloud.com/2022/09/19/quickly_collect_the_pytest_framework_environment_switching_practical_tutorial/)

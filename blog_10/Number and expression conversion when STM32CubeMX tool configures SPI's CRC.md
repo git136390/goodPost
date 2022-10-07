@@ -1,0 +1,2 @@
+# Number and expression conversion when STM32CubeMX tool configures SPI's CRC
+[Number and expression conversion when STM32CubeMX tool configures SPI's CRC](https://aiwithcloud.com/2022/09/19/number_and_expression_conversion_when_stm32cubemx_tool_configures_spis_crc/)

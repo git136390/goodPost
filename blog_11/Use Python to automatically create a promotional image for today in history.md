@@ -1,0 +1,2 @@
+# Use Python to automatically create a promotional image for today in history
+[Use Python to automatically create a promotional image for today in history](https://aiwithcloud.com/2022/09/19/use_python_to_automatically_create_a_promotional_image_for_today_in_history/)

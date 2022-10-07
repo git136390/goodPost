@@ -1,0 +1,2 @@
+# Maven environment variable configuration (3.3.9 download and installation tutorial)
+[Maven environment variable configuration (3.3.9 download and installation tutorial)](https://aiwithcloud.com/2022/09/19/maven_environment_variable_configuration_3-3-9_download_and_installation_tutorial/)

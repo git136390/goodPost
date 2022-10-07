@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to count the frequency of words in a file
+[[Python Practical Basics] How to count the frequency of words in a file](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_count_the_frequency_of_words_in_a_file/)

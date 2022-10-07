@@ -1,0 +1,2 @@
+# Elastic combat find the difference between two dates in script painless
+[Elastic combat find the difference between two dates in script painless](https://aiwithcloud.com/2022/09/15/elastic_combat_find_the_difference_between_two_dates_in_script_painless/)

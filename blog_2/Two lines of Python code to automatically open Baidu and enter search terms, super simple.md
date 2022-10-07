@@ -1,0 +1,2 @@
+# Two lines of Python code to automatically open Baidu and enter search terms, super simple
+[Two lines of Python code to automatically open Baidu and enter search terms, super simple](https://aiwithcloud.com/2022/09/15/two_lines_of_python_code_to_automatically_open_baidu_and_enter_search_terms_super_simple/)

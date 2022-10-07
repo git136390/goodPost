@@ -1,0 +1,2 @@
+# [Solved] Appium+Java controls the real machine (Xiaomi 12X), and an error occurs when running Appium Inspector or Java test script Error executing adbExec
+[[Solved] Appium+Java controls the real machine (Xiaomi 12X), and an error occurs when running Appium Inspector or Java test script Error executing adbExec](https://aiwithcloud.com/2022/09/15/solved_appiumjava_controls_the_real_machine_xiaomi_12x_and_an_error_occurs_when_running_appium_inspector_or_java_test_script_error_executing_adbexec/)

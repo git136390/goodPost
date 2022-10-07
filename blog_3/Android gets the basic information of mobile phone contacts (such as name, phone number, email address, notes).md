@@ -1,0 +1,2 @@
+# Android gets the basic information of mobile phone contacts (such as name, phone number, email address, notes)
+[Android gets the basic information of mobile phone contacts (such as name, phone number, email address, notes)](https://aiwithcloud.com/2022/09/15/android_gets_the_basic_information_of_mobile_phone_contacts_such_as_name_phone_number_email_address_notes/)

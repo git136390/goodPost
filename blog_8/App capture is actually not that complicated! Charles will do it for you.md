@@ -1,0 +1,2 @@
+# App capture is actually not that complicated! Charles will do it for you
+[App capture is actually not that complicated! Charles will do it for you](https://aiwithcloud.com/2022/09/19/app_capture_is_actually_not_that_complicated_charles_will_do_it_for_you/)

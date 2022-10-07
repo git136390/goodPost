@@ -1,0 +1,2 @@
+# Challenge the Nth day of playing python on CSDN - use code to collect daily hot content information and send it to your own mailbox
+[Challenge the Nth day of playing python on CSDN - use code to collect daily hot content information and send it to your own mailbox](https://aiwithcloud.com/2022/09/14/challenge_the_nth_day_of_playing_python_on_csdn___use_code_to_collect_daily_hot_content_information_and_send_it_to_your_own_mailbox/)

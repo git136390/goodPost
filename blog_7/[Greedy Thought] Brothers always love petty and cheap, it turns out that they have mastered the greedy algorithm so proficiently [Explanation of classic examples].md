@@ -1,0 +1,2 @@
+# [Greedy Thought] Brothers always love petty and cheap, it turns out that they have mastered the greedy algorithm so proficiently [Explanation of classic examples]
+[[Greedy Thought] Brothers always love petty and cheap, it turns out that they have mastered the greedy algorithm so proficiently [Explanation of classic examples]](https://aiwithcloud.com/2022/09/16/greedy_thought_brothers_always_love_petty_and_cheap_it_turns_out_that_they_have_mastered_the_greedy_algorithm_so_proficiently_explanation_of_classic_examples/)

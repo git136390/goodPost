@@ -1,0 +1,2 @@
+# Interface automation framework (Pytest+request+Allure)
+[Interface automation framework (Pytest+request+Allure)](https://aiwithcloud.com/2022/09/15/interface_automation_framework_pytestrequestallure/)

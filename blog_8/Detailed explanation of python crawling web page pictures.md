@@ -1,0 +1,2 @@
+# Detailed explanation of python crawling web page pictures
+[Detailed explanation of python crawling web page pictures](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_python_crawling_web_page_pictures/)

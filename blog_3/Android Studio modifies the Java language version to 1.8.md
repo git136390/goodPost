@@ -1,0 +1,2 @@
+# Android Studio modifies the Java language version to 1.8
+[Android Studio modifies the Java language version to 1.8](https://aiwithcloud.com/2022/09/15/android_studio_modifies_the_java_language_version_to_1-8/)

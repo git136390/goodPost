@@ -1,0 +1,2 @@
+# Weibo eating melon is always one step late to know, the programmer directly wrote a hot search reminder tool
+[Weibo eating melon is always one step late to know, the programmer directly wrote a hot search reminder tool](https://aiwithcloud.com/2022/09/16/weibo_eating_melon_is_always_one_step_late_to_know_the_programmer_directly_wrote_a_hot_search_reminder_tool/)

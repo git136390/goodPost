@@ -1,0 +1,2 @@
+# JS solves the problem that mobile browsers (Safari, Alook...) cannot prohibit zooming
+[JS solves the problem that mobile browsers (Safari, Alook...) cannot prohibit zooming](https://aiwithcloud.com/2022/09/16/js_solves_the_problem_that_mobile_browsers_safari_alook-_cannot_prohibit_zooming/)

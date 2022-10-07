@@ -1,0 +1,2 @@
+# Can't write a website yet 10 minutes later... yes, are you sure you don't want to study
+[Can't write a website yet 10 minutes later... yes, are you sure you don't want to study](https://aiwithcloud.com/2022/09/15/cant_write_a_website_yet_10_minutes_later-_yes_are_you_sure_you_dont_want_to_study/)

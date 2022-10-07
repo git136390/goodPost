@@ -1,0 +1,2 @@
+# Why did the data persistence framework abandon Hibernate, JPA, Mybatis, and finally choose JDBCTemplate!
+[Why did the data persistence framework abandon Hibernate, JPA, Mybatis, and finally choose JDBCTemplate!](https://aiwithcloud.com/2022/09/19/why_did_the_data_persistence_framework_abandon_hibernate_jpa_mybatis_and_finally_choose_jdbctemplate/)

@@ -1,0 +1,2 @@
+# 【WeChat applet】Collaborative work and publishing data binding
+[【WeChat applet】Collaborative work and publishing data binding](https://aiwithcloud.com/2022/09/16/%e3%80%90wechat_applet%e3%80%91collaborative_work_and_publishing_data_binding/)

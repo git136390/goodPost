@@ -1,0 +1,2 @@
+# PHP - Laravel view template (blade.php) template introduction and use, and template use page parameters
+[PHP - Laravel view template (blade.php) template introduction and use, and template use page parameters](https://aiwithcloud.com/2022/09/16/php___laravel_view_template_blade-php_template_introduction_and_use_and_template_use_page_parameters/)

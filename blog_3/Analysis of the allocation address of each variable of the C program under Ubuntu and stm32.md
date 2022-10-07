@@ -1,0 +1,2 @@
+# Analysis of the allocation address of each variable of the C program under Ubuntu and stm32
+[Analysis of the allocation address of each variable of the C program under Ubuntu and stm32](https://aiwithcloud.com/2022/09/15/analysis_of_the_allocation_address_of_each_variable_of_the_c_program_under_ubuntu_and_stm32/)

@@ -1,0 +1,2 @@
+# Two lines of Python code to adjust the brightness of a video
+[Two lines of Python code to adjust the brightness of a video](https://aiwithcloud.com/2022/09/15/two_lines_of_python_code_to_adjust_the_brightness_of_a_video/)

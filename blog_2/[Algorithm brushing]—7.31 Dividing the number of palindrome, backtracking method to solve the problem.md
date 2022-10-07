@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.31 Dividing the number of palindrome, backtracking method to solve the problem
+[[Algorithm brushing]—7.31 Dividing the number of palindrome, backtracking method to solve the problem](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-31_dividing_the_number_of_palindrome_backtracking_method_to_solve_the_problem/)

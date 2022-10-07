@@ -1,0 +1,2 @@
+# Go function passing pass by value & use pointers that understand Go
+[Go function passing pass by value & use pointers that understand Go](https://aiwithcloud.com/2022/09/19/go_function_passing_pass_by_value__use_pointers_that_understand_go/)

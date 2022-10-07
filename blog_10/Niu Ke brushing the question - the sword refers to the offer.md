@@ -1,0 +1,2 @@
+# Niu Ke brushing the question - the sword refers to the offer
+[Niu Ke brushing the question - the sword refers to the offer](https://aiwithcloud.com/2022/09/19/niu_ke_brushing_the_question___the_sword_refers_to_the_offer/)

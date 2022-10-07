@@ -1,0 +1,2 @@
+# Win10 installs Ubuntu18.04 dual system, detailed graphic and text, the most detailed tutorial on the entire network
+[Win10 installs Ubuntu18.04 dual system, detailed graphic and text, the most detailed tutorial on the entire network](https://aiwithcloud.com/2022/09/16/win10_installs_ubuntu18-04_dual_system_detailed_graphic_and_text_the_most_detailed_tutorial_on_the_entire_network/)

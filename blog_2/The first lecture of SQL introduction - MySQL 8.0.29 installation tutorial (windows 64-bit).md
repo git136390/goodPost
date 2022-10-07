@@ -1,0 +1,2 @@
+# The first lecture of SQL introduction - MySQL 8.0.29 installation tutorial (windows 64-bit)
+[The first lecture of SQL introduction - MySQL 8.0.29 installation tutorial (windows 64-bit)](https://aiwithcloud.com/2022/09/15/the_first_lecture_of_sql_introduction___mysql_8-0-29_installation_tutorial_windows_64_bit/)

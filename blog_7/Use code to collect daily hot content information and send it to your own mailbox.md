@@ -1,0 +1,2 @@
+# Use code to collect daily hot content information and send it to your own mailbox
+[Use code to collect daily hot content information and send it to your own mailbox](https://aiwithcloud.com/2022/09/16/use_code_to_collect_daily_hot_content_information_and_send_it_to_your_own_mailbox/)

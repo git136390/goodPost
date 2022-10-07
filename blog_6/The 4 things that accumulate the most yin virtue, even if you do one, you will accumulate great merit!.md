@@ -1,0 +1,2 @@
+# The 4 things that accumulate the most yin virtue, even if you do one, you will accumulate great merit!
+[The 4 things that accumulate the most yin virtue, even if you do one, you will accumulate great merit!](https://aiwithcloud.com/2022/09/16/the_4_things_that_accumulate_the_most_yin_virtue_even_if_you_do_one_you_will_accumulate_great_merit/)

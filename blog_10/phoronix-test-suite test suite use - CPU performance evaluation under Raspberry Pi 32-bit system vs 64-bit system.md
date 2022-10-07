@@ -1,0 +1,2 @@
+# phoronix-test-suite test suite use - CPU performance evaluation under Raspberry Pi 32-bit system vs 64-bit system
+[phoronix-test-suite test suite use - CPU performance evaluation under Raspberry Pi 32-bit system vs 64-bit system](https://aiwithcloud.com/2022/09/19/phoronix_test_suite_test_suite_use___cpu_performance_evaluation_under_raspberry_pi_32_bit_system_vs_64_bit_system/)

@@ -1,0 +1,2 @@
+# The most correct way to fill in the appID of the apple-app-site-association of Universal Link
+[The most correct way to fill in the appID of the apple-app-site-association of Universal Link](https://aiwithcloud.com/2022/09/15/the_most_correct_way_to_fill_in_the_appid_of_the_apple_app_site_association_of_universal_link/)

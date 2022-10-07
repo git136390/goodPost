@@ -1,0 +1,2 @@
+# The installation and use of the Weditor for app automated testing positioning elements
+[The installation and use of the Weditor for app automated testing positioning elements](https://aiwithcloud.com/2022/09/15/the_installation_and_use_of_the_weditor_for_app_automated_testing_positioning_elements/)

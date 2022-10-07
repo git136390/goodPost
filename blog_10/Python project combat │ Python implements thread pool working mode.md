@@ -1,0 +1,2 @@
+# Python project combat │ Python implements thread pool working mode
+[Python project combat │ Python implements thread pool working mode](https://aiwithcloud.com/2022/09/19/python_project_combat_%e2%94%82_python_implements_thread_pool_working_mode/)

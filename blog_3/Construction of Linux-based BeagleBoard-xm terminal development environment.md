@@ -1,0 +1,2 @@
+# Construction of Linux-based BeagleBoard-xm terminal development environment
+[Construction of Linux-based BeagleBoard-xm terminal development environment](https://aiwithcloud.com/2022/09/15/construction_of_linux_based_beagleboard_xm_terminal_development_environment/)

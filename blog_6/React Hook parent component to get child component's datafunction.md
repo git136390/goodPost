@@ -1,0 +1,2 @@
+# React Hook parent component to get child component's datafunction
+[React Hook parent component to get child component's datafunction](https://aiwithcloud.com/2022/09/16/react_hook_parent_component_to_get_child_components_datafunction/)

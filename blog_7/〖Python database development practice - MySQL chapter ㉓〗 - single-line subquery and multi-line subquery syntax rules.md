@@ -1,0 +1,2 @@
+# 〖Python database development practice - MySQL chapter ㉓〗 - single-line subquery and multi-line subquery syntax rules
+[〖Python database development practice - MySQL chapter ㉓〗 - single-line subquery and multi-line subquery syntax rules](https://aiwithcloud.com/2022/09/16/%e3%80%96python_database_development_practice___mysql_chapter_%e3%89%93%e3%80%97___single_line_subquery_and_multi_line_subquery_syntax_rules/)

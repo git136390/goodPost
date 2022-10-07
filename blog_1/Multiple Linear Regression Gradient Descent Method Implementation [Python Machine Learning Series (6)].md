@@ -1,0 +1,2 @@
+# Multiple Linear Regression Gradient Descent Method Implementation [Python Machine Learning Series (6)]
+[Multiple Linear Regression Gradient Descent Method Implementation [Python Machine Learning Series (6)]](https://aiwithcloud.com/2022/09/15/multiple_linear_regression_gradient_descent_method_implementation_python_machine_learning_series_6/)

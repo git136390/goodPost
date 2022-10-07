@@ -1,0 +1,2 @@
+# Java ArrayList implements playing cards, including the whole process of creating a deck and shuffling cards
+[Java ArrayList implements playing cards, including the whole process of creating a deck and shuffling cards](https://aiwithcloud.com/2022/09/19/java_arraylist_implements_playing_cards_including_the_whole_process_of_creating_a_deck_and_shuffling_cards/)

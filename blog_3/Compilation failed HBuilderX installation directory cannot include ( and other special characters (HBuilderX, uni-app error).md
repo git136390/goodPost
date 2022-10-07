@@ -1,0 +1,2 @@
+# Compilation failed HBuilderX installation directory cannot include ( and other special characters (HBuilderX, uni-app error)
+[Compilation failed HBuilderX installation directory cannot include ( and other special characters (HBuilderX, uni-app error)](https://aiwithcloud.com/2022/09/15/compilation_failed_hbuilderx_installation_directory_cannot_include__and_other_special_characters_hbuilderx_uni_app_error/)

@@ -1,0 +1,2 @@
+# Centos7 network intermittently disconnects under virtual machine
+[Centos7 network intermittently disconnects under virtual machine](https://aiwithcloud.com/2022/09/19/centos7_network_intermittently_disconnects_under_virtual_machine/)

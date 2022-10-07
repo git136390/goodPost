@@ -1,0 +1,2 @@
+# PaddlePaddle uses word vector model to predict words that cannot be predicted
+[PaddlePaddle uses word vector model to predict words that cannot be predicted](https://aiwithcloud.com/2022/09/16/paddlepaddle_uses_word_vector_model_to_predict_words_that_cannot_be_predicted/)

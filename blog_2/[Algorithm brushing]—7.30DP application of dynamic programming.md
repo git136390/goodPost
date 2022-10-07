@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.30DP application of dynamic programming
+[[Algorithm brushing]—7.30DP application of dynamic programming](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-30dp_application_of_dynamic_programming/)

@@ -1,0 +1,2 @@
+# Python data analysis (8) ---- implement data stratified sampling with Pandas
+[Python data analysis (8) ---- implement data stratified sampling with Pandas](https://aiwithcloud.com/2022/09/16/python_data_analysis_8______implement_data_stratified_sampling_with_pandas/)

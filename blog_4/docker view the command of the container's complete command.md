@@ -1,0 +1,2 @@
+# docker view the command of the container's complete command
+[docker view the command of the container's complete command](https://aiwithcloud.com/2022/09/15/docker_view_the_command_of_the_containers_complete_command/)

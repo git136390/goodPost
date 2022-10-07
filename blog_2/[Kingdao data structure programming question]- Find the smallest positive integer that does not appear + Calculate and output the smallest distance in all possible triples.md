@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question]- Find the smallest positive integer that does not appear + Calculate and output the smallest distance in all possible triples
+[[Kingdao data structure programming question]- Find the smallest positive integer that does not appear + Calculate and output the smallest distance in all possible triples](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question__find_the_smallest_positive_integer_that_does_not_appear__calculate_and_output_the_smallest_distance_in_all_possible_triples/)

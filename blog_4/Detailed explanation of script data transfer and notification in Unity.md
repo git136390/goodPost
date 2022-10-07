@@ -1,0 +1,2 @@
+# Detailed explanation of script data transfer and notification in Unity
+[Detailed explanation of script data transfer and notification in Unity](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_script_data_transfer_and_notification_in_unity/)

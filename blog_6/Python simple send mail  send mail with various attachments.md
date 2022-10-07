@@ -1,0 +1,2 @@
+# Python simple send mail  send mail with various attachments
+[Python simple send mail  send mail with various attachments](https://aiwithcloud.com/2022/09/16/python_simple_send_mail__send_mail_with_various_attachments/)

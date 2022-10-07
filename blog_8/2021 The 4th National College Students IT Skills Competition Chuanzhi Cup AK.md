@@ -1,0 +1,2 @@
+# 2021 The 4th National College Students IT Skills Competition Chuanzhi Cup AK
+[2021 The 4th National College Students IT Skills Competition Chuanzhi Cup AK](https://aiwithcloud.com/2022/09/19/2021_the_4th_national_college_students_it_skills_competition_chuanzhi_cup_ak/)

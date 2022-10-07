@@ -1,0 +1,2 @@
+# Python project actual combat to learn the drawing and left and right movement control of the first spaceship war of alien invasion
+[Python project actual combat to learn the drawing and left and right movement control of the first spaceship war of alien invasion](https://aiwithcloud.com/2022/09/15/python_project_actual_combat_to_learn_the_drawing_and_left_and_right_movement_control_of_the_first_spaceship_war_of_alien_invasion/)

@@ -1,0 +1,2 @@
+# MySQL startup failed - the reason why the MySQL service cannot be started and the solution
+[MySQL startup failed - the reason why the MySQL service cannot be started and the solution](https://aiwithcloud.com/2022/09/15/mysql_startup_failed___the_reason_why_the_mysql_service_cannot_be_started_and_the_solution/)

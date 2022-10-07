@@ -1,0 +1,2 @@
+# SpringBoot project jar release Get the directory path where the jar package is located
+[SpringBoot project jar release Get the directory path where the jar package is located](https://aiwithcloud.com/2022/09/15/springboot_project_jar_release_get_the_directory_path_where_the_jar_package_is_located/)

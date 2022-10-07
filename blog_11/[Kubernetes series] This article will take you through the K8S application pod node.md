@@ -1,0 +1,2 @@
+# [Kubernetes series] This article will take you through the K8S application pod node
+[[Kubernetes series] This article will take you through the K8S application pod node](https://aiwithcloud.com/2022/09/19/kubernetes_series_this_article_will_take_you_through_the_k8s_application_pod_node/)

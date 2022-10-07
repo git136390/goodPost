@@ -1,0 +1,2 @@
+# The java code for android to plug in headphones and also put speakers to play audio
+[The java code for android to plug in headphones and also put speakers to play audio](https://aiwithcloud.com/2022/09/15/the_java_code_for_android_to_plug_in_headphones_and_also_put_speakers_to_play_audio/)

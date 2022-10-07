@@ -1,0 +1,2 @@
+# Java8 filters the data in the list collection and sorts multiple attributes of an object in the collection
+[Java8 filters the data in the list collection and sorts multiple attributes of an object in the collection](https://aiwithcloud.com/2022/09/16/java8_filters_the_data_in_the_list_collection_and_sorts_multiple_attributes_of_an_object_in_the_collection/)

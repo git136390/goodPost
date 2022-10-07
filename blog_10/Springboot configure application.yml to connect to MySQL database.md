@@ -1,0 +1,2 @@
+# Springboot configure application.yml to connect to MySQL database
+[Springboot configure application.yml to connect to MySQL database](https://aiwithcloud.com/2022/09/19/springboot_configure_application-yml_to_connect_to_mysql_database/)

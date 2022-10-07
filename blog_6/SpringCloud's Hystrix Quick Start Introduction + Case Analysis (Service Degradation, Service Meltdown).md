@@ -1,0 +1,2 @@
+# SpringCloud's Hystrix Quick Start Introduction + Case Analysis (Service Degradation, Service Meltdown)
+[SpringCloud's Hystrix Quick Start Introduction + Case Analysis (Service Degradation, Service Meltdown)](https://aiwithcloud.com/2022/09/16/springclouds_hystrix_quick_start_introduction__case_analysis_service_degradation_service_meltdown/)

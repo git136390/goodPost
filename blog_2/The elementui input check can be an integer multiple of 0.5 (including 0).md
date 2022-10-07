@@ -1,0 +1,2 @@
+# The elementui input check can be an integer multiple of 0.5 (including 0)
+[The elementui input check can be an integer multiple of 0.5 (including 0)](https://aiwithcloud.com/2022/09/15/the_elementui_input_check_can_be_an_integer_multiple_of_0-5_including_0/)

@@ -1,0 +1,2 @@
+# LeetCode brushing questions - singly linked list advanced (detailed diagram)
+[LeetCode brushing questions - singly linked list advanced (detailed diagram)](https://aiwithcloud.com/2022/09/16/leetcode_brushing_questions___singly_linked_list_advanced_detailed_diagram/)

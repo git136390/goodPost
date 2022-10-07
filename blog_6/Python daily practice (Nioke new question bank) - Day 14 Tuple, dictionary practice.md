@@ -1,0 +1,2 @@
+# Python daily practice (Nioke new question bank) - Day 14 Tuple, dictionary practice
+[Python daily practice (Nioke new question bank) - Day 14 Tuple, dictionary practice](https://aiwithcloud.com/2022/09/16/python_daily_practice_nioke_new_question_bank___day_14_tuple_dictionary_practice/)

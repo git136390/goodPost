@@ -1,0 +1,2 @@
+# Getting Started with Docker - Change the source to a domestic source to quickly download images
+[Getting Started with Docker - Change the source to a domestic source to quickly download images](https://aiwithcloud.com/2022/09/19/getting_started_with_docker___change_the_source_to_a_domestic_source_to_quickly_download_images/)

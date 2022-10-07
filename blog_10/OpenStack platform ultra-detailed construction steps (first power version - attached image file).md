@@ -1,0 +1,2 @@
+# OpenStack platform ultra-detailed construction steps (first power version - attached image file)
+[OpenStack platform ultra-detailed construction steps (first power version - attached image file)](https://aiwithcloud.com/2022/09/19/openstack_platform_ultra_detailed_construction_steps_first_power_version___attached_image_file/)

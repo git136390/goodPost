@@ -1,0 +1,2 @@
+# HTML rotating photo album (0 basics, 1 minute to learn)
+[HTML rotating photo album (0 basics, 1 minute to learn)](https://aiwithcloud.com/2022/09/15/html_rotating_photo_album_0_basics_1_minute_to_learn/)

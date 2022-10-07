@@ -1,0 +1,2 @@
+# Detailed analysis of u-boot startup process of ARMv8 architecture (2)
+[Detailed analysis of u-boot startup process of ARMv8 architecture (2)](https://aiwithcloud.com/2022/09/15/detailed_analysis_of_u_boot_startup_process_of_armv8_architecture_2/)

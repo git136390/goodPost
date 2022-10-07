@@ -1,0 +1,2 @@
+# Beginner Java - an example of using the command line for junit testing (Windows system)
+[Beginner Java - an example of using the command line for junit testing (Windows system)](https://aiwithcloud.com/2022/09/14/beginner_java___an_example_of_using_the_command_line_for_junit_testing_windows_system/)

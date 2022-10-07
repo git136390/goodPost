@@ -1,0 +1,2 @@
+# Basic Programming Problem Set 6-10 Factorial Calculation Upgrade (20 points)
+[Basic Programming Problem Set 6-10 Factorial Calculation Upgrade (20 points)](https://aiwithcloud.com/2022/09/19/basic_programming_problem_set_6_10_factorial_calculation_upgrade_20_points/)

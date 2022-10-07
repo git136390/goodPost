@@ -1,0 +1,2 @@
+# Python learning to summarize the use of the basics list
+[Python learning to summarize the use of the basics list](https://aiwithcloud.com/2022/09/15/python_learning_to_summarize_the_use_of_the_basics_list/)

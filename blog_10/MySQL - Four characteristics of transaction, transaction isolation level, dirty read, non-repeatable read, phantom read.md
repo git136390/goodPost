@@ -1,0 +1,2 @@
+# MySQL - Four characteristics of transaction, transaction isolation level, dirty read, non-repeatable read, phantom read
+[MySQL - Four characteristics of transaction, transaction isolation level, dirty read, non-repeatable read, phantom read](https://aiwithcloud.com/2022/09/19/mysql___four_characteristics_of_transaction_transaction_isolation_level_dirty_read_non_repeatable_read_phantom_read/)

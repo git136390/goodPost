@@ -1,0 +1,2 @@
+# Thanos snaps his fingers to understand Verilog multidimensional arrays [Verilog Advanced Tutorial]
+[Thanos snaps his fingers to understand Verilog multidimensional arrays [Verilog Advanced Tutorial]](https://aiwithcloud.com/2022/09/19/thanos_snaps_his_fingers_to_understand_verilog_multidimensional_arrays_verilog_advanced_tutorial/)

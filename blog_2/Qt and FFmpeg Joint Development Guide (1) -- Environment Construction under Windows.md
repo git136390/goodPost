@@ -1,0 +1,2 @@
+# Qt and FFmpeg Joint Development Guide (1) -- Environment Construction under Windows
+[Qt and FFmpeg Joint Development Guide (1) -- Environment Construction under Windows](https://aiwithcloud.com/2022/09/15/qt_and_ffmpeg_joint_development_guide_1____environment_construction_under_windows/)

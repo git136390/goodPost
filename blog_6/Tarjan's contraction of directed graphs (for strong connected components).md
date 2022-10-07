@@ -1,0 +1,2 @@
+# Tarjan's contraction of directed graphs (for strong connected components)
+[Tarjan's contraction of directed graphs (for strong connected components)](https://aiwithcloud.com/2022/09/16/tarjans_contraction_of_directed_graphs_for_strong_connected_components/)

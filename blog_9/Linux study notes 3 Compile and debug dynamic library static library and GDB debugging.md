@@ -1,0 +1,2 @@
+# Linux study notes 3 Compile and debug dynamic library static library and GDB debugging
+[Linux study notes 3 Compile and debug dynamic library static library and GDB debugging](https://aiwithcloud.com/2022/09/19/linux_study_notes_3_compile_and_debug_dynamic_library_static_library_and_gdb_debugging/)

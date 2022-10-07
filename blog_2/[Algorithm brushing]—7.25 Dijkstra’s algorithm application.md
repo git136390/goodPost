@@ -1,0 +1,2 @@
+# [Algorithm brushing]—7.25 Dijkstra’s algorithm application
+[[Algorithm brushing]—7.25 Dijkstra’s algorithm application](https://aiwithcloud.com/2022/09/15/algorithm_brushing-7-25_dijkstras_algorithm_application/)

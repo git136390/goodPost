@@ -1,0 +1,2 @@
+# iOS reverse programming (19) Getting started with Mach-O (how to reverse APP ideas through Mach-O)
+[iOS reverse programming (19) Getting started with Mach-O (how to reverse APP ideas through Mach-O)](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_19_getting_started_with_mach_o_how_to_reverse_app_ideas_through_mach_o/)

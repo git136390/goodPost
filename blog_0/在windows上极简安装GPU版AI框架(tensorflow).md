@@ -1,0 +1,2 @@
+# 在windows上极简安装GPU版AI框架(tensorflow)
+[在windows上极简安装GPU版AI框架(tensorflow)](https://aiwithcloud.com/2021/02/01/%e5%9c%a8windows%e4%b8%8a%e6%9e%81%e7%ae%80%e5%ae%89%e8%a3%85gpu%e7%89%88ai%e6%a1%86%e6%9e%b6tensorflow/)

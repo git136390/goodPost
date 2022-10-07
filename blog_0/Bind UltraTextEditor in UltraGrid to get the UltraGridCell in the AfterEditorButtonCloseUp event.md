@@ -1,0 +1,2 @@
+# Bind UltraTextEditor in UltraGrid to get the UltraGridCell in the AfterEditorButtonCloseUp event
+[Bind UltraTextEditor in UltraGrid to get the UltraGridCell in the AfterEditorButtonCloseUp event](https://aiwithcloud.com/2022/09/14/bind_ultratexteditor_in_ultragrid_to_get_the_ultragridcell_in_the_aftereditorbuttoncloseup_event/)

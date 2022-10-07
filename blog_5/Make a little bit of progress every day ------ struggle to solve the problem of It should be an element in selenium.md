@@ -1,0 +1,2 @@
+# Make a little bit of progress every day ------ struggle to solve the problem of It should be an element in selenium
+[Make a little bit of progress every day ------ struggle to solve the problem of It should be an element in selenium](https://aiwithcloud.com/2022/09/16/make_a_little_bit_of_progress_every_day________struggle_to_solve_the_problem_of_it_should_be_an_element_in_selenium/)

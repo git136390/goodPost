@@ -1,0 +1,2 @@
+# Use PrintWriter to control front-end popups in the back-end
+[Use PrintWriter to control front-end popups in the back-end](https://aiwithcloud.com/2022/09/19/use_printwriter_to_control_front_end_popups_in_the_back_end/)

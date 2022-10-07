@@ -1,0 +1,2 @@
+# Several methods of React parent-child component communication
+[Several methods of React parent-child component communication](https://aiwithcloud.com/2022/09/15/several_methods_of_react_parent_child_component_communication/)

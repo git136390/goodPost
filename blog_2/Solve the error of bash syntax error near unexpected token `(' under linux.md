@@ -1,0 +1,2 @@
+# Solve the error of bash syntax error near unexpected token `(' under linux
+[Solve the error of bash syntax error near unexpected token `(' under linux](https://aiwithcloud.com/2022/09/15/solve_the_error_of_bash_syntax_error_near_unexpected_token__under_linux/)

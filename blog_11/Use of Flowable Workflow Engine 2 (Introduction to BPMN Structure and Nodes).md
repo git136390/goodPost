@@ -1,0 +1,2 @@
+# Use of Flowable Workflow Engine 2 (Introduction to BPMN Structure and Nodes)
+[Use of Flowable Workflow Engine 2 (Introduction to BPMN Structure and Nodes)](https://aiwithcloud.com/2022/09/19/use_of_flowable_workflow_engine_2_introduction_to_bpmn_structure_and_nodes/)

@@ -1,0 +1,2 @@
+# Linux command netstat -- view network status information  display network status
+[Linux command netstat -- view network status information  display network status](https://aiwithcloud.com/2022/09/19/linux_command_netstat____view_network_status_information__display_network_status/)

@@ -1,0 +1,2 @@
+# Android_SuperIndicator_sliding_carousel
+[Android_SuperIndicator_sliding_carousel](https://aiwithcloud.com/2022/09/14/android_superindicator_sliding_carousel/)

@@ -1,0 +1,2 @@
+# Laravel notes - verification code verification when front and back ends are separated (mewscaptcha)
+[Laravel notes - verification code verification when front and back ends are separated (mewscaptcha)](https://aiwithcloud.com/2022/09/16/laravel_notes___verification_code_verification_when_front_and_back_ends_are_separated_mewscaptcha/)

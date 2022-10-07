@@ -1,0 +1,2 @@
+# Nginx one trick configuration, help you quickly hide the php suffix name
+[Nginx one trick configuration, help you quickly hide the php suffix name](https://aiwithcloud.com/2022/09/16/nginx_one_trick_configuration_help_you_quickly_hide_the_php_suffix_name/)

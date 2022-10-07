@@ -1,0 +1,2 @@
+# Oracle  get the value of dynamic sql EXECUTE IMMEDIATE.. INTO..
+[Oracle  get the value of dynamic sql EXECUTE IMMEDIATE.. INTO..](https://aiwithcloud.com/2022/09/19/oracle__get_the_value_of_dynamic_sql_execute_immediate-_into/)

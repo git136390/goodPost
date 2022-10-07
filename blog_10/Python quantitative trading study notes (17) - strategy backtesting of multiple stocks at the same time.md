@@ -1,0 +1,2 @@
+# Python quantitative trading study notes (17) - strategy backtesting of multiple stocks at the same time
+[Python quantitative trading study notes (17) - strategy backtesting of multiple stocks at the same time](https://aiwithcloud.com/2022/09/19/python_quantitative_trading_study_notes_17___strategy_backtesting_of_multiple_stocks_at_the_same_time/)

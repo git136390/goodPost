@@ -1,0 +1,2 @@
+# Java Cosmetics and Beauty Sales Mall Website Based on Springboot+vue - Computer Graduation Design
+[Java Cosmetics and Beauty Sales Mall Website Based on Springboot+vue - Computer Graduation Design](https://aiwithcloud.com/2022/09/15/java_cosmetics_and_beauty_sales_mall_website_based_on_springbootvue___computer_graduation_design/)

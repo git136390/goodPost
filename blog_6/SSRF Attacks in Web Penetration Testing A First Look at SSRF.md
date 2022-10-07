@@ -1,0 +1,2 @@
+# SSRF Attacks in Web Penetration Testing A First Look at SSRF
+[SSRF Attacks in Web Penetration Testing A First Look at SSRF](https://aiwithcloud.com/2022/09/16/ssrf_attacks_in_web_penetration_testing_a_first_look_at_ssrf/)

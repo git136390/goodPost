@@ -1,0 +1,2 @@
+# Should software testing be enrolled in training courses After reading this, you will know
+[Should software testing be enrolled in training courses After reading this, you will know](https://aiwithcloud.com/2022/09/19/should_software_testing_be_enrolled_in_training_courses_after_reading_this_you_will_know/)

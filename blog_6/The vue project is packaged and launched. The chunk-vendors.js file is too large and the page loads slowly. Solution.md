@@ -1,0 +1,2 @@
+# The vue project is packaged and launched. The chunk-vendors.js file is too large and the page loads slowly. Solution
+[The vue project is packaged and launched. The chunk-vendors.js file is too large and the page loads slowly. Solution](https://aiwithcloud.com/2022/09/16/the_vue_project_is_packaged_and_launched-_the_chunk_vendors-js_file_is_too_large_and_the_page_loads_slowly-_solution/)

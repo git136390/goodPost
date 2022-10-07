@@ -1,0 +1,2 @@
+# SpringBoot timer is simple to use to realize task scheduling
+[SpringBoot timer is simple to use to realize task scheduling](https://aiwithcloud.com/2022/09/15/springboot_timer_is_simple_to_use_to_realize_task_scheduling/)

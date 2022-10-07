@@ -1,0 +1,2 @@
+# [Day 21] Given r, find the perimeter and area of a circle with r as radius
+[[Day 21] Given r, find the perimeter and area of a circle with r as radius](https://aiwithcloud.com/2022/09/16/day_21_given_r_find_the_perimeter_and_area_of_a_circle_with_r_as_radius/)

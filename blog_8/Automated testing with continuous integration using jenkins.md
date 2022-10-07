@@ -1,0 +1,2 @@
+# Automated testing with continuous integration using jenkins
+[Automated testing with continuous integration using jenkins](https://aiwithcloud.com/2022/09/19/automated_testing_with_continuous_integration_using_jenkins/)

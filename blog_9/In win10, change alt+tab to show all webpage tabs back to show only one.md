@@ -1,0 +1,2 @@
+# In win10, change alt+tab to show all webpage tabs back to show only one
+[In win10, change alt+tab to show all webpage tabs back to show only one](https://aiwithcloud.com/2022/09/19/in_win10_change_alttab_to_show_all_webpage_tabs_back_to_show_only_one/)

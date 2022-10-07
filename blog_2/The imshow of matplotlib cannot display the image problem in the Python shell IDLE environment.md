@@ -1,0 +1,2 @@
+# The imshow of matplotlib cannot display the image problem in the Python shell IDLE environment
+[The imshow of matplotlib cannot display the image problem in the Python shell IDLE environment](https://aiwithcloud.com/2022/09/15/the_imshow_of_matplotlib_cannot_display_the_image_problem_in_the_python_shell_idle_environment/)

@@ -1,0 +1,2 @@
+# Three solutions to solve the full permutation of repeated numbers
+[Three solutions to solve the full permutation of repeated numbers](https://aiwithcloud.com/2022/09/19/three_solutions_to_solve_the_full_permutation_of_repeated_numbers/)

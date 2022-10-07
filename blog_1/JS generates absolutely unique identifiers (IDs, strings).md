@@ -1,0 +1,2 @@
+# JS generates absolutely unique identifiers (IDs, strings)
+[JS generates absolutely unique identifiers (IDs, strings)](https://aiwithcloud.com/2022/09/15/js_generates_absolutely_unique_identifiers_ids_strings/)

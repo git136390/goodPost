@@ -1,0 +1,2 @@
+# Application_of_QPropertyAnimation_in_PyQt5
+[Application_of_QPropertyAnimation_in_PyQt5](https://aiwithcloud.com/2022/09/14/application_of_qpropertyanimation_in_pyqt5/)

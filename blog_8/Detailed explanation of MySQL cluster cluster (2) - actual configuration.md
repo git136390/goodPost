@@ -1,0 +1,2 @@
+# Detailed explanation of MySQL cluster cluster (2) - actual configuration
+[Detailed explanation of MySQL cluster cluster (2) - actual configuration](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_mysql_cluster_cluster_2___actual_configuration/)

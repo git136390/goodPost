@@ -1,0 +1,2 @@
+# C# data structure two stacks implement queues, two queues implement stacks
+[C# data structure two stacks implement queues, two queues implement stacks](https://aiwithcloud.com/2022/09/15/c_data_structure_two_stacks_implement_queues_two_queues_implement_stacks/)

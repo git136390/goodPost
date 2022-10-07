@@ -1,0 +1,2 @@
+# Python collects national epidemic data and visualizes the data values
+[Python collects national epidemic data and visualizes the data values](https://aiwithcloud.com/2022/09/19/python_collects_national_epidemic_data_and_visualizes_the_data_values/)

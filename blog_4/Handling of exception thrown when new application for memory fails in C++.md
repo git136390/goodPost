@@ -1,0 +1,2 @@
+# Handling of exception thrown when new application for memory fails in C++
+[Handling of exception thrown when new application for memory fails in C++](https://aiwithcloud.com/2022/09/15/handling_of_exception_thrown_when_new_application_for_memory_fails_in_c/)

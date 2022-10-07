@@ -1,0 +1,2 @@
+# Various ways of traversing chained binary trees, recursive, non-recursive, hierarchical queue and array implementation
+[Various ways of traversing chained binary trees, recursive, non-recursive, hierarchical queue and array implementation](https://aiwithcloud.com/2022/09/16/various_ways_of_traversing_chained_binary_trees_recursive_non_recursive_hierarchical_queue_and_array_implementation/)

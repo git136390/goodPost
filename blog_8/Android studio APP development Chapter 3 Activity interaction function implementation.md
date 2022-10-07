@@ -1,0 +1,2 @@
+# Android studio APP development Chapter 3 Activity interaction function implementation
+[Android studio APP development Chapter 3 Activity interaction function implementation](https://aiwithcloud.com/2022/09/19/android_studio_app_development_chapter_3_activity_interaction_function_implementation/)

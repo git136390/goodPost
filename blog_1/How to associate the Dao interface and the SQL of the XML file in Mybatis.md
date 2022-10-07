@@ -1,0 +1,2 @@
+# How to associate the Dao interface and the SQL of the XML file in Mybatis
+[How to associate the Dao interface and the SQL of the XML file in Mybatis](https://aiwithcloud.com/2022/09/15/how_to_associate_the_dao_interface_and_the_sql_of_the_xml_file_in_mybatis/)

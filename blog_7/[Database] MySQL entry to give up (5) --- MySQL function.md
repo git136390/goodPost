@@ -1,0 +1,2 @@
+# [Database] MySQL entry to give up (5) --- MySQL function
+[[Database] MySQL entry to give up (5) --- MySQL function](https://aiwithcloud.com/2022/09/16/database_mysql_entry_to_give_up_5_____mysql_function/)

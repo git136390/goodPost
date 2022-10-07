@@ -1,0 +1,2 @@
+# C# executes a Python script stored in an XML attribute value
+[C# executes a Python script stored in an XML attribute value](https://aiwithcloud.com/2022/09/15/c_executes_a_python_script_stored_in_an_xml_attribute_value/)

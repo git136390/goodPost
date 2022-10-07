@@ -1,0 +1,2 @@
+# RabbitMQ installation tutorial (the latest RabbitMQ installation, general tutorial)
+[RabbitMQ installation tutorial (the latest RabbitMQ installation, general tutorial)](https://aiwithcloud.com/2022/09/16/rabbitmq_installation_tutorial_the_latest_rabbitmq_installation_general_tutorial/)

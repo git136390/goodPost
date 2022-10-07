@@ -1,0 +1,2 @@
+# Detailed Linux System Tuning (6) - Network Status View Command nload
+[Detailed Linux System Tuning (6) - Network Status View Command nload](https://aiwithcloud.com/2022/09/19/detailed_linux_system_tuning_6___network_status_view_command_nload/)

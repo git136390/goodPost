@@ -1,0 +1,2 @@
+# Series of n lines of Python code A three-line program will extract plain text information from HTML
+[Series of n lines of Python code A three-line program will extract plain text information from HTML](https://aiwithcloud.com/2022/09/16/series_of_n_lines_of_python_code_a_three_line_program_will_extract_plain_text_information_from_html/)

@@ -1,0 +1,2 @@
+# Batch_merge_multiple_jpg_images_into_one_pdf_file_with_Python+PIL
+[Batch_merge_multiple_jpg_images_into_one_pdf_file_with_Python+PIL](https://aiwithcloud.com/2022/09/14/batch_merge_multiple_jpg_images_into_one_pdf_file_with_pythonpil/)

@@ -1,0 +1,2 @@
+# One line of code to solve the Joseph problem (I'm going to start installing B)
+[One line of code to solve the Joseph problem (I'm going to start installing B)](https://aiwithcloud.com/2022/09/19/one_line_of_code_to_solve_the_joseph_problem_im_going_to_start_installing_b/)

@@ -1,0 +1,2 @@
+# mysql update if it exists, insert if it does not exist
+[mysql update if it exists, insert if it does not exist](https://aiwithcloud.com/2022/09/15/mysql_update_if_it_exists_insert_if_it_does_not_exist/)

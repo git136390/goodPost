@@ -1,0 +1,2 @@
+# The data center has become the next outlet. Will it subvert the work of data engineers
+[The data center has become the next outlet. Will it subvert the work of data engineers](https://aiwithcloud.com/2022/09/16/the_data_center_has_become_the_next_outlet-_will_it_subvert_the_work_of_data_engineers/)

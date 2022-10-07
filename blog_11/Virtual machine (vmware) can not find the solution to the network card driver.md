@@ -1,0 +1,2 @@
+# Virtual machine (vmware) can not find the solution to the network card driver
+[Virtual machine (vmware) can not find the solution to the network card driver](https://aiwithcloud.com/2022/09/19/virtual_machine_vmware_can_not_find_the_solution_to_the_network_card_driver/)

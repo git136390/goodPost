@@ -1,0 +1,2 @@
+# [Introduction to Docker  Basics] Docker builds a warehouse
+[[Introduction to Docker  Basics] Docker builds a warehouse](https://aiwithcloud.com/2022/09/19/introduction_to_docker__basics_docker_builds_a_warehouse/)

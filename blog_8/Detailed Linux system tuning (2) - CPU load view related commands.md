@@ -1,0 +1,2 @@
+# Detailed Linux system tuning (2) - CPU load view related commands
+[Detailed Linux system tuning (2) - CPU load view related commands](https://aiwithcloud.com/2022/09/19/detailed_linux_system_tuning_2___cpu_load_view_related_commands/)

@@ -1,0 +1,2 @@
+# [Solution] The MySQL service on the mysql local computer stops after it starts. Some services stop automatically when not being used by other services or programs
+[[Solution] The MySQL service on the mysql local computer stops after it starts. Some services stop automatically when not being used by other services or programs](https://aiwithcloud.com/2022/09/15/solution_the_mysql_service_on_the_mysql_local_computer_stops_after_it_starts-_some_services_stop_automatically_when_not_being_used_by_other_services_or_programs/)

@@ -1,0 +1,2 @@
+# Basic Programming Topic Set 6-11 Find the Median of a Sequence of Elements of a Custom Type (25 points)
+[Basic Programming Topic Set 6-11 Find the Median of a Sequence of Elements of a Custom Type (25 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topic_set_6_11_find_the_median_of_a_sequence_of_elements_of_a_custom_type_25_points/)

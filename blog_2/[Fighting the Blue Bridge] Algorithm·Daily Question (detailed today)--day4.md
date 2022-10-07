@@ -1,0 +1,2 @@
+# [Fighting the Blue Bridge] Algorithm·Daily Question (detailed today)--day4
+[[Fighting the Blue Bridge] Algorithm·Daily Question (detailed today)--day4](https://aiwithcloud.com/2022/09/15/fighting_the_blue_bridge_algorithm%c2%b7daily_question_detailed_today__day4/)

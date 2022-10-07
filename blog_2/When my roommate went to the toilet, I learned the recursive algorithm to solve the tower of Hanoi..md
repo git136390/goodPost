@@ -1,0 +1,2 @@
+# When my roommate went to the toilet, I learned the recursive algorithm to solve the tower of Hanoi.
+[When my roommate went to the toilet, I learned the recursive algorithm to solve the tower of Hanoi.](https://aiwithcloud.com/2022/09/15/when_my_roommate_went_to_the_toilet_i_learned_the_recursive_algorithm_to_solve_the_tower_of_hanoi/)

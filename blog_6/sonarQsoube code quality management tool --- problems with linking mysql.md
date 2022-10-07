@@ -1,0 +1,2 @@
+# sonarQsoube code quality management tool --- problems with linking mysql
+[sonarQsoube code quality management tool --- problems with linking mysql](https://aiwithcloud.com/2022/09/16/sonarqsoube_code_quality_management_tool_____problems_with_linking_mysql/)

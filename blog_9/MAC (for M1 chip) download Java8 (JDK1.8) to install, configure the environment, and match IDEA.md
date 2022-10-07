@@ -1,0 +1,2 @@
+# MAC (for M1 chip) download Java8 (JDK1.8) to install, configure the environment, and match IDEA
+[MAC (for M1 chip) download Java8 (JDK1.8) to install, configure the environment, and match IDEA](https://aiwithcloud.com/2022/09/19/mac_for_m1_chip_download_java8_jdk1-8_to_install_configure_the_environment_and_match_idea/)

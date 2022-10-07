@@ -1,0 +1,2 @@
+# Could not open JDBC Connection for transaction； nested exception is com.alibaba.druid.pool.DataSourc
+[Could not open JDBC Connection for transaction； nested exception is com.alibaba.druid.pool.DataSourc](https://aiwithcloud.com/2022/09/19/could_not_open_jdbc_connection_for_transaction%ef%bc%9b_nested_exception_is_com-alibaba-druid-pool-datasourc/)

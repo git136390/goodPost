@@ -1,0 +1,2 @@
+# The role of 11 convolution kernel in convolutional neural network
+[The role of 11 convolution kernel in convolutional neural network](https://aiwithcloud.com/2022/09/19/the_role_of_11_convolution_kernel_in_convolutional_neural_network/)

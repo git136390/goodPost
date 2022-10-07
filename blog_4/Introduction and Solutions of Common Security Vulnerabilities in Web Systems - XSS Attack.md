@@ -1,0 +1,2 @@
+# Introduction and Solutions of Common Security Vulnerabilities in Web Systems - XSS Attack
+[Introduction and Solutions of Common Security Vulnerabilities in Web Systems - XSS Attack](https://aiwithcloud.com/2022/09/15/introduction_and_solutions_of_common_security_vulnerabilities_in_web_systems___xss_attack/)

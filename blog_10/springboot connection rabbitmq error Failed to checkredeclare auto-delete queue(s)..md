@@ -1,0 +1,2 @@
+# springboot connection rabbitmq error Failed to checkredeclare auto-delete queue(s).
+[springboot connection rabbitmq error Failed to checkredeclare auto-delete queue(s).](https://aiwithcloud.com/2022/09/19/springboot_connection_rabbitmq_error_failed_to_checkredeclare_auto_delete_queues/)

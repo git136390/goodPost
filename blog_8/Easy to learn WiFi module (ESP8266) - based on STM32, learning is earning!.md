@@ -1,0 +1,2 @@
+# Easy to learn WiFi module (ESP8266) - based on STM32, learning is earning!
+[Easy to learn WiFi module (ESP8266) - based on STM32, learning is earning!](https://aiwithcloud.com/2022/09/19/easy_to_learn_wifi_module_esp8266___based_on_stm32_learning_is_earning/)

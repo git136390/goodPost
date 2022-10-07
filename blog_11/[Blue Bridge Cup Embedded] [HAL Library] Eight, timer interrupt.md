@@ -1,0 +1,2 @@
+# [Blue Bridge Cup Embedded] [HAL Library] Eight, timer interrupt
+[[Blue Bridge Cup Embedded] [HAL Library] Eight, timer interrupt](https://aiwithcloud.com/2022/09/19/blue_bridge_cup_embedded_hal_library_eight_timer_interrupt/)

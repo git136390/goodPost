@@ -1,0 +1,2 @@
+# Solve the problem of fastJson deserialization problem com.alibaba.fastjson.JSONObject cannot be cast to
+[Solve the problem of fastJson deserialization problem com.alibaba.fastjson.JSONObject cannot be cast to](https://aiwithcloud.com/2022/09/16/solve_the_problem_of_fastjson_deserialization_problem_com-alibaba-fastjson-jsonobject_cannot_be_cast_to/)

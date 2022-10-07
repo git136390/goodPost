@@ -1,0 +1,2 @@
+# Use of Swagger interface documentation + common annotations
+[Use of Swagger interface documentation + common annotations](https://aiwithcloud.com/2022/09/19/use_of_swagger_interface_documentation__common_annotations/)

@@ -1,0 +1,2 @@
+# Quickly master the basic use of List and Set interfaces in Java
+[Quickly master the basic use of List and Set interfaces in Java](https://aiwithcloud.com/2022/09/16/quickly_master_the_basic_use_of_list_and_set_interfaces_in_java/)

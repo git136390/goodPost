@@ -1,0 +1,2 @@
+# Learning Spring Boot (27) Using Actuator in Spring Boot 2.0
+[Learning Spring Boot (27) Using Actuator in Spring Boot 2.0](https://aiwithcloud.com/2022/09/19/learning_spring_boot_27_using_actuator_in_spring_boot_2-0/)

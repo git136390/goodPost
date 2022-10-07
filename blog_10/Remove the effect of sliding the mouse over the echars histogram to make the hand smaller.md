@@ -1,0 +1,2 @@
+# Remove the effect of sliding the mouse over the echars histogram to make the hand smaller
+[Remove the effect of sliding the mouse over the echars histogram to make the hand smaller](https://aiwithcloud.com/2022/09/19/remove_the_effect_of_sliding_the_mouse_over_the_echars_histogram_to_make_the_hand_smaller/)

@@ -1,0 +1,2 @@
+# json conversion error No converter found for return value of type
+[json conversion error No converter found for return value of type](https://aiwithcloud.com/2022/09/19/json_conversion_error_no_converter_found_for_return_value_of_type/)

@@ -1,0 +1,2 @@
+# Computer vision learning - AlexNet principle and tensorflow implementation
+[Computer vision learning - AlexNet principle and tensorflow implementation](https://aiwithcloud.com/2022/09/19/computer_vision_learning___alexnet_principle_and_tensorflow_implementation/)

@@ -1,0 +1,2 @@
+# Summary of front-end technology development trends in 2022
+[Summary of front-end technology development trends in 2022](https://aiwithcloud.com/2022/09/19/summary_of_front_end_technology_development_trends_in_2022/)

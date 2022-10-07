@@ -1,0 +1,2 @@
+# How to make your code more elegant and concise with BaseController
+[How to make your code more elegant and concise with BaseController](https://aiwithcloud.com/2022/09/15/how_to_make_your_code_more_elegant_and_concise_with_basecontroller/)

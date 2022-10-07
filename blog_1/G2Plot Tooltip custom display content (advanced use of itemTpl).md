@@ -1,0 +1,2 @@
+# G2Plot Tooltip custom display content (advanced use of itemTpl)
+[G2Plot Tooltip custom display content (advanced use of itemTpl)](https://aiwithcloud.com/2022/09/14/g2plot_tooltip_custom_display_content_advanced_use_of_itemtpl/)

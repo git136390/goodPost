@@ -1,0 +1,2 @@
+# Big Data Visualization - DataV Chart - Ranking Carousel
+[Big Data Visualization - DataV Chart - Ranking Carousel](https://aiwithcloud.com/2022/09/19/big_data_visualization___datav_chart___ranking_carousel/)

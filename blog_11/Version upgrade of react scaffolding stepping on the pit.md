@@ -1,0 +1,2 @@
+# Version upgrade of react scaffolding stepping on the pit
+[Version upgrade of react scaffolding stepping on the pit](https://aiwithcloud.com/2022/09/19/version_upgrade_of_react_scaffolding_stepping_on_the_pit/)

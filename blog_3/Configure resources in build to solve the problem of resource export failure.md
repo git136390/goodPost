@@ -1,0 +1,2 @@
+# Configure resources in build to solve the problem of resource export failure
+[Configure resources in build to solve the problem of resource export failure](https://aiwithcloud.com/2022/09/15/configure_resources_in_build_to_solve_the_problem_of_resource_export_failure/)

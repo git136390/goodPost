@@ -1,0 +1,2 @@
+# Solution The file name is too long and cannot be deleted
+[Solution The file name is too long and cannot be deleted](https://aiwithcloud.com/2022/09/19/solution_the_file_name_is_too_long_and_cannot_be_deleted/)

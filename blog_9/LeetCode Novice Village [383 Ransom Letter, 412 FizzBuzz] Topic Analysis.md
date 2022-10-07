@@ -1,0 +1,2 @@
+# LeetCode Novice Village [383 Ransom Letter, 412 FizzBuzz] Topic Analysis
+[LeetCode Novice Village [383 Ransom Letter, 412 FizzBuzz] Topic Analysis](https://aiwithcloud.com/2022/09/19/leetcode_novice_village_383_ransom_letter_412_fizzbuzz_topic_analysis/)

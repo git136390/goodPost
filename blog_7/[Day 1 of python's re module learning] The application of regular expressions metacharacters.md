@@ -1,0 +1,2 @@
+# [Day 1 of python's re module learning] The application of regular expressions metacharacters
+[[Day 1 of python's re module learning] The application of regular expressions metacharacters](https://aiwithcloud.com/2022/09/16/day_1_of_pythons_re_module_learning_the_application_of_regular_expressions_metacharacters/)

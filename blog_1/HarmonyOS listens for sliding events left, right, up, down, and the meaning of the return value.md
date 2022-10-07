@@ -1,0 +1,2 @@
+# HarmonyOS listens for sliding events left, right, up, down, and the meaning of the return value
+[HarmonyOS listens for sliding events left, right, up, down, and the meaning of the return value](https://aiwithcloud.com/2022/09/15/harmonyos_listens_for_sliding_events_left_right_up_down_and_the_meaning_of_the_return_value/)

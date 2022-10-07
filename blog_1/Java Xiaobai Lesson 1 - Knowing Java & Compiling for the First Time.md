@@ -1,0 +1,2 @@
+# Java Xiaobai Lesson 1 - Knowing Java & Compiling for the First Time
+[Java Xiaobai Lesson 1 - Knowing Java & Compiling for the First Time](https://aiwithcloud.com/2022/09/15/java_xiaobai_lesson_1___knowing_java__compiling_for_the_first_time/)

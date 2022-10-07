@@ -1,0 +1,2 @@
+# Two ways for MySQL to delete table data and reset auto-increment id to 0
+[Two ways for MySQL to delete table data and reset auto-increment id to 0](https://aiwithcloud.com/2022/09/15/two_ways_for_mysql_to_delete_table_data_and_reset_auto_increment_id_to_0/)

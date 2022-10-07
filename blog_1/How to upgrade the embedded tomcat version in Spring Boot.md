@@ -1,0 +1,2 @@
+# How to upgrade the embedded tomcat version in Spring Boot
+[How to upgrade the embedded tomcat version in Spring Boot](https://aiwithcloud.com/2022/09/15/how_to_upgrade_the_embedded_tomcat_version_in_spring_boot/)

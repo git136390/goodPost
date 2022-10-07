@@ -1,0 +1,2 @@
+# Java implements the undead rabbit (for loop application, array application)
+[Java implements the undead rabbit (for loop application, array application)](https://aiwithcloud.com/2022/09/16/java_implements_the_undead_rabbit_for_loop_application_array_application/)

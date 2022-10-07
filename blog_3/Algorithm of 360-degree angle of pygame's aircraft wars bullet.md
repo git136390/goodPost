@@ -1,0 +1,2 @@
+# Algorithm of 360-degree angle of pygame's aircraft wars bullet
+[Algorithm of 360-degree angle of pygame's aircraft wars bullet](https://aiwithcloud.com/2022/09/15/algorithm_of_360_degree_angle_of_pygames_aircraft_wars_bullet/)

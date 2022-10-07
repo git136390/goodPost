@@ -1,0 +1,2 @@
+# Deep learning environment configuration 1 - tensorflow-gpu=1.13.2 environment configuration under windows
+[Deep learning environment configuration 1 - tensorflow-gpu=1.13.2 environment configuration under windows](https://aiwithcloud.com/2022/09/15/deep_learning_environment_configuration_1___tensorflow_gpu1-13-2_environment_configuration_under_windows/)

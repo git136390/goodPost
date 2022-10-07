@@ -1,0 +1,2 @@
+# A javascript error occurred in the main process appeared when MongoDBCompassCommunity started
+[A javascript error occurred in the main process appeared when MongoDBCompassCommunity started](https://aiwithcloud.com/2022/09/19/a_javascript_error_occurred_in_the_main_process_appeared_when_mongodbcompasscommunity_started/)

@@ -1,0 +1,2 @@
+# [Cloud native] iVX low-code development introduces Tencent Maps and previews it online
+[[Cloud native] iVX low-code development introduces Tencent Maps and previews it online](https://aiwithcloud.com/2022/09/19/cloud_native_ivx_low_code_development_introduces_tencent_maps_and_previews_it_online/)

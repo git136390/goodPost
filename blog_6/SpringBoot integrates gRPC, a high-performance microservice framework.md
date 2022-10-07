@@ -1,0 +1,2 @@
+# SpringBoot integrates gRPC, a high-performance microservice framework
+[SpringBoot integrates gRPC, a high-performance microservice framework](https://aiwithcloud.com/2022/09/16/springboot_integrates_grpc_a_high_performance_microservice_framework/)

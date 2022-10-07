@@ -1,0 +1,2 @@
+# com.mongodb.mongosh.result.CommandException unrecognized update options field multi
+[com.mongodb.mongosh.result.CommandException unrecognized update options field multi](https://aiwithcloud.com/2022/09/15/com-mongodb-mongosh-result-commandexception_unrecognized_update_options_field_multi/)

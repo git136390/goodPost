@@ -1,0 +1,2 @@
+# Java Project Enterprise Fixed Assets Management System (java+SpringBoot+VUE+maven+mysql)
+[Java Project Enterprise Fixed Assets Management System (java+SpringBoot+VUE+maven+mysql)](https://aiwithcloud.com/2022/09/19/java_project_enterprise_fixed_assets_management_system_javaspringbootvuemavenmysql/)

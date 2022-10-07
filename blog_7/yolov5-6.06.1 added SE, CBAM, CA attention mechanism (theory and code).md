@@ -1,0 +1,2 @@
+# yolov5-6.06.1 added SE, CBAM, CA attention mechanism (theory and code)
+[yolov5-6.06.1 added SE, CBAM, CA attention mechanism (theory and code)](https://aiwithcloud.com/2022/09/16/yolov5_6-06-1_added_se_cbam_ca_attention_mechanism_theory_and_code/)

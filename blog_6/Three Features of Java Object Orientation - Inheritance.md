@@ -1,0 +1,2 @@
+# Three Features of Java Object Orientation - Inheritance
+[Three Features of Java Object Orientation - Inheritance](https://aiwithcloud.com/2022/09/16/three_features_of_java_object_orientation___inheritance/)

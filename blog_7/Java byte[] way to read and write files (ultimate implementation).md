@@ -1,0 +1,2 @@
+# Java byte[] way to read and write files (ultimate implementation)
+[Java byte[] way to read and write files (ultimate implementation)](https://aiwithcloud.com/2022/09/19/java_byte_way_to_read_and_write_files_ultimate_implementation/)

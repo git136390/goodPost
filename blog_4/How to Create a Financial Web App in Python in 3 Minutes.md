@@ -1,0 +1,2 @@
+# How to Create a Financial Web App in Python in 3 Minutes
+[How to Create a Financial Web App in Python in 3 Minutes](https://aiwithcloud.com/2022/09/15/how_to_create_a_financial_web_app_in_python_in_3_minutes/)

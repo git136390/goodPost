@@ -1,0 +1,2 @@
+# Python entry and advanced NumPy library application - cellular automata
+[Python entry and advanced NumPy library application - cellular automata](https://aiwithcloud.com/2022/09/19/python_entry_and_advanced_numpy_library_application___cellular_automata/)

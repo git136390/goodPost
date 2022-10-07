@@ -1,0 +1,2 @@
+# DM6437 dsp series startup process analysis (2) - AIS file analysis
+[DM6437 dsp series startup process analysis (2) - AIS file analysis](https://aiwithcloud.com/2022/09/19/dm6437_dsp_series_startup_process_analysis_2___ais_file_analysis/)

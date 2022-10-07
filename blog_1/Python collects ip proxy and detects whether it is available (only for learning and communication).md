@@ -1,0 +1,2 @@
+# Python collects ip proxy and detects whether it is available (only for learning and communication)
+[Python collects ip proxy and detects whether it is available (only for learning and communication)](https://aiwithcloud.com/2022/09/15/python_collects_ip_proxy_and_detects_whether_it_is_available_only_for_learning_and_communication/)

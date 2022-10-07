@@ -1,0 +1,2 @@
+# List's Clear method and RemoveAll method usage summary
+[List's Clear method and RemoveAll method usage summary](https://aiwithcloud.com/2022/09/16/lists_clear_method_and_removeall_method_usage_summary/)

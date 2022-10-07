@@ -1,0 +1,2 @@
+# The vue hash mode is changed to history, and spa pre-rendering is implemented at the same time
+[The vue hash mode is changed to history, and spa pre-rendering is implemented at the same time](https://aiwithcloud.com/2022/09/16/the_vue_hash_mode_is_changed_to_history_and_spa_pre_rendering_is_implemented_at_the_same_time/)

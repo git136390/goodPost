@@ -1,0 +1,2 @@
+# [Java actual combat] Realize the big turntable lottery
+[[Java actual combat] Realize the big turntable lottery](https://aiwithcloud.com/2022/09/19/java_actual_combat_realize_the_big_turntable_lottery/)

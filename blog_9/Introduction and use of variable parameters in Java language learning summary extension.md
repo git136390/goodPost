@@ -1,0 +1,2 @@
+# Introduction and use of variable parameters in Java language learning summary extension
+[Introduction and use of variable parameters in Java language learning summary extension](https://aiwithcloud.com/2022/09/19/introduction_and_use_of_variable_parameters_in_java_language_learning_summary_extension/)

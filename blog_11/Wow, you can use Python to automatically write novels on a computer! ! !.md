@@ -1,0 +1,2 @@
+# Wow, you can use Python to automatically write novels on a computer! ! !
+[Wow, you can use Python to automatically write novels on a computer! ! !](https://aiwithcloud.com/2022/09/19/wow_you_can_use_python_to_automatically_write_novels_on_a_computer__/)

@@ -1,0 +1,2 @@
+# Yolov5 network modification tutorial (modify backbone to EfficientNet, MobileNet3, RegNet, etc.)
+[Yolov5 network modification tutorial (modify backbone to EfficientNet, MobileNet3, RegNet, etc.)](https://aiwithcloud.com/2022/09/16/yolov5_network_modification_tutorial_modify_backbone_to_efficientnet_mobilenet3_regnet_etc/)

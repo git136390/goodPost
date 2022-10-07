@@ -1,0 +1,2 @@
+# An article to make you proficient java collection explanation (two, LinkList)
+[An article to make you proficient java collection explanation (two, LinkList)](https://aiwithcloud.com/2022/09/15/an_article_to_make_you_proficient_java_collection_explanation_two_linklist/)

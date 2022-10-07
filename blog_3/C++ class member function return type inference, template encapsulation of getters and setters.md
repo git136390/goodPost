@@ -1,0 +1,2 @@
+# C++ class member function return type inference, template encapsulation of getters and setters
+[C++ class member function return type inference, template encapsulation of getters and setters](https://aiwithcloud.com/2022/09/15/c_class_member_function_return_type_inference_template_encapsulation_of_getters_and_setters/)

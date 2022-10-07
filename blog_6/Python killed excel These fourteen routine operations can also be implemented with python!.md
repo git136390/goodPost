@@ -1,0 +1,2 @@
+# Python killed excel These fourteen routine operations can also be implemented with python!
+[Python killed excel These fourteen routine operations can also be implemented with python!](https://aiwithcloud.com/2022/09/16/python_killed_excel_these_fourteen_routine_operations_can_also_be_implemented_with_python/)

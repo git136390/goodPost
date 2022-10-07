@@ -1,0 +1,2 @@
+# (3) arduino completes the pairing between two HC-05 Bluetooth modules to realize simple wireless serial communication
+[(3) arduino completes the pairing between two HC-05 Bluetooth modules to realize simple wireless serial communication](https://aiwithcloud.com/2022/09/19/3_arduino_completes_the_pairing_between_two_hc_05_bluetooth_modules_to_realize_simple_wireless_serial_communication/)

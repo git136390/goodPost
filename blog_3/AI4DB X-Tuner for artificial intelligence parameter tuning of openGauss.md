@@ -1,0 +1,2 @@
+# AI4DB X-Tuner for artificial intelligence parameter tuning of openGauss
+[AI4DB X-Tuner for artificial intelligence parameter tuning of openGauss](https://aiwithcloud.com/2022/09/15/ai4db_x_tuner_for_artificial_intelligence_parameter_tuning_of_opengauss/)

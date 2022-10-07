@@ -1,0 +1,2 @@
+# VSCode can't connect to the remote server problem and solution collection
+[VSCode can't connect to the remote server problem and solution collection](https://aiwithcloud.com/2022/09/19/vscode_cant_connect_to_the_remote_server_problem_and_solution_collection/)

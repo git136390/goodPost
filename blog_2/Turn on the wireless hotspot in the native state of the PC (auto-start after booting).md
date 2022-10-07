@@ -1,0 +1,2 @@
+# Turn on the wireless hotspot in the native state of the PC (auto-start after booting)
+[Turn on the wireless hotspot in the native state of the PC (auto-start after booting)](https://aiwithcloud.com/2022/09/15/turn_on_the_wireless_hotspot_in_the_native_state_of_the_pc_auto_start_after_booting/)

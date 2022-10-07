@@ -1,0 +1,2 @@
+# java springboot-based community property management system (java+springboot+vue+maven+mysql)
+[java springboot-based community property management system (java+springboot+vue+maven+mysql)](https://aiwithcloud.com/2022/09/15/java_springboot_based_community_property_management_system_javaspringbootvuemavenmysql/)

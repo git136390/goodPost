@@ -1,0 +1,2 @@
+# SQL Server download and installation tutorial and JDK configuration (super detailed for novices)
+[SQL Server download and installation tutorial and JDK configuration (super detailed for novices)](https://aiwithcloud.com/2022/09/19/sql_server_download_and_installation_tutorial_and_jdk_configuration_super_detailed_for_novices/)

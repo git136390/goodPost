@@ -1,0 +1,2 @@
+# [Cloud Native  K8s Series Part 5] Using Service to expose applications in actual combat
+[[Cloud Native  K8s Series Part 5] Using Service to expose applications in actual combat](https://aiwithcloud.com/2022/09/19/cloud_native__k8s_series_part_5_using_service_to_expose_applications_in_actual_combat/)

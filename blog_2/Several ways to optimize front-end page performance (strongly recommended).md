@@ -1,0 +1,2 @@
+# Several ways to optimize front-end page performance (strongly recommended)
+[Several ways to optimize front-end page performance (strongly recommended)](https://aiwithcloud.com/2022/09/15/several_ways_to_optimize_front_end_page_performance_strongly_recommended/)

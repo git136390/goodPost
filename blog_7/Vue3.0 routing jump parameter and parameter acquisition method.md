@@ -1,0 +1,2 @@
+# Vue3.0 routing jump parameter and parameter acquisition method
+[Vue3.0 routing jump parameter and parameter acquisition method](https://aiwithcloud.com/2022/09/16/vue3-0_routing_jump_parameter_and_parameter_acquisition_method/)

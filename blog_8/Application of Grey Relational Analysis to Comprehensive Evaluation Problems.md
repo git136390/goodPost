@@ -1,0 +1,2 @@
+# Application of Grey Relational Analysis to Comprehensive Evaluation Problems
+[Application of Grey Relational Analysis to Comprehensive Evaluation Problems](https://aiwithcloud.com/2022/09/19/application_of_grey_relational_analysis_to_comprehensive_evaluation_problems/)

@@ -1,0 +1,2 @@
+# Assembly - three ways to pass parameters for subroutine calls (example program accumulation and summation of three numbers)
+[Assembly - three ways to pass parameters for subroutine calls (example program accumulation and summation of three numbers)](https://aiwithcloud.com/2022/09/15/assembly___three_ways_to_pass_parameters_for_subroutine_calls_example_program_accumulation_and_summation_of_three_numbers/)

@@ -1,0 +1,2 @@
+# STM32cubemx - HAL library study notes 4. Basic timer settings
+[STM32cubemx - HAL library study notes 4. Basic timer settings](https://aiwithcloud.com/2022/09/16/stm32cubemx___hal_library_study_notes_4-_basic_timer_settings/)

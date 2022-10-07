@@ -1,0 +1,2 @@
+# nginx deploys multiple single-page applications on one port (history routing mode).
+[nginx deploys multiple single-page applications on one port (history routing mode).](https://aiwithcloud.com/2022/09/19/nginx_deploys_multiple_single_page_applications_on_one_port_history_routing_mode/)

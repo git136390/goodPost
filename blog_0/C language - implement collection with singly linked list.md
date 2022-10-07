@@ -1,0 +1,2 @@
+# C language - implement collection with singly linked list
+[C language - implement collection with singly linked list](https://aiwithcloud.com/2022/09/14/c_language___implement_collection_with_singly_linked_list/)

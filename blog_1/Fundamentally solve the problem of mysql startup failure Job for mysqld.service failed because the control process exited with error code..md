@@ -1,0 +1,2 @@
+# Fundamentally solve the problem of mysql startup failure Job for mysqld.service failed because the control process exited with error code.
+[Fundamentally solve the problem of mysql startup failure Job for mysqld.service failed because the control process exited with error code.](https://aiwithcloud.com/2022/09/14/fundamentally_solve_the_problem_of_mysql_startup_failure_job_for_mysqld-service_failed_because_the_control_process_exited_with_error_code/)

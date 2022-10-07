@@ -1,0 +1,2 @@
+# openharmony compilation error ubuntu20.04 According to the official documentation, hb set error is OHOS ERROR] Invalid vendor path homeopenharmonyvendor
+[openharmony compilation error ubuntu20.04 According to the official documentation, hb set error is OHOS ERROR] Invalid vendor path homeopenharmonyvendor](https://aiwithcloud.com/2022/09/16/openharmony_compilation_error_ubuntu20-04_according_to_the_official_documentation_hb_set_error_is_ohos_error_invalid_vendor_path_homeopenharmonyvendor/)

@@ -1,0 +1,2 @@
+# Use the sql server that comes with vs2019 to create a database and connect with c# (easy to get the connection string)
+[Use the sql server that comes with vs2019 to create a database and connect with c# (easy to get the connection string)](https://aiwithcloud.com/2022/09/16/use_the_sql_server_that_comes_with_vs2019_to_create_a_database_and_connect_with_c_easy_to_get_the_connection_string/)

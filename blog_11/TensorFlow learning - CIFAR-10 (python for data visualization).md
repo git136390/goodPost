@@ -1,0 +1,2 @@
+# TensorFlow learning - CIFAR-10 (python for data visualization)
+[TensorFlow learning - CIFAR-10 (python for data visualization)](https://aiwithcloud.com/2022/09/19/tensorflow_learning___cifar_10_python_for_data_visualization/)

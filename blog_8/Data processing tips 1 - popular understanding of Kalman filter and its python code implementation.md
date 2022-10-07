@@ -1,0 +1,2 @@
+# Data processing tips 1 - popular understanding of Kalman filter and its python code implementation
+[Data processing tips 1 - popular understanding of Kalman filter and its python code implementation](https://aiwithcloud.com/2022/09/19/data_processing_tips_1___popular_understanding_of_kalman_filter_and_its_python_code_implementation/)

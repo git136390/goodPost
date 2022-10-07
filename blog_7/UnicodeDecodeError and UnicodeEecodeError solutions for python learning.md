@@ -1,0 +1,2 @@
+# UnicodeDecodeError and UnicodeEecodeError solutions for python learning
+[UnicodeDecodeError and UnicodeEecodeError solutions for python learning](https://aiwithcloud.com/2022/09/16/unicodedecodeerror_and_unicodeeecodeerror_solutions_for_python_learning/)

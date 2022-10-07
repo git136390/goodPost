@@ -1,0 +1,2 @@
+# Analysis of the real questions of the 12th Blue Bridge Cup
+[Analysis of the real questions of the 12th Blue Bridge Cup](https://aiwithcloud.com/2022/09/19/analysis_of_the_real_questions_of_the_12th_blue_bridge_cup/)

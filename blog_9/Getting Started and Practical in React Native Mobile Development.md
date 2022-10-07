@@ -1,0 +1,2 @@
+# Getting Started and Practical in React Native Mobile Development
+[Getting Started and Practical in React Native Mobile Development](https://aiwithcloud.com/2022/09/19/getting_started_and_practical_in_react_native_mobile_development/)

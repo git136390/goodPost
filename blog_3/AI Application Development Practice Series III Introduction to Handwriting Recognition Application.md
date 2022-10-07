@@ -1,0 +1,2 @@
+# AI Application Development Practice Series III Introduction to Handwriting Recognition Application
+[AI Application Development Practice Series III Introduction to Handwriting Recognition Application](https://aiwithcloud.com/2022/09/15/ai_application_development_practice_series_iii_introduction_to_handwriting_recognition_application/)

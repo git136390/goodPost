@@ -1,0 +1,2 @@
+# Four memory areas (code area static area stack area heap area)
+[Four memory areas (code area static area stack area heap area)](https://aiwithcloud.com/2022/09/15/four_memory_areas_code_area_static_area_stack_area_heap_area/)

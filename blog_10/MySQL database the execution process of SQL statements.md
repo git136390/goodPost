@@ -1,0 +1,2 @@
+# MySQL database the execution process of SQL statements
+[MySQL database the execution process of SQL statements](https://aiwithcloud.com/2022/09/19/mysql_database_the_execution_process_of_sql_statements/)

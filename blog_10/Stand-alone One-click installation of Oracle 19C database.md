@@ -1,0 +1,2 @@
+# Stand-alone One-click installation of Oracle 19C database
+[Stand-alone One-click installation of Oracle 19C database](https://aiwithcloud.com/2022/09/19/stand_alone_one_click_installation_of_oracle_19c_database/)

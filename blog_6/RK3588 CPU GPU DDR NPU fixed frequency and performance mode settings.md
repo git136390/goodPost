@@ -1,0 +1,2 @@
+# RK3588 CPU GPU DDR NPU fixed frequency and performance mode settings
+[RK3588 CPU GPU DDR NPU fixed frequency and performance mode settings](https://aiwithcloud.com/2022/09/16/rk3588_cpu_gpu_ddr_npu_fixed_frequency_and_performance_mode_settings/)

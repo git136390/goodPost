@@ -1,0 +1,2 @@
+# Android problem collection twenty-eight You need to use a Theme.AppCompat theme (or descendant) with this activity.
+[Android problem collection twenty-eight You need to use a Theme.AppCompat theme (or descendant) with this activity.](https://aiwithcloud.com/2022/09/19/android_problem_collection_twenty_eight_you_need_to_use_a_theme-appcompat_theme_or_descendant_with_this_activity/)

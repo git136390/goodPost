@@ -1,0 +1,2 @@
+# Solving Linear Equations Based on MATLAB (with complete code and examples)
+[Solving Linear Equations Based on MATLAB (with complete code and examples)](https://aiwithcloud.com/2022/09/19/solving_linear_equations_based_on_matlab_with_complete_code_and_examples/)

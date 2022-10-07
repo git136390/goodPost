@@ -1,0 +1,2 @@
+# Content-Type and Spring get request parameters two or three things
+[Content-Type and Spring get request parameters two or three things](https://aiwithcloud.com/2022/09/15/content_type_and_spring_get_request_parameters_two_or_three_things/)

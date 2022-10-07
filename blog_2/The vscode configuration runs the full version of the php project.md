@@ -1,0 +1,2 @@
+# The vscode configuration runs the full version of the php project
+[The vscode configuration runs the full version of the php project](https://aiwithcloud.com/2022/09/15/the_vscode_configuration_runs_the_full_version_of_the_php_project/)

@@ -1,0 +1,2 @@
+# First acquaintance with C language---a must-see before freshmanbeginner learns C language! ! ! (recommended collection)
+[First acquaintance with C language---a must-see before freshmanbeginner learns C language! ! ! (recommended collection)](https://aiwithcloud.com/2022/09/15/first_acquaintance_with_c_language___a_must_see_before_freshmanbeginner_learns_c_language___recommended_collection/)

@@ -1,0 +1,2 @@
+# Centos7 uses yum to install mysql5.7 (official website standard installation method)
+[Centos7 uses yum to install mysql5.7 (official website standard installation method)](https://aiwithcloud.com/2022/09/15/centos7_uses_yum_to_install_mysql5-7_official_website_standard_installation_method/)

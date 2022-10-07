@@ -1,0 +1,2 @@
+# Installation and use tutorial of Anaconda under Linux
+[Installation and use tutorial of Anaconda under Linux](https://aiwithcloud.com/2022/09/15/installation_and_use_tutorial_of_anaconda_under_linux/)

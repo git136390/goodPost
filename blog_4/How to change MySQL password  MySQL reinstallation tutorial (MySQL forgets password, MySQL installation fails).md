@@ -1,0 +1,2 @@
+# How to change MySQL password  MySQL reinstallation tutorial (MySQL forgets password, MySQL installation fails)
+[How to change MySQL password  MySQL reinstallation tutorial (MySQL forgets password, MySQL installation fails)](https://aiwithcloud.com/2022/09/15/how_to_change_mysql_password__mysql_reinstallation_tutorial_mysql_forgets_password_mysql_installation_fails/)

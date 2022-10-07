@@ -1,0 +1,2 @@
+# ⭐OpenGauss database source code analysis series of articles - AI query time prediction⭐
+[⭐OpenGauss database source code analysis series of articles - AI query time prediction⭐](https://aiwithcloud.com/2022/09/16/%e2%ad%90opengauss_database_source_code_analysis_series_of_articles___ai_query_time_prediction%e2%ad%90/)

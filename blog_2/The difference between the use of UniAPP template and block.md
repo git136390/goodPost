@@ -1,0 +1,2 @@
+# The difference between the use of UniAPP template and block
+[The difference between the use of UniAPP template and block](https://aiwithcloud.com/2022/09/15/the_difference_between_the_use_of_uniapp_template_and_block/)

@@ -1,0 +1,2 @@
+# RabbitMq uses improved mail service to ensure message reliability
+[RabbitMq uses improved mail service to ensure message reliability](https://aiwithcloud.com/2022/09/19/rabbitmq_uses_improved_mail_service_to_ensure_message_reliability/)

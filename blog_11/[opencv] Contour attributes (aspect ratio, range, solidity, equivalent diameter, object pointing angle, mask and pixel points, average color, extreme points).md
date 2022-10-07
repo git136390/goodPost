@@ -1,0 +1,2 @@
+# [opencv] Contour attributes (aspect ratio, range, solidity, equivalent diameter, object pointing angle, mask and pixel points, average color, extreme points)
+[[opencv] Contour attributes (aspect ratio, range, solidity, equivalent diameter, object pointing angle, mask and pixel points, average color, extreme points)](https://aiwithcloud.com/2022/09/19/opencv_contour_attributes_aspect_ratio_range_solidity_equivalent_diameter_object_pointing_angle_mask_and_pixel_points_average_color_extreme_points/)

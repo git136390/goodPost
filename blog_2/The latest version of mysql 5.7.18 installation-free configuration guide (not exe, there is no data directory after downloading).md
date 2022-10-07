@@ -1,0 +1,2 @@
+# The latest version of mysql 5.7.18 installation-free configuration guide (not exe, there is no data directory after downloading)
+[The latest version of mysql 5.7.18 installation-free configuration guide (not exe, there is no data directory after downloading)](https://aiwithcloud.com/2022/09/15/the_latest_version_of_mysql_5-7-18_installation_free_configuration_guide_not_exe_there_is_no_data_directory_after_downloading/)

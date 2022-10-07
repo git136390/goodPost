@@ -1,0 +1,2 @@
+# Rust develops the application of WebAssembly in Html and Vue [Part 2]
+[Rust develops the application of WebAssembly in Html and Vue [Part 2]](https://aiwithcloud.com/2022/09/19/rust_develops_the_application_of_webassembly_in_html_and_vue_part_2/)

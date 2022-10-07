@@ -1,0 +1,2 @@
+# How to get the package name of Android apk and its entry
+[How to get the package name of Android apk and its entry](https://aiwithcloud.com/2022/09/15/how_to_get_the_package_name_of_android_apk_and_its_entry/)

@@ -1,0 +1,2 @@
+# jQuery Ajax call Web Service to pass parameters example
+[jQuery Ajax call Web Service to pass parameters example](https://aiwithcloud.com/2022/09/19/jquery_ajax_call_web_service_to_pass_parameters_example/)

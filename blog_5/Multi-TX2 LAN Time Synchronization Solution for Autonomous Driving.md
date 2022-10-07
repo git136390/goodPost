@@ -1,0 +1,2 @@
+# Multi-TX2 LAN Time Synchronization Solution for Autonomous Driving
+[Multi-TX2 LAN Time Synchronization Solution for Autonomous Driving](https://aiwithcloud.com/2022/09/16/multi_tx2_lan_time_synchronization_solution_for_autonomous_driving/)

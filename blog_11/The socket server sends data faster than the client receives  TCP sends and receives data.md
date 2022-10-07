@@ -1,0 +1,2 @@
+# The socket server sends data faster than the client receives  TCP sends and receives data
+[The socket server sends data faster than the client receives  TCP sends and receives data](https://aiwithcloud.com/2022/09/19/the_socket_server_sends_data_faster_than_the_client_receives__tcp_sends_and_receives_data/)

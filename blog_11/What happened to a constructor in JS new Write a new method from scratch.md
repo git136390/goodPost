@@ -1,0 +1,2 @@
+# What happened to a constructor in JS new Write a new method from scratch
+[What happened to a constructor in JS new Write a new method from scratch](https://aiwithcloud.com/2022/09/19/what_happened_to_a_constructor_in_js_new_write_a_new_method_from_scratch/)

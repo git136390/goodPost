@@ -1,0 +1,2 @@
+# Java realizes paper folding into Mount Everest (while loop application)
+[Java realizes paper folding into Mount Everest (while loop application)](https://aiwithcloud.com/2022/09/16/java_realizes_paper_folding_into_mount_everest_while_loop_application/)

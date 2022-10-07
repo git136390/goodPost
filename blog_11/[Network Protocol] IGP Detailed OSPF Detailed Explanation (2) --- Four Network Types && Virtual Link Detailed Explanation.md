@@ -1,0 +1,2 @@
+# [Network Protocol] IGP Detailed OSPF Detailed Explanation (2) --- Four Network Types && Virtual Link Detailed Explanation
+[[Network Protocol] IGP Detailed OSPF Detailed Explanation (2) --- Four Network Types && Virtual Link Detailed Explanation](https://aiwithcloud.com/2022/09/19/network_protocol_igp_detailed_ospf_detailed_explanation_2_____four_network_types__virtual_link_detailed_explanation/)

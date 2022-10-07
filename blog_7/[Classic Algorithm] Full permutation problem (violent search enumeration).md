@@ -1,0 +1,2 @@
+# [Classic Algorithm] Full permutation problem (violent search enumeration)
+[[Classic Algorithm] Full permutation problem (violent search enumeration)](https://aiwithcloud.com/2022/09/16/classic_algorithm_full_permutation_problem_violent_search_enumeration/)

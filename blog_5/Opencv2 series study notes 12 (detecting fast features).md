@@ -1,0 +1,2 @@
+# Opencv2 series study notes 12 (detecting fast features)
+[Opencv2 series study notes 12 (detecting fast features)](https://aiwithcloud.com/2022/09/16/opencv2_series_study_notes_12_detecting_fast_features/)

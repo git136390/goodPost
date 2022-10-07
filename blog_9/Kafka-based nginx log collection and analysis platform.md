@@ -1,0 +1,2 @@
+# Kafka-based nginx log collection and analysis platform
+[Kafka-based nginx log collection and analysis platform](https://aiwithcloud.com/2022/09/19/kafka_based_nginx_log_collection_and_analysis_platform/)

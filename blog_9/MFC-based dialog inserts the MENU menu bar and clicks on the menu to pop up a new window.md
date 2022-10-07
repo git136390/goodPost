@@ -1,0 +1,2 @@
+# MFC-based dialog inserts the MENU menu bar and clicks on the menu to pop up a new window
+[MFC-based dialog inserts the MENU menu bar and clicks on the menu to pop up a new window](https://aiwithcloud.com/2022/09/19/mfc_based_dialog_inserts_the_menu_menu_bar_and_clicks_on_the_menu_to_pop_up_a_new_window/)

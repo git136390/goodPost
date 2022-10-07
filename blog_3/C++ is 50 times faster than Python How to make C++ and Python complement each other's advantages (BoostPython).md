@@ -1,0 +1,2 @@
+# C++ is 50 times faster than Python How to make C++ and Python complement each other's advantages (BoostPython)
+[C++ is 50 times faster than Python How to make C++ and Python complement each other's advantages (BoostPython)](https://aiwithcloud.com/2022/09/15/c_is_50_times_faster_than_python_how_to_make_c_and_python_complement_each_others_advantages_boostpython/)

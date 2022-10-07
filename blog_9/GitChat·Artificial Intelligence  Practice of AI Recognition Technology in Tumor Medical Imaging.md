@@ -1,0 +1,2 @@
+# GitChat·Artificial Intelligence  Practice of AI Recognition Technology in Tumor Medical Imaging
+[GitChat·Artificial Intelligence  Practice of AI Recognition Technology in Tumor Medical Imaging](https://aiwithcloud.com/2022/09/19/gitchat%c2%b7artificial_intelligence__practice_of_ai_recognition_technology_in_tumor_medical_imaging/)

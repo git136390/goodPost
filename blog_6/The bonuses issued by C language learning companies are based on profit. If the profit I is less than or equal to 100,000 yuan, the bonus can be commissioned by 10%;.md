@@ -1,0 +1,2 @@
+# The bonuses issued by C language learning companies are based on profit. If the profit I is less than or equal to 100,000 yuan, the bonus can be commissioned by 10%;
+[The bonuses issued by C language learning companies are based on profit. If the profit I is less than or equal to 100,000 yuan, the bonus can be commissioned by 10%;](https://aiwithcloud.com/2022/09/16/the_bonuses_issued_by_c_language_learning_companies_are_based_on_profit-_if_the_profit_i_is_less_than_or_equal_to_100000_yuan_the_bonus_can_be_commissioned_by_10/)

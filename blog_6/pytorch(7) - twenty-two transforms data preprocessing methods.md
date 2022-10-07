@@ -1,0 +1,2 @@
+# pytorch(7) - twenty-two transforms data preprocessing methods
+[pytorch(7) - twenty-two transforms data preprocessing methods](https://aiwithcloud.com/2022/09/16/pytorch7___twenty_two_transforms_data_preprocessing_methods/)

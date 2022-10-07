@@ -1,0 +1,2 @@
+# Introduction to the 15 database types supported by JimuReport
+[Introduction to the 15 database types supported by JimuReport](https://aiwithcloud.com/2022/09/15/introduction_to_the_15_database_types_supported_by_jimureport/)

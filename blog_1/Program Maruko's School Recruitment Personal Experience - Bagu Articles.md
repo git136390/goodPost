@@ -1,0 +1,2 @@
+# Program Maruko's School Recruitment Personal Experience - Bagu Articles
+[Program Maruko's School Recruitment Personal Experience - Bagu Articles](https://aiwithcloud.com/2022/09/15/program_marukos_school_recruitment_personal_experience___bagu_articles/)

@@ -1,0 +1,2 @@
+# How to build an interface automation testing framework
+[How to build an interface automation testing framework](https://aiwithcloud.com/2022/09/19/how_to_build_an_interface_automation_testing_framework/)

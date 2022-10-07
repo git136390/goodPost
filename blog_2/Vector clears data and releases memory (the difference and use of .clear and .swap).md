@@ -1,0 +1,2 @@
+# Vector clears data and releases memory (the difference and use of .clear and .swap)
+[Vector clears data and releases memory (the difference and use of .clear and .swap)](https://aiwithcloud.com/2022/09/15/vector_clears_data_and_releases_memory_the_difference_and_use_of_-clear_and_-swap/)

@@ -1,0 +1,2 @@
+# Doutu master teaches you to use Python to crawl emoticons in batches
+[Doutu master teaches you to use Python to crawl emoticons in batches](https://aiwithcloud.com/2022/09/15/doutu_master_teaches_you_to_use_python_to_crawl_emoticons_in_batches/)

@@ -1,0 +1,2 @@
+# Multiple inheritance, diamond inheritance, virtual inheritance, polymorphism
+[Multiple inheritance, diamond inheritance, virtual inheritance, polymorphism](https://aiwithcloud.com/2022/09/16/multiple_inheritance_diamond_inheritance_virtual_inheritance_polymorphism/)

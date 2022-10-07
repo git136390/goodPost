@@ -1,0 +1,2 @@
+# Java custom tool class - 10 common methods related to arrays
+[Java custom tool class - 10 common methods related to arrays](https://aiwithcloud.com/2022/09/19/java_custom_tool_class___10_common_methods_related_to_arrays/)

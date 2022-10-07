@@ -1,0 +1,2 @@
+# STM32CubeMX Notes (6)--Serial output sending, UART1 sending data
+[STM32CubeMX Notes (6)--Serial output sending, UART1 sending data](https://aiwithcloud.com/2022/09/16/stm32cubemx_notes_6__serial_output_sending_uart1_sending_data/)

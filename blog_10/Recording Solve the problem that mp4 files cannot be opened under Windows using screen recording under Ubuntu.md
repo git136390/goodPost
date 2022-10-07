@@ -1,0 +1,2 @@
+# Recording Solve the problem that mp4 files cannot be opened under Windows using screen recording under Ubuntu
+[Recording Solve the problem that mp4 files cannot be opened under Windows using screen recording under Ubuntu](https://aiwithcloud.com/2022/09/19/recording_solve_the_problem_that_mp4_files_cannot_be_opened_under_windows_using_screen_recording_under_ubuntu/)

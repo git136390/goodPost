@@ -1,0 +1,2 @@
+# python3GUI--magnetic search tool (with tk source code)
+[python3GUI--magnetic search tool (with tk source code)](https://aiwithcloud.com/2022/09/16/python3gui__magnetic_search_tool_with_tk_source_code/)

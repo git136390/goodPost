@@ -1,0 +1,2 @@
+# [Python Concise Tutorial 1] Basics of Python Programming
+[[Python Concise Tutorial 1] Basics of Python Programming](https://aiwithcloud.com/2022/09/16/python_concise_tutorial_1_basics_of_python_programming/)

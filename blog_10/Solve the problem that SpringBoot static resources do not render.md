@@ -1,0 +1,2 @@
+# Solve the problem that SpringBoot static resources do not render
+[Solve the problem that SpringBoot static resources do not render](https://aiwithcloud.com/2022/09/19/solve_the_problem_that_springboot_static_resources_do_not_render/)

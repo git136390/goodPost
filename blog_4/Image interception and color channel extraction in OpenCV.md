@@ -1,0 +1,2 @@
+# Image interception and color channel extraction in OpenCV
+[Image interception and color channel extraction in OpenCV](https://aiwithcloud.com/2022/09/15/image_interception_and_color_channel_extraction_in_opencv/)

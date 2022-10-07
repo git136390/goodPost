@@ -1,0 +1,2 @@
+# Android uses HttpCanary or Fiddler tool to capture packets
+[Android uses HttpCanary or Fiddler tool to capture packets](https://aiwithcloud.com/2022/09/19/android_uses_httpcanary_or_fiddler_tool_to_capture_packets/)

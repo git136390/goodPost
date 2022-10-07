@@ -1,0 +1,2 @@
+# Unity reads the configuration file in Android's streamingAssets
+[Unity reads the configuration file in Android's streamingAssets](https://aiwithcloud.com/2022/09/19/unity_reads_the_configuration_file_in_androids_streamingassets/)

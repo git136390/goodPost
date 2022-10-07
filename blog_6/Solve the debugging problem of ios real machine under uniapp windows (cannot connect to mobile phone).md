@@ -1,0 +1,2 @@
+# Solve the debugging problem of ios real machine under uniapp windows (cannot connect to mobile phone)
+[Solve the debugging problem of ios real machine under uniapp windows (cannot connect to mobile phone)](https://aiwithcloud.com/2022/09/16/solve_the_debugging_problem_of_ios_real_machine_under_uniapp_windows_cannot_connect_to_mobile_phone/)

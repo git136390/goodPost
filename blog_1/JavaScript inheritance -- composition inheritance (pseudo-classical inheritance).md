@@ -1,0 +1,2 @@
+# JavaScript inheritance -- composition inheritance (pseudo-classical inheritance)
+[JavaScript inheritance -- composition inheritance (pseudo-classical inheritance)](https://aiwithcloud.com/2022/09/15/javascript_inheritance____composition_inheritance_pseudo_classical_inheritance/)

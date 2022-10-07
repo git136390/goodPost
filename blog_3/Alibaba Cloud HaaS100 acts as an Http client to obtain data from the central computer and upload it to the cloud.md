@@ -1,0 +1,2 @@
+# Alibaba Cloud HaaS100 acts as an Http client to obtain data from the central computer and upload it to the cloud
+[Alibaba Cloud HaaS100 acts as an Http client to obtain data from the central computer and upload it to the cloud](https://aiwithcloud.com/2022/09/15/alibaba_cloud_haas100_acts_as_an_http_client_to_obtain_data_from_the_central_computer_and_upload_it_to_the_cloud/)

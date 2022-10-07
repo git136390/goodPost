@@ -1,0 +1,2 @@
+# In two minutes, learn to add loading animations to web pages
+[In two minutes, learn to add loading animations to web pages](https://aiwithcloud.com/2022/09/15/in_two_minutes_learn_to_add_loading_animations_to_web_pages/)

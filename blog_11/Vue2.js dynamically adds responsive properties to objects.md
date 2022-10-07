@@ -1,0 +1,2 @@
+# Vue2.js dynamically adds responsive properties to objects
+[Vue2.js dynamically adds responsive properties to objects](https://aiwithcloud.com/2022/09/19/vue2-js_dynamically_adds_responsive_properties_to_objects/)

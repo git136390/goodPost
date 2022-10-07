@@ -1,0 +1,2 @@
+# The fifth F Group Project of the 2021 training league warm-up training game
+[The fifth F Group Project of the 2021 training league warm-up training game](https://aiwithcloud.com/2022/09/15/the_fifth_f_group_project_of_the_2021_training_league_warm_up_training_game/)

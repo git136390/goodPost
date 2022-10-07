@@ -1,0 +1,2 @@
+# React parent-child component pass-by-value communication (props)
+[React parent-child component pass-by-value communication (props)](https://aiwithcloud.com/2022/09/19/react_parent_child_component_pass_by_value_communication_props/)

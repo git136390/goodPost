@@ -1,0 +1,2 @@
+# POJ3648 2-sat Strongly Connected Condensed Point Method
+[POJ3648 2-sat Strongly Connected Condensed Point Method](https://aiwithcloud.com/2022/09/19/poj3648_2_sat_strongly_connected_condensed_point_method/)

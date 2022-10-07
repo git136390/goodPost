@@ -1,0 +1,2 @@
+# The complete source code of the mall applet project (WeChat applet)
+[The complete source code of the mall applet project (WeChat applet)](https://aiwithcloud.com/2022/09/15/the_complete_source_code_of_the_mall_applet_project_wechat_applet/)

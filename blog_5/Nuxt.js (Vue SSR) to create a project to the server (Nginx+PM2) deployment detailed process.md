@@ -1,0 +1,2 @@
+# Nuxt.js (Vue SSR) to create a project to the server (Nginx+PM2) deployment detailed process
+[Nuxt.js (Vue SSR) to create a project to the server (Nginx+PM2) deployment detailed process](https://aiwithcloud.com/2022/09/16/nuxt-js_vue_ssr_to_create_a_project_to_the_server_nginxpm2_deployment_detailed_process/)

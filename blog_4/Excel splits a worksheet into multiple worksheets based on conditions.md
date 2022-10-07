@@ -1,0 +1,2 @@
+# Excel splits a worksheet into multiple worksheets based on conditions
+[Excel splits a worksheet into multiple worksheets based on conditions](https://aiwithcloud.com/2022/09/15/excel_splits_a_worksheet_into_multiple_worksheets_based_on_conditions/)

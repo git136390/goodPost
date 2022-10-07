@@ -1,0 +1,2 @@
+# 〖Python database development combat - MySQL chapter ㉑〗 - outer join of data table
+[〖Python database development combat - MySQL chapter ㉑〗 - outer join of data table](https://aiwithcloud.com/2022/09/16/%e3%80%96python_database_development_combat___mysql_chapter_%e3%89%91%e3%80%97___outer_join_of_data_table/)

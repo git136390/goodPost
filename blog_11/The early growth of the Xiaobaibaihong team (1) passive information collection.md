@@ -1,0 +1,2 @@
+# The early growth of the Xiaobaibaihong team (1) passive information collection
+[The early growth of the Xiaobaibaihong team (1) passive information collection](https://aiwithcloud.com/2022/09/19/the_early_growth_of_the_xiaobaibaihong_team_1_passive_information_collection/)

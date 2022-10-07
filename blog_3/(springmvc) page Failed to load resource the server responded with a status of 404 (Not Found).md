@@ -1,0 +1,2 @@
+# (springmvc) page Failed to load resource the server responded with a status of 404 (Not Found)
+[(springmvc) page Failed to load resource the server responded with a status of 404 (Not Found)](https://aiwithcloud.com/2022/09/15/springmvc_page_failed_to_load_resource_the_server_responded_with_a_status_of_404_not_found/)

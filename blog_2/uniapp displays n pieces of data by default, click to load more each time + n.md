@@ -1,0 +1,2 @@
+# uniapp displays n pieces of data by default, click to load more each time + n
+[uniapp displays n pieces of data by default, click to load more each time + n](https://aiwithcloud.com/2022/09/15/uniapp_displays_n_pieces_of_data_by_default_click_to_load_more_each_time__n/)

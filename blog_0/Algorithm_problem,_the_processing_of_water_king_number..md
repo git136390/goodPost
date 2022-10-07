@@ -1,0 +1,2 @@
+# Algorithm_problem,_the_processing_of_water_king_number.
+[Algorithm_problem,_the_processing_of_water_king_number.](https://aiwithcloud.com/2022/09/14/algorithm_problem_the_processing_of_water_king_number/)

@@ -1,0 +1,2 @@
+# Java implements data structure 08.02 (heap detailed code based on maximum heap custom priority queue)
+[Java implements data structure 08.02 (heap detailed code based on maximum heap custom priority queue)](https://aiwithcloud.com/2022/09/16/java_implements_data_structure_08-02_heap_detailed_code_based_on_maximum_heap_custom_priority_queue/)

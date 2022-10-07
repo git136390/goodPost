@@ -1,0 +1,2 @@
+# LeetCode 1389 Create target array in established order (java)
+[LeetCode 1389 Create target array in established order (java)](https://aiwithcloud.com/2022/09/19/leetcode_1389_create_target_array_in_established_order_java/)

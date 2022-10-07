@@ -1,0 +1,2 @@
+# C language data structures what is a tree What is a binary tree
+[C language data structures what is a tree What is a binary tree](https://aiwithcloud.com/2022/09/19/c_language_data_structures_what_is_a_tree_what_is_a_binary_tree/)

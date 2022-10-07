@@ -1,0 +1,2 @@
+# OpenHarmony 3.0 virtual machine development environment
+[OpenHarmony 3.0 virtual machine development environment](https://aiwithcloud.com/2022/09/15/openharmony_3-0_virtual_machine_development_environment/)

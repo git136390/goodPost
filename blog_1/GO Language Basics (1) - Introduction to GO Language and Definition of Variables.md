@@ -1,0 +1,2 @@
+# GO Language Basics (1) - Introduction to GO Language and Definition of Variables
+[GO Language Basics (1) - Introduction to GO Language and Definition of Variables](https://aiwithcloud.com/2022/09/15/go_language_basics_1___introduction_to_go_language_and_definition_of_variables/)

@@ -1,0 +1,2 @@
+# PaddlePaddle appears that the module object has no model attribute solution
+[PaddlePaddle appears that the module object has no model attribute solution](https://aiwithcloud.com/2022/09/15/paddlepaddle_appears_that_the_module_object_has_no_model_attribute_solution/)

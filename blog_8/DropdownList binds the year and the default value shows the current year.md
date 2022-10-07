@@ -1,0 +1,2 @@
+# DropdownList binds the year and the default value shows the current year
+[DropdownList binds the year and the default value shows the current year](https://aiwithcloud.com/2022/09/19/dropdownlist_binds_the_year_and_the_default_value_shows_the_current_year/)

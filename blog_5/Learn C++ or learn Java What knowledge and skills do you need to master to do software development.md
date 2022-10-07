@@ -1,0 +1,2 @@
+# Learn C++ or learn Java What knowledge and skills do you need to master to do software development
+[Learn C++ or learn Java What knowledge and skills do you need to master to do software development](https://aiwithcloud.com/2022/09/16/learn_c_or_learn_java_what_knowledge_and_skills_do_you_need_to_master_to_do_software_development/)

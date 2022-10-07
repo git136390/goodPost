@@ -1,0 +1,2 @@
+# C++ QT 13-bit timestamp converts years, months, days, hours, minutes, seconds and milliseconds
+[C++ QT 13-bit timestamp converts years, months, days, hours, minutes, seconds and milliseconds](https://aiwithcloud.com/2022/09/19/c_qt_13_bit_timestamp_converts_years_months_days_hours_minutes_seconds_and_milliseconds/)

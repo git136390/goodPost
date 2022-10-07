@@ -1,0 +1,2 @@
+# jswatermark Lightweight and simple js graphic watermark
+[jswatermark Lightweight and simple js graphic watermark](https://aiwithcloud.com/2022/09/15/jswatermark_lightweight_and_simple_js_graphic_watermark/)

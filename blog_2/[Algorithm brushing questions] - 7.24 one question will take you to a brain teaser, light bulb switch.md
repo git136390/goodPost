@@ -1,0 +1,2 @@
+# [Algorithm brushing questions] - 7.24 one question will take you to a brain teaser, light bulb switch
+[[Algorithm brushing questions] - 7.24 one question will take you to a brain teaser, light bulb switch](https://aiwithcloud.com/2022/09/15/algorithm_brushing_questions___7-24_one_question_will_take_you_to_a_brain_teaser_light_bulb_switch/)

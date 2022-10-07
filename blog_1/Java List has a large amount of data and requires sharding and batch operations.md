@@ -1,0 +1,2 @@
+# Java List has a large amount of data and requires sharding and batch operations
+[Java List has a large amount of data and requires sharding and batch operations](https://aiwithcloud.com/2022/09/15/java_list_has_a_large_amount_of_data_and_requires_sharding_and_batch_operations/)

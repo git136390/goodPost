@@ -1,0 +1,2 @@
+# postman added cookies  Time to throw out Postman, Apifox smells so good!
+[postman added cookies  Time to throw out Postman, Apifox smells so good!](https://aiwithcloud.com/2022/09/19/postman_added_cookies__time_to_throw_out_postman_apifox_smells_so_good/)

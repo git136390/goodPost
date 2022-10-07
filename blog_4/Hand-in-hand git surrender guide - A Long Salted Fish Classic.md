@@ -1,0 +1,2 @@
+# Hand-in-hand git surrender guide - A Long Salted Fish Classic
+[Hand-in-hand git surrender guide - A Long Salted Fish Classic](https://aiwithcloud.com/2022/09/15/hand_in_hand_git_surrender_guide___a_long_salted_fish_classic/)

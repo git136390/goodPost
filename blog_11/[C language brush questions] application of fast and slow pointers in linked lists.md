@@ -1,0 +1,2 @@
+# [C language brush questions] application of fast and slow pointers in linked lists
+[[C language brush questions] application of fast and slow pointers in linked lists](https://aiwithcloud.com/2022/09/19/c_language_brush_questions_application_of_fast_and_slow_pointers_in_linked_lists/)

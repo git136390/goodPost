@@ -1,0 +1,2 @@
+# Grain Academy (6) Front-end page construction instructions  vue-element-admin
+[Grain Academy (6) Front-end page construction instructions  vue-element-admin](https://aiwithcloud.com/2022/09/19/grain_academy_6_front_end_page_construction_instructions__vue_element_admin/)

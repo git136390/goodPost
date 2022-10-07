@@ -1,0 +1,2 @@
+# Detailed explanation of Python regular expressions (recommended collection!)
+[Detailed explanation of Python regular expressions (recommended collection!)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_python_regular_expressions_recommended_collection/)

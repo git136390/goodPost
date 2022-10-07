@@ -1,0 +1,2 @@
+# Beginner Java, LinkedList's most functional collection class (29)
+[Beginner Java, LinkedList's most functional collection class (29)](https://aiwithcloud.com/2022/09/14/beginner_java_linkedlists_most_functional_collection_class_29/)

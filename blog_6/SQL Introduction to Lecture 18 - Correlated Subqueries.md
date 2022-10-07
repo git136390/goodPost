@@ -1,0 +1,2 @@
+# SQL Introduction to Lecture 18 - Correlated Subqueries
+[SQL Introduction to Lecture 18 - Correlated Subqueries](https://aiwithcloud.com/2022/09/16/sql_introduction_to_lecture_18___correlated_subqueries/)

@@ -1,0 +1,2 @@
+# Detailed explanation of Linux desktop graphical installation
+[Detailed explanation of Linux desktop graphical installation](https://aiwithcloud.com/2022/09/14/detailed_explanation_of_linux_desktop_graphical_installation/)

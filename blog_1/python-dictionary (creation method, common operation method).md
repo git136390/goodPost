@@ -1,0 +1,2 @@
+# python-dictionary (creation method, common operation method)
+[python-dictionary (creation method, common operation method)](https://aiwithcloud.com/2022/09/15/python_dictionary_creation_method_common_operation_method/)

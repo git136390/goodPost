@@ -1,0 +1,2 @@
+# 6-2 Find the cumulative sum of the surrounding elements of a two-dimensional array
+[6-2 Find the cumulative sum of the surrounding elements of a two-dimensional array](https://aiwithcloud.com/2022/09/15/6_2_find_the_cumulative_sum_of_the_surrounding_elements_of_a_two_dimensional_array/)

@@ -1,0 +1,2 @@
+# From the college entrance examination to the programmer, from coddling to patience
+[From the college entrance examination to the programmer, from coddling to patience](https://aiwithcloud.com/2022/09/14/from_the_college_entrance_examination_to_the_programmer_from_coddling_to_patience/)

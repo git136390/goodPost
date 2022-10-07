@@ -1,0 +1,2 @@
+# Vue writes click to expand and collapse to hide the div that needs to be hidden
+[Vue writes click to expand and collapse to hide the div that needs to be hidden](https://aiwithcloud.com/2022/09/15/vue_writes_click_to_expand_and_collapse_to_hide_the_div_that_needs_to_be_hidden/)

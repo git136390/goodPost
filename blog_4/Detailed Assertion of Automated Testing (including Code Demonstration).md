@@ -1,0 +1,2 @@
+# Detailed Assertion of Automated Testing (including Code Demonstration)
+[Detailed Assertion of Automated Testing (including Code Demonstration)](https://aiwithcloud.com/2022/09/15/detailed_assertion_of_automated_testing_including_code_demonstration/)

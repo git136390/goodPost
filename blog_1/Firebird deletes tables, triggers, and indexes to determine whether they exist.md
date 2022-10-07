@@ -1,0 +1,2 @@
+# Firebird deletes tables, triggers, and indexes to determine whether they exist
+[Firebird deletes tables, triggers, and indexes to determine whether they exist](https://aiwithcloud.com/2022/09/14/firebird_deletes_tables_triggers_and_indexes_to_determine_whether_they_exist/)

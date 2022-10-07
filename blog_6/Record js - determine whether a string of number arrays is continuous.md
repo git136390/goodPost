@@ -1,0 +1,2 @@
+# Record js - determine whether a string of number arrays is continuous
+[Record js - determine whether a string of number arrays is continuous](https://aiwithcloud.com/2022/09/16/record_js___determine_whether_a_string_of_number_arrays_is_continuous/)

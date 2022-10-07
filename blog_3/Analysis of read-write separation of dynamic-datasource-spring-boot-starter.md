@@ -1,0 +1,2 @@
+# Analysis of read-write separation of dynamic-datasource-spring-boot-starter
+[Analysis of read-write separation of dynamic-datasource-spring-boot-starter](https://aiwithcloud.com/2022/09/15/analysis_of_read_write_separation_of_dynamic_datasource_spring_boot_starter/)

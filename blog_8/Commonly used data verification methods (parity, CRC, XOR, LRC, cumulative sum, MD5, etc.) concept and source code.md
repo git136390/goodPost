@@ -1,0 +1,2 @@
+# Commonly used data verification methods (parity, CRC, XOR, LRC, cumulative sum, MD5, etc.) concept and source code
+[Commonly used data verification methods (parity, CRC, XOR, LRC, cumulative sum, MD5, etc.) concept and source code](https://aiwithcloud.com/2022/09/19/commonly_used_data_verification_methods_parity_crc_xor_lrc_cumulative_sum_md5_etc-_concept_and_source_code/)

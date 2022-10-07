@@ -1,0 +1,2 @@
+# Tencent Cloud TRTC - Real-time audio and video complete case audio and video + shared screen live broadcast
+[Tencent Cloud TRTC - Real-time audio and video complete case audio and video + shared screen live broadcast](https://aiwithcloud.com/2022/09/16/tencent_cloud_trtc___real_time_audio_and_video_complete_case_audio_and_video__shared_screen_live_broadcast/)

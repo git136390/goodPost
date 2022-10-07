@@ -1,0 +1,2 @@
+# The implementation of adding, deleting, modifying and checking based on C language sequence table (note 1)
+[The implementation of adding, deleting, modifying and checking based on C language sequence table (note 1)](https://aiwithcloud.com/2022/09/16/the_implementation_of_adding_deleting_modifying_and_checking_based_on_c_language_sequence_table_note_1/)

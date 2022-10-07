@@ -1,0 +1,2 @@
+# Apifox Interface Testing Tutorial (1) Principles and Tools of Interface Testing
+[Apifox Interface Testing Tutorial (1) Principles and Tools of Interface Testing](https://aiwithcloud.com/2022/09/15/apifox_interface_testing_tutorial_1_principles_and_tools_of_interface_testing/)

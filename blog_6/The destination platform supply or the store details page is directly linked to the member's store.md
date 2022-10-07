@@ -1,0 +1,2 @@
+# The destination platform supply or the store details page is directly linked to the member's store
+[The destination platform supply or the store details page is directly linked to the member's store](https://aiwithcloud.com/2022/09/16/the_destination_platform_supply_or_the_store_details_page_is_directly_linked_to_the_members_store/)

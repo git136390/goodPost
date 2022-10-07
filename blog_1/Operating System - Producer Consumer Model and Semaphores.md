@@ -1,0 +1,2 @@
+# Operating System - Producer Consumer Model and Semaphores
+[Operating System - Producer Consumer Model and Semaphores](https://aiwithcloud.com/2022/09/15/operating_system___producer_consumer_model_and_semaphores/)

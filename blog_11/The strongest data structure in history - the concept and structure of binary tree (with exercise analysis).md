@@ -1,0 +1,2 @@
+# The strongest data structure in history - the concept and structure of binary tree (with exercise analysis)
+[The strongest data structure in history - the concept and structure of binary tree (with exercise analysis)](https://aiwithcloud.com/2022/09/19/the_strongest_data_structure_in_history___the_concept_and_structure_of_binary_tree_with_exercise_analysis/)

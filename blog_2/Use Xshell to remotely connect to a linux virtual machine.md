@@ -1,0 +1,2 @@
+# Use Xshell to remotely connect to a linux virtual machine
+[Use Xshell to remotely connect to a linux virtual machine](https://aiwithcloud.com/2022/09/15/use_xshell_to_remotely_connect_to_a_linux_virtual_machine/)

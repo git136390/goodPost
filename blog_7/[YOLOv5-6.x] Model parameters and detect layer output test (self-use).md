@@ -1,0 +1,2 @@
+# [YOLOv5-6.x] Model parameters and detect layer output test (self-use)
+[[YOLOv5-6.x] Model parameters and detect layer output test (self-use)](https://aiwithcloud.com/2022/09/16/yolov5_6-x_model_parameters_and_detect_layer_output_test_self_use/)

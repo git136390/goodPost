@@ -1,0 +1,2 @@
+# C language explain in detail two local communication methods based on tcp and udp
+[C language explain in detail two local communication methods based on tcp and udp](https://aiwithcloud.com/2022/09/19/c_language_explain_in_detail_two_local_communication_methods_based_on_tcp_and_udp/)

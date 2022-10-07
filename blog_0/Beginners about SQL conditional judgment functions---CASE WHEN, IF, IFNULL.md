@@ -1,0 +1,2 @@
+# Beginners about SQL conditional judgment functions---CASE WHEN, IF, IFNULL
+[Beginners about SQL conditional judgment functions---CASE WHEN, IF, IFNULL](https://aiwithcloud.com/2022/09/14/beginners_about_sql_conditional_judgment_functions___case_when_if_ifnull/)

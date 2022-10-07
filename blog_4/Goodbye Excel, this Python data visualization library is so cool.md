@@ -1,0 +1,2 @@
+# Goodbye Excel, this Python data visualization library is so cool
+[Goodbye Excel, this Python data visualization library is so cool](https://aiwithcloud.com/2022/09/15/goodbye_excel_this_python_data_visualization_library_is_so_cool/)

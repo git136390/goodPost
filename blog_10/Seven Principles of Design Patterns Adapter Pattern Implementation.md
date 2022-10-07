@@ -1,0 +1,2 @@
+# Seven Principles of Design Patterns Adapter Pattern Implementation
+[Seven Principles of Design Patterns Adapter Pattern Implementation](https://aiwithcloud.com/2022/09/19/seven_principles_of_design_patterns_adapter_pattern_implementation/)

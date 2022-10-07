@@ -1,0 +1,2 @@
+# Python, C, C extensions, Cython difference comparison, 98% of people don't know
+[Python, C, C extensions, Cython difference comparison, 98% of people don't know](https://aiwithcloud.com/2022/09/19/python_c_c_extensions_cython_difference_comparison_98_of_people_dont_know/)

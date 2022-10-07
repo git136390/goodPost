@@ -1,0 +1,2 @@
+# The latest to achieve automatic music or video playback in html
+[The latest to achieve automatic music or video playback in html](https://aiwithcloud.com/2022/09/16/the_latest_to_achieve_automatic_music_or_video_playback_in_html/)

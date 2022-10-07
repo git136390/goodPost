@@ -1,0 +1,2 @@
+# Encapsulate MFC (VC2012) resources in dll--customize a multiplexed login interface
+[Encapsulate MFC (VC2012) resources in dll--customize a multiplexed login interface](https://aiwithcloud.com/2022/09/15/encapsulate_mfc_vc2012_resources_in_dll__customize_a_multiplexed_login_interface/)

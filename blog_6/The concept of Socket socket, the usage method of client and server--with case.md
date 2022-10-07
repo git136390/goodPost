@@ -1,0 +1,2 @@
+# The concept of Socket socket, the usage method of client and server--with case
+[The concept of Socket socket, the usage method of client and server--with case](https://aiwithcloud.com/2022/09/16/the_concept_of_socket_socket_the_usage_method_of_client_and_server__with_case/)

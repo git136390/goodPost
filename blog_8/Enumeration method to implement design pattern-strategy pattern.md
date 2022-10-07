@@ -1,0 +1,2 @@
+# Enumeration method to implement design pattern-strategy pattern
+[Enumeration method to implement design pattern-strategy pattern](https://aiwithcloud.com/2022/09/19/enumeration_method_to_implement_design_pattern_strategy_pattern/)

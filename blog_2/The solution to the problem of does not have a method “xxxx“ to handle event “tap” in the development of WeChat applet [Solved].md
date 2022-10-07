@@ -1,0 +1,2 @@
+# The solution to the problem of does not have a method “xxxx“ to handle event “tap” in the development of WeChat applet [Solved]
+[The solution to the problem of does not have a method “xxxx“ to handle event “tap” in the development of WeChat applet [Solved]](https://aiwithcloud.com/2022/09/15/the_solution_to_the_problem_of_does_not_have_a_method_xxxx_to_handle_event_tap_in_the_development_of_wechat_applet_solved/)

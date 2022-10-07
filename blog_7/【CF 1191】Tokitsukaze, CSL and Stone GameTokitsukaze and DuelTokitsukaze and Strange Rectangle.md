@@ -1,0 +1,2 @@
+# 【CF 1191】Tokitsukaze, CSL and Stone GameTokitsukaze and DuelTokitsukaze and Strange Rectangle
+[【CF 1191】Tokitsukaze, CSL and Stone GameTokitsukaze and DuelTokitsukaze and Strange Rectangle](https://aiwithcloud.com/2022/09/16/%e3%80%90cf_1191%e3%80%91tokitsukaze_csl_and_stone_gametokitsukaze_and_dueltokitsukaze_and_strange_rectangle/)

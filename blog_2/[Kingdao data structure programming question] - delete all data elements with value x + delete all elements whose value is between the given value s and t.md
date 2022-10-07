@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question] - delete all data elements with value x + delete all elements whose value is between the given value s and t
+[[Kingdao data structure programming question] - delete all data elements with value x + delete all elements whose value is between the given value s and t](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question___delete_all_data_elements_with_value_x__delete_all_elements_whose_value_is_between_the_given_value_s_and_t/)

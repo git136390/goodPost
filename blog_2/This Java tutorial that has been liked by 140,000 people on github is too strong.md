@@ -1,0 +1,2 @@
+# This Java tutorial that has been liked by 140,000 people on github is too strong
+[This Java tutorial that has been liked by 140,000 people on github is too strong](https://aiwithcloud.com/2022/09/15/this_java_tutorial_that_has_been_liked_by_140000_people_on_github_is_too_strong/)

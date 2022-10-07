@@ -1,0 +1,2 @@
+# About the solution to the problem as shown in Failed to resolvecom.android.supportappcompat-v7.28+ !
+[About the solution to the problem as shown in Failed to resolvecom.android.supportappcompat-v7.28+ !](https://aiwithcloud.com/2022/09/19/about_the_solution_to_the_problem_as_shown_in_failed_to_resolvecom-android-supportappcompat_v7-28_/)

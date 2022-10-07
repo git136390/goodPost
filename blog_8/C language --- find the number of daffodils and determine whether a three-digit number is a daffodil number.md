@@ -1,0 +1,2 @@
+# C language --- find the number of daffodils and determine whether a three-digit number is a daffodil number
+[C language --- find the number of daffodils and determine whether a three-digit number is a daffodil number](https://aiwithcloud.com/2022/09/19/c_language_____find_the_number_of_daffodils_and_determine_whether_a_three_digit_number_is_a_daffodil_number/)

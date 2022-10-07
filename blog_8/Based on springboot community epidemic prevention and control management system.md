@@ -1,0 +1,2 @@
+# Based on springboot community epidemic prevention and control management system
+[Based on springboot community epidemic prevention and control management system](https://aiwithcloud.com/2022/09/19/based_on_springboot_community_epidemic_prevention_and_control_management_system/)

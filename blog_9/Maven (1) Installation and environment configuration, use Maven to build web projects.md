@@ -1,0 +1,2 @@
+# Maven (1) Installation and environment configuration, use Maven to build web projects
+[Maven (1) Installation and environment configuration, use Maven to build web projects](https://aiwithcloud.com/2022/09/19/maven_1_installation_and_environment_configuration_use_maven_to_build_web_projects/)

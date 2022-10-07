@@ -1,0 +1,2 @@
+# Implement nginx load balancing - round robin (reverse proxy)
+[Implement nginx load balancing - round robin (reverse proxy)](https://aiwithcloud.com/2022/09/19/implement_nginx_load_balancing___round_robin_reverse_proxy/)

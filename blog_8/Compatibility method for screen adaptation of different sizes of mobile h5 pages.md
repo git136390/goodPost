@@ -1,0 +1,2 @@
+# Compatibility method for screen adaptation of different sizes of mobile h5 pages
+[Compatibility method for screen adaptation of different sizes of mobile h5 pages](https://aiwithcloud.com/2022/09/19/compatibility_method_for_screen_adaptation_of_different_sizes_of_mobile_h5_pages/)

@@ -1,0 +1,2 @@
+# Android common interface controls (ListView, RecyclerView, custom View articles)
+[Android common interface controls (ListView, RecyclerView, custom View articles)](https://aiwithcloud.com/2022/09/19/android_common_interface_controls_listview_recyclerview_custom_view_articles/)

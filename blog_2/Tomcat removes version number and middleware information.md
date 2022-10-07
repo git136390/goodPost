@@ -1,0 +1,2 @@
+# Tomcat removes version number and middleware information
+[Tomcat removes version number and middleware information](https://aiwithcloud.com/2022/09/15/tomcat_removes_version_number_and_middleware_information/)

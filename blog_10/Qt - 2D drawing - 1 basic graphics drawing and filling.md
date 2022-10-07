@@ -1,0 +1,2 @@
+# Qt - 2D drawing - 1 basic graphics drawing and filling
+[Qt - 2D drawing - 1 basic graphics drawing and filling](https://aiwithcloud.com/2022/09/19/qt___2d_drawing___1_basic_graphics_drawing_and_filling/)

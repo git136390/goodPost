@@ -1,0 +1,2 @@
+# [HDLBits Brush Question 2] Verilog Language (2) Vectors section
+[[HDLBits Brush Question 2] Verilog Language (2) Vectors section](https://aiwithcloud.com/2022/09/19/hdlbits_brush_question_2_verilog_language_2_vectors_section/)

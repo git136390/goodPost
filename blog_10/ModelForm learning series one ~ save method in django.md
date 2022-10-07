@@ -1,0 +1,2 @@
+# ModelForm learning series one ~ save method in django
+[ModelForm learning series one ~ save method in django](https://aiwithcloud.com/2022/09/19/modelform_learning_series_one__save_method_in_django/)

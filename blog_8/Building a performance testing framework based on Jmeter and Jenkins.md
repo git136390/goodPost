@@ -1,0 +1,2 @@
+# Building a performance testing framework based on Jmeter and Jenkins
+[Building a performance testing framework based on Jmeter and Jenkins](https://aiwithcloud.com/2022/09/19/building_a_performance_testing_framework_based_on_jmeter_and_jenkins/)

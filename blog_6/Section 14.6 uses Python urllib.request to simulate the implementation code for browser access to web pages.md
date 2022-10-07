@@ -1,0 +1,2 @@
+# Section 14.6 uses Python urllib.request to simulate the implementation code for browser access to web pages
+[Section 14.6 uses Python urllib.request to simulate the implementation code for browser access to web pages](https://aiwithcloud.com/2022/09/16/section_14-6_uses_python_urllib-request_to_simulate_the_implementation_code_for_browser_access_to_web_pages/)

@@ -1,0 +1,2 @@
+# The problem of capacity expansion in HashMap was asked for 6 consecutive times. When asked about the hardware layer, can you resist it
+[The problem of capacity expansion in HashMap was asked for 6 consecutive times. When asked about the hardware layer, can you resist it](https://aiwithcloud.com/2022/09/19/the_problem_of_capacity_expansion_in_hashmap_was_asked_for_6_consecutive_times-_when_asked_about_the_hardware_layer_can_you_resist_it/)

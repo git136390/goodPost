@@ -1,0 +1,2 @@
+# [Computer Operating System] Implementation of Page Replacement Algorithm
+[[Computer Operating System] Implementation of Page Replacement Algorithm](https://aiwithcloud.com/2022/09/16/computer_operating_system_implementation_of_page_replacement_algorithm/)

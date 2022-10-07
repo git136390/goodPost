@@ -1,0 +1,2 @@
+# MapperReduce Preliminary Exploration Series (2) - Implementation of WordCount Program
+[MapperReduce Preliminary Exploration Series (2) - Implementation of WordCount Program](https://aiwithcloud.com/2022/09/19/mapperreduce_preliminary_exploration_series_2___implementation_of_wordcount_program/)

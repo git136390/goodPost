@@ -1,0 +1,2 @@
+# [21-Day Learning Challenge] Searching for peaks in binary search questions
+[[21-Day Learning Challenge] Searching for peaks in binary search questions](https://aiwithcloud.com/2022/09/16/21_day_learning_challenge_searching_for_peaks_in_binary_search_questions/)

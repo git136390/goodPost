@@ -1,0 +1,2 @@
+# Fiddler implements reverse testing of mobile game packets Fiddler mobile agent is in one step (fiddler installation + mobile agent + detailed package)
+[Fiddler implements reverse testing of mobile game packets Fiddler mobile agent is in one step (fiddler installation + mobile agent + detailed package)](https://aiwithcloud.com/2022/09/19/fiddler_implements_reverse_testing_of_mobile_game_packets_fiddler_mobile_agent_is_in_one_step_fiddler_installation__mobile_agent__detailed_package/)

@@ -1,0 +1,2 @@
+# Solutions to common compatibility problems in front-end development of H5 pages
+[Solutions to common compatibility problems in front-end development of H5 pages](https://aiwithcloud.com/2022/09/15/solutions_to_common_compatibility_problems_in_front_end_development_of_h5_pages/)

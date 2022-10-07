@@ -1,0 +1,2 @@
+# Use Python to manage the relationships in a dream of Red Mansions
+[Use Python to manage the relationships in a dream of Red Mansions](https://aiwithcloud.com/2022/09/19/use_python_to_manage_the_relationships_in_a_dream_of_red_mansions/)

@@ -1,0 +1,2 @@
+# Mac easy-to-use Android emulators (play games, install apps, support salted fish, pinduoduo...)
+[Mac easy-to-use Android emulators (play games, install apps, support salted fish, pinduoduo...)](https://aiwithcloud.com/2022/09/15/mac_easy_to_use_android_emulators_play_games_install_apps_support_salted_fish_pinduoduo/)

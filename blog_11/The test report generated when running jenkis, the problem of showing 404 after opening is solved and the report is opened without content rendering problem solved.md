@@ -1,0 +1,2 @@
+# The test report generated when running jenkis, the problem of showing 404 after opening is solved and the report is opened without content rendering problem solved
+[The test report generated when running jenkis, the problem of showing 404 after opening is solved and the report is opened without content rendering problem solved](https://aiwithcloud.com/2022/09/19/the_test_report_generated_when_running_jenkis_the_problem_of_showing_404_after_opening_is_solved_and_the_report_is_opened_without_content_rendering_problem_solved/)

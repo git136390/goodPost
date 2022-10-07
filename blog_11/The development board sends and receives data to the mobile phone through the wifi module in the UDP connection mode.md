@@ -1,0 +1,2 @@
+# The development board sends and receives data to the mobile phone through the wifi module in the UDP connection mode
+[The development board sends and receives data to the mobile phone through the wifi module in the UDP connection mode](https://aiwithcloud.com/2022/09/19/the_development_board_sends_and_receives_data_to_the_mobile_phone_through_the_wifi_module_in_the_udp_connection_mode/)

@@ -1,0 +1,2 @@
+# [Mini Program Column] Summarize the development specifications of uniapp to develop small programs
+[[Mini Program Column] Summarize the development specifications of uniapp to develop small programs](https://aiwithcloud.com/2022/09/15/mini_program_column_summarize_the_development_specifications_of_uniapp_to_develop_small_programs/)

@@ -1,0 +1,2 @@
+# One trick to solve the problem of data loss in vuex after refreshing the page
+[One trick to solve the problem of data loss in vuex after refreshing the page](https://aiwithcloud.com/2022/09/16/one_trick_to_solve_the_problem_of_data_loss_in_vuex_after_refreshing_the_page/)

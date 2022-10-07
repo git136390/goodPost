@@ -1,0 +1,2 @@
+# JAVA implements the game Cuckoo Breakthrough - Simple Edition
+[JAVA implements the game Cuckoo Breakthrough - Simple Edition](https://aiwithcloud.com/2022/09/16/java_implements_the_game_cuckoo_breakthrough___simple_edition/)

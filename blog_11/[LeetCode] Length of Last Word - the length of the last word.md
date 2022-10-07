@@ -1,0 +1,2 @@
+# [LeetCode] Length of Last Word - the length of the last word
+[[LeetCode] Length of Last Word - the length of the last word](https://aiwithcloud.com/2022/09/19/leetcode_length_of_last_word___the_length_of_the_last_word/)

@@ -1,0 +1,2 @@
+# Baidu 2014 Campus Recruitment R&D Engineer Written Exam Questions + Answers
+[Baidu 2014 Campus Recruitment R&D Engineer Written Exam Questions + Answers](https://aiwithcloud.com/2022/09/15/baidu_2014_campus_recruitment_rd_engineer_written_exam_questions__answers/)

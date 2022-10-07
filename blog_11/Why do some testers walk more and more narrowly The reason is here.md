@@ -1,0 +1,2 @@
+# Why do some testers walk more and more narrowly The reason is here
+[Why do some testers walk more and more narrowly The reason is here](https://aiwithcloud.com/2022/09/19/why_do_some_testers_walk_more_and_more_narrowly_the_reason_is_here/)

@@ -1,0 +1,2 @@
+# Microlight holds an inch pen and talks about memory management in detail
+[Microlight holds an inch pen and talks about memory management in detail](https://aiwithcloud.com/2022/09/16/microlight_holds_an_inch_pen_and_talks_about_memory_management_in_detail/)

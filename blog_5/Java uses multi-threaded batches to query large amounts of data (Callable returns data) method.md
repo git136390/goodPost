@@ -1,0 +1,2 @@
+# Java uses multi-threaded batches to query large amounts of data (Callable returns data) method
+[Java uses multi-threaded batches to query large amounts of data (Callable returns data) method](https://aiwithcloud.com/2022/09/16/java_uses_multi_threaded_batches_to_query_large_amounts_of_data_callable_returns_data_method/)

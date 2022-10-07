@@ -1,0 +1,2 @@
+# [JavaSE Basics] Learn to distinguish and use overloading and rewriting
+[[JavaSE Basics] Learn to distinguish and use overloading and rewriting](https://aiwithcloud.com/2022/09/16/javase_basics_learn_to_distinguish_and_use_overloading_and_rewriting/)

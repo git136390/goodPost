@@ -1,0 +1,2 @@
+# P5318 [Deep Foundation 18. Example 3] Searching for Literature - Two Traversals of Graphs
+[P5318 [Deep Foundation 18. Example 3] Searching for Literature - Two Traversals of Graphs](https://aiwithcloud.com/2022/09/19/p5318_deep_foundation_18-_example_3_searching_for_literature___two_traversals_of_graphs/)

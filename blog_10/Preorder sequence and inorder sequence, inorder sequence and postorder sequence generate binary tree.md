@@ -1,0 +1,2 @@
+# Preorder sequence and inorder sequence, inorder sequence and postorder sequence generate binary tree
+[Preorder sequence and inorder sequence, inorder sequence and postorder sequence generate binary tree](https://aiwithcloud.com/2022/09/19/preorder_sequence_and_inorder_sequence_inorder_sequence_and_postorder_sequence_generate_binary_tree/)

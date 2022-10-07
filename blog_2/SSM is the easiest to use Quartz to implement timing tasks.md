@@ -1,0 +1,2 @@
+# SSM is the easiest to use Quartz to implement timing tasks
+[SSM is the easiest to use Quartz to implement timing tasks](https://aiwithcloud.com/2022/09/15/ssm_is_the_easiest_to_use_quartz_to_implement_timing_tasks/)

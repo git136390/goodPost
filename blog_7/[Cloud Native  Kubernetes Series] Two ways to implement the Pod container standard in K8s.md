@@ -1,0 +1,2 @@
+# [Cloud Native  Kubernetes Series] Two ways to implement the Pod container standard in K8s
+[[Cloud Native  Kubernetes Series] Two ways to implement the Pod container standard in K8s](https://aiwithcloud.com/2022/09/16/cloud_native__kubernetes_series_two_ways_to_implement_the_pod_container_standard_in_k8s/)

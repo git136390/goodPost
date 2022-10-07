@@ -1,0 +1,2 @@
+# Checking and filling omissions (2) Basic knowledge of Java
+[Checking and filling omissions (2) Basic knowledge of Java](https://aiwithcloud.com/2022/09/19/checking_and_filling_omissions_2_basic_knowledge_of_java/)

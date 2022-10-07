@@ -1,0 +1,2 @@
+# Questionnaire star automatic filling script [detailed tutorial]
+[Questionnaire star automatic filling script [detailed tutorial]](https://aiwithcloud.com/2022/09/19/questionnaire_star_automatic_filling_script_detailed_tutorial/)

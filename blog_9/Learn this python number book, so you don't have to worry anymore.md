@@ -1,0 +1,2 @@
+# Learn this python number book, so you don't have to worry anymore
+[Learn this python number book, so you don't have to worry anymore](https://aiwithcloud.com/2022/09/19/learn_this_python_number_book_so_you_dont_have_to_worry_anymore/)

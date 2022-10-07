@@ -1,0 +1,2 @@
+# Python Basic Tutorial Dictionary Type Built-in Methods
+[Python Basic Tutorial Dictionary Type Built-in Methods](https://aiwithcloud.com/2022/09/19/python_basic_tutorial_dictionary_type_built_in_methods/)

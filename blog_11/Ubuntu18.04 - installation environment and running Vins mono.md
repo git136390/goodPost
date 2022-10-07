@@ -1,0 +1,2 @@
+# Ubuntu18.04 - installation environment and running Vins mono
+[Ubuntu18.04 - installation environment and running Vins mono](https://aiwithcloud.com/2022/09/19/ubuntu18-04___installation_environment_and_running_vins_mono/)

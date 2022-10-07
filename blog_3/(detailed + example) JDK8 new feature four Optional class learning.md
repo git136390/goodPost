@@ -1,0 +1,2 @@
+# (detailed + example) JDK8 new feature four Optional class learning
+[(detailed + example) JDK8 new feature four Optional class learning](https://aiwithcloud.com/2022/09/15/detailed__example_jdk8_new_feature_four_optional_class_learning/)

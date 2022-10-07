@@ -1,0 +1,2 @@
+# The sword refers to Offer56 — Ⅰ Ⅱ . The number of times the number appears in the array
+[The sword refers to Offer56 — Ⅰ Ⅱ . The number of times the number appears in the array](https://aiwithcloud.com/2022/09/19/the_sword_refers_to_offer56_-_%e2%85%b0_%e2%85%b1_-_the_number_of_times_the_number_appears_in_the_array/)

@@ -1,0 +1,2 @@
+# Java thread pool multi-threaded query database to improve query efficiency
+[Java thread pool multi-threaded query database to improve query efficiency](https://aiwithcloud.com/2022/09/15/java_thread_pool_multi_threaded_query_database_to_improve_query_efficiency/)

@@ -1,0 +1,2 @@
+# (2) STM32 emulation series (HAL) on Proteus 8.9---key input to control LED
+[(2) STM32 emulation series (HAL) on Proteus 8.9---key input to control LED](https://aiwithcloud.com/2022/09/15/2_stm32_emulation_series_hal_on_proteus_8-9___key_input_to_control_led/)

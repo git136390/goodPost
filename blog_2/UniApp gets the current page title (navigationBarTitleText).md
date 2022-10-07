@@ -1,0 +1,2 @@
+# UniApp gets the current page title (navigationBarTitleText)
+[UniApp gets the current page title (navigationBarTitleText)](https://aiwithcloud.com/2022/09/15/uniapp_gets_the_current_page_title_navigationbartitletext/)

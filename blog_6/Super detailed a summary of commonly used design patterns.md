@@ -1,0 +1,2 @@
+# Super detailed a summary of commonly used design patterns
+[Super detailed a summary of commonly used design patterns](https://aiwithcloud.com/2022/09/16/super_detailed_a_summary_of_commonly_used_design_patterns/)

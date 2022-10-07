@@ -1,0 +1,2 @@
+# [Google Interview Questions] Find the minimum distance between two elements in an array
+[[Google Interview Questions] Find the minimum distance between two elements in an array](https://aiwithcloud.com/2022/09/16/google_interview_questions_find_the_minimum_distance_between_two_elements_in_an_array/)

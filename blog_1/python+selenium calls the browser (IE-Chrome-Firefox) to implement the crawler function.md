@@ -1,0 +1,2 @@
+# python+selenium calls the browser (IE-Chrome-Firefox) to implement the crawler function
+[python+selenium calls the browser (IE-Chrome-Firefox) to implement the crawler function](https://aiwithcloud.com/2022/09/15/pythonselenium_calls_the_browser_ie_chrome_firefox_to_implement_the_crawler_function/)

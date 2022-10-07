@@ -1,0 +1,2 @@
+# Detailed explanation of YUV video format (translated from Microsoft documentation)
+[Detailed explanation of YUV video format (translated from Microsoft documentation)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_yuv_video_format_translated_from_microsoft_documentation/)

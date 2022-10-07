@@ -1,0 +1,2 @@
+# Create Dashboards with Python Flask, Plotly and AdminLTE
+[Create Dashboards with Python Flask, Plotly and AdminLTE](https://aiwithcloud.com/2022/09/19/create_dashboards_with_python_flask_plotly_and_adminlte/)

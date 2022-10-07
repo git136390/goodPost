@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (21) - Neutron component installation and configuration
+[Detailed explanation of openstack (21) - Neutron component installation and configuration](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_openstack_21___neutron_component_installation_and_configuration/)

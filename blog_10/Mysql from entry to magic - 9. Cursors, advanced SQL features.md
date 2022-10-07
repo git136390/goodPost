@@ -1,0 +1,2 @@
+# Mysql from entry to magic - 9. Cursors, advanced SQL features
+[Mysql from entry to magic - 9. Cursors, advanced SQL features](https://aiwithcloud.com/2022/09/19/mysql_from_entry_to_magic___9-_cursors_advanced_sql_features/)

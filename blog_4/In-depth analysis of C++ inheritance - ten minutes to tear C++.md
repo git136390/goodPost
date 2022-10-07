@@ -1,0 +1,2 @@
+# In-depth analysis of C++ inheritance - ten minutes to tear C++
+[In-depth analysis of C++ inheritance - ten minutes to tear C++](https://aiwithcloud.com/2022/09/15/in_depth_analysis_of_c_inheritance___ten_minutes_to_tear_c/)

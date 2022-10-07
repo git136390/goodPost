@@ -1,0 +1,2 @@
+# How to Install the Linux Subsystem for WSL2 in Windows 10
+[How to Install the Linux Subsystem for WSL2 in Windows 10](https://aiwithcloud.com/2022/09/15/how_to_install_the_linux_subsystem_for_wsl2_in_windows_10/)

@@ -1,0 +1,2 @@
+# [ImageSets folder] The test.txt, train.txt, trainval.txt, val.txt files in the Pascal VOC dataset format folder are generated
+[[ImageSets folder] The test.txt, train.txt, trainval.txt, val.txt files in the Pascal VOC dataset format folder are generated](https://aiwithcloud.com/2022/09/16/imagesets_folder_the_test-txt_train-txt_trainval-txt_val-txt_files_in_the_pascal_voc_dataset_format_folder_are_generated/)

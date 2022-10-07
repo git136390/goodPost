@@ -1,0 +1,2 @@
+# C Language--Thinking about Two Pointer Initialization and Assignment Operations
+[C Language--Thinking about Two Pointer Initialization and Assignment Operations](https://aiwithcloud.com/2022/09/19/c_language__thinking_about_two_pointer_initialization_and_assignment_operations/)

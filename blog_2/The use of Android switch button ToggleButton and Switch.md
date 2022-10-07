@@ -1,0 +1,2 @@
+# The use of Android switch button ToggleButton and Switch
+[The use of Android switch button ToggleButton and Switch](https://aiwithcloud.com/2022/09/15/the_use_of_android_switch_button_togglebutton_and_switch/)

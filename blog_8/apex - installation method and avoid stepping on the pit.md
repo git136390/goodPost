@@ -1,0 +1,2 @@
+# apex - installation method and avoid stepping on the pit
+[apex - installation method and avoid stepping on the pit](https://aiwithcloud.com/2022/09/19/apex___installation_method_and_avoid_stepping_on_the_pit/)

@@ -1,0 +1,2 @@
+# MediaTek cc++ driver development intern written test questions - find the maximum value and number and print
+[MediaTek cc++ driver development intern written test questions - find the maximum value and number and print](https://aiwithcloud.com/2022/09/16/mediatek_cc_driver_development_intern_written_test_questions___find_the_maximum_value_and_number_and_print/)

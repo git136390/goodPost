@@ -1,0 +1,2 @@
+# OpenCV-Python Adjust Image Contrast and White Paper Photo Background Bleaching Method with Text
+[OpenCV-Python Adjust Image Contrast and White Paper Photo Background Bleaching Method with Text](https://aiwithcloud.com/2022/09/15/opencv_python_adjust_image_contrast_and_white_paper_photo_background_bleaching_method_with_text/)

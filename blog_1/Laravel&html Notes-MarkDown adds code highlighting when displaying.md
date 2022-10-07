@@ -1,0 +1,2 @@
+# Laravel&html Notes-MarkDown adds code highlighting when displaying
+[Laravel&html Notes-MarkDown adds code highlighting when displaying](https://aiwithcloud.com/2022/09/15/laravelhtml_notes_markdown_adds_code_highlighting_when_displaying/)

@@ -1,0 +1,2 @@
+# STM32CubeMX series tutorial 8 configuration project template (serial port + variable length data transceiver + DMA + IDLE interrupt + soft interrupt)
+[STM32CubeMX series tutorial 8 configuration project template (serial port + variable length data transceiver + DMA + IDLE interrupt + soft interrupt)](https://aiwithcloud.com/2022/09/19/stm32cubemx_series_tutorial_8_configuration_project_template_serial_port__variable_length_data_transceiver__dma__idle_interrupt__soft_interrupt/)

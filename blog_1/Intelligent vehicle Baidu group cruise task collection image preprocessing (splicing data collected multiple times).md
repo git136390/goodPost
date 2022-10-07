@@ -1,0 +1,2 @@
+# Intelligent vehicle Baidu group cruise task collection image preprocessing (splicing data collected multiple times)
+[Intelligent vehicle Baidu group cruise task collection image preprocessing (splicing data collected multiple times)](https://aiwithcloud.com/2022/09/15/intelligent_vehicle_baidu_group_cruise_task_collection_image_preprocessing_splicing_data_collected_multiple_times/)

@@ -1,0 +1,2 @@
+# [Break up LeetCode] May Algorithm Training (22) Ordered Collection
+[[Break up LeetCode] May Algorithm Training (22) Ordered Collection](https://aiwithcloud.com/2022/09/19/break_up_leetcode_may_algorithm_training_22_ordered_collection/)

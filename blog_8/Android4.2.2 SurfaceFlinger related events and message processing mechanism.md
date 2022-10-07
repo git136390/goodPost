@@ -1,0 +1,2 @@
+# Android4.2.2 SurfaceFlinger related events and message processing mechanism
+[Android4.2.2 SurfaceFlinger related events and message processing mechanism](https://aiwithcloud.com/2022/09/19/android4-2-2_surfaceflinger_related_events_and_message_processing_mechanism/)

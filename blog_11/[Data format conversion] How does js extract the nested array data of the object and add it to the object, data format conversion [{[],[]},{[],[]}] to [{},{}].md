@@ -1,0 +1,2 @@
+# [Data format conversion] How does js extract the nested array data of the object and add it to the object, data format conversion [{[],[]},{[],[]}] to [{},{}]
+[[Data format conversion] How does js extract the nested array data of the object and add it to the object, data format conversion [{[],[]},{[],[]}] to [{},{}]](https://aiwithcloud.com/2022/09/19/data_format_conversion_how_does_js_extract_the_nested_array_data_of_the_object_and_add_it_to_the_object_data_format_conversion__to_/)

@@ -1,0 +1,2 @@
+# Syntax knowledge of DQL in MySQL learning 1 (basic query and conditional query)
+[Syntax knowledge of DQL in MySQL learning 1 (basic query and conditional query)](https://aiwithcloud.com/2022/09/15/syntax_knowledge_of_dql_in_mysql_learning_1_basic_query_and_conditional_query/)

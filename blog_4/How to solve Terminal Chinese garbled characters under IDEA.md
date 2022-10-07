@@ -1,0 +1,2 @@
+# How to solve Terminal Chinese garbled characters under IDEA
+[How to solve Terminal Chinese garbled characters under IDEA](https://aiwithcloud.com/2022/09/15/how_to_solve_terminal_chinese_garbled_characters_under_idea/)

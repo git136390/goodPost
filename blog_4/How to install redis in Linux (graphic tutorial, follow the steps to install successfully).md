@@ -1,0 +1,2 @@
+# How to install redis in Linux (graphic tutorial, follow the steps to install successfully)
+[How to install redis in Linux (graphic tutorial, follow the steps to install successfully)](https://aiwithcloud.com/2022/09/15/how_to_install_redis_in_linux_graphic_tutorial_follow_the_steps_to_install_successfully/)

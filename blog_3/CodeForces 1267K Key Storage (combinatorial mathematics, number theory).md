@@ -1,0 +1,2 @@
+# CodeForces 1267K Key Storage (combinatorial mathematics, number theory)
+[CodeForces 1267K Key Storage (combinatorial mathematics, number theory)](https://aiwithcloud.com/2022/09/15/codeforces_1267k_key_storage_combinatorial_mathematics_number_theory/)

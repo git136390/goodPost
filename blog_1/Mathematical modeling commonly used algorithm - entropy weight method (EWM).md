@@ -1,0 +1,2 @@
+# Mathematical modeling commonly used algorithm - entropy weight method (EWM)
+[Mathematical modeling commonly used algorithm - entropy weight method (EWM)](https://aiwithcloud.com/2022/09/15/mathematical_modeling_commonly_used_algorithm___entropy_weight_method_ewm/)

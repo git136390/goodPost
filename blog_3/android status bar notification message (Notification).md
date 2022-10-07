@@ -1,0 +1,2 @@
+# android status bar notification message (Notification)
+[android status bar notification message (Notification)](https://aiwithcloud.com/2022/09/15/android_status_bar_notification_message_notification/)

@@ -1,0 +1,2 @@
+# ios internationalized language encoding comparison table
+[ios internationalized language encoding comparison table](https://aiwithcloud.com/2022/09/19/ios_internationalized_language_encoding_comparison_table/)

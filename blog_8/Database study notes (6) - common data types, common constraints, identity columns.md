@@ -1,0 +1,2 @@
+# Database study notes (6) - common data types, common constraints, identity columns
+[Database study notes (6) - common data types, common constraints, identity columns](https://aiwithcloud.com/2022/09/19/database_study_notes_6___common_data_types_common_constraints_identity_columns/)

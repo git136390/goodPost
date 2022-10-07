@@ -1,0 +1,2 @@
+# One-time solution to IntelliJ IDEA Chinese garbled problem
+[One-time solution to IntelliJ IDEA Chinese garbled problem](https://aiwithcloud.com/2022/09/19/one_time_solution_to_intellij_idea_chinese_garbled_problem/)

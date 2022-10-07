@@ -1,0 +1,2 @@
+# Detailed Linux System Tuning (3) - CPU Status View Related Commands
+[Detailed Linux System Tuning (3) - CPU Status View Related Commands](https://aiwithcloud.com/2022/09/19/detailed_linux_system_tuning_3___cpu_status_view_related_commands/)

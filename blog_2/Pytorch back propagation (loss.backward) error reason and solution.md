@@ -1,0 +1,2 @@
+# Pytorch back propagation (loss.backward) error reason and solution
+[Pytorch back propagation (loss.backward) error reason and solution](https://aiwithcloud.com/2022/09/15/pytorch_back_propagation_loss-backward_error_reason_and_solution/)

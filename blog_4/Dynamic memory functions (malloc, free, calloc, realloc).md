@@ -1,0 +1,2 @@
+# Dynamic memory functions (malloc, free, calloc, realloc)
+[Dynamic memory functions (malloc, free, calloc, realloc)](https://aiwithcloud.com/2022/09/15/dynamic_memory_functions_malloc_free_calloc_realloc/)

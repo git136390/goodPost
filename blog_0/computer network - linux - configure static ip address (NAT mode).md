@@ -1,0 +1,2 @@
+# computer network - linux - configure static ip address (NAT mode)
+[computer network - linux - configure static ip address (NAT mode)](https://aiwithcloud.com/2022/09/14/computer_network___linux___configure_static_ip_address_nat_mode/)

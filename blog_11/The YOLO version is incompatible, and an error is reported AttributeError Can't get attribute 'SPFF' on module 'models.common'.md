@@ -1,0 +1,2 @@
+# The YOLO version is incompatible, and an error is reported AttributeError Can't get attribute 'SPFF' on module 'models.common'
+[The YOLO version is incompatible, and an error is reported AttributeError Can't get attribute 'SPFF' on module 'models.common'](https://aiwithcloud.com/2022/09/19/the_yolo_version_is_incompatible_and_an_error_is_reported_attributeerror_cant_get_attribute_spff_on_module_models-common/)

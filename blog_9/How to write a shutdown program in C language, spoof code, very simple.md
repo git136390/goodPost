@@ -1,0 +1,2 @@
+# How to write a shutdown program in C language, spoof code, very simple
+[How to write a shutdown program in C language, spoof code, very simple](https://aiwithcloud.com/2022/09/19/how_to_write_a_shutdown_program_in_c_language_spoof_code_very_simple/)

@@ -1,0 +1,2 @@
+# python3 realizes reading and writing files (xlsx fileini filejson fileyaml file), the code has been encapsulated
+[python3 realizes reading and writing files (xlsx fileini filejson fileyaml file), the code has been encapsulated](https://aiwithcloud.com/2022/09/16/python3_realizes_reading_and_writing_files_xlsx_fileini_filejson_fileyaml_file_the_code_has_been_encapsulated/)

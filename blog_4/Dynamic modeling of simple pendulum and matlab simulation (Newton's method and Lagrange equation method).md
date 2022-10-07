@@ -1,0 +1,2 @@
+# Dynamic modeling of simple pendulum and matlab simulation (Newton's method and Lagrange equation method)
+[Dynamic modeling of simple pendulum and matlab simulation (Newton's method and Lagrange equation method)](https://aiwithcloud.com/2022/09/15/dynamic_modeling_of_simple_pendulum_and_matlab_simulation_newtons_method_and_lagrange_equation_method/)

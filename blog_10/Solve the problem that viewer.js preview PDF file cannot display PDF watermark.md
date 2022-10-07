@@ -1,0 +1,2 @@
+# Solve the problem that viewer.js preview PDF file cannot display PDF watermark
+[Solve the problem that viewer.js preview PDF file cannot display PDF watermark](https://aiwithcloud.com/2022/09/19/solve_the_problem_that_viewer-js_preview_pdf_file_cannot_display_pdf_watermark/)

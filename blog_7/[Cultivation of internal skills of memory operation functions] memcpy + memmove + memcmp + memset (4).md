@@ -1,0 +1,2 @@
+# [Cultivation of internal skills of memory operation functions] memcpy + memmove + memcmp + memset (4)
+[[Cultivation of internal skills of memory operation functions] memcpy + memmove + memcmp + memset (4)](https://aiwithcloud.com/2022/09/16/cultivation_of_internal_skills_of_memory_operation_functions_memcpy__memmove__memcmp__memset_4/)

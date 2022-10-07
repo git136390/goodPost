@@ -1,0 +1,2 @@
+# Elasticsearch adds permission control installation steps
+[Elasticsearch adds permission control installation steps](https://aiwithcloud.com/2022/09/14/elasticsearch_adds_permission_control_installation_steps/)

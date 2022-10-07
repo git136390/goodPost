@@ -1,0 +1,2 @@
+# Java multi-threaded concurrency - thread pool principle
+[Java multi-threaded concurrency - thread pool principle](https://aiwithcloud.com/2022/09/15/java_multi_threaded_concurrency___thread_pool_principle/)

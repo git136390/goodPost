@@ -1,0 +1,2 @@
+# WeChat applet development - left and right linkage of menu content & MD5 encryption
+[WeChat applet development - left and right linkage of menu content & MD5 encryption](https://aiwithcloud.com/2022/09/19/wechat_applet_development___left_and_right_linkage_of_menu_content__md5_encryption/)

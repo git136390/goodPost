@@ -1,0 +1,2 @@
+# Linux Kernel Mechanism Summary File System Registration and Mounting File System (47)
+[Linux Kernel Mechanism Summary File System Registration and Mounting File System (47)](https://aiwithcloud.com/2022/09/16/linux_kernel_mechanism_summary_file_system_registration_and_mounting_file_system_47/)

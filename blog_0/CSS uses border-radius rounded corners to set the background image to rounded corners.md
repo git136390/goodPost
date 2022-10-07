@@ -1,0 +1,2 @@
+# CSS uses border-radius rounded corners to set the background image to rounded corners
+[CSS uses border-radius rounded corners to set the background image to rounded corners](https://aiwithcloud.com/2022/09/14/css_uses_border_radius_rounded_corners_to_set_the_background_image_to_rounded_corners/)

@@ -1,0 +1,2 @@
+# 17 lines of code python add full screen watermark (transparency  font) to the picture
+[17 lines of code python add full screen watermark (transparency  font) to the picture](https://aiwithcloud.com/2022/09/19/17_lines_of_code_python_add_full_screen_watermark_transparency__font_to_the_picture/)

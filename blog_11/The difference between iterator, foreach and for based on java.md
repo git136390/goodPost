@@ -1,0 +1,2 @@
+# The difference between iterator, foreach and for based on java
+[The difference between iterator, foreach and for based on java](https://aiwithcloud.com/2022/09/19/the_difference_between_iterator_foreach_and_for_based_on_java/)

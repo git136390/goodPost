@@ -1,0 +1,2 @@
+# Android high imitation Jingdong Taobao product list layout switching effect
+[Android high imitation Jingdong Taobao product list layout switching effect](https://aiwithcloud.com/2022/09/15/android_high_imitation_jingdong_taobao_product_list_layout_switching_effect/)

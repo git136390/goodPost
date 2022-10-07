@@ -1,0 +1,2 @@
+# XShell charges 5 free and awesome SSH tools, one better than the other
+[XShell charges 5 free and awesome SSH tools, one better than the other](https://aiwithcloud.com/2022/09/19/xshell_charges_5_free_and_awesome_ssh_tools_one_better_than_the_other/)

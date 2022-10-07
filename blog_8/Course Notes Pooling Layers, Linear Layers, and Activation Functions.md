@@ -1,0 +1,2 @@
+# Course Notes Pooling Layers, Linear Layers, and Activation Functions
+[Course Notes Pooling Layers, Linear Layers, and Activation Functions](https://aiwithcloud.com/2022/09/19/course_notes_pooling_layers_linear_layers_and_activation_functions/)

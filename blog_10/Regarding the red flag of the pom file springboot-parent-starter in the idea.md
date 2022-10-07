@@ -1,0 +1,2 @@
+# Regarding the red flag of the pom file springboot-parent-starter in the idea
+[Regarding the red flag of the pom file springboot-parent-starter in the idea](https://aiwithcloud.com/2022/09/19/regarding_the_red_flag_of_the_pom_file_springboot_parent_starter_in_the_idea/)

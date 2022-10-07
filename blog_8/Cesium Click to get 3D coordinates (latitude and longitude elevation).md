@@ -1,0 +1,2 @@
+# Cesium Click to get 3D coordinates (latitude and longitude elevation)
+[Cesium Click to get 3D coordinates (latitude and longitude elevation)](https://aiwithcloud.com/2022/09/19/cesium_click_to_get_3d_coordinates_latitude_and_longitude_elevation/)

@@ -1,0 +1,2 @@
+# 2021 National Mathematical Modeling Competition Question C Question 1 Detailed ideas and codes
+[2021 National Mathematical Modeling Competition Question C Question 1 Detailed ideas and codes](https://aiwithcloud.com/2022/09/15/2021_national_mathematical_modeling_competition_question_c_question_1_detailed_ideas_and_codes/)

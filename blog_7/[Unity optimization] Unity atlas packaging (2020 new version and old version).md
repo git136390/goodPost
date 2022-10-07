@@ -1,0 +1,2 @@
+# [Unity optimization] Unity atlas packaging (2020 new version and old version)
+[[Unity optimization] Unity atlas packaging (2020 new version and old version)](https://aiwithcloud.com/2022/09/16/unity_optimization_unity_atlas_packaging_2020_new_version_and_old_version/)

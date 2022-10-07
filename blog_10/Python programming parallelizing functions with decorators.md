@@ -1,0 +1,2 @@
+# Python programming parallelizing functions with decorators
+[Python programming parallelizing functions with decorators](https://aiwithcloud.com/2022/09/19/python_programming_parallelizing_functions_with_decorators/)

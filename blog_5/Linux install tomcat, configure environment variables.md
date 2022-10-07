@@ -1,0 +1,2 @@
+# Linux install tomcat, configure environment variables
+[Linux install tomcat, configure environment variables](https://aiwithcloud.com/2022/09/16/linux_install_tomcat_configure_environment_variables/)

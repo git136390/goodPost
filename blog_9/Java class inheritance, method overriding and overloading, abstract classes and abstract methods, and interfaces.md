@@ -1,0 +1,2 @@
+# Java class inheritance, method overriding and overloading, abstract classes and abstract methods, and interfaces
+[Java class inheritance, method overriding and overloading, abstract classes and abstract methods, and interfaces](https://aiwithcloud.com/2022/09/19/java_class_inheritance_method_overriding_and_overloading_abstract_classes_and_abstract_methods_and_interfaces/)

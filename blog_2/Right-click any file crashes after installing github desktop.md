@@ -1,0 +1,2 @@
+# Right-click any file crashes after installing github desktop
+[Right-click any file crashes after installing github desktop](https://aiwithcloud.com/2022/09/15/right_click_any_file_crashes_after_installing_github_desktop/)

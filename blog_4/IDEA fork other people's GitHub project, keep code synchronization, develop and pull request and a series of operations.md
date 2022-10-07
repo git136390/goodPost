@@ -1,0 +1,2 @@
+# IDEA fork other people's GitHub project, keep code synchronization, develop and pull request and a series of operations
+[IDEA fork other people's GitHub project, keep code synchronization, develop and pull request and a series of operations](https://aiwithcloud.com/2022/09/15/idea_fork_other_peoples_github_project_keep_code_synchronization_develop_and_pull_request_and_a_series_of_operations/)

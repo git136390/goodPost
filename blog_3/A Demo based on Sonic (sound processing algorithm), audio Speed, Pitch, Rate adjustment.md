@@ -1,0 +1,2 @@
+# A Demo based on Sonic (sound processing algorithm), audio Speed, Pitch, Rate adjustment
+[A Demo based on Sonic (sound processing algorithm), audio Speed, Pitch, Rate adjustment](https://aiwithcloud.com/2022/09/15/a_demo_based_on_sonic_sound_processing_algorithm_audio_speed_pitch_rate_adjustment/)

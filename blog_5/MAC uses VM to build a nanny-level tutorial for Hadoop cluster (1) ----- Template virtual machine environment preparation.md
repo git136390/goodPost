@@ -1,0 +1,2 @@
+# MAC uses VM to build a nanny-level tutorial for Hadoop cluster (1) ----- Template virtual machine environment preparation
+[MAC uses VM to build a nanny-level tutorial for Hadoop cluster (1) ----- Template virtual machine environment preparation](https://aiwithcloud.com/2022/09/16/mac_uses_vm_to_build_a_nanny_level_tutorial_for_hadoop_cluster_1_______template_virtual_machine_environment_preparation/)

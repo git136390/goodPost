@@ -1,0 +1,2 @@
+# How to judge whether a host is big endian or little endian in C language
+[How to judge whether a host is big endian or little endian in C language](https://aiwithcloud.com/2022/09/15/how_to_judge_whether_a_host_is_big_endian_or_little_endian_in_c_language/)

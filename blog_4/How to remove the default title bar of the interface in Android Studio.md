@@ -1,0 +1,2 @@
+# How to remove the default title bar of the interface in Android Studio
+[How to remove the default title bar of the interface in Android Studio](https://aiwithcloud.com/2022/09/15/how_to_remove_the_default_title_bar_of_the_interface_in_android_studio/)

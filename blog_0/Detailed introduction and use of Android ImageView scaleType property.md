@@ -1,0 +1,2 @@
+# Detailed introduction and use of Android ImageView scaleType property
+[Detailed introduction and use of Android ImageView scaleType property](https://aiwithcloud.com/2022/09/14/detailed_introduction_and_use_of_android_imageview_scaletype_property/)

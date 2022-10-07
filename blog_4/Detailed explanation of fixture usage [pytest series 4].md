@@ -1,0 +1,2 @@
+# Detailed explanation of fixture usage [pytest series 4]
+[Detailed explanation of fixture usage [pytest series 4]](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_fixture_usage_pytest_series_4/)

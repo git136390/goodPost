@@ -1,0 +1,2 @@
+# [Necessary for beginners] C++ quick start classic detailed tutorial (zero-based beginners can also learn in minutes)
+[[Necessary for beginners] C++ quick start classic detailed tutorial (zero-based beginners can also learn in minutes)](https://aiwithcloud.com/2022/09/16/necessary_for_beginners_c_quick_start_classic_detailed_tutorial_zero_based_beginners_can_also_learn_in_minutes/)

@@ -1,0 +1,2 @@
+# Data analysis in practice  Pandas cross list to explore the reasons for the decline in the number of users
+[Data analysis in practice  Pandas cross list to explore the reasons for the decline in the number of users](https://aiwithcloud.com/2022/09/19/data_analysis_in_practice__pandas_cross_list_to_explore_the_reasons_for_the_decline_in_the_number_of_users/)

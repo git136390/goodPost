@@ -1,0 +1,2 @@
+# PyQt5 pycharm configuration (2) language home QtLinguist
+[PyQt5 pycharm configuration (2) language home QtLinguist](https://aiwithcloud.com/2022/09/16/pyqt5_pycharm_configuration_2_language_home_qtlinguist/)

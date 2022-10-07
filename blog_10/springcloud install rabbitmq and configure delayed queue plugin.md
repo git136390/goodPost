@@ -1,0 +1,2 @@
+# springcloud install rabbitmq and configure delayed queue plugin
+[springcloud install rabbitmq and configure delayed queue plugin](https://aiwithcloud.com/2022/09/19/springcloud_install_rabbitmq_and_configure_delayed_queue_plugin/)

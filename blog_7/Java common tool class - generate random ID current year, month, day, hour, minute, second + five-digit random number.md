@@ -1,0 +1,2 @@
+# Java common tool class - generate random ID current year, month, day, hour, minute, second + five-digit random number
+[Java common tool class - generate random ID current year, month, day, hour, minute, second + five-digit random number](https://aiwithcloud.com/2022/09/19/java_common_tool_class___generate_random_id_current_year_month_day_hour_minute_second__five_digit_random_number/)

@@ -1,0 +1,2 @@
+# JVM parameters, start jar package and start tomcat JVM parameter settings
+[JVM parameters, start jar package and start tomcat JVM parameter settings](https://aiwithcloud.com/2022/09/19/jvm_parameters_start_jar_package_and_start_tomcat_jvm_parameter_settings/)

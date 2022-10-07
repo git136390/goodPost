@@ -1,0 +1,2 @@
+# Oracle recursive query -start with connect by prior usage
+[Oracle recursive query -start with connect by prior usage](https://aiwithcloud.com/2022/09/19/oracle_recursive_query__start_with_connect_by_prior_usage/)

@@ -1,0 +1,2 @@
+# VMware16 installation and VMware configuration Linux virtual machine (detailed version)
+[VMware16 installation and VMware configuration Linux virtual machine (detailed version)](https://aiwithcloud.com/2022/09/16/vmware16_installation_and_vmware_configuration_linux_virtual_machine_detailed_version/)

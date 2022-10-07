@@ -1,0 +1,2 @@
+# Detailed explanation of Java programming configuration ideas
+[Detailed explanation of Java programming configuration ideas](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_java_programming_configuration_ideas/)

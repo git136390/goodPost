@@ -1,0 +1,2 @@
+# Python Computer Vision (16) - Face Recognition in Images and Videos
+[Python Computer Vision (16) - Face Recognition in Images and Videos](https://aiwithcloud.com/2022/09/19/python_computer_vision_16___face_recognition_in_images_and_videos/)

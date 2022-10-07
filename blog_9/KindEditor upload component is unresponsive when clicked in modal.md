@@ -1,0 +1,2 @@
+# KindEditor upload component is unresponsive when clicked in modal
+[KindEditor upload component is unresponsive when clicked in modal](https://aiwithcloud.com/2022/09/19/kindeditor_upload_component_is_unresponsive_when_clicked_in_modal/)

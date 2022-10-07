@@ -1,0 +1,2 @@
+# It's over, the pictures on the second brother's website are hung up
+[It's over, the pictures on the second brother's website are hung up](https://aiwithcloud.com/2022/09/15/its_over_the_pictures_on_the_second_brothers_website_are_hung_up/)

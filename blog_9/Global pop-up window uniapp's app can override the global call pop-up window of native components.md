@@ -1,0 +1,2 @@
+# Global pop-up window uniapp's app can override the global call pop-up window of native components
+[Global pop-up window uniapp's app can override the global call pop-up window of native components](https://aiwithcloud.com/2022/09/19/global_pop_up_window_uniapps_app_can_override_the_global_call_pop_up_window_of_native_components/)

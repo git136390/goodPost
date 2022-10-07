@@ -1,0 +1,2 @@
+# Pygame combat use Python to implement intelligent backgammon, and after implementing it, I found that I could not win it.
+[Pygame combat use Python to implement intelligent backgammon, and after implementing it, I found that I could not win it.](https://aiwithcloud.com/2022/09/19/pygame_combat_use_python_to_implement_intelligent_backgammon_and_after_implementing_it_i_found_that_i_could_not_win_it/)

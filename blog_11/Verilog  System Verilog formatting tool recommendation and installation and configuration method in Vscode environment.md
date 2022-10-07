@@ -1,0 +1,2 @@
+# Verilog  System Verilog formatting tool recommendation and installation and configuration method in Vscode environment
+[Verilog  System Verilog formatting tool recommendation and installation and configuration method in Vscode environment](https://aiwithcloud.com/2022/09/19/verilog__system_verilog_formatting_tool_recommendation_and_installation_and_configuration_method_in_vscode_environment/)

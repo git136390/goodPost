@@ -1,0 +1,2 @@
+# iOS automation notes (1) WebDriverAgent installation and use
+[iOS automation notes (1) WebDriverAgent installation and use](https://aiwithcloud.com/2022/09/15/ios_automation_notes_1_webdriveragent_installation_and_use/)

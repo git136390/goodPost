@@ -1,0 +1,2 @@
+# [Database] MySQL entry to abandonment (3) --- MySQL data management
+[[Database] MySQL entry to abandonment (3) --- MySQL data management](https://aiwithcloud.com/2022/09/16/database_mysql_entry_to_abandonment_3_____mysql_data_management/)

@@ -1,0 +1,2 @@
+# [pyecharts1.8 version prompt PendingDeprecationWarning pyecharts all chart types will be forced to use ChartItem for data item configuration in v1.9.0 version]
+[[pyecharts1.8 version prompt PendingDeprecationWarning pyecharts all chart types will be forced to use ChartItem for data item configuration in v1.9.0 version]](https://aiwithcloud.com/2022/09/16/pyecharts1-8_version_prompt_pendingdeprecationwarning_pyecharts_all_chart_types_will_be_forced_to_use_chartitem_for_data_item_configuration_in_v1-9-0_version/)

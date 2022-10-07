@@ -1,0 +1,2 @@
+# Communication protocol-FlatBuffer-Lua object serialization and deserialization
+[Communication protocol-FlatBuffer-Lua object serialization and deserialization](https://aiwithcloud.com/2022/09/15/communication_protocol_flatbuffer_lua_object_serialization_and_deserialization/)

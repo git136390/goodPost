@@ -1,0 +1,2 @@
+# python 3d drawing Python to make cool personal 3D dynamic footprint map
+[python 3d drawing Python to make cool personal 3D dynamic footprint map](https://aiwithcloud.com/2022/09/16/python_3d_drawing_python_to_make_cool_personal_3d_dynamic_footprint_map/)

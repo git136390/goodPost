@@ -1,0 +1,2 @@
+# The fifth day of Java learning (JavaSE Foundation 01 Java Introduction)
+[The fifth day of Java learning (JavaSE Foundation 01 Java Introduction)](https://aiwithcloud.com/2022/09/16/the_fifth_day_of_java_learning_javase_foundation_01_java_introduction/)

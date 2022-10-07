@@ -1,0 +1,2 @@
+# Java project Forum management system based on springboot+vue - computer graduation project
+[Java project Forum management system based on springboot+vue - computer graduation project](https://aiwithcloud.com/2022/09/16/java_project_forum_management_system_based_on_springbootvue___computer_graduation_project/)

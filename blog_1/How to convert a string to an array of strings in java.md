@@ -1,0 +1,2 @@
+# How to convert a string to an array of strings in java
+[How to convert a string to an array of strings in java](https://aiwithcloud.com/2022/09/15/how_to_convert_a_string_to_an_array_of_strings_in_java/)

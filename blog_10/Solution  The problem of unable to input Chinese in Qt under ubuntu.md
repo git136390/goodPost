@@ -1,0 +1,2 @@
+# Solution  The problem of unable to input Chinese in Qt under ubuntu
+[Solution  The problem of unable to input Chinese in Qt under ubuntu](https://aiwithcloud.com/2022/09/19/solution__the_problem_of_unable_to_input_chinese_in_qt_under_ubuntu/)

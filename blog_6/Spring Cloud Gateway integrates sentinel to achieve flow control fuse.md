@@ -1,0 +1,2 @@
+# Spring Cloud Gateway integrates sentinel to achieve flow control fuse
+[Spring Cloud Gateway integrates sentinel to achieve flow control fuse](https://aiwithcloud.com/2022/09/16/spring_cloud_gateway_integrates_sentinel_to_achieve_flow_control_fuse/)

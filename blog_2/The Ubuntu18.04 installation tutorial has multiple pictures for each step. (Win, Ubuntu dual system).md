@@ -1,0 +1,2 @@
+# The Ubuntu18.04 installation tutorial has multiple pictures for each step. (Win, Ubuntu dual system)
+[The Ubuntu18.04 installation tutorial has multiple pictures for each step. (Win, Ubuntu dual system)](https://aiwithcloud.com/2022/09/15/the_ubuntu18-04_installation_tutorial_has_multiple_pictures_for_each_step-_win_ubuntu_dual_system/)

@@ -1,0 +1,2 @@
+# Introduction to Algorithms (seven, data structures, singly linked lists and double linked lists, python)
+[Introduction to Algorithms (seven, data structures, singly linked lists and double linked lists, python)](https://aiwithcloud.com/2022/09/15/introduction_to_algorithms_seven_data_structures_singly_linked_lists_and_double_linked_lists_python/)

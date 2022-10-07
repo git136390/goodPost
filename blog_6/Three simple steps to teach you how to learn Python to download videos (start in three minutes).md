@@ -1,0 +1,2 @@
+# Three simple steps to teach you how to learn Python to download videos (start in three minutes)
+[Three simple steps to teach you how to learn Python to download videos (start in three minutes)](https://aiwithcloud.com/2022/09/16/three_simple_steps_to_teach_you_how_to_learn_python_to_download_videos_start_in_three_minutes/)

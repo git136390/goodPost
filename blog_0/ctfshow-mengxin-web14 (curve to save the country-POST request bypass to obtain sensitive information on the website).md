@@ -1,0 +1,2 @@
+# ctfshow-mengxin-web14 (curve to save the country-POST request bypass to obtain sensitive information on the website)
+[ctfshow-mengxin-web14 (curve to save the country-POST request bypass to obtain sensitive information on the website)](https://aiwithcloud.com/2022/09/14/ctfshow_mengxin_web14_curve_to_save_the_country_post_request_bypass_to_obtain_sensitive_information_on_the_website/)

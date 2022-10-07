@@ -1,0 +1,2 @@
+# Binary tree algorithm problem based on recursive template (kingdom algorithm problem)
+[Binary tree algorithm problem based on recursive template (kingdom algorithm problem)](https://aiwithcloud.com/2022/09/15/binary_tree_algorithm_problem_based_on_recursive_template_kingdom_algorithm_problem/)

@@ -1,0 +1,2 @@
+# pytorch implements MNIST (handwritten digit set classification) optimizer SGD RMSprop
+[pytorch implements MNIST (handwritten digit set classification) optimizer SGD RMSprop](https://aiwithcloud.com/2022/09/16/pytorch_implements_mnist_handwritten_digit_set_classification_optimizer_sgd_rmsprop/)

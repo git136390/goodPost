@@ -1,0 +1,2 @@
+# P3613 [Shenji 15. Example 2] Solution to the problem of sending a package
+[P3613 [Shenji 15. Example 2] Solution to the problem of sending a package](https://aiwithcloud.com/2022/09/16/p3613_shenji_15-_example_2_solution_to_the_problem_of_sending_a_package/)

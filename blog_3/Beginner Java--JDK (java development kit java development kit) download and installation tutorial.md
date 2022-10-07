@@ -1,0 +1,2 @@
+# Beginner Java--JDK (java development kit java development kit) download and installation tutorial
+[Beginner Java--JDK (java development kit java development kit) download and installation tutorial](https://aiwithcloud.com/2022/09/15/beginner_java__jdk_java_development_kit_java_development_kit_download_and_installation_tutorial/)

@@ -1,0 +1,2 @@
+# Data structure KMP algorithm detailed explanation (super detailed)
+[Data structure KMP algorithm detailed explanation (super detailed)](https://aiwithcloud.com/2022/09/15/data_structure_kmp_algorithm_detailed_explanation_super_detailed/)

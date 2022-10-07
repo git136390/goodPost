@@ -1,0 +1,2 @@
+# Springboot yml configuration parameter data encryption (data encryption part 1)
+[Springboot yml configuration parameter data encryption (data encryption part 1)](https://aiwithcloud.com/2022/09/15/springboot_yml_configuration_parameter_data_encryption_data_encryption_part_1/)

@@ -1,0 +1,2 @@
+# Invalid services in uni.startstartBluetoothDevicesDiscovery in uni-app
+[Invalid services in uni.startstartBluetoothDevicesDiscovery in uni-app](https://aiwithcloud.com/2022/09/19/invalid_services_in_uni-startstartbluetoothdevicesdiscovery_in_uni_app/)

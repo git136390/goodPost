@@ -1,0 +1,2 @@
+# Design of smart home based on 51 single chip microcomputer (1)
+[Design of smart home based on 51 single chip microcomputer (1)](https://aiwithcloud.com/2022/09/14/design_of_smart_home_based_on_51_single_chip_microcomputer_1/)

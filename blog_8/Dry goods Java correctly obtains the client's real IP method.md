@@ -1,0 +1,2 @@
+# Dry goods Java correctly obtains the client's real IP method
+[Dry goods Java correctly obtains the client's real IP method](https://aiwithcloud.com/2022/09/19/dry_goods_java_correctly_obtains_the_clients_real_ip_method/)

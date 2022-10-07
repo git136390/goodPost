@@ -1,0 +1,2 @@
+# Error in git use pathspec 'XXX' did not match any file(s) known to git error solution
+[Error in git use pathspec 'XXX' did not match any file(s) known to git error solution](https://aiwithcloud.com/2022/09/15/error_in_git_use_pathspec_xxx_did_not_match_any_files_known_to_git_error_solution/)

@@ -1,0 +1,2 @@
+# Qt resize setting window size is invalid; how to set can be zoomed in and out after setFixedSize
+[Qt resize setting window size is invalid; how to set can be zoomed in and out after setFixedSize](https://aiwithcloud.com/2022/09/19/qt_resize_setting_window_size_is_invalid_how_to_set_can_be_zoomed_in_and_out_after_setfixedsize/)

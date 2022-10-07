@@ -1,0 +1,2 @@
+# opencv imshow displays multiple windows at the same time to view pictures
+[opencv imshow displays multiple windows at the same time to view pictures](https://aiwithcloud.com/2022/09/19/opencv_imshow_displays_multiple_windows_at_the_same_time_to_view_pictures/)

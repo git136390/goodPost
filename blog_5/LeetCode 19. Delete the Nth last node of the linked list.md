@@ -1,0 +1,2 @@
+# LeetCode 19. Delete the Nth last node of the linked list
+[LeetCode 19. Delete the Nth last node of the linked list](https://aiwithcloud.com/2022/09/16/leetcode_19-_delete_the_nth_last_node_of_the_linked_list/)

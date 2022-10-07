@@ -1,0 +1,2 @@
+# tomcat console does not print information interrupt need to press enter to continue
+[tomcat console does not print information interrupt need to press enter to continue](https://aiwithcloud.com/2022/09/19/tomcat_console_does_not_print_information_interrupt_need_to_press_enter_to_continue/)

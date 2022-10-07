@@ -1,0 +1,2 @@
+# The authorization validity period of the latest SDK of IOS Weibo is extended, that is, the use of refresh token
+[The authorization validity period of the latest SDK of IOS Weibo is extended, that is, the use of refresh token](https://aiwithcloud.com/2022/09/16/the_authorization_validity_period_of_the_latest_sdk_of_ios_weibo_is_extended_that_is_the_use_of_refresh_token/)

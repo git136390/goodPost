@@ -1,0 +1,2 @@
+# The element sidebar is fixed, the header is fixed, and the main body can be scrolled
+[The element sidebar is fixed, the header is fixed, and the main body can be scrolled](https://aiwithcloud.com/2022/09/16/the_element_sidebar_is_fixed_the_header_is_fixed_and_the_main_body_can_be_scrolled/)

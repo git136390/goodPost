@@ -1,0 +1,2 @@
+# Difference Between Pointer Array and Array Pointer in C Language
+[Difference Between Pointer Array and Array Pointer in C Language](https://aiwithcloud.com/2022/09/15/difference_between_pointer_array_and_array_pointer_in_c_language/)

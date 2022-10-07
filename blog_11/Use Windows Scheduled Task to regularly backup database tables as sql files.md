@@ -1,0 +1,2 @@
+# Use Windows Scheduled Task to regularly backup database tables as sql files
+[Use Windows Scheduled Task to regularly backup database tables as sql files](https://aiwithcloud.com/2022/09/19/use_windows_scheduled_task_to_regularly_backup_database_tables_as_sql_files/)

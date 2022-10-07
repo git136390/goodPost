@@ -1,0 +1,2 @@
+# Graduate students do not know how to read thesis Hurry up and code up the experience of the senior
+[Graduate students do not know how to read thesis Hurry up and code up the experience of the senior](https://aiwithcloud.com/2022/09/15/graduate_students_do_not_know_how_to_read_thesis_hurry_up_and_code_up_the_experience_of_the_senior/)

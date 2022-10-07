@@ -1,0 +1,2 @@
+# The problem that the cron timed task script calls another script and does not execute
+[The problem that the cron timed task script calls another script and does not execute](https://aiwithcloud.com/2022/09/16/the_problem_that_the_cron_timed_task_script_calls_another_script_and_does_not_execute/)

@@ -1,0 +1,2 @@
+# Java implements every seven passes (for loop use, operator use)
+[Java implements every seven passes (for loop use, operator use)](https://aiwithcloud.com/2022/09/16/java_implements_every_seven_passes_for_loop_use_operator_use/)

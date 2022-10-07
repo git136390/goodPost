@@ -1,0 +1,2 @@
+# Use Python+PIL to batch convert jpg images in a directory into pdf files
+[Use Python+PIL to batch convert jpg images in a directory into pdf files](https://aiwithcloud.com/2022/09/15/use_pythonpil_to_batch_convert_jpg_images_in_a_directory_into_pdf_files/)

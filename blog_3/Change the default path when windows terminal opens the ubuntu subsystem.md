@@ -1,0 +1,2 @@
+# Change the default path when windows terminal opens the ubuntu subsystem
+[Change the default path when windows terminal opens the ubuntu subsystem](https://aiwithcloud.com/2022/09/15/change_the_default_path_when_windows_terminal_opens_the_ubuntu_subsystem/)

@@ -1,0 +1,2 @@
+# Node.js install the latest version with detailed steps 2021.05.23
+[Node.js install the latest version with detailed steps 2021.05.23](https://aiwithcloud.com/2022/09/19/node-js_install_the_latest_version_with_detailed_steps_2021-05-23/)

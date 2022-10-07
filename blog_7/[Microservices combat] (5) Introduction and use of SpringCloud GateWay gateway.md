@@ -1,0 +1,2 @@
+# [Microservices combat] (5) Introduction and use of SpringCloud GateWay gateway
+[[Microservices combat] (5) Introduction and use of SpringCloud GateWay gateway](https://aiwithcloud.com/2022/09/16/microservices_combat_5_introduction_and_use_of_springcloud_gateway_gateway/)

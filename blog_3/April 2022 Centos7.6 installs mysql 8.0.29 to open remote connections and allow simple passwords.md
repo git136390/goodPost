@@ -1,0 +1,2 @@
+# April 2022 Centos7.6 installs mysql 8.0.29 to open remote connections and allow simple passwords
+[April 2022 Centos7.6 installs mysql 8.0.29 to open remote connections and allow simple passwords](https://aiwithcloud.com/2022/09/15/april_2022_centos7-6_installs_mysql_8-0-29_to_open_remote_connections_and_allow_simple_passwords/)

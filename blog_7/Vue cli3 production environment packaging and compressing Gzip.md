@@ -1,0 +1,2 @@
+# Vue cli3 production environment packaging and compressing Gzip
+[Vue cli3 production environment packaging and compressing Gzip](https://aiwithcloud.com/2022/09/16/vue_cli3_production_environment_packaging_and_compressing_gzip/)

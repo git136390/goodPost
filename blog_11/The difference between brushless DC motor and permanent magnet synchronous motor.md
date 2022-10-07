@@ -1,0 +1,2 @@
+# The difference between brushless DC motor and permanent magnet synchronous motor
+[The difference between brushless DC motor and permanent magnet synchronous motor](https://aiwithcloud.com/2022/09/19/the_difference_between_brushless_dc_motor_and_permanent_magnet_synchronous_motor/)

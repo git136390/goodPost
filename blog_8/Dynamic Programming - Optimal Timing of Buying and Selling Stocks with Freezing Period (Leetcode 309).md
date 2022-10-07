@@ -1,0 +1,2 @@
+# Dynamic Programming - Optimal Timing of Buying and Selling Stocks with Freezing Period (Leetcode 309)
+[Dynamic Programming - Optimal Timing of Buying and Selling Stocks with Freezing Period (Leetcode 309)](https://aiwithcloud.com/2022/09/19/dynamic_programming___optimal_timing_of_buying_and_selling_stocks_with_freezing_period_leetcode_309/)

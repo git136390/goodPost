@@ -1,0 +1,2 @@
+# 图像修补Rapid Frequency Selective Reconstruction (FSR)算法（局部相关性）
+[图像修补Rapid Frequency Selective Reconstruction (FSR)算法（局部相关性）](https://aiwithcloud.com/2021/12/29/%e5%9b%be%e5%83%8f%e4%bf%ae%e8%a1%a5rapid-frequency-selective-reconstruction-fsr%e7%ae%97%e6%b3%95%ef%bc%88%e5%b1%80%e9%83%a8%e7%9b%b8%e5%85%b3%e6%80%a7%ef%bc%89/)

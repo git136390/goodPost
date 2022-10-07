@@ -1,0 +1,2 @@
+# Teach you to use c language to complete the problem of finding a single dog
+[Teach you to use c language to complete the problem of finding a single dog](https://aiwithcloud.com/2022/09/15/teach_you_to_use_c_language_to_complete_the_problem_of_finding_a_single_dog/)

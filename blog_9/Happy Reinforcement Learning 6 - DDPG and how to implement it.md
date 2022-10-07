@@ -1,0 +1,2 @@
+# Happy Reinforcement Learning 6 - DDPG and how to implement it
+[Happy Reinforcement Learning 6 - DDPG and how to implement it](https://aiwithcloud.com/2022/09/19/happy_reinforcement_learning_6___ddpg_and_how_to_implement_it/)

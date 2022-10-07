@@ -1,0 +1,2 @@
+# Generation of Hibernate annotation-based SessionFactory class and automatic generation of table SchemaExport class
+[Generation of Hibernate annotation-based SessionFactory class and automatic generation of table SchemaExport class](https://aiwithcloud.com/2022/09/15/generation_of_hibernate_annotation_based_sessionfactory_class_and_automatic_generation_of_table_schemaexport_class/)

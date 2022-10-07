@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (18) - Nova service startup and service creation
+[Detailed explanation of openstack (18) - Nova service startup and service creation](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_openstack_18___nova_service_startup_and_service_creation/)

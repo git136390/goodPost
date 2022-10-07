@@ -1,0 +1,2 @@
+# Function signal generator for single-chip microcomputer, output 4 kinds of waveforms, frequency adjustable, schematic diagram, simulation and C program
+[Function signal generator for single-chip microcomputer, output 4 kinds of waveforms, frequency adjustable, schematic diagram, simulation and C program](https://aiwithcloud.com/2022/09/15/function_signal_generator_for_single_chip_microcomputer_output_4_kinds_of_waveforms_frequency_adjustable_schematic_diagram_simulation_and_c_program/)

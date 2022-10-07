@@ -1,0 +1,2 @@
+# Multiplying two numbers to get a perfect square [NIO DC algorithm] [decomposition prime factors]
+[Multiplying two numbers to get a perfect square [NIO DC algorithm] [decomposition prime factors]](https://aiwithcloud.com/2022/09/15/multiplying_two_numbers_to_get_a_perfect_square_nio_dc_algorithm_decomposition_prime_factors/)

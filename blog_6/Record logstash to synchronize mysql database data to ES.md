@@ -1,0 +1,2 @@
+# Record logstash to synchronize mysql database data to ES
+[Record logstash to synchronize mysql database data to ES](https://aiwithcloud.com/2022/09/16/record_logstash_to_synchronize_mysql_database_data_to_es/)

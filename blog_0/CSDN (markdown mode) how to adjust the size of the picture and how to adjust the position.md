@@ -1,0 +1,2 @@
+# CSDN (markdown mode) how to adjust the size of the picture and how to adjust the position
+[CSDN (markdown mode) how to adjust the size of the picture and how to adjust the position](https://aiwithcloud.com/2022/09/14/csdn_markdown_mode_how_to_adjust_the_size_of_the_picture_and_how_to_adjust_the_position/)

@@ -1,0 +1,2 @@
+# Syntax knowledge of TCL in MySQL learning 1 (meaning and creation of transactions and storage engine)
+[Syntax knowledge of TCL in MySQL learning 1 (meaning and creation of transactions and storage engine)](https://aiwithcloud.com/2022/09/15/syntax_knowledge_of_tcl_in_mysql_learning_1_meaning_and_creation_of_transactions_and_storage_engine/)

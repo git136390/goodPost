@@ -1,0 +1,2 @@
+# jQuery disable form submit button to prevent users from requesting repeated submissions
+[jQuery disable form submit button to prevent users from requesting repeated submissions](https://aiwithcloud.com/2022/09/15/jquery_disable_form_submit_button_to_prevent_users_from_requesting_repeated_submissions/)

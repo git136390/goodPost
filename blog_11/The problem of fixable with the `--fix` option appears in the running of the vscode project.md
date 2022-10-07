@@ -1,0 +1,2 @@
+# The problem of fixable with the `--fix` option appears in the running of the vscode project
+[The problem of fixable with the `--fix` option appears in the running of the vscode project](https://aiwithcloud.com/2022/09/19/the_problem_of_fixable_with_the___fix_option_appears_in_the_running_of_the_vscode_project/)

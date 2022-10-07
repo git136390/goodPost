@@ -1,0 +1,2 @@
+# VSCode automatically generates Doxygen format comments
+[VSCode automatically generates Doxygen format comments](https://aiwithcloud.com/2022/09/15/vscode_automatically_generates_doxygen_format_comments/)

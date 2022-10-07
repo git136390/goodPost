@@ -1,0 +1,2 @@
+# Two lines of Python code to achieve video negative effects
+[Two lines of Python code to achieve video negative effects](https://aiwithcloud.com/2022/09/15/two_lines_of_python_code_to_achieve_video_negative_effects/)

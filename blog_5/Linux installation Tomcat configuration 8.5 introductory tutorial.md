@@ -1,0 +1,2 @@
+# Linux installation Tomcat configuration 8.5 introductory tutorial
+[Linux installation Tomcat configuration 8.5 introductory tutorial](https://aiwithcloud.com/2022/09/16/linux_installation_tomcat_configuration_8-5_introductory_tutorial/)

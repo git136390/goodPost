@@ -1,0 +1,2 @@
+# read csv reports an error Initializing from file failed, pandas.read csv cannot read Chinese content and reports an error 'utf-8' codec can't decode byte
+[read csv reports an error Initializing from file failed, pandas.read csv cannot read Chinese content and reports an error 'utf-8' codec can't decode byte](https://aiwithcloud.com/2022/09/16/read_csv_reports_an_error_initializing_from_file_failed_pandas-read_csv_cannot_read_chinese_content_and_reports_an_error_utf_8_codec_cant_decode_byte/)

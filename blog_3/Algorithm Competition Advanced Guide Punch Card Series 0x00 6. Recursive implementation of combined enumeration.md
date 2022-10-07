@@ -1,0 +1,2 @@
+# Algorithm Competition Advanced Guide Punch Card Series 0x00 6. Recursive implementation of combined enumeration
+[Algorithm Competition Advanced Guide Punch Card Series 0x00 6. Recursive implementation of combined enumeration](https://aiwithcloud.com/2022/09/15/algorithm_competition_advanced_guide_punch_card_series_0x00_6-_recursive_implementation_of_combined_enumeration/)

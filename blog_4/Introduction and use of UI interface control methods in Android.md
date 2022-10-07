@@ -1,0 +1,2 @@
+# Introduction and use of UI interface control methods in Android
+[Introduction and use of UI interface control methods in Android](https://aiwithcloud.com/2022/09/15/introduction_and_use_of_ui_interface_control_methods_in_android/)

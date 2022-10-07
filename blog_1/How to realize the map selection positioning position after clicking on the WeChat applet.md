@@ -1,0 +1,2 @@
+# How to realize the map selection positioning position after clicking on the WeChat applet
+[How to realize the map selection positioning position after clicking on the WeChat applet](https://aiwithcloud.com/2022/09/15/how_to_realize_the_map_selection_positioning_position_after_clicking_on_the_wechat_applet/)

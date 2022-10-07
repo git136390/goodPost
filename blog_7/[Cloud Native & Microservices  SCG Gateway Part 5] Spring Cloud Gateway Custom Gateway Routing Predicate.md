@@ -1,0 +1,2 @@
+# [Cloud Native & Microservices  SCG Gateway Part 5] Spring Cloud Gateway Custom Gateway Routing Predicate
+[[Cloud Native & Microservices  SCG Gateway Part 5] Spring Cloud Gateway Custom Gateway Routing Predicate](https://aiwithcloud.com/2022/09/16/cloud_native__microservices__scg_gateway_part_5_spring_cloud_gateway_custom_gateway_routing_predicate/)

@@ -1,0 +1,2 @@
+# Introduction to Python Series - 19. Introduction to Set
+[Introduction to Python Series - 19. Introduction to Set](https://aiwithcloud.com/2022/09/15/introduction_to_python_series___19-_introduction_to_set/)

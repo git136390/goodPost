@@ -1,0 +1,2 @@
+# Ubuntu mounts an image file to copy data or backup the system
+[Ubuntu mounts an image file to copy data or backup the system](https://aiwithcloud.com/2022/09/16/ubuntu_mounts_an_image_file_to_copy_data_or_backup_the_system/)

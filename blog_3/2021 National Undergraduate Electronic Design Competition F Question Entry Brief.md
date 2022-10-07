@@ -1,0 +1,2 @@
+# 2021 National Undergraduate Electronic Design Competition F Question Entry Brief
+[2021 National Undergraduate Electronic Design Competition F Question Entry Brief](https://aiwithcloud.com/2022/09/15/2021_national_undergraduate_electronic_design_competition_f_question_entry_brief/)

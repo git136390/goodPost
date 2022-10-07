@@ -1,0 +1,2 @@
+# linux allows ssh login to root user ubuntu allows ssh login to root user
+[linux allows ssh login to root user ubuntu allows ssh login to root user](https://aiwithcloud.com/2022/09/15/linux_allows_ssh_login_to_root_user_ubuntu_allows_ssh_login_to_root_user/)

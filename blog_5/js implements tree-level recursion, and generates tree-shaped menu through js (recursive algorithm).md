@@ -1,0 +1,2 @@
+# js implements tree-level recursion, and generates tree-shaped menu through js (recursive algorithm)
+[js implements tree-level recursion, and generates tree-shaped menu through js (recursive algorithm)](https://aiwithcloud.com/2022/09/16/js_implements_tree_level_recursion_and_generates_tree_shaped_menu_through_js_recursive_algorithm/)

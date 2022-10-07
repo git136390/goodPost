@@ -1,0 +1,2 @@
+# @RequestMapping and post submission garbled problems and selection of Controller's return value
+[@RequestMapping and post submission garbled problems and selection of Controller's return value](https://aiwithcloud.com/2022/09/15/requestmapping_and_post_submission_garbled_problems_and_selection_of_controllers_return_value/)

@@ -1,0 +1,2 @@
+# Small program payment function implementation process
+[Small program payment function implementation process](https://aiwithcloud.com/2022/09/19/small_program_payment_function_implementation_process/)

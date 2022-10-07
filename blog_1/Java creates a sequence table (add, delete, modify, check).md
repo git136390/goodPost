@@ -1,0 +1,2 @@
+# Java creates a sequence table (add, delete, modify, check)
+[Java creates a sequence table (add, delete, modify, check)](https://aiwithcloud.com/2022/09/15/java_creates_a_sequence_table_add_delete_modify_check/)

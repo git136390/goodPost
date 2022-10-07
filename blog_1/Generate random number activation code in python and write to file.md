@@ -1,0 +1,2 @@
+# Generate random number activation code in python and write to file
+[Generate random number activation code in python and write to file](https://aiwithcloud.com/2022/09/15/generate_random_number_activation_code_in_python_and_write_to_file/)

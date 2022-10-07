@@ -1,0 +1,2 @@
+# Docker Advanced -- Publishing images to DockerHub and Alibaba Cloud Containers
+[Docker Advanced -- Publishing images to DockerHub and Alibaba Cloud Containers](https://aiwithcloud.com/2022/09/15/docker_advanced____publishing_images_to_dockerhub_and_alibaba_cloud_containers/)

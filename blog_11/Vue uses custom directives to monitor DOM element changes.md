@@ -1,0 +1,2 @@
+# Vue uses custom directives to monitor DOM element changes
+[Vue uses custom directives to monitor DOM element changes](https://aiwithcloud.com/2022/09/19/vue_uses_custom_directives_to_monitor_dom_element_changes/)

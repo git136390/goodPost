@@ -1,0 +1,2 @@
+# [He Zhiyuan - 21 projects to play deep learning] - Chapter4-4.2.1 Deep Dream model practice in Tensorflow (1)
+[[He Zhiyuan - 21 projects to play deep learning] - Chapter4-4.2.1 Deep Dream model practice in Tensorflow (1)](https://aiwithcloud.com/2022/09/19/he_zhiyuan___21_projects_to_play_deep_learning___chapter4_4-2-1_deep_dream_model_practice_in_tensorflow_1/)

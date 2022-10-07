@@ -1,0 +1,2 @@
+# [Deep Learning Experiment] Implementing Attention Mechanism through Keras
+[[Deep Learning Experiment] Implementing Attention Mechanism through Keras](https://aiwithcloud.com/2022/09/19/deep_learning_experiment_implementing_attention_mechanism_through_keras/)

@@ -1,0 +1,2 @@
+# Problem with PaddlePaddle ValueError var img not in this block
+[Problem with PaddlePaddle ValueError var img not in this block](https://aiwithcloud.com/2022/09/16/problem_with_paddlepaddle_valueerror_var_img_not_in_this_block/)

@@ -1,0 +1,2 @@
+# docker私有仓库:server gave HTTP response to HTTPS client
+[docker私有仓库:server gave HTTP response to HTTPS client](https://aiwithcloud.com/2021/05/12/docker%e7%a7%81%e6%9c%89%e4%bb%93%e5%ba%93server-gave-http-response-to-https-client/)

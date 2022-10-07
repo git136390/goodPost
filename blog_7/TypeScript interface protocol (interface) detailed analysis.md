@@ -1,0 +1,2 @@
+# TypeScript interface protocol (interface) detailed analysis
+[TypeScript interface protocol (interface) detailed analysis](https://aiwithcloud.com/2022/09/16/typescript_interface_protocol_interface_detailed_analysis/)

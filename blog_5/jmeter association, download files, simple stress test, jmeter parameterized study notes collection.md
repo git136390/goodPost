@@ -1,0 +1,2 @@
+# jmeter association, download files, simple stress test, jmeter parameterized study notes collection
+[jmeter association, download files, simple stress test, jmeter parameterized study notes collection](https://aiwithcloud.com/2022/09/16/jmeter_association_download_files_simple_stress_test_jmeter_parameterized_study_notes_collection/)

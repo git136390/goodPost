@@ -1,0 +1,2 @@
+# [Python combat basics] How does Pandas accurately set the value of the cell of the table data
+[[Python combat basics] How does Pandas accurately set the value of the cell of the table data](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_does_pandas_accurately_set_the_value_of_the_cell_of_the_table_data/)

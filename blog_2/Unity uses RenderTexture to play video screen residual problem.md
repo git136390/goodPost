@@ -1,0 +1,2 @@
+# Unity uses RenderTexture to play video screen residual problem
+[Unity uses RenderTexture to play video screen residual problem](https://aiwithcloud.com/2022/09/15/unity_uses_rendertexture_to_play_video_screen_residual_problem/)

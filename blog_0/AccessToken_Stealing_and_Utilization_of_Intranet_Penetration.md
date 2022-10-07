@@ -1,0 +1,2 @@
+# AccessToken_Stealing_and_Utilization_of_Intranet_Penetration
+[AccessToken_Stealing_and_Utilization_of_Intranet_Penetration](https://aiwithcloud.com/2022/09/14/accesstoken_stealing_and_utilization_of_intranet_penetration/)

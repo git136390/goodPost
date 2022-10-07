@@ -1,0 +1,2 @@
+# Java study notes  01 variables, constants, data types, naming conventions
+[Java study notes  01 variables, constants, data types, naming conventions](https://aiwithcloud.com/2022/09/19/java_study_notes__01_variables_constants_data_types_naming_conventions/)

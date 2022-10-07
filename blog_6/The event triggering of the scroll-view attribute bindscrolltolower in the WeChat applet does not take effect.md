@@ -1,0 +1,2 @@
+# The event triggering of the scroll-view attribute bindscrolltolower in the WeChat applet does not take effect
+[The event triggering of the scroll-view attribute bindscrolltolower in the WeChat applet does not take effect](https://aiwithcloud.com/2022/09/16/the_event_triggering_of_the_scroll_view_attribute_bindscrolltolower_in_the_wechat_applet_does_not_take_effect/)

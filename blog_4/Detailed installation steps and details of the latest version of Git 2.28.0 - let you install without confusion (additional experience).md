@@ -1,0 +1,2 @@
+# Detailed installation steps and details of the latest version of Git 2.28.0 - let you install without confusion (additional experience)
+[Detailed installation steps and details of the latest version of Git 2.28.0 - let you install without confusion (additional experience)](https://aiwithcloud.com/2022/09/15/detailed_installation_steps_and_details_of_the_latest_version_of_git_2-28-0___let_you_install_without_confusion_additional_experience/)

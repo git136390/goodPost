@@ -1,0 +1,2 @@
+# Smart target detection 55 - Keras builds YoloV5 target detection platform
+[Smart target detection 55 - Keras builds YoloV5 target detection platform](https://aiwithcloud.com/2022/09/19/smart_target_detection_55___keras_builds_yolov5_target_detection_platform/)

@@ -1,0 +1,2 @@
+# In the system interface, the macro of file opening mode is used in the kernel as bitmap & named pipe
+[In the system interface, the macro of file opening mode is used in the kernel as bitmap & named pipe](https://aiwithcloud.com/2022/09/15/in_the_system_interface_the_macro_of_file_opening_mode_is_used_in_the_kernel_as_bitmap__named_pipe/)

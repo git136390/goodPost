@@ -1,0 +1,2 @@
+# Solve the problem that JMeter global variables sometimes get null when they are used
+[Solve the problem that JMeter global variables sometimes get null when they are used](https://aiwithcloud.com/2022/09/19/solve_the_problem_that_jmeter_global_variables_sometimes_get_null_when_they_are_used/)

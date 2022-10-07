@@ -1,0 +1,2 @@
+# Introduction to the Python language and running python code
+[Introduction to the Python language and running python code](https://aiwithcloud.com/2022/09/15/introduction_to_the_python_language_and_running_python_code/)

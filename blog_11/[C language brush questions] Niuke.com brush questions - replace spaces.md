@@ -1,0 +1,2 @@
+# [C language brush questions] Niuke.com brush questions - replace spaces
+[[C language brush questions] Niuke.com brush questions - replace spaces](https://aiwithcloud.com/2022/09/19/c_language_brush_questions_niuke-com_brush_questions___replace_spaces/)

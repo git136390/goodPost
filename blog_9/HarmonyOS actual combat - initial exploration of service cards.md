@@ -1,0 +1,2 @@
+# HarmonyOS actual combat - initial exploration of service cards
+[HarmonyOS actual combat - initial exploration of service cards](https://aiwithcloud.com/2022/09/19/harmonyos_actual_combat___initial_exploration_of_service_cards/)

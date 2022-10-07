@@ -1,0 +1,2 @@
+# kernelNMI watchdog BUG soft lockup - CPU#6 stuck for 28s! The kernel is locked in CentOS7linux
+[kernelNMI watchdog BUG soft lockup - CPU#6 stuck for 28s! The kernel is locked in CentOS7linux](https://aiwithcloud.com/2022/09/19/kernelnmi_watchdog_bug_soft_lockup___cpu6_stuck_for_28s_the_kernel_is_locked_in_centos7linux/)

@@ -1,0 +1,2 @@
+# Mathematical Foundations of Artificial Intelligence - Linear Algebra 5 Determinants to Solve Linear Equations and Laplace's Theorem
+[Mathematical Foundations of Artificial Intelligence - Linear Algebra 5 Determinants to Solve Linear Equations and Laplace's Theorem](https://aiwithcloud.com/2022/09/16/mathematical_foundations_of_artificial_intelligence___linear_algebra_5_determinants_to_solve_linear_equations_and_laplaces_theorem/)

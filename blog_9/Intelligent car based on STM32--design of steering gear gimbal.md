@@ -1,0 +1,2 @@
+# Intelligent car based on STM32--design of steering gear gimbal
+[Intelligent car based on STM32--design of steering gear gimbal](https://aiwithcloud.com/2022/09/19/intelligent_car_based_on_stm32__design_of_steering_gear_gimbal/)

@@ -1,0 +1,2 @@
+# Getting started with the front-end lightweight framework amis (for beginners)
+[Getting started with the front-end lightweight framework amis (for beginners)](https://aiwithcloud.com/2022/09/19/getting_started_with_the_front_end_lightweight_framework_amis_for_beginners/)

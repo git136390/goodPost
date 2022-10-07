@@ -1,0 +1,2 @@
+# opencv learning 11 (moravec corner detection and shortcomings)
+[opencv learning 11 (moravec corner detection and shortcomings)](https://aiwithcloud.com/2022/09/16/opencv_learning_11_moravec_corner_detection_and_shortcomings/)

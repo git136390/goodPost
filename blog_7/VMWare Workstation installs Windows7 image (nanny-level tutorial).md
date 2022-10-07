@@ -1,0 +1,2 @@
+# VMWare Workstation installs Windows7 image (nanny-level tutorial)
+[VMWare Workstation installs Windows7 image (nanny-level tutorial)](https://aiwithcloud.com/2022/09/16/vmware_workstation_installs_windows7_image_nanny_level_tutorial/)

@@ -1,0 +1,2 @@
+# Data analysis in practice  Explore the reasons for the decline in sales
+[Data analysis in practice  Explore the reasons for the decline in sales](https://aiwithcloud.com/2022/09/19/data_analysis_in_practice__explore_the_reasons_for_the_decline_in_sales/)

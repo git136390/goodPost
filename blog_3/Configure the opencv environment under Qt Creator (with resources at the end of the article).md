@@ -1,0 +1,2 @@
+# Configure the opencv environment under Qt Creator (with resources at the end of the article)
+[Configure the opencv environment under Qt Creator (with resources at the end of the article)](https://aiwithcloud.com/2022/09/15/configure_the_opencv_environment_under_qt_creator_with_resources_at_the_end_of_the_article/)

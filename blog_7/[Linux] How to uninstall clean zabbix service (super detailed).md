@@ -1,0 +1,2 @@
+# [Linux] How to uninstall clean zabbix service (super detailed)
+[[Linux] How to uninstall clean zabbix service (super detailed)](https://aiwithcloud.com/2022/09/16/linux_how_to_uninstall_clean_zabbix_service_super_detailed/)

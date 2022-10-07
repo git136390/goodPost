@@ -1,0 +1,2 @@
+# Elasticsearch (2) - Es data storage details (dynamic mapping, static mapping, type inference), core types, 23 mapping parameters, official document address
+[Elasticsearch (2) - Es data storage details (dynamic mapping, static mapping, type inference), core types, 23 mapping parameters, official document address](https://aiwithcloud.com/2022/09/19/elasticsearch_2___es_data_storage_details_dynamic_mapping_static_mapping_type_inference_core_types_23_mapping_parameters_official_document_address/)

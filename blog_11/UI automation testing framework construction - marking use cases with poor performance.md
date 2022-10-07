@@ -1,0 +1,2 @@
+# UI automation testing framework construction - marking use cases with poor performance
+[UI automation testing framework construction - marking use cases with poor performance](https://aiwithcloud.com/2022/09/19/ui_automation_testing_framework_construction___marking_use_cases_with_poor_performance/)

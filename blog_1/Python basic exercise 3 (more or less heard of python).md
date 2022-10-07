@@ -1,0 +1,2 @@
+# Python basic exercise 3 (more or less heard of python)
+[Python basic exercise 3 (more or less heard of python)](https://aiwithcloud.com/2022/09/15/python_basic_exercise_3_more_or_less_heard_of_python/)

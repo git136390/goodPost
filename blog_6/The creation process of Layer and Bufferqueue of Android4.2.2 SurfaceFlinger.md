@@ -1,0 +1,2 @@
+# The creation process of Layer and Bufferqueue of Android4.2.2 SurfaceFlinger
+[The creation process of Layer and Bufferqueue of Android4.2.2 SurfaceFlinger](https://aiwithcloud.com/2022/09/16/the_creation_process_of_layer_and_bufferqueue_of_android4-2-2_surfaceflinger/)

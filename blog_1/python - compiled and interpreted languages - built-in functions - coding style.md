@@ -1,0 +1,2 @@
+# python - compiled and interpreted languages - built-in functions - coding style
+[python - compiled and interpreted languages - built-in functions - coding style](https://aiwithcloud.com/2022/09/15/python___compiled_and_interpreted_languages___built_in_functions___coding_style/)

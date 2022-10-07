@@ -1,0 +1,2 @@
+# A detailed explanation of router configuration information
+[A detailed explanation of router configuration information](https://aiwithcloud.com/2022/09/15/a_detailed_explanation_of_router_configuration_information/)

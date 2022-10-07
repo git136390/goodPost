@@ -1,0 +1,2 @@
+# Java implements data structure 04.01 (custom linked list of linked list detailed code)
+[Java implements data structure 04.01 (custom linked list of linked list detailed code)](https://aiwithcloud.com/2022/09/19/java_implements_data_structure_04-01_custom_linked_list_of_linked_list_detailed_code/)

@@ -1,0 +1,2 @@
+# Java8 New Features - Stream - 03 - Detailed explanation of the forEach() method of Stream
+[Java8 New Features - Stream - 03 - Detailed explanation of the forEach() method of Stream](https://aiwithcloud.com/2022/09/15/java8_new_features___stream___03___detailed_explanation_of_the_foreach_method_of_stream/)

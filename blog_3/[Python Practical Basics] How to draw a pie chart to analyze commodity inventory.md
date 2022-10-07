@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a pie chart to analyze commodity inventory
+[[Python Practical Basics] How to draw a pie chart to analyze commodity inventory](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_draw_a_pie_chart_to_analyze_commodity_inventory/)

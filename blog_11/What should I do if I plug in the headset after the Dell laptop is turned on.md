@@ -1,0 +1,2 @@
+# What should I do if I plug in the headset after the Dell laptop is turned on
+[What should I do if I plug in the headset after the Dell laptop is turned on](https://aiwithcloud.com/2022/09/19/what_should_i_do_if_i_plug_in_the_headset_after_the_dell_laptop_is_turned_on/)

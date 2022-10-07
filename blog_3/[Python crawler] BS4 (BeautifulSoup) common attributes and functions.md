@@ -1,0 +1,2 @@
+# [Python crawler] BS4 (BeautifulSoup) common attributes and functions
+[[Python crawler] BS4 (BeautifulSoup) common attributes and functions](https://aiwithcloud.com/2022/09/15/python_crawler_bs4_beautifulsoup_common_attributes_and_functions/)

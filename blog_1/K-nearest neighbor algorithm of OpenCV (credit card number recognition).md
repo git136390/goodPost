@@ -1,0 +1,2 @@
+# K-nearest neighbor algorithm of OpenCV (credit card number recognition)
+[K-nearest neighbor algorithm of OpenCV (credit card number recognition)](https://aiwithcloud.com/2022/09/15/k_nearest_neighbor_algorithm_of_opencv_credit_card_number_recognition/)

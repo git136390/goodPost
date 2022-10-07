@@ -1,0 +1,2 @@
+# Cloud Hospital HIS System - Hospital Registration Module
+[Cloud Hospital HIS System - Hospital Registration Module](https://aiwithcloud.com/2022/09/15/cloud_hospital_his_system___hospital_registration_module/)

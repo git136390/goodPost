@@ -1,0 +1,2 @@
+# Use Prim and Kruskal algorithms to solve the minimum spanning tree
+[Use Prim and Kruskal algorithms to solve the minimum spanning tree](https://aiwithcloud.com/2022/09/19/use_prim_and_kruskal_algorithms_to_solve_the_minimum_spanning_tree/)

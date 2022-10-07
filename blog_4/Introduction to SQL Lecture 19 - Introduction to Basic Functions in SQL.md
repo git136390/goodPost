@@ -1,0 +1,2 @@
+# Introduction to SQL Lecture 19 - Introduction to Basic Functions in SQL
+[Introduction to SQL Lecture 19 - Introduction to Basic Functions in SQL](https://aiwithcloud.com/2022/09/15/introduction_to_sql_lecture_19___introduction_to_basic_functions_in_sql/)

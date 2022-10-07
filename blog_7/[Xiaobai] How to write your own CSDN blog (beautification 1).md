@@ -1,0 +1,2 @@
+# [Xiaobai] How to write your own CSDN blog (beautification 1)
+[[Xiaobai] How to write your own CSDN blog (beautification 1)](https://aiwithcloud.com/2022/09/16/xiaobai_how_to_write_your_own_csdn_blog_beautification_1/)

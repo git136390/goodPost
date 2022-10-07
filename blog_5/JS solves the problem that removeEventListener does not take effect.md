@@ -1,0 +1,2 @@
+# JS solves the problem that removeEventListener does not take effect
+[JS solves the problem that removeEventListener does not take effect](https://aiwithcloud.com/2022/09/16/js_solves_the_problem_that_removeeventlistener_does_not_take_effect/)

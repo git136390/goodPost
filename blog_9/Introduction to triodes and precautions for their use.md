@@ -1,0 +1,2 @@
+# Introduction to triodes and precautions for their use
+[Introduction to triodes and precautions for their use](https://aiwithcloud.com/2022/09/19/introduction_to_triodes_and_precautions_for_their_use/)

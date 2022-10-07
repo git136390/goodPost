@@ -1,0 +1,2 @@
+# The Survival of Advanced Programmers The Use of Merge Sort
+[The Survival of Advanced Programmers The Use of Merge Sort](https://aiwithcloud.com/2022/09/19/the_survival_of_advanced_programmers_the_use_of_merge_sort/)

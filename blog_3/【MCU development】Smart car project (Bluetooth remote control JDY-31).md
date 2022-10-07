@@ -1,0 +1,2 @@
+# 【MCU development】Smart car project (Bluetooth remote control JDY-31)
+[【MCU development】Smart car project (Bluetooth remote control JDY-31)](https://aiwithcloud.com/2022/09/15/%e3%80%90mcu_development%e3%80%91smart_car_project_bluetooth_remote_control_jdy_31/)

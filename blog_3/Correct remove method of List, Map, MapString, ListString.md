@@ -1,0 +1,2 @@
+# Correct remove method of List, Map, MapString, ListString
+[Correct remove method of List, Map, MapString, ListString](https://aiwithcloud.com/2022/09/15/correct_remove_method_of_list_map_mapstring_liststring/)

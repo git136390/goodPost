@@ -1,0 +1,2 @@
+# Alipay_applet_development_exercise_-_display_your_own_Alipay_avatar_(1)
+[Alipay_applet_development_exercise_-_display_your_own_Alipay_avatar_(1)](https://aiwithcloud.com/2022/09/14/alipay_applet_development_exercise___display_your_own_alipay_avatar_1/)

@@ -1,0 +1,2 @@
+# How to ensure that Centos in the virtual machine is connected to the external network and fixed IP when the host is connected to WIFI
+[How to ensure that Centos in the virtual machine is connected to the external network and fixed IP when the host is connected to WIFI](https://aiwithcloud.com/2022/09/15/how_to_ensure_that_centos_in_the_virtual_machine_is_connected_to_the_external_network_and_fixed_ip_when_the_host_is_connected_to_wifi/)

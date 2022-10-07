@@ -1,0 +1,2 @@
+# Can Apache Airflow 2.0 meet current data engineering needs
+[Can Apache Airflow 2.0 meet current data engineering needs](https://aiwithcloud.com/2022/09/19/can_apache_airflow_2-0_meet_current_data_engineering_needs/)

@@ -1,0 +1,2 @@
+# Basic use of PIL (Python Imaging Library) image processing library
+[Basic use of PIL (Python Imaging Library) image processing library](https://aiwithcloud.com/2022/09/19/basic_use_of_pil_python_imaging_library_image_processing_library/)

@@ -1,0 +1,2 @@
+# C++ class declaration and member variables and member functions
+[C++ class declaration and member variables and member functions](https://aiwithcloud.com/2022/09/15/c_class_declaration_and_member_variables_and_member_functions/)

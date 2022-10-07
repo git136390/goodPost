@@ -1,0 +1,2 @@
+# How to disable automatic scaling of exe programs by Windows system
+[How to disable automatic scaling of exe programs by Windows system](https://aiwithcloud.com/2022/09/15/how_to_disable_automatic_scaling_of_exe_programs_by_windows_system/)

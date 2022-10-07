@@ -1,0 +1,2 @@
+# The solution of Cannot resolve plugin org.apache.maven.pluginsmaven-clean-plugin appears when configuring maven in IDEA
+[The solution of Cannot resolve plugin org.apache.maven.pluginsmaven-clean-plugin appears when configuring maven in IDEA](https://aiwithcloud.com/2022/09/19/the_solution_of_cannot_resolve_plugin_org-apache-maven-pluginsmaven_clean_plugin_appears_when_configuring_maven_in_idea/)

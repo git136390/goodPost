@@ -1,0 +1,2 @@
+# How to install, update, view and uninstall Pytorch using conda, pip
+[How to install, update, view and uninstall Pytorch using conda, pip](https://aiwithcloud.com/2022/09/19/how_to_install_update_view_and_uninstall_pytorch_using_conda_pip/)

@@ -1,0 +1,2 @@
+# Enumeration algorithm (a hundred money and a hundred chickens problem C language)
+[Enumeration algorithm (a hundred money and a hundred chickens problem C language)](https://aiwithcloud.com/2022/09/15/enumeration_algorithm_a_hundred_money_and_a_hundred_chickens_problem_c_language/)

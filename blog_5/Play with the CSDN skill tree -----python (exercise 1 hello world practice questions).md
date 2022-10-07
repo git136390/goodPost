@@ -1,0 +1,2 @@
+# Play with the CSDN skill tree -----python (exercise 1 hello world practice questions)
+[Play with the CSDN skill tree -----python (exercise 1 hello world practice questions)](https://aiwithcloud.com/2022/09/16/play_with_the_csdn_skill_tree______python_exercise_1_hello_world_practice_questions/)

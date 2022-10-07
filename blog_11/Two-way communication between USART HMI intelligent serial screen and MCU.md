@@ -1,0 +1,2 @@
+# Two-way communication between USART HMI intelligent serial screen and MCU
+[Two-way communication between USART HMI intelligent serial screen and MCU](https://aiwithcloud.com/2022/09/19/two_way_communication_between_usart_hmi_intelligent_serial_screen_and_mcu/)

@@ -1,0 +1,2 @@
+# matlab, python serial port sends hexadecimal array continuously for 10ms milliseconds
+[matlab, python serial port sends hexadecimal array continuously for 10ms milliseconds](https://aiwithcloud.com/2022/09/15/matlab_python_serial_port_sends_hexadecimal_array_continuously_for_10ms_milliseconds/)

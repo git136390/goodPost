@@ -1,0 +1,2 @@
+# Because the SSM project needs to load multiple properties configuration files, the processing method
+[Because the SSM project needs to load multiple properties configuration files, the processing method](https://aiwithcloud.com/2022/09/14/because_the_ssm_project_needs_to_load_multiple_properties_configuration_files_the_processing_method/)

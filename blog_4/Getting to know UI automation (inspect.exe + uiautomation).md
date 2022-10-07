@@ -1,0 +1,2 @@
+# Getting to know UI automation (inspect.exe + uiautomation)
+[Getting to know UI automation (inspect.exe + uiautomation)](https://aiwithcloud.com/2022/09/15/getting_to_know_ui_automation_inspect-exe__uiautomation/)

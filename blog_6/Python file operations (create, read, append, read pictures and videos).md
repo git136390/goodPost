@@ -1,0 +1,2 @@
+# Python file operations (create, read, append, read pictures and videos)
+[Python file operations (create, read, append, read pictures and videos)](https://aiwithcloud.com/2022/09/16/python_file_operations_create_read_append_read_pictures_and_videos/)

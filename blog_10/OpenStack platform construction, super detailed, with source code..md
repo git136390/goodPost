@@ -1,0 +1,2 @@
+# OpenStack platform construction, super detailed, with source code.
+[OpenStack platform construction, super detailed, with source code.](https://aiwithcloud.com/2022/09/19/openstack_platform_construction_super_detailed_with_source_code/)

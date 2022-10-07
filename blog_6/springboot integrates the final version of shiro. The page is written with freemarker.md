@@ -1,0 +1,2 @@
+# springboot integrates the final version of shiro. The page is written with freemarker
+[springboot integrates the final version of shiro. The page is written with freemarker](https://aiwithcloud.com/2022/09/16/springboot_integrates_the_final_version_of_shiro-_the_page_is_written_with_freemarker/)

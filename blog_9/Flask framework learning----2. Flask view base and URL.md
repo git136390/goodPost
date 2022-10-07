@@ -1,0 +1,2 @@
+# Flask framework learning----2. Flask view base and URL
+[Flask framework learning----2. Flask view base and URL](https://aiwithcloud.com/2022/09/19/flask_framework_learning____2-_flask_view_base_and_url/)

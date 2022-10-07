@@ -1,0 +1,2 @@
+# Solve the WeChat applet MQTT real machine connection problem and the legal domain name configuration SSL problem
+[Solve the WeChat applet MQTT real machine connection problem and the legal domain name configuration SSL problem](https://aiwithcloud.com/2022/09/19/solve_the_wechat_applet_mqtt_real_machine_connection_problem_and_the_legal_domain_name_configuration_ssl_problem/)

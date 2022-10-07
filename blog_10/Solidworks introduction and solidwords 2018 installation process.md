@@ -1,0 +1,2 @@
+# Solidworks introduction and solidwords 2018 installation process
+[Solidworks introduction and solidwords 2018 installation process](https://aiwithcloud.com/2022/09/19/solidworks_introduction_and_solidwords_2018_installation_process/)

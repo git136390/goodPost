@@ -1,0 +1,2 @@
+# Table fixed column causes the last row of data to be displayed incompletely
+[Table fixed column causes the last row of data to be displayed incompletely](https://aiwithcloud.com/2022/09/16/table_fixed_column_causes_the_last_row_of_data_to_be_displayed_incompletely/)

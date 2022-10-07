@@ -1,0 +1,2 @@
+# If you want to switch to software testing, you must pass these three levels first, including a 3000-word super-full test study guide
+[If you want to switch to software testing, you must pass these three levels first, including a 3000-word super-full test study guide](https://aiwithcloud.com/2022/09/19/if_you_want_to_switch_to_software_testing_you_must_pass_these_three_levels_first_including_a_3000_word_super_full_test_study_guide/)

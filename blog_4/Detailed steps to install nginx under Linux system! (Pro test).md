@@ -1,0 +1,2 @@
+# Detailed steps to install nginx under Linux system! (Pro test)
+[Detailed steps to install nginx under Linux system! (Pro test)](https://aiwithcloud.com/2022/09/15/detailed_steps_to_install_nginx_under_linux_system_pro_test/)

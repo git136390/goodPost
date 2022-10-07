@@ -1,0 +1,2 @@
+# Jupyter notebook教程系列（六）在Jupyter notebook上学习Pandas
+[Jupyter notebook教程系列（六）在Jupyter notebook上学习Pandas](https://aiwithcloud.com/2021/08/10/jupyter-notebook%e6%95%99%e7%a8%8b%e7%b3%bb%e5%88%97%ef%bc%88%e5%85%ad%ef%bc%89%e5%9c%a8jupyter-notebook%e4%b8%8a%e5%ad%a6%e4%b9%a0pandas/)

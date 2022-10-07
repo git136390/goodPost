@@ -1,0 +1,2 @@
+# easy to understand! Recommended for small projects of self-learning python!
+[easy to understand! Recommended for small projects of self-learning python!](https://aiwithcloud.com/2022/09/19/easy_to_understand_recommended_for_small_projects_of_self_learning_python/)

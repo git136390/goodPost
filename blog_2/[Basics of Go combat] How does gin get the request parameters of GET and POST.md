@@ -1,0 +1,2 @@
+# [Basics of Go combat] How does gin get the request parameters of GET and POST
+[[Basics of Go combat] How does gin get the request parameters of GET and POST](https://aiwithcloud.com/2022/09/15/basics_of_go_combat_how_does_gin_get_the_request_parameters_of_get_and_post/)

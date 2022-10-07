@@ -1,0 +1,2 @@
+# ES only has 10 results after using matchAllQuery query
+[ES only has 10 results after using matchAllQuery query](https://aiwithcloud.com/2022/09/19/es_only_has_10_results_after_using_matchallquery_query/)

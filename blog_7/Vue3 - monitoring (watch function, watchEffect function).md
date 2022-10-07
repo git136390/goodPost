@@ -1,0 +1,2 @@
+# Vue3 - monitoring (watch function, watchEffect function)
+[Vue3 - monitoring (watch function, watchEffect function)](https://aiwithcloud.com/2022/09/16/vue3___monitoring_watch_function_watcheffect_function/)

@@ -1,0 +1,2 @@
+# [Word2019] Set different page numbers for different pages and set the reference number
+[[Word2019] Set different page numbers for different pages and set the reference number](https://aiwithcloud.com/2022/09/16/word2019_set_different_page_numbers_for_different_pages_and_set_the_reference_number/)

@@ -1,0 +1,2 @@
+# The road to entry for junior programmers the use of simple selection sort
+[The road to entry for junior programmers the use of simple selection sort](https://aiwithcloud.com/2022/09/19/the_road_to_entry_for_junior_programmers_the_use_of_simple_selection_sort/)

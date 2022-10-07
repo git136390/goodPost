@@ -1,0 +1,2 @@
+# Xshell7, Xftp7, Xlpd7 - download and installation tutorial (available for personal testing)
+[Xshell7, Xftp7, Xlpd7 - download and installation tutorial (available for personal testing)](https://aiwithcloud.com/2022/09/16/xshell7_xftp7_xlpd7___download_and_installation_tutorial_available_for_personal_testing/)

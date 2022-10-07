@@ -1,0 +1,2 @@
+# How to get started quickly and learn Python data analysis for zero-based beginners
+[How to get started quickly and learn Python data analysis for zero-based beginners](https://aiwithcloud.com/2022/09/15/how_to_get_started_quickly_and_learn_python_data_analysis_for_zero_based_beginners/)

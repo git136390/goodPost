@@ -1,0 +1,2 @@
+# Regular expression case exercise - package tool function lyrics parsing and time formatting
+[Regular expression case exercise - package tool function lyrics parsing and time formatting](https://aiwithcloud.com/2022/09/19/regular_expression_case_exercise___package_tool_function_lyrics_parsing_and_time_formatting/)

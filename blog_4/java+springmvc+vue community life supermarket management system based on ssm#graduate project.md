@@ -1,0 +1,2 @@
+# java+springmvc+vue community life supermarket management system based on ssm#graduate project
+[java+springmvc+vue community life supermarket management system based on ssm#graduate project](https://aiwithcloud.com/2022/09/16/javaspringmvcvue_community_life_supermarket_management_system_based_on_ssmgraduate_project/)

@@ -1,0 +1,2 @@
+# Remember an experiment redis is not authorized to go online with cs (windows)
+[Remember an experiment redis is not authorized to go online with cs (windows)](https://aiwithcloud.com/2022/09/19/remember_an_experiment_redis_is_not_authorized_to_go_online_with_cs_windows/)

@@ -1,0 +1,2 @@
+# iOS replaces WebView web page pictures with local pictures
+[iOS replaces WebView web page pictures with local pictures](https://aiwithcloud.com/2022/09/15/ios_replaces_webview_web_page_pictures_with_local_pictures/)

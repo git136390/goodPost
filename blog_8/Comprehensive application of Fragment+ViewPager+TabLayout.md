@@ -1,0 +1,2 @@
+# Comprehensive application of Fragment+ViewPager+TabLayout
+[Comprehensive application of Fragment+ViewPager+TabLayout](https://aiwithcloud.com/2022/09/19/comprehensive_application_of_fragmentviewpagertablayout/)

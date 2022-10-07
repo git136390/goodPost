@@ -1,0 +1,2 @@
+# Appium+python adb shell simulates key operations (input keyevent)
+[Appium+python adb shell simulates key operations (input keyevent)](https://aiwithcloud.com/2022/09/19/appiumpython_adb_shell_simulates_key_operations_input_keyevent/)

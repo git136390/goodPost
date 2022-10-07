@@ -1,0 +1,2 @@
+# hutool read extension files recommended a software for batch modification of file names
+[hutool read extension files recommended a software for batch modification of file names](https://aiwithcloud.com/2022/09/19/hutool_read_extension_files_recommended_a_software_for_batch_modification_of_file_names/)

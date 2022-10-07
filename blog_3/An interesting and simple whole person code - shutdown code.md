@@ -1,0 +1,2 @@
+# An interesting and simple whole person code - shutdown code
+[An interesting and simple whole person code - shutdown code](https://aiwithcloud.com/2022/09/15/an_interesting_and_simple_whole_person_code___shutdown_code/)

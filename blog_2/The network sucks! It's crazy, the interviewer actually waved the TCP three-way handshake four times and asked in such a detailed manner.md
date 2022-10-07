@@ -1,0 +1,2 @@
+# The network sucks! It's crazy, the interviewer actually waved the TCP three-way handshake four times and asked in such a detailed manner
+[The network sucks! It's crazy, the interviewer actually waved the TCP three-way handshake four times and asked in such a detailed manner](https://aiwithcloud.com/2022/09/15/the_network_sucks_its_crazy_the_interviewer_actually_waved_the_tcp_three_way_handshake_four_times_and_asked_in_such_a_detailed_manner/)

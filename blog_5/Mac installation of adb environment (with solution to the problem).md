@@ -1,0 +1,2 @@
+# Mac installation of adb environment (with solution to the problem)
+[Mac installation of adb environment (with solution to the problem)](https://aiwithcloud.com/2022/09/16/mac_installation_of_adb_environment_with_solution_to_the_problem/)

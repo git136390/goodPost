@@ -1,0 +1,2 @@
+# termux enable ssh and login with username and password
+[termux enable ssh and login with username and password](https://aiwithcloud.com/2022/09/16/termux_enable_ssh_and_login_with_username_and_password/)

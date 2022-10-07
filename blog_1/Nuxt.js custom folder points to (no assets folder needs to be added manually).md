@@ -1,0 +1,2 @@
+# Nuxt.js custom folder points to (no assets folder needs to be added manually)
+[Nuxt.js custom folder points to (no assets folder needs to be added manually)](https://aiwithcloud.com/2022/09/15/nuxt-js_custom_folder_points_to_no_assets_folder_needs_to_be_added_manually/)

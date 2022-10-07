@@ -1,0 +1,2 @@
+# JS console.log, console.dir, console.dirxml difference
+[JS console.log, console.dir, console.dirxml difference](https://aiwithcloud.com/2022/09/16/js_console-log_console-dir_console-dirxml_difference/)

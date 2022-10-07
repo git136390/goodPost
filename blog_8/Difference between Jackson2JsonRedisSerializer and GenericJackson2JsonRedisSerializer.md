@@ -1,0 +1,2 @@
+# Difference between Jackson2JsonRedisSerializer and GenericJackson2JsonRedisSerializer
+[Difference between Jackson2JsonRedisSerializer and GenericJackson2JsonRedisSerializer](https://aiwithcloud.com/2022/09/19/difference_between_jackson2jsonredisserializer_and_genericjackson2jsonredisserializer/)

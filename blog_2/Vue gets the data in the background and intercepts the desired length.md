@@ -1,0 +1,2 @@
+# Vue gets the data in the background and intercepts the desired length
+[Vue gets the data in the background and intercepts the desired length](https://aiwithcloud.com/2022/09/15/vue_gets_the_data_in_the_background_and_intercepts_the_desired_length/)

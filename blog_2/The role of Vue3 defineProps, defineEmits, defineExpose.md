@@ -1,0 +1,2 @@
+# The role of Vue3 defineProps, defineEmits, defineExpose
+[The role of Vue3 defineProps, defineEmits, defineExpose](https://aiwithcloud.com/2022/09/15/the_role_of_vue3_defineprops_defineemits_defineexpose/)

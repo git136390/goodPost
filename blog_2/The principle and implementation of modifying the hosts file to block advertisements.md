@@ -1,0 +1,2 @@
+# The principle and implementation of modifying the hosts file to block advertisements
+[The principle and implementation of modifying the hosts file to block advertisements](https://aiwithcloud.com/2022/09/15/the_principle_and_implementation_of_modifying_the_hosts_file_to_block_advertisements/)

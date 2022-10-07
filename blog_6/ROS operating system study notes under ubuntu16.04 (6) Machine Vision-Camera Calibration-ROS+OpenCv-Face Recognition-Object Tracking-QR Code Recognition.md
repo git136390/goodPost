@@ -1,0 +1,2 @@
+# ROS operating system study notes under ubuntu16.04 (6) Machine Vision-Camera Calibration-ROS+OpenCv-Face Recognition-Object Tracking-QR Code Recognition
+[ROS operating system study notes under ubuntu16.04 (6) Machine Vision-Camera Calibration-ROS+OpenCv-Face Recognition-Object Tracking-QR Code Recognition](https://aiwithcloud.com/2022/09/16/ros_operating_system_study_notes_under_ubuntu16-04_6_machine_vision_camera_calibration_rosopencv_face_recognition_object_tracking_qr_code_recognition/)

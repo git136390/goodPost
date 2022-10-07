@@ -1,0 +1,2 @@
+# C and C++ Review Notes (3) [Generic Programming and STL]
+[C and C++ Review Notes (3) [Generic Programming and STL]](https://aiwithcloud.com/2022/09/15/c_and_c_review_notes_3_generic_programming_and_stl/)

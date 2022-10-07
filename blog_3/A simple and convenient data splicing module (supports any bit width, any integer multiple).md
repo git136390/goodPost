@@ -1,0 +1,2 @@
+# A simple and convenient data splicing module (supports any bit width, any integer multiple)
+[A simple and convenient data splicing module (supports any bit width, any integer multiple)](https://aiwithcloud.com/2022/09/15/a_simple_and_convenient_data_splicing_module_supports_any_bit_width_any_integer_multiple/)

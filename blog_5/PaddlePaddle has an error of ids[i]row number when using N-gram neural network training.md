@@ -1,0 +1,2 @@
+# PaddlePaddle has an error of ids[i]row number when using N-gram neural network training
+[PaddlePaddle has an error of ids[i]row number when using N-gram neural network training](https://aiwithcloud.com/2022/09/16/paddlepaddle_has_an_error_of_idsirow_number_when_using_n_gram_neural_network_training/)

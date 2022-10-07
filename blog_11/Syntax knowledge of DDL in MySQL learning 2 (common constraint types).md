@@ -1,0 +1,2 @@
+# Syntax knowledge of DDL in MySQL learning 2 (common constraint types)
+[Syntax knowledge of DDL in MySQL learning 2 (common constraint types)](https://aiwithcloud.com/2022/09/19/syntax_knowledge_of_ddl_in_mysql_learning_2_common_constraint_types/)

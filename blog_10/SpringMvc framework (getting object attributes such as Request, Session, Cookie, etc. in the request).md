@@ -1,0 +1,2 @@
+# SpringMvc framework (getting object attributes such as Request, Session, Cookie, etc. in the request)
+[SpringMvc framework (getting object attributes such as Request, Session, Cookie, etc. in the request)](https://aiwithcloud.com/2022/09/19/springmvc_framework_getting_object_attributes_such_as_request_session_cookie_etc-_in_the_request/)

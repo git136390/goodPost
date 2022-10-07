@@ -1,0 +1,2 @@
+# Go json deserialization null results in nil stepping on the pit
+[Go json deserialization null results in nil stepping on the pit](https://aiwithcloud.com/2022/09/15/go_json_deserialization_null_results_in_nil_stepping_on_the_pit/)

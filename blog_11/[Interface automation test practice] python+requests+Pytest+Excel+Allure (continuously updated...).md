@@ -1,0 +1,2 @@
+# [Interface automation test practice] python+requests+Pytest+Excel+Allure (continuously updated...)
+[[Interface automation test practice] python+requests+Pytest+Excel+Allure (continuously updated...)](https://aiwithcloud.com/2022/09/19/interface_automation_test_practice_pythonrequestspytestexcelallure_continuously_updated/)

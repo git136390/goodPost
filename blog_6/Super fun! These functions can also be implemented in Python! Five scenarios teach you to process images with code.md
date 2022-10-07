@@ -1,0 +1,2 @@
+# Super fun! These functions can also be implemented in Python! Five scenarios teach you to process images with code
+[Super fun! These functions can also be implemented in Python! Five scenarios teach you to process images with code](https://aiwithcloud.com/2022/09/16/super_fun_these_functions_can_also_be_implemented_in_python_five_scenarios_teach_you_to_process_images_with_code/)

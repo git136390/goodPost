@@ -1,0 +1,2 @@
+# Fun Math in C - Day 213 Personal Income Tax Questions
+[Fun Math in C - Day 213 Personal Income Tax Questions](https://aiwithcloud.com/2022/09/19/fun_math_in_c___day_213_personal_income_tax_questions/)

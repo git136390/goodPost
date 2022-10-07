@@ -1,0 +1,2 @@
+# Original Classic - Why can IOC (Inversion of Control) in Spring reduce coupling (decoupling)
+[Original Classic - Why can IOC (Inversion of Control) in Spring reduce coupling (decoupling)](https://aiwithcloud.com/2022/09/16/original_classic___why_can_ioc_inversion_of_control_in_spring_reduce_coupling_decoupling/)

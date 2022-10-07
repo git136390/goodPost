@@ -1,0 +1,2 @@
+# WeChat applet realizes picture preview (eyes closed cv)
+[WeChat applet realizes picture preview (eyes closed cv)](https://aiwithcloud.com/2022/09/15/wechat_applet_realizes_picture_preview_eyes_closed_cv/)

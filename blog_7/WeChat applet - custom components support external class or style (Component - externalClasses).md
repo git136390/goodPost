@@ -1,0 +1,2 @@
+# WeChat applet - custom components support external class or style (Component - externalClasses)
+[WeChat applet - custom components support external class or style (Component - externalClasses)](https://aiwithcloud.com/2022/09/16/wechat_applet___custom_components_support_external_class_or_style_component___externalclasses/)

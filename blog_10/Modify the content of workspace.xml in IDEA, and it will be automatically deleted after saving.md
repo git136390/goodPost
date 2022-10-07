@@ -1,0 +1,2 @@
+# Modify the content of workspace.xml in IDEA, and it will be automatically deleted after saving
+[Modify the content of workspace.xml in IDEA, and it will be automatically deleted after saving](https://aiwithcloud.com/2022/09/19/modify_the_content_of_workspace-xml_in_idea_and_it_will_be_automatically_deleted_after_saving/)

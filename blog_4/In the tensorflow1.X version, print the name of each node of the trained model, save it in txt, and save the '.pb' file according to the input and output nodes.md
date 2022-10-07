@@ -1,0 +1,2 @@
+# In the tensorflow1.X version, print the name of each node of the trained model, save it in txt, and save the '.pb' file according to the input and output nodes
+[In the tensorflow1.X version, print the name of each node of the trained model, save it in txt, and save the '.pb' file according to the input and output nodes](https://aiwithcloud.com/2022/09/15/in_the_tensorflow1-x_version_print_the_name_of_each_node_of_the_trained_model_save_it_in_txt_and_save_the_-pb_file_according_to_the_input_and_output_nodes/)

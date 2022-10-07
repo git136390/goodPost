@@ -1,0 +1,2 @@
+# Python crawler---requests library + xpath to crawl and save Douban movie top250 movie data, you will see it at a glance
+[Python crawler---requests library + xpath to crawl and save Douban movie top250 movie data, you will see it at a glance](https://aiwithcloud.com/2022/09/19/python_crawler___requests_library__xpath_to_crawl_and_save_douban_movie_top250_movie_data_you_will_see_it_at_a_glance/)

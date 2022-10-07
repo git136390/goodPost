@@ -1,0 +1,2 @@
+# Python advanced knowledge - iterable objects and iterators
+[Python advanced knowledge - iterable objects and iterators](https://aiwithcloud.com/2022/09/19/python_advanced_knowledge___iterable_objects_and_iterators/)

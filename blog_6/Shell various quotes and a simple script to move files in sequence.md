@@ -1,0 +1,2 @@
+# Shell various quotes and a simple script to move files in sequence
+[Shell various quotes and a simple script to move files in sequence](https://aiwithcloud.com/2022/09/16/shell_various_quotes_and_a_simple_script_to_move_files_in_sequence/)

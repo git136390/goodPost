@@ -1,0 +1,2 @@
+# Solve the problem of ModuleNotFoundError No module named 'pip'
+[Solve the problem of ModuleNotFoundError No module named 'pip'](https://aiwithcloud.com/2022/09/19/solve_the_problem_of_modulenotfounderror_no_module_named_pip/)

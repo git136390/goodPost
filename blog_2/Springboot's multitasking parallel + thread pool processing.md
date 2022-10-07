@@ -1,0 +1,2 @@
+# Springboot's multitasking parallel + thread pool processing
+[Springboot's multitasking parallel + thread pool processing](https://aiwithcloud.com/2022/09/15/springboots_multitasking_parallel__thread_pool_processing/)

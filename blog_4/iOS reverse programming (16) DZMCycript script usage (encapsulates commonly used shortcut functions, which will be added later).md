@@ -1,0 +1,2 @@
+# iOS reverse programming (16) DZMCycript script usage (encapsulates commonly used shortcut functions, which will be added later)
+[iOS reverse programming (16) DZMCycript script usage (encapsulates commonly used shortcut functions, which will be added later)](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_16_dzmcycript_script_usage_encapsulates_commonly_used_shortcut_functions_which_will_be_added_later/)

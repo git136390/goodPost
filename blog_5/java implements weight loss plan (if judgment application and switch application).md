@@ -1,0 +1,2 @@
+# java implements weight loss plan (if judgment application and switch application)
+[java implements weight loss plan (if judgment application and switch application)](https://aiwithcloud.com/2022/09/16/java_implements_weight_loss_plan_if_judgment_application_and_switch_application/)

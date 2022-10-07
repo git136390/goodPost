@@ -1,0 +1,2 @@
+# VScode's setting.json file - Vue Language Features (Volar) of vue3 plugin & ESLint of formatting plugin
+[VScode's setting.json file - Vue Language Features (Volar) of vue3 plugin & ESLint of formatting plugin](https://aiwithcloud.com/2022/09/15/vscodes_setting-json_file___vue_language_features_volar_of_vue3_plugin__eslint_of_formatting_plugin/)

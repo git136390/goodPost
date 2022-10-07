@@ -1,0 +1,2 @@
+# [python installation series] Win10 uses anoconda to deploy and install sqlmap
+[[python installation series] Win10 uses anoconda to deploy and install sqlmap](https://aiwithcloud.com/2022/09/16/python_installation_series_win10_uses_anoconda_to_deploy_and_install_sqlmap/)

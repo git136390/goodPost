@@ -1,0 +1,2 @@
+# Vmware virtual machine suddenly cannot connect to the network [solution collection]
+[Vmware virtual machine suddenly cannot connect to the network [solution collection]](https://aiwithcloud.com/2022/09/16/vmware_virtual_machine_suddenly_cannot_connect_to_the_network_solution_collection/)

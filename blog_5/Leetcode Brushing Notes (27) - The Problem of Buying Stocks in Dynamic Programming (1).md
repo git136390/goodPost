@@ -1,0 +1,2 @@
+# Leetcode Brushing Notes (27) - The Problem of Buying Stocks in Dynamic Programming (1)
+[Leetcode Brushing Notes (27) - The Problem of Buying Stocks in Dynamic Programming (1)](https://aiwithcloud.com/2022/09/16/leetcode_brushing_notes_27___the_problem_of_buying_stocks_in_dynamic_programming_1/)

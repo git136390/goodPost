@@ -1,0 +1,2 @@
+# Linux From Getting Started to Running The Nineteenth Lecture -- Shell Basics (1)
+[Linux From Getting Started to Running The Nineteenth Lecture -- Shell Basics (1)](https://aiwithcloud.com/2022/09/19/linux_from_getting_started_to_running_the_nineteenth_lecture____shell_basics_1/)

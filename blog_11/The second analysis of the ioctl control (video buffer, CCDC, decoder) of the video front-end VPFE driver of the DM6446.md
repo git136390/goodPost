@@ -1,0 +1,2 @@
+# The second analysis of the ioctl control (video buffer, CCDC, decoder) of the video front-end VPFE driver of the DM6446
+[The second analysis of the ioctl control (video buffer, CCDC, decoder) of the video front-end VPFE driver of the DM6446](https://aiwithcloud.com/2022/09/19/the_second_analysis_of_the_ioctl_control_video_buffer_ccdc_decoder_of_the_video_front_end_vpfe_driver_of_the_dm6446/)

@@ -1,0 +1,2 @@
+# Determine the post-order traversal by pre-order traversal and in-order traversal Luogu P1827 Luogu P1030
+[Determine the post-order traversal by pre-order traversal and in-order traversal Luogu P1827 Luogu P1030](https://aiwithcloud.com/2022/09/15/determine_the_post_order_traversal_by_pre_order_traversal_and_in_order_traversal_luogu_p1827_luogu_p1030/)

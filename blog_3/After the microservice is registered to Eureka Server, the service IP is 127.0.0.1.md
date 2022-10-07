@@ -1,0 +1,2 @@
+# After the microservice is registered to Eureka Server, the service IP is 127.0.0.1
+[After the microservice is registered to Eureka Server, the service IP is 127.0.0.1](https://aiwithcloud.com/2022/09/15/after_the_microservice_is_registered_to_eureka_server_the_service_ip_is_127-0-0-1/)

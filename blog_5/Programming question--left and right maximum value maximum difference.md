@@ -1,0 +1,2 @@
+# Programming question--left and right maximum value maximum difference
+[Programming question--left and right maximum value maximum difference](https://aiwithcloud.com/2022/09/16/programming_question__left_and_right_maximum_value_maximum_difference/)

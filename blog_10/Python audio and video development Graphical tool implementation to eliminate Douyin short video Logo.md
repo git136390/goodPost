@@ -1,0 +1,2 @@
+# Python audio and video development Graphical tool implementation to eliminate Douyin short video Logo
+[Python audio and video development Graphical tool implementation to eliminate Douyin short video Logo](https://aiwithcloud.com/2022/09/19/python_audio_and_video_development_graphical_tool_implementation_to_eliminate_douyin_short_video_logo/)

@@ -1,0 +1,2 @@
+# Using method of photoelectric rotary encoder and stable single chip program
+[Using method of photoelectric rotary encoder and stable single chip program](https://aiwithcloud.com/2022/09/19/using_method_of_photoelectric_rotary_encoder_and_stable_single_chip_program/)

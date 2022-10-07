@@ -1,0 +1,2 @@
+# A king's time, learn to generate statement [Verilog advanced tutorial]
+[A king's time, learn to generate statement [Verilog advanced tutorial]](https://aiwithcloud.com/2022/09/19/a_kings_time_learn_to_generate_statement_verilog_advanced_tutorial/)

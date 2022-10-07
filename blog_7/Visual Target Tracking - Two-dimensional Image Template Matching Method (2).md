@@ -1,0 +1,2 @@
+# Visual Target Tracking - Two-dimensional Image Template Matching Method (2)
+[Visual Target Tracking - Two-dimensional Image Template Matching Method (2)](https://aiwithcloud.com/2022/09/16/visual_target_tracking___two_dimensional_image_template_matching_method_2/)

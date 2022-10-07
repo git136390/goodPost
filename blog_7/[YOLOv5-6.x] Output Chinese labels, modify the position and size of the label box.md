@@ -1,0 +1,2 @@
+# [YOLOv5-6.x] Output Chinese labels, modify the position and size of the label box
+[[YOLOv5-6.x] Output Chinese labels, modify the position and size of the label box](https://aiwithcloud.com/2022/09/16/yolov5_6-x_output_chinese_labels_modify_the_position_and_size_of_the_label_box/)

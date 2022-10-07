@@ -1,0 +1,2 @@
+# Python quantitative trading study notes (3) - the first strategy backtesting program v1
+[Python quantitative trading study notes (3) - the first strategy backtesting program v1](https://aiwithcloud.com/2022/09/15/python_quantitative_trading_study_notes_3___the_first_strategy_backtesting_program_v1/)

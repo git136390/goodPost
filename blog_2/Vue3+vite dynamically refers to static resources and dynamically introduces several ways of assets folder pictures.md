@@ -1,0 +1,2 @@
+# Vue3+vite dynamically refers to static resources and dynamically introduces several ways of assets folder pictures
+[Vue3+vite dynamically refers to static resources and dynamically introduces several ways of assets folder pictures](https://aiwithcloud.com/2022/09/15/vue3vite_dynamically_refers_to_static_resources_and_dynamically_introduces_several_ways_of_assets_folder_pictures/)

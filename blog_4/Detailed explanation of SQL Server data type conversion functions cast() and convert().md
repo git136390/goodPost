@@ -1,0 +1,2 @@
+# Detailed explanation of SQL Server data type conversion functions cast() and convert()
+[Detailed explanation of SQL Server data type conversion functions cast() and convert()](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_sql_server_data_type_conversion_functions_cast_and_convert/)

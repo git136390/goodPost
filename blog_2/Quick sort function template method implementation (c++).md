@@ -1,0 +1,2 @@
+# Quick sort function template method implementation (c++)
+[Quick sort function template method implementation (c++)](https://aiwithcloud.com/2022/09/15/quick_sort_function_template_method_implementation_c/)

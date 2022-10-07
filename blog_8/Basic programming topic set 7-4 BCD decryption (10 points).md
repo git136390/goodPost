@@ -1,0 +1,2 @@
+# Basic programming topic set 7-4 BCD decryption (10 points)
+[Basic programming topic set 7-4 BCD decryption (10 points)](https://aiwithcloud.com/2022/09/19/basic_programming_topic_set_7_4_bcd_decryption_10_points/)

@@ -1,0 +1,2 @@
+# [Blue Bridge Java Question of the Day] - 14. Where will the ball fall (interesting simulation question)
+[[Blue Bridge Java Question of the Day] - 14. Where will the ball fall (interesting simulation question)](https://aiwithcloud.com/2022/09/15/blue_bridge_java_question_of_the_day___14-_where_will_the_ball_fall_interesting_simulation_question/)

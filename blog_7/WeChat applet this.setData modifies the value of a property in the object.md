@@ -1,0 +1,2 @@
+# WeChat applet this.setData modifies the value of a property in the object
+[WeChat applet this.setData modifies the value of a property in the object](https://aiwithcloud.com/2022/09/16/wechat_applet_this-setdata_modifies_the_value_of_a_property_in_the_object/)

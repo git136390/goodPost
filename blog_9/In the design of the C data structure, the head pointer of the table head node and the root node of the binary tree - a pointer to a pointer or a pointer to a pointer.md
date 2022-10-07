@@ -1,0 +1,2 @@
+# In the design of the C data structure, the head pointer of the table head node and the root node of the binary tree - a pointer to a pointer or a pointer to a pointer
+[In the design of the C data structure, the head pointer of the table head node and the root node of the binary tree - a pointer to a pointer or a pointer to a pointer](https://aiwithcloud.com/2022/09/19/in_the_design_of_the_c_data_structure_the_head_pointer_of_the_table_head_node_and_the_root_node_of_the_binary_tree___a_pointer_to_a_pointer_or_a_pointer_to_a_pointer/)

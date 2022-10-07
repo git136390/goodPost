@@ -1,0 +1,2 @@
+# Currently the simplest VS 20172019 configuration OPENGL mode and LNK1104 cannot open the file GLUT32.LIB error solution
+[Currently the simplest VS 20172019 configuration OPENGL mode and LNK1104 cannot open the file GLUT32.LIB error solution](https://aiwithcloud.com/2022/09/15/currently_the_simplest_vs_20172019_configuration_opengl_mode_and_lnk1104_cannot_open_the_file_glut32-lib_error_solution/)

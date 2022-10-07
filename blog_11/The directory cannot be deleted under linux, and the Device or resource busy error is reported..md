@@ -1,0 +1,2 @@
+# The directory cannot be deleted under linux, and the Device or resource busy error is reported.
+[The directory cannot be deleted under linux, and the Device or resource busy error is reported.](https://aiwithcloud.com/2022/09/19/the_directory_cannot_be_deleted_under_linux_and_the_device_or_resource_busy_error_is_reported/)

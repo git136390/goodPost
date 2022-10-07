@@ -1,0 +1,2 @@
+# Summary of Java Language Learning - Basics - Representation of Large Values
+[Summary of Java Language Learning - Basics - Representation of Large Values](https://aiwithcloud.com/2022/09/16/summary_of_java_language_learning___basics___representation_of_large_values/)

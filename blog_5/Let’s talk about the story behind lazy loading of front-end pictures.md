@@ -1,0 +1,2 @@
+# Let’s talk about the story behind lazy loading of front-end pictures
+[Let’s talk about the story behind lazy loading of front-end pictures](https://aiwithcloud.com/2022/09/16/lets_talk_about_the_story_behind_lazy_loading_of_front_end_pictures/)

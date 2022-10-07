@@ -1,0 +1,2 @@
+# Understanding of deep and shallow copying of Java objects
+[Understanding of deep and shallow copying of Java objects](https://aiwithcloud.com/2022/09/15/understanding_of_deep_and_shallow_copying_of_java_objects/)

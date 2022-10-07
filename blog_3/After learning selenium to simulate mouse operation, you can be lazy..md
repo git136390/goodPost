@@ -1,0 +1,2 @@
+# After learning selenium to simulate mouse operation, you can be lazy.
+[After learning selenium to simulate mouse operation, you can be lazy.](https://aiwithcloud.com/2022/09/15/after_learning_selenium_to_simulate_mouse_operation_you_can_be_lazy/)

@@ -1,0 +1,2 @@
+# Decomposing prime factors (including a detailed explanation of the proof)
+[Decomposing prime factors (including a detailed explanation of the proof)](https://aiwithcloud.com/2022/09/15/decomposing_prime_factors_including_a_detailed_explanation_of_the_proof/)

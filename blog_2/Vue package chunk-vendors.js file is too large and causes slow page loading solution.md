@@ -1,0 +1,2 @@
+# Vue package chunk-vendors.js file is too large and causes slow page loading solution
+[Vue package chunk-vendors.js file is too large and causes slow page loading solution](https://aiwithcloud.com/2022/09/15/vue_package_chunk_vendors-js_file_is_too_large_and_causes_slow_page_loading_solution/)

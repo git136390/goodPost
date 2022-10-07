@@ -1,0 +1,2 @@
+# Introduction to Java 6---The third three characteristics of object-oriented polymorphism
+[Introduction to Java 6---The third three characteristics of object-oriented polymorphism](https://aiwithcloud.com/2022/09/15/introduction_to_java_6___the_third_three_characteristics_of_object_oriented_polymorphism/)

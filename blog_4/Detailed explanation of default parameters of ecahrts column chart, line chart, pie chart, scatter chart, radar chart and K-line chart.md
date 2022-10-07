@@ -1,0 +1,2 @@
+# Detailed explanation of default parameters of ecahrts column chart, line chart, pie chart, scatter chart, radar chart and K-line chart
+[Detailed explanation of default parameters of ecahrts column chart, line chart, pie chart, scatter chart, radar chart and K-line chart](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_default_parameters_of_ecahrts_column_chart_line_chart_pie_chart_scatter_chart_radar_chart_and_k_line_chart/)

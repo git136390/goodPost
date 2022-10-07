@@ -1,0 +1,2 @@
+# Python learning essay using xlwings to set and manipulate excel multi-row and multi-column data and set the data font color fill color alignment method
+[Python learning essay using xlwings to set and manipulate excel multi-row and multi-column data and set the data font color fill color alignment method](https://aiwithcloud.com/2022/09/16/python_learning_essay_using_xlwings_to_set_and_manipulate_excel_multi_row_and_multi_column_data_and_set_the_data_font_color_fill_color_alignment_method/)

@@ -1,0 +1,2 @@
+# destination7.08.0 map sitemap output sitemap.xml according to the module directory
+[destination7.08.0 map sitemap output sitemap.xml according to the module directory](https://aiwithcloud.com/2022/09/19/destination7-08-0_map_sitemap_output_sitemap-xml_according_to_the_module_directory/)

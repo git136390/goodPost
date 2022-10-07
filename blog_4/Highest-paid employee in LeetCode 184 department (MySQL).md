@@ -1,0 +1,2 @@
+# Highest-paid employee in LeetCode 184 department (MySQL)
+[Highest-paid employee in LeetCode 184 department (MySQL)](https://aiwithcloud.com/2022/09/15/highest_paid_employee_in_leetcode_184_department_mysql/)

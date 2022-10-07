@@ -1,0 +1,2 @@
+# In the ssm framework, the sql statement log output of mybatis
+[In the ssm framework, the sql statement log output of mybatis](https://aiwithcloud.com/2022/09/19/in_the_ssm_framework_the_sql_statement_log_output_of_mybatis/)

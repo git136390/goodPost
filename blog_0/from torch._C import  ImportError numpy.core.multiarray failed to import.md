@@ -1,0 +1,2 @@
+# from torch._C import * ImportError: numpy.core.multiarray failed to import
+[from torch._C import * ImportError: numpy.core.multiarray failed to import](https://aiwithcloud.com/2021/04/16/from-torch-_c-import-importerror-numpy-core-multiarray-failed-to-import/)

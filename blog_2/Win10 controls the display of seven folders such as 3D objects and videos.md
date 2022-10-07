@@ -1,0 +1,2 @@
+# Win10 controls the display of seven folders such as 3D objects and videos
+[Win10 controls the display of seven folders such as 3D objects and videos](https://aiwithcloud.com/2022/09/15/win10_controls_the_display_of_seven_folders_such_as_3d_objects_and_videos/)

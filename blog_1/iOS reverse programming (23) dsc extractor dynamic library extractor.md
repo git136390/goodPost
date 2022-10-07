@@ -1,0 +1,2 @@
+# iOS reverse programming (23) dsc extractor dynamic library extractor
+[iOS reverse programming (23) dsc extractor dynamic library extractor](https://aiwithcloud.com/2022/09/15/ios_reverse_programming_23_dsc_extractor_dynamic_library_extractor/)

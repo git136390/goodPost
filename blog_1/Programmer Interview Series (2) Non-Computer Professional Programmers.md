@@ -1,0 +1,2 @@
+# Programmer Interview Series (2) Non-Computer Professional Programmers
+[Programmer Interview Series (2) Non-Computer Professional Programmers](https://aiwithcloud.com/2022/09/15/programmer_interview_series_2_non_computer_professional_programmers/)

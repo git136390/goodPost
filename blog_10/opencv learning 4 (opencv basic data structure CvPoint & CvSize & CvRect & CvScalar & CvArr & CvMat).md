@@ -1,0 +1,2 @@
+# opencv learning 4 (opencv basic data structure CvPoint & CvSize & CvRect & CvScalar & CvArr & CvMat)
+[opencv learning 4 (opencv basic data structure CvPoint & CvSize & CvRect & CvScalar & CvArr & CvMat)](https://aiwithcloud.com/2022/09/19/opencv_learning_4_opencv_basic_data_structure_cvpoint__cvsize__cvrect__cvscalar__cvarr__cvmat/)

@@ -1,0 +1,2 @@
+# Python uses selenium to automatically start Baidu and search for keywords
+[Python uses selenium to automatically start Baidu and search for keywords](https://aiwithcloud.com/2022/09/15/python_uses_selenium_to_automatically_start_baidu_and_search_for_keywords/)

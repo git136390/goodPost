@@ -1,0 +1,2 @@
+# The fastest way to gain happiness in the world! 【It's a pity to miss it】
+[The fastest way to gain happiness in the world! 【It's a pity to miss it】](https://aiwithcloud.com/2022/09/16/the_fastest_way_to_gain_happiness_in_the_world_%e3%80%90its_a_pity_to_miss_it%e3%80%91/)

@@ -1,0 +1,2 @@
+# [Cloud Native-Kubernetes Chapter] Kubernetes entry literacy combat
+[[Cloud Native-Kubernetes Chapter] Kubernetes entry literacy combat](https://aiwithcloud.com/2022/09/16/cloud_native_kubernetes_chapter_kubernetes_entry_literacy_combat/)

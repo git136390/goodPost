@@ -1,0 +1,2 @@
+# The interface of Confucius's used book network realize the input of ISBN to obtain book information
+[The interface of Confucius's used book network realize the input of ISBN to obtain book information](https://aiwithcloud.com/2022/09/16/the_interface_of_confuciuss_used_book_network_realize_the_input_of_isbn_to_obtain_book_information/)

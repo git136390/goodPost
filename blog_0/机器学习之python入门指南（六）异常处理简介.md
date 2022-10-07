@@ -1,0 +1,2 @@
+# 机器学习之python入门指南（六）异常处理简介
+[机器学习之python入门指南（六）异常处理简介](https://aiwithcloud.com/2021/07/29/%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e4%b9%8bpython%e5%85%a5%e9%97%a8%e6%8c%87%e5%8d%97%ef%bc%88%e5%85%ad%ef%bc%89%e5%bc%82%e5%b8%b8%e5%a4%84%e7%90%86%e7%ae%80%e4%bb%8b/)

@@ -1,0 +1,2 @@
+# Analysis and Implementation of Blinn-Phong Lighting Model
+[Analysis and Implementation of Blinn-Phong Lighting Model](https://aiwithcloud.com/2022/09/19/analysis_and_implementation_of_blinn_phong_lighting_model/)

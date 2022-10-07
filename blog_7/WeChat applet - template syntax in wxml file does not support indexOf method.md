@@ -1,0 +1,2 @@
+# WeChat applet - template syntax in wxml file does not support indexOf method
+[WeChat applet - template syntax in wxml file does not support indexOf method](https://aiwithcloud.com/2022/09/16/wechat_applet___template_syntax_in_wxml_file_does_not_support_indexof_method/)

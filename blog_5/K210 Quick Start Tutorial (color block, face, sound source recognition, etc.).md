@@ -1,0 +1,2 @@
+# K210 Quick Start Tutorial (color block, face, sound source recognition, etc.)
+[K210 Quick Start Tutorial (color block, face, sound source recognition, etc.)](https://aiwithcloud.com/2022/09/16/k210_quick_start_tutorial_color_block_face_sound_source_recognition_etc/)

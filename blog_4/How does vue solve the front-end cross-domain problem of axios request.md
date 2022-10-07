@@ -1,0 +1,2 @@
+# How does vue solve the front-end cross-domain problem of axios request
+[How does vue solve the front-end cross-domain problem of axios request](https://aiwithcloud.com/2022/09/15/how_does_vue_solve_the_front_end_cross_domain_problem_of_axios_request/)

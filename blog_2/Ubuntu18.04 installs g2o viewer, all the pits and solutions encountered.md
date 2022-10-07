@@ -1,0 +1,2 @@
+# Ubuntu18.04 installs g2o viewer, all the pits and solutions encountered
+[Ubuntu18.04 installs g2o viewer, all the pits and solutions encountered](https://aiwithcloud.com/2022/09/15/ubuntu18-04_installs_g2o_viewer_all_the_pits_and_solutions_encountered/)

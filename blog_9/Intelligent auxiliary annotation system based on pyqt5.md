@@ -1,0 +1,2 @@
+# Intelligent auxiliary annotation system based on pyqt5
+[Intelligent auxiliary annotation system based on pyqt5](https://aiwithcloud.com/2022/09/19/intelligent_auxiliary_annotation_system_based_on_pyqt5/)

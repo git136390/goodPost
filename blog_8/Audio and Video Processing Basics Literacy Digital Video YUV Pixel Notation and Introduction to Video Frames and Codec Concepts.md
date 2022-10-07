@@ -1,0 +1,2 @@
+# Audio and Video Processing Basics Literacy Digital Video YUV Pixel Notation and Introduction to Video Frames and Codec Concepts
+[Audio and Video Processing Basics Literacy Digital Video YUV Pixel Notation and Introduction to Video Frames and Codec Concepts](https://aiwithcloud.com/2022/09/19/audio_and_video_processing_basics_literacy_digital_video_yuv_pixel_notation_and_introduction_to_video_frames_and_codec_concepts/)

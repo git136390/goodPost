@@ -1,0 +1,2 @@
+# Display grayscale histogram of grayscale image in Python
+[Display grayscale histogram of grayscale image in Python](https://aiwithcloud.com/2022/09/14/display_grayscale_histogram_of_grayscale_image_in_python/)

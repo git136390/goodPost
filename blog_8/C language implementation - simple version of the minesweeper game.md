@@ -1,0 +1,2 @@
+# C language implementation - simple version of the minesweeper game
+[C language implementation - simple version of the minesweeper game](https://aiwithcloud.com/2022/09/19/c_language_implementation___simple_version_of_the_minesweeper_game/)

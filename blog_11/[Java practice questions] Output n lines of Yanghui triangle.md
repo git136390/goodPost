@@ -1,0 +1,2 @@
+# [Java practice questions] Output n lines of Yanghui triangle
+[[Java practice questions] Output n lines of Yanghui triangle](https://aiwithcloud.com/2022/09/19/java_practice_questions_output_n_lines_of_yanghui_triangle/)

@@ -1,0 +1,2 @@
+# Spring boot integrates Swagger2 and the pits encountered
+[Spring boot integrates Swagger2 and the pits encountered](https://aiwithcloud.com/2022/09/19/spring_boot_integrates_swagger2_and_the_pits_encountered/)

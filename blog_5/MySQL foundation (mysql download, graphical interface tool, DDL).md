@@ -1,0 +1,2 @@
+# MySQL foundation (mysql download, graphical interface tool, DDL)
+[MySQL foundation (mysql download, graphical interface tool, DDL)](https://aiwithcloud.com/2022/09/16/mysql_foundation_mysql_download_graphical_interface_tool_ddl/)

@@ -1,0 +1,2 @@
+# This article will take you to completely win the equivalent resistance between two points a and b
+[This article will take you to completely win the equivalent resistance between two points a and b](https://aiwithcloud.com/2022/09/15/this_article_will_take_you_to_completely_win_the_equivalent_resistance_between_two_points_a_and_b/)

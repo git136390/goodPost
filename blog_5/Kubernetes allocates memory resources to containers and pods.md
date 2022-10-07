@@ -1,0 +1,2 @@
+# Kubernetes allocates memory resources to containers and pods
+[Kubernetes allocates memory resources to containers and pods](https://aiwithcloud.com/2022/09/16/kubernetes_allocates_memory_resources_to_containers_and_pods/)

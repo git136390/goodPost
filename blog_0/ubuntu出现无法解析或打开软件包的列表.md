@@ -1,0 +1,2 @@
+# ubuntu出现"无法解析或打开软件包的列表"
+[ubuntu出现"无法解析或打开软件包的列表"](https://aiwithcloud.com/2022/05/02/ubuntu%e5%87%ba%e7%8e%b0%e6%97%a0%e6%b3%95%e8%a7%a3%e6%9e%90%e6%88%96%e6%89%93%e5%bc%80%e8%bd%af%e4%bb%b6%e5%8c%85%e7%9a%84%e5%88%97%e8%a1%a8/)

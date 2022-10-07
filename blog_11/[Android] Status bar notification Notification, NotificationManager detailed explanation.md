@@ -1,0 +1,2 @@
+# [Android] Status bar notification Notification, NotificationManager detailed explanation
+[[Android] Status bar notification Notification, NotificationManager detailed explanation](https://aiwithcloud.com/2022/09/19/android_status_bar_notification_notification_notificationmanager_detailed_explanation/)

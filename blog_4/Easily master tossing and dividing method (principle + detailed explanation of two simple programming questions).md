@@ -1,0 +1,2 @@
+# Easily master tossing and dividing method (principle + detailed explanation of two simple programming questions)
+[Easily master tossing and dividing method (principle + detailed explanation of two simple programming questions)](https://aiwithcloud.com/2022/09/15/easily_master_tossing_and_dividing_method_principle__detailed_explanation_of_two_simple_programming_questions/)

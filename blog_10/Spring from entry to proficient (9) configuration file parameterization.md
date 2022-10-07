@@ -1,0 +1,2 @@
+# Spring from entry to proficient (9) configuration file parameterization
+[Spring from entry to proficient (9) configuration file parameterization](https://aiwithcloud.com/2022/09/19/spring_from_entry_to_proficient_9_configuration_file_parameterization/)

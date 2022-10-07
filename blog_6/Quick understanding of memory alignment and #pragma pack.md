@@ -1,0 +1,2 @@
+# Quick understanding of memory alignment and #pragma pack
+[Quick understanding of memory alignment and #pragma pack](https://aiwithcloud.com/2022/09/16/quick_understanding_of_memory_alignment_and_pragma_pack/)

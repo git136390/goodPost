@@ -1,0 +1,2 @@
+# VMware vCenter 7.0U2A upgrade guide VMware vCenter 7.0U3C guide
+[VMware vCenter 7.0U2A upgrade guide VMware vCenter 7.0U3C guide](https://aiwithcloud.com/2022/09/16/vmware_vcenter_7-0u2a_upgrade_guide_vmware_vcenter_7-0u3c_guide/)

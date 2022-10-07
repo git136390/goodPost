@@ -1,0 +1,2 @@
+# Maximum number of cells on a LeetCode 1710 truck (java)
+[Maximum number of cells on a LeetCode 1710 truck (java)](https://aiwithcloud.com/2022/09/16/maximum_number_of_cells_on_a_leetcode_1710_truck_java/)

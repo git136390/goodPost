@@ -1,0 +1,2 @@
+# The python3.5 version uses openpyxl to report the problem of 'NoneType' object has no attribute 'read'
+[The python3.5 version uses openpyxl to report the problem of 'NoneType' object has no attribute 'read'](https://aiwithcloud.com/2022/09/16/the_python3-5_version_uses_openpyxl_to_report_the_problem_of_nonetype_object_has_no_attribute_read/)

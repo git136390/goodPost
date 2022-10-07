@@ -1,0 +1,2 @@
+# Difference between single and double quotes for strings in shell scripts
+[Difference between single and double quotes for strings in shell scripts](https://aiwithcloud.com/2022/09/19/difference_between_single_and_double_quotes_for_strings_in_shell_scripts/)

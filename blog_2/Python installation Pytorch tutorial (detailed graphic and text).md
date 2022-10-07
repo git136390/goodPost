@@ -1,0 +1,2 @@
+# Python installation Pytorch tutorial (detailed graphic and text)
+[Python installation Pytorch tutorial (detailed graphic and text)](https://aiwithcloud.com/2022/09/15/python_installation_pytorch_tutorial_detailed_graphic_and_text/)

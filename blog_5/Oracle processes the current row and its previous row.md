@@ -1,0 +1,2 @@
+# Oracle processes the current row and its previous row
+[Oracle processes the current row and its previous row](https://aiwithcloud.com/2022/09/16/oracle_processes_the_current_row_and_its_previous_row/)

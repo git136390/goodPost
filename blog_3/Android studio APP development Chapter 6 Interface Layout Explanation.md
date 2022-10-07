@@ -1,0 +1,2 @@
+# Android studio APP development Chapter 6 Interface Layout Explanation
+[Android studio APP development Chapter 6 Interface Layout Explanation](https://aiwithcloud.com/2022/09/15/android_studio_app_development_chapter_6_interface_layout_explanation/)

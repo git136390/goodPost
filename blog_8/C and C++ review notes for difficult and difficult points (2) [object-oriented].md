@@ -1,0 +1,2 @@
+# C and C++ review notes for difficult and difficult points (2) [object-oriented]
+[C and C++ review notes for difficult and difficult points (2) [object-oriented]](https://aiwithcloud.com/2022/09/19/c_and_c_review_notes_for_difficult_and_difficult_points_2_object_oriented/)

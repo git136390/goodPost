@@ -1,0 +1,2 @@
+# Android development - simple use of startActivityForResult()
+[Android development - simple use of startActivityForResult()](https://aiwithcloud.com/2022/09/15/android_development___simple_use_of_startactivityforresult/)

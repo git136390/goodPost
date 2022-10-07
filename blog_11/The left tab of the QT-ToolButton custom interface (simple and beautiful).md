@@ -1,0 +1,2 @@
+# The left tab of the QT-ToolButton custom interface (simple and beautiful)
+[The left tab of the QT-ToolButton custom interface (simple and beautiful)](https://aiwithcloud.com/2022/09/19/the_left_tab_of_the_qt_toolbutton_custom_interface_simple_and_beautiful/)

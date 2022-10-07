@@ -1,0 +1,2 @@
+# GitChat · Architecture  Starting from the order center, talk about the practice of horizontal segmentation of multi-KEY business databases
+[GitChat · Architecture  Starting from the order center, talk about the practice of horizontal segmentation of multi-KEY business databases](https://aiwithcloud.com/2022/09/19/gitchat_%c2%b7_architecture__starting_from_the_order_center_talk_about_the_practice_of_horizontal_segmentation_of_multi_key_business_databases/)

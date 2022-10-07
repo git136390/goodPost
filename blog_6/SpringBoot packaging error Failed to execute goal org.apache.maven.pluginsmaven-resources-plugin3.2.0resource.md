@@ -1,0 +1,2 @@
+# SpringBoot packaging error Failed to execute goal org.apache.maven.pluginsmaven-resources-plugin3.2.0resource
+[SpringBoot packaging error Failed to execute goal org.apache.maven.pluginsmaven-resources-plugin3.2.0resource](https://aiwithcloud.com/2022/09/16/springboot_packaging_error_failed_to_execute_goal_org-apache-maven-pluginsmaven_resources_plugin3-2-0resource/)

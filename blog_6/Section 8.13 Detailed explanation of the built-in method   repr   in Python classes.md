@@ -1,0 +1,2 @@
+# Section 8.13 Detailed explanation of the built-in method   repr   in Python classes
+[Section 8.13 Detailed explanation of the built-in method   repr   in Python classes](https://aiwithcloud.com/2022/09/16/section_8-13_detailed_explanation_of_the_built_in_method___repr___in_python_classes/)

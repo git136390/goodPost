@@ -1,0 +1,2 @@
+# [issue] Could not find method compile() for arguments [directory 'libs'] summary of two cases
+[[issue] Could not find method compile() for arguments [directory 'libs'] summary of two cases](https://aiwithcloud.com/2022/09/16/issue_could_not_find_method_compile_for_arguments_directory_libs_summary_of_two_cases/)

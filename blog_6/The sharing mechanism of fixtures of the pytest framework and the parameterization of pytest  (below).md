@@ -1,0 +1,2 @@
+# The sharing mechanism of fixtures of the pytest framework and the parameterization of pytest  (below)
+[The sharing mechanism of fixtures of the pytest framework and the parameterization of pytest  (below)](https://aiwithcloud.com/2022/09/16/the_sharing_mechanism_of_fixtures_of_the_pytest_framework_and_the_parameterization_of_pytest__below/)

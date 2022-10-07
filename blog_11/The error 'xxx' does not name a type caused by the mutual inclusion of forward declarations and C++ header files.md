@@ -1,0 +1,2 @@
+# The error 'xxx' does not name a type caused by the mutual inclusion of forward declarations and C++ header files
+[The error 'xxx' does not name a type caused by the mutual inclusion of forward declarations and C++ header files](https://aiwithcloud.com/2022/09/19/the_error_xxx_does_not_name_a_type_caused_by_the_mutual_inclusion_of_forward_declarations_and_c_header_files/)

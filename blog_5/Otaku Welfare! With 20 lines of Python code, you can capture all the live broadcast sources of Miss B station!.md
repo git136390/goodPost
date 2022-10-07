@@ -1,0 +1,2 @@
+# Otaku Welfare! With 20 lines of Python code, you can capture all the live broadcast sources of Miss B station!
+[Otaku Welfare! With 20 lines of Python code, you can capture all the live broadcast sources of Miss B station!](https://aiwithcloud.com/2022/09/16/otaku_welfare_with_20_lines_of_python_code_you_can_capture_all_the_live_broadcast_sources_of_miss_b_station/)

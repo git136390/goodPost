@@ -1,0 +1,2 @@
+# Use Python to teach you to download a chopsticks video in batches to prevent the author's video from disappearing suddenly
+[Use Python to teach you to download a chopsticks video in batches to prevent the author's video from disappearing suddenly](https://aiwithcloud.com/2022/09/16/use_python_to_teach_you_to_download_a_chopsticks_video_in_batches_to_prevent_the_authors_video_from_disappearing_suddenly/)

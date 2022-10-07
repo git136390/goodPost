@@ -1,0 +1,2 @@
+# Deep and shallow copy of common interview questions in C++
+[Deep and shallow copy of common interview questions in C++](https://aiwithcloud.com/2022/09/19/deep_and_shallow_copy_of_common_interview_questions_in_c/)

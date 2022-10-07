@@ -1,0 +1,2 @@
+# [Python combat basics] How does Pandas generate html from the first few rows of a table
+[[Python combat basics] How does Pandas generate html from the first few rows of a table](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_does_pandas_generate_html_from_the_first_few_rows_of_a_table/)

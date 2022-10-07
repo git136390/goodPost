@@ -1,0 +1,2 @@
+# js code to verify name, verify ID number, verify address, etc.
+[js code to verify name, verify ID number, verify address, etc.](https://aiwithcloud.com/2022/09/15/js_code_to_verify_name_verify_id_number_verify_address_etc/)

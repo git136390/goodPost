@@ -1,0 +1,2 @@
+# C language starts from scratch, mother-fetal level teaching - the first C language program
+[C language starts from scratch, mother-fetal level teaching - the first C language program](https://aiwithcloud.com/2022/09/15/c_language_starts_from_scratch_mother_fetal_level_teaching___the_first_c_language_program/)

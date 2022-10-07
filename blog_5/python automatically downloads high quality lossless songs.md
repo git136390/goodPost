@@ -1,0 +1,2 @@
+# python automatically downloads high quality lossless songs
+[python automatically downloads high quality lossless songs](https://aiwithcloud.com/2022/09/16/python_automatically_downloads_high_quality_lossless_songs/)

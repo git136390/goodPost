@@ -1,0 +1,2 @@
+# SQL query ~ data exists in one table but not in another
+[SQL query ~ data exists in one table but not in another](https://aiwithcloud.com/2022/09/16/sql_query__data_exists_in_one_table_but_not_in_another/)

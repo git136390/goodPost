@@ -1,0 +1,2 @@
+# Computer Composition Principle Notes 04 - Overall Review of the Mips Instruction Set
+[Computer Composition Principle Notes 04 - Overall Review of the Mips Instruction Set](https://aiwithcloud.com/2022/09/15/computer_composition_principle_notes_04___overall_review_of_the_mips_instruction_set/)

@@ -1,0 +1,2 @@
+# Binary tree traversal (pre-order traversal, in-order traversal, post-order traversal, hierarchical traversal)
+[Binary tree traversal (pre-order traversal, in-order traversal, post-order traversal, hierarchical traversal)](https://aiwithcloud.com/2022/09/15/binary_tree_traversal_pre_order_traversal_in_order_traversal_post_order_traversal_hierarchical_traversal/)

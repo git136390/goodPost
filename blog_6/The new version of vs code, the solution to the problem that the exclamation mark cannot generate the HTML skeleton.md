@@ -1,0 +1,2 @@
+# The new version of vs code, the solution to the problem that the exclamation mark cannot generate the HTML skeleton
+[The new version of vs code, the solution to the problem that the exclamation mark cannot generate the HTML skeleton](https://aiwithcloud.com/2022/09/16/the_new_version_of_vs_code_the_solution_to_the_problem_that_the_exclamation_mark_cannot_generate_the_html_skeleton/)

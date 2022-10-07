@@ -1,0 +1,2 @@
+# [Java] Niuke.com Huawei computer test 108 questions summary
+[[Java] Niuke.com Huawei computer test 108 questions summary](https://aiwithcloud.com/2022/09/19/java_niuke-com_huawei_computer_test_108_questions_summary/)

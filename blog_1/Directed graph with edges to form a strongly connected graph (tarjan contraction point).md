@@ -1,0 +1,2 @@
+# Directed graph with edges to form a strongly connected graph (tarjan contraction point)
+[Directed graph with edges to form a strongly connected graph (tarjan contraction point)](https://aiwithcloud.com/2022/09/14/directed_graph_with_edges_to_form_a_strongly_connected_graph_tarjan_contraction_point/)

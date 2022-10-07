@@ -1,0 +1,2 @@
+# Ubuntu20.04 replaces domestic mirror sources (Ali, Netease 163, Tsinghua University, University of Science and Technology of China)
+[Ubuntu20.04 replaces domestic mirror sources (Ali, Netease 163, Tsinghua University, University of Science and Technology of China)](https://aiwithcloud.com/2022/09/15/ubuntu20-04_replaces_domestic_mirror_sources_ali_netease_163_tsinghua_university_university_of_science_and_technology_of_china/)

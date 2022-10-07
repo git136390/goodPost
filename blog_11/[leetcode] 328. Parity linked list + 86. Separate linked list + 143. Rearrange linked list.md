@@ -1,0 +1,2 @@
+# [leetcode] 328. Parity linked list + 86. Separate linked list + 143. Rearrange linked list
+[[leetcode] 328. Parity linked list + 86. Separate linked list + 143. Rearrange linked list](https://aiwithcloud.com/2022/09/19/leetcode_328-_parity_linked_list__86-_separate_linked_list__143-_rearrange_linked_list/)

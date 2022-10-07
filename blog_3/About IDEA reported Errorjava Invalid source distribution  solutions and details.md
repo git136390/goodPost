@@ -1,0 +1,2 @@
+# About IDEA reported Errorjava Invalid source distribution  solutions and details
+[About IDEA reported Errorjava Invalid source distribution  solutions and details](https://aiwithcloud.com/2022/09/15/about_idea_reported_errorjava_invalid_source_distribution__solutions_and_details/)

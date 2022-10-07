@@ -1,0 +1,2 @@
+# Android XML layout basics (4) inner and outer margins (margin, padding)
+[Android XML layout basics (4) inner and outer margins (margin, padding)](https://aiwithcloud.com/2022/09/15/android_xml_layout_basics_4_inner_and_outer_margins_margin_padding/)

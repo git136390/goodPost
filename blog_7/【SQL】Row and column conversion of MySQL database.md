@@ -1,0 +1,2 @@
+# 【SQL】Row and column conversion of MySQL database
+[【SQL】Row and column conversion of MySQL database](https://aiwithcloud.com/2022/09/16/%e3%80%90sql%e3%80%91row_and_column_conversion_of_mysql_database/)

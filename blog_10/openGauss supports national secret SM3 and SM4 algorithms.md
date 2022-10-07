@@ -1,0 +1,2 @@
+# openGauss supports national secret SM3 and SM4 algorithms
+[openGauss supports national secret SM3 and SM4 algorithms](https://aiwithcloud.com/2022/09/19/opengauss_supports_national_secret_sm3_and_sm4_algorithms/)

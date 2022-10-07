@@ -1,0 +1,2 @@
+# Two important methods for finding the inverse number (51nod inverse number)
+[Two important methods for finding the inverse number (51nod inverse number)](https://aiwithcloud.com/2022/09/16/two_important_methods_for_finding_the_inverse_number_51nod_inverse_number/)

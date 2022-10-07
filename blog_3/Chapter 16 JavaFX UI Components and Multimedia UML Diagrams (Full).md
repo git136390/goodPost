@@ -1,0 +1,2 @@
+# Chapter 16 JavaFX UI Components and Multimedia UML Diagrams (Full)
+[Chapter 16 JavaFX UI Components and Multimedia UML Diagrams (Full)](https://aiwithcloud.com/2022/09/15/chapter_16_javafx_ui_components_and_multimedia_uml_diagrams_full/)

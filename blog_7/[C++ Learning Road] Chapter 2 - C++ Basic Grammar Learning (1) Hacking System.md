@@ -1,0 +1,2 @@
+# [C++ Learning Road] Chapter 2 - C++ Basic Grammar Learning (1) Hacking System
+[[C++ Learning Road] Chapter 2 - C++ Basic Grammar Learning (1) Hacking System](https://aiwithcloud.com/2022/09/16/c_learning_road_chapter_2___c_basic_grammar_learning_1_hacking_system/)

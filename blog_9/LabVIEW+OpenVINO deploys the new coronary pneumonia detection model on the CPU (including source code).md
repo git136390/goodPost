@@ -1,0 +1,2 @@
+# LabVIEW+OpenVINO deploys the new coronary pneumonia detection model on the CPU (including source code)
+[LabVIEW+OpenVINO deploys the new coronary pneumonia detection model on the CPU (including source code)](https://aiwithcloud.com/2022/09/19/labviewopenvino_deploys_the_new_coronary_pneumonia_detection_model_on_the_cpu_including_source_code/)

@@ -1,0 +1,2 @@
+# Solved (pip prompt) [notice] To update, run python.exe -m pip install --upgrade pip
+[Solved (pip prompt) [notice] To update, run python.exe -m pip install --upgrade pip](https://aiwithcloud.com/2022/09/16/solved_pip_prompt_notice_to_update_run_python-exe__m_pip_install___upgrade_pip/)

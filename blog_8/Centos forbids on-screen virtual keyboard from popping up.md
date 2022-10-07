@@ -1,0 +1,2 @@
+# Centos forbids on-screen virtual keyboard from popping up
+[Centos forbids on-screen virtual keyboard from popping up](https://aiwithcloud.com/2022/09/19/centos_forbids_on_screen_virtual_keyboard_from_popping_up/)

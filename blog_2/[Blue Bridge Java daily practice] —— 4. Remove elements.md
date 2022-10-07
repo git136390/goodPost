@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] —— 4. Remove elements
+[[Blue Bridge Java daily practice] —— 4. Remove elements](https://aiwithcloud.com/2022/09/15/blue_bridge_java_daily_practice_-_4-_remove_elements/)

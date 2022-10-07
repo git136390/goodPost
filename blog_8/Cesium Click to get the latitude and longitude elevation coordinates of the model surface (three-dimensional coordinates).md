@@ -1,0 +1,2 @@
+# Cesium Click to get the latitude and longitude elevation coordinates of the model surface (three-dimensional coordinates)
+[Cesium Click to get the latitude and longitude elevation coordinates of the model surface (three-dimensional coordinates)](https://aiwithcloud.com/2022/09/19/cesium_click_to_get_the_latitude_and_longitude_elevation_coordinates_of_the_model_surface_three_dimensional_coordinates/)

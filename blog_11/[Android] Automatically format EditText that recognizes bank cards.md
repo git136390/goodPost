@@ -1,0 +1,2 @@
+# [Android] Automatically format EditText that recognizes bank cards
+[[Android] Automatically format EditText that recognizes bank cards](https://aiwithcloud.com/2022/09/19/android_automatically_format_edittext_that_recognizes_bank_cards/)

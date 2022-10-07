@@ -1,0 +1,2 @@
+# 云服务器搭建图像界面报错：mesg:ttyname failed: Inapproprivate ioctl for device
+[云服务器搭建图像界面报错：mesg:ttyname failed: Inapproprivate ioctl for device](https://aiwithcloud.com/2021/12/21/%e4%ba%91%e6%9c%8d%e5%8a%a1%e5%99%a8%e6%90%ad%e5%bb%ba%e5%9b%be%e5%83%8f%e7%95%8c%e9%9d%a2%e6%8a%a5%e9%94%99%ef%bc%9amesgttyname-failed-inapproprivate-ioctl-for-device/)

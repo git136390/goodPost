@@ -1,0 +1,2 @@
+# Find the corresponding data under the two-dimensional array. (real-time fuzzy query on the array)
+[Find the corresponding data under the two-dimensional array. (real-time fuzzy query on the array)](https://aiwithcloud.com/2022/09/19/find_the_corresponding_data_under_the_two_dimensional_array-_real_time_fuzzy_query_on_the_array/)

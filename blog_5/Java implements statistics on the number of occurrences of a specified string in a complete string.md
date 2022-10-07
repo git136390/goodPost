@@ -1,0 +1,2 @@
+# Java implements statistics on the number of occurrences of a specified string in a complete string
+[Java implements statistics on the number of occurrences of a specified string in a complete string](https://aiwithcloud.com/2022/09/16/java_implements_statistics_on_the_number_of_occurrences_of_a_specified_string_in_a_complete_string/)

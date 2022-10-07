@@ -1,0 +1,2 @@
+# Docker Skill TreeCareer Route Evaluation-Docker Image Operation (4) Remove Image Answers
+[Docker Skill TreeCareer Route Evaluation-Docker Image Operation (4) Remove Image Answers](https://aiwithcloud.com/2022/09/19/docker_skill_treecareer_route_evaluation_docker_image_operation_4_remove_image_answers/)

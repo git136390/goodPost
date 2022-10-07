@@ -1,0 +1,2 @@
+# Android actual combat simulation WeChat home page interface (java implementation)
+[Android actual combat simulation WeChat home page interface (java implementation)](https://aiwithcloud.com/2022/09/19/android_actual_combat_simulation_wechat_home_page_interface_java_implementation/)

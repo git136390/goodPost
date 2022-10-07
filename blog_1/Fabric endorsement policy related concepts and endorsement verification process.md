@@ -1,0 +1,2 @@
+# Fabric endorsement policy related concepts and endorsement verification process
+[Fabric endorsement policy related concepts and endorsement verification process](https://aiwithcloud.com/2022/09/14/fabric_endorsement_policy_related_concepts_and_endorsement_verification_process/)

@@ -1,0 +1,2 @@
+# Linux distribution CentOS6.8 configure IP address and connect to server remotely
+[Linux distribution CentOS6.8 configure IP address and connect to server remotely](https://aiwithcloud.com/2022/09/15/linux_distribution_centos6-8_configure_ip_address_and_connect_to_server_remotely/)

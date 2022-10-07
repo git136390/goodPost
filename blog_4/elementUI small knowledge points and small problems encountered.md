@@ -1,0 +1,2 @@
+# elementUI small knowledge points and small problems encountered
+[elementUI small knowledge points and small problems encountered](https://aiwithcloud.com/2022/09/15/elementui_small_knowledge_points_and_small_problems_encountered/)

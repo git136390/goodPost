@@ -1,0 +1,2 @@
+# Wireless penetration study notes use the kali system to grab the handshake and run the dictionary
+[Wireless penetration study notes use the kali system to grab the handshake and run the dictionary](https://aiwithcloud.com/2022/09/16/wireless_penetration_study_notes_use_the_kali_system_to_grab_the_handshake_and_run_the_dictionary/)

@@ -1,0 +1,2 @@
+# Common postgresql data operation memo (updated from time to time)
+[Common postgresql data operation memo (updated from time to time)](https://aiwithcloud.com/2022/09/19/common_postgresql_data_operation_memo_updated_from_time_to_time/)

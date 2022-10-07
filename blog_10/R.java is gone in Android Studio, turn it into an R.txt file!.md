@@ -1,0 +1,2 @@
+# R.java is gone in Android Studio, turn it into an R.txt file!
+[R.java is gone in Android Studio, turn it into an R.txt file!](https://aiwithcloud.com/2022/09/19/r-java_is_gone_in_android_studio_turn_it_into_an_r-txt_file/)

@@ -1,0 +1,2 @@
+# Deep learning---the problem of the weight of each grade of the three good students (3)
+[Deep learning---the problem of the weight of each grade of the three good students (3)](https://aiwithcloud.com/2022/09/14/deep_learning___the_problem_of_the_weight_of_each_grade_of_the_three_good_students_3/)

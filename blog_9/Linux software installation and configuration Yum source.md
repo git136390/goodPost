@@ -1,0 +1,2 @@
+# Linux software installation and configuration Yum source
+[Linux software installation and configuration Yum source](https://aiwithcloud.com/2022/09/19/linux_software_installation_and_configuration_yum_source/)

@@ -1,0 +1,2 @@
+# Detailed explanation of the problem of drinking soda - C language description
+[Detailed explanation of the problem of drinking soda - C language description](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_the_problem_of_drinking_soda___c_language_description/)

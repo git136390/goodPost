@@ -1,0 +1,2 @@
+# The reason why Android Logcat output can automatically wrap the output and the role of multiple n
+[The reason why Android Logcat output can automatically wrap the output and the role of multiple n](https://aiwithcloud.com/2022/09/16/the_reason_why_android_logcat_output_can_automatically_wrap_the_output_and_the_role_of_multiple_n/)

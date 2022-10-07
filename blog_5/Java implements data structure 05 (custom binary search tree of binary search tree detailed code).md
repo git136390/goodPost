@@ -1,0 +1,2 @@
+# Java implements data structure 05 (custom binary search tree of binary search tree detailed code)
+[Java implements data structure 05 (custom binary search tree of binary search tree detailed code)](https://aiwithcloud.com/2022/09/16/java_implements_data_structure_05_custom_binary_search_tree_of_binary_search_tree_detailed_code/)

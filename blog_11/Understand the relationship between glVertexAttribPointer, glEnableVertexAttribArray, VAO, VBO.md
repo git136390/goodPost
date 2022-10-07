@@ -1,0 +1,2 @@
+# Understand the relationship between glVertexAttribPointer, glEnableVertexAttribArray, VAO, VBO
+[Understand the relationship between glVertexAttribPointer, glEnableVertexAttribArray, VAO, VBO](https://aiwithcloud.com/2022/09/19/understand_the_relationship_between_glvertexattribpointer_glenablevertexattribarray_vao_vbo/)

@@ -1,0 +1,2 @@
+# [React] 8. Detailed explanation of react-getSnapshotBeforeUpdate() life cycle function
+[[React] 8. Detailed explanation of react-getSnapshotBeforeUpdate() life cycle function](https://aiwithcloud.com/2022/09/16/react_8-_detailed_explanation_of_react_getsnapshotbeforeupdate_life_cycle_function/)

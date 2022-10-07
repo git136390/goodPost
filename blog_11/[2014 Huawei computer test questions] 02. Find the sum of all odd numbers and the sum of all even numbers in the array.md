@@ -1,0 +1,2 @@
+# [2014 Huawei computer test questions] 02. Find the sum of all odd numbers and the sum of all even numbers in the array
+[[2014 Huawei computer test questions] 02. Find the sum of all odd numbers and the sum of all even numbers in the array](https://aiwithcloud.com/2022/09/19/2014_huawei_computer_test_questions_02-_find_the_sum_of_all_odd_numbers_and_the_sum_of_all_even_numbers_in_the_array/)

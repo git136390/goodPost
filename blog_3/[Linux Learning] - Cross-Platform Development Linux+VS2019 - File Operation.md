@@ -1,0 +1,2 @@
+# [Linux Learning] - Cross-Platform Development Linux+VS2019 - File Operation
+[[Linux Learning] - Cross-Platform Development Linux+VS2019 - File Operation](https://aiwithcloud.com/2022/09/15/linux_learning___cross_platform_development_linuxvs2019___file_operation/)

@@ -1,0 +1,2 @@
+# Chinese garbled characters in Gradle project console in idea
+[Chinese garbled characters in Gradle project console in idea](https://aiwithcloud.com/2022/09/15/chinese_garbled_characters_in_gradle_project_console_in_idea/)

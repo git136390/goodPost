@@ -1,0 +1,2 @@
+# How to migrate applications from docker-compose to k8s
+[How to migrate applications from docker-compose to k8s](https://aiwithcloud.com/2022/09/19/how_to_migrate_applications_from_docker_compose_to_k8s/)

@@ -1,0 +1,2 @@
+# MathorCup Modeling Competition 2022 Question D MATLAB Code and Several Problems
+[MathorCup Modeling Competition 2022 Question D MATLAB Code and Several Problems](https://aiwithcloud.com/2022/09/19/mathorcup_modeling_competition_2022_question_d_matlab_code_and_several_problems/)

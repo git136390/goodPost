@@ -1,0 +1,2 @@
+# Android force close other programs (under root version)
+[Android force close other programs (under root version)](https://aiwithcloud.com/2022/09/15/android_force_close_other_programs_under_root_version/)

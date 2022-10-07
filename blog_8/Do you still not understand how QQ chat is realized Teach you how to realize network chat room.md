@@ -1,0 +1,2 @@
+# Do you still not understand how QQ chat is realized Teach you how to realize network chat room
+[Do you still not understand how QQ chat is realized Teach you how to realize network chat room](https://aiwithcloud.com/2022/09/19/do_you_still_not_understand_how_qq_chat_is_realized_teach_you_how_to_realize_network_chat_room/)

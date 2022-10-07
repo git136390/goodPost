@@ -1,0 +1,2 @@
+# Flutter custom video player (play, pause, double speed, drag video progress)
+[Flutter custom video player (play, pause, double speed, drag video progress)](https://aiwithcloud.com/2022/09/19/flutter_custom_video_player_play_pause_double_speed_drag_video_progress/)

@@ -1,0 +1,2 @@
+# Today is Qixi Festival, let's take a look at the programmer's earthy love words.
+[Today is Qixi Festival, let's take a look at the programmer's earthy love words.](https://aiwithcloud.com/2022/09/15/today_is_qixi_festival_lets_take_a_look_at_the_programmers_earthy_love_words/)

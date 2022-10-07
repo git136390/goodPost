@@ -1,0 +1,2 @@
+# Initialization failed for 'httpsstart.spring.io solution
+[Initialization failed for 'httpsstart.spring.io solution](https://aiwithcloud.com/2022/09/19/initialization_failed_for_httpsstart-spring-io_solution/)

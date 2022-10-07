@@ -1,0 +1,2 @@
+# Solved MathPage.wll or MathType.dll file not found when Word loads MathType
+[Solved MathPage.wll or MathType.dll file not found when Word loads MathType](https://aiwithcloud.com/2022/09/16/solved_mathpage-wll_or_mathtype-dll_file_not_found_when_word_loads_mathtype/)

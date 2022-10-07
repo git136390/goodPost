@@ -1,0 +1,2 @@
+# (Data Structures and Algorithms) Implementation of Addition, Deletion, Modification, and Search for singly linked lists and double linked lists.
+[(Data Structures and Algorithms) Implementation of Addition, Deletion, Modification, and Search for singly linked lists and double linked lists.](https://aiwithcloud.com/2022/09/19/data_structures_and_algorithms_implementation_of_addition_deletion_modification_and_search_for_singly_linked_lists_and_double_linked_lists/)

@@ -1,0 +1,2 @@
+# The production of stop motion animation in PR editing teaching
+[The production of stop motion animation in PR editing teaching](https://aiwithcloud.com/2022/09/16/the_production_of_stop_motion_animation_in_pr_editing_teaching/)

@@ -1,0 +1,2 @@
+# Find strings with spaces in tailcat+grep or vim under linux
+[Find strings with spaces in tailcat+grep or vim under linux](https://aiwithcloud.com/2022/09/15/find_strings_with_spaces_in_tailcatgrep_or_vim_under_linux/)

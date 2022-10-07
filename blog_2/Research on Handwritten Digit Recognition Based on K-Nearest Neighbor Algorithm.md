@@ -1,0 +1,2 @@
+# Research on Handwritten Digit Recognition Based on K-Nearest Neighbor Algorithm
+[Research on Handwritten Digit Recognition Based on K-Nearest Neighbor Algorithm](https://aiwithcloud.com/2022/09/15/research_on_handwritten_digit_recognition_based_on_k_nearest_neighbor_algorithm/)

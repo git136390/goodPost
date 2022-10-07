@@ -1,0 +1,2 @@
+# Teach you to use Python to build an open platform for face recognition
+[Teach you to use Python to build an open platform for face recognition](https://aiwithcloud.com/2022/09/19/teach_you_to_use_python_to_build_an_open_platform_for_face_recognition/)

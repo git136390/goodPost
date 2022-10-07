@@ -1,0 +1,2 @@
+# Oracle&SQL database parameters similarities and differences
+[Oracle&SQL database parameters similarities and differences](https://aiwithcloud.com/2022/09/15/oraclesql_database_parameters_similarities_and_differences/)

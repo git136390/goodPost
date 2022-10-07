@@ -1,0 +1,2 @@
+# Android Baidu map development study notes (4) POI retrieval and display in listview
+[Android Baidu map development study notes (4) POI retrieval and display in listview](https://aiwithcloud.com/2022/09/19/android_baidu_map_development_study_notes_4_poi_retrieval_and_display_in_listview/)

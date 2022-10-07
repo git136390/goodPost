@@ -1,0 +1,2 @@
+# Java implements input month, judges spring, summer, autumn and winter (Scanner application, switch application)
+[Java implements input month, judges spring, summer, autumn and winter (Scanner application, switch application)](https://aiwithcloud.com/2022/09/16/java_implements_input_month_judges_spring_summer_autumn_and_winter_scanner_application_switch_application/)

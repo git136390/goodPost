@@ -1,0 +1,2 @@
+# WeChat applet - call the internal method of the custom component
+[WeChat applet - call the internal method of the custom component](https://aiwithcloud.com/2022/09/16/wechat_applet___call_the_internal_method_of_the_custom_component/)

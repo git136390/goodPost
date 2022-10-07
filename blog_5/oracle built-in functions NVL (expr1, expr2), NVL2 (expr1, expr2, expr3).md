@@ -1,0 +1,2 @@
+# oracle built-in functions NVL (expr1, expr2), NVL2 (expr1, expr2, expr3)
+[oracle built-in functions NVL (expr1, expr2), NVL2 (expr1, expr2, expr3)](https://aiwithcloud.com/2022/09/16/oracle_built_in_functions_nvl_expr1_expr2_nvl2_expr1_expr2_expr3/)

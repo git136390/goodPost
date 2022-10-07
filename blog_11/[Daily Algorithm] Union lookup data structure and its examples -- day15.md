@@ -1,0 +1,2 @@
+# [Daily Algorithm] Union lookup data structure and its examples -- day15
+[[Daily Algorithm] Union lookup data structure and its examples -- day15](https://aiwithcloud.com/2022/09/19/daily_algorithm_union_lookup_data_structure_and_its_examples____day15/)

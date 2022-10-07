@@ -1,0 +1,2 @@
+# Maven project is missing Maven Dependencies solution summary
+[Maven project is missing Maven Dependencies solution summary](https://aiwithcloud.com/2022/09/15/maven_project_is_missing_maven_dependencies_solution_summary/)

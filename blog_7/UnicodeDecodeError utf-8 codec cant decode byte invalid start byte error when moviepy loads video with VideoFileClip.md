@@ -1,0 +1,2 @@
+# UnicodeDecodeError utf-8 codec cant decode byte invalid start byte error when moviepy loads video with VideoFileClip
+[UnicodeDecodeError utf-8 codec cant decode byte invalid start byte error when moviepy loads video with VideoFileClip](https://aiwithcloud.com/2022/09/16/unicodedecodeerror_utf_8_codec_cant_decode_byte_invalid_start_byte_error_when_moviepy_loads_video_with_videofileclip/)

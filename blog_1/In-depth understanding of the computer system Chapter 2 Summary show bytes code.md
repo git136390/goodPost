@@ -1,0 +1,2 @@
+# In-depth understanding of the computer system Chapter 2 Summary show bytes code
+[In-depth understanding of the computer system Chapter 2 Summary show bytes code](https://aiwithcloud.com/2022/09/15/in_depth_understanding_of_the_computer_system_chapter_2_summary_show_bytes_code/)

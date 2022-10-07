@@ -1,0 +1,2 @@
+# Online training system for tour guides in Kunming realizes unattended video playback
+[Online training system for tour guides in Kunming realizes unattended video playback](https://aiwithcloud.com/2022/09/19/online_training_system_for_tour_guides_in_kunming_realizes_unattended_video_playback/)

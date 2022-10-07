@@ -1,0 +1,2 @@
+# How does the PaddlePaddle Fluid version of PaddlePaddle load the previously trained model before training
+[How does the PaddlePaddle Fluid version of PaddlePaddle load the previously trained model before training](https://aiwithcloud.com/2022/09/19/how_does_the_paddlepaddle_fluid_version_of_paddlepaddle_load_the_previously_trained_model_before_training/)

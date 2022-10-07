@@ -1,0 +1,2 @@
+# Getting Started with Mini Program Development 4 - Scan the ordinary QR code to enter the Mini Program, open the short link to enter the Mini Program
+[Getting Started with Mini Program Development 4 - Scan the ordinary QR code to enter the Mini Program, open the short link to enter the Mini Program](https://aiwithcloud.com/2022/09/15/getting_started_with_mini_program_development_4___scan_the_ordinary_qr_code_to_enter_the_mini_program_open_the_short_link_to_enter_the_mini_program/)

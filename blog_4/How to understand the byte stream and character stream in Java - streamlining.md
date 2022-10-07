@@ -1,0 +1,2 @@
+# How to understand the byte stream and character stream in Java - streamlining
+[How to understand the byte stream and character stream in Java - streamlining](https://aiwithcloud.com/2022/09/15/how_to_understand_the_byte_stream_and_character_stream_in_java___streamlining/)

@@ -1,0 +1,2 @@
+# Knowledge of monitoring input and textarea input box value changes
+[Knowledge of monitoring input and textarea input box value changes](https://aiwithcloud.com/2022/09/15/knowledge_of_monitoring_input_and_textarea_input_box_value_changes/)

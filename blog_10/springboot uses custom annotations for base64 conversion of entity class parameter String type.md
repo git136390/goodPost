@@ -1,0 +1,2 @@
+# springboot uses custom annotations for base64 conversion of entity class parameter String type
+[springboot uses custom annotations for base64 conversion of entity class parameter String type](https://aiwithcloud.com/2022/09/19/springboot_uses_custom_annotations_for_base64_conversion_of_entity_class_parameter_string_type/)

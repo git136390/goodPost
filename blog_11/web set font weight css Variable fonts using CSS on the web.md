@@ -1,0 +1,2 @@
+# web set font weight css Variable fonts using CSS on the web
+[web set font weight css Variable fonts using CSS on the web](https://aiwithcloud.com/2022/09/19/web_set_font_weight_css_variable_fonts_using_css_on_the_web/)

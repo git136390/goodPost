@@ -1,0 +1,2 @@
+# Shandong University Software College Operating System (Exam) - Final Exam Recall Edition
+[Shandong University Software College Operating System (Exam) - Final Exam Recall Edition](https://aiwithcloud.com/2022/09/19/shandong_university_software_college_operating_system_exam___final_exam_recall_edition/)

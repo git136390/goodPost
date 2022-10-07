@@ -1,0 +1,2 @@
+# Requests-applicationjson for python development module
+[Requests-applicationjson for python development module](https://aiwithcloud.com/2022/09/16/requests_applicationjson_for_python_development_module/)

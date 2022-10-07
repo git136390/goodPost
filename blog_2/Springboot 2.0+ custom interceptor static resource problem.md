@@ -1,0 +1,2 @@
+# Springboot 2.0+ custom interceptor static resource problem
+[Springboot 2.0+ custom interceptor static resource problem](https://aiwithcloud.com/2022/09/15/springboot_2-0_custom_interceptor_static_resource_problem/)

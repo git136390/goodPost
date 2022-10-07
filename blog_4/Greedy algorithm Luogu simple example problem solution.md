@@ -1,0 +1,2 @@
+# Greedy algorithm Luogu simple example problem solution
+[Greedy algorithm Luogu simple example problem solution](https://aiwithcloud.com/2022/09/15/greedy_algorithm_luogu_simple_example_problem_solution/)

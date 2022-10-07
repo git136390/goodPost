@@ -1,0 +1,2 @@
+# Introduction to Paddle-Mobile, Baidu's Embedded Deep Learning Framework
+[Introduction to Paddle-Mobile, Baidu's Embedded Deep Learning Framework](https://aiwithcloud.com/2022/09/15/introduction_to_paddle_mobile_baidus_embedded_deep_learning_framework/)

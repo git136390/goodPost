@@ -1,0 +1,2 @@
+# mysql5.5 failed to import the sql file of mysql5.6 or mysql 5.7
+[mysql5.5 failed to import the sql file of mysql5.6 or mysql 5.7](https://aiwithcloud.com/2022/09/16/mysql5-5_failed_to_import_the_sql_file_of_mysql5-6_or_mysql_5-7/)

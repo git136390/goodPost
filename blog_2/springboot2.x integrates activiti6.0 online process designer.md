@@ -1,0 +1,2 @@
+# springboot2.x integrates activiti6.0 online process designer
+[springboot2.x integrates activiti6.0 online process designer](https://aiwithcloud.com/2022/09/15/springboot2-x_integrates_activiti6-0_online_process_designer/)

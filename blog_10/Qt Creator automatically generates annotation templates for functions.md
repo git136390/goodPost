@@ -1,0 +1,2 @@
+# Qt Creator automatically generates annotation templates for functions
+[Qt Creator automatically generates annotation templates for functions](https://aiwithcloud.com/2022/09/19/qt_creator_automatically_generates_annotation_templates_for_functions/)

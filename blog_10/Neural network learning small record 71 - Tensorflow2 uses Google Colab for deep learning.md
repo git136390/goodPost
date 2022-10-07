@@ -1,0 +1,2 @@
+# Neural network learning small record 71 - Tensorflow2 uses Google Colab for deep learning
+[Neural network learning small record 71 - Tensorflow2 uses Google Colab for deep learning](https://aiwithcloud.com/2022/09/19/neural_network_learning_small_record_71___tensorflow2_uses_google_colab_for_deep_learning/)

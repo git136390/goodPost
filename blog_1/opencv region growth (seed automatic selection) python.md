@@ -1,0 +1,2 @@
+# opencv region growth (seed automatic selection) python
+[opencv region growth (seed automatic selection) python](https://aiwithcloud.com/2022/09/15/opencv_region_growth_seed_automatic_selection_python/)

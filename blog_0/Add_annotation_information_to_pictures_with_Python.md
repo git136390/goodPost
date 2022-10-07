@@ -1,0 +1,2 @@
+# Add_annotation_information_to_pictures_with_Python
+[Add_annotation_information_to_pictures_with_Python](https://aiwithcloud.com/2022/09/14/add_annotation_information_to_pictures_with_python/)

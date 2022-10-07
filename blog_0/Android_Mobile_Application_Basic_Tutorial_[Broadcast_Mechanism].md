@@ -1,0 +1,2 @@
+# Android_Mobile_Application_Basic_Tutorial_[Broadcast_Mechanism]
+[Android_Mobile_Application_Basic_Tutorial_[Broadcast_Mechanism]](https://aiwithcloud.com/2022/09/14/android_mobile_application_basic_tutorial_broadcast_mechanism/)

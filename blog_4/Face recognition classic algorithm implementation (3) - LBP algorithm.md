@@ -1,0 +1,2 @@
+# Face recognition classic algorithm implementation (3) - LBP algorithm
+[Face recognition classic algorithm implementation (3) - LBP algorithm](https://aiwithcloud.com/2022/09/15/face_recognition_classic_algorithm_implementation_3___lbp_algorithm/)

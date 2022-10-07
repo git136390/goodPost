@@ -1,0 +1,2 @@
+# [Qt] Imitation 360 security guard interface (custom shadow border class)
+[[Qt] Imitation 360 security guard interface (custom shadow border class)](https://aiwithcloud.com/2022/09/16/qt_imitation_360_security_guard_interface_custom_shadow_border_class/)

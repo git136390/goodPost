@@ -1,0 +1,2 @@
+# DHCP Relay Principle and Configuration (Including Common Configuration Mistakes)
+[DHCP Relay Principle and Configuration (Including Common Configuration Mistakes)](https://aiwithcloud.com/2022/09/15/dhcp_relay_principle_and_configuration_including_common_configuration_mistakes/)

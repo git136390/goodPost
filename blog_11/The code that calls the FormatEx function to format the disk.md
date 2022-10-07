@@ -1,0 +1,2 @@
+# The code that calls the FormatEx function to format the disk
+[The code that calls the FormatEx function to format the disk](https://aiwithcloud.com/2022/09/19/the_code_that_calls_the_formatex_function_to_format_the_disk/)

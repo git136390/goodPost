@@ -1,0 +1,2 @@
+# [uiautomation] Daquan of key commands (and three calling methods) + common mouse actions + SendKeys + Inspect learning
+[[uiautomation] Daquan of key commands (and three calling methods) + common mouse actions + SendKeys + Inspect learning](https://aiwithcloud.com/2022/09/16/uiautomation_daquan_of_key_commands_and_three_calling_methods__common_mouse_actions__sendkeys__inspect_learning/)

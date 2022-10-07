@@ -1,0 +1,2 @@
+# The stm32 microcontroller screen keeps flashing  STM32 uses the HAL library function to light up the OLED
+[The stm32 microcontroller screen keeps flashing  STM32 uses the HAL library function to light up the OLED](https://aiwithcloud.com/2022/09/16/the_stm32_microcontroller_screen_keeps_flashing__stm32_uses_the_hal_library_function_to_light_up_the_oled/)

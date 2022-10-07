@@ -1,0 +1,2 @@
+# [Python Basics] Network Programming - Python writes a simple HTTP server and client to realize ClientServer interaction
+[[Python Basics] Network Programming - Python writes a simple HTTP server and client to realize ClientServer interaction](https://aiwithcloud.com/2022/09/16/python_basics_network_programming___python_writes_a_simple_http_server_and_client_to_realize_clientserver_interaction/)

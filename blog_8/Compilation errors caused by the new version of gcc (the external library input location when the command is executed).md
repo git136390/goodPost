@@ -1,0 +1,2 @@
+# Compilation errors caused by the new version of gcc (the external library input location when the command is executed)
+[Compilation errors caused by the new version of gcc (the external library input location when the command is executed)](https://aiwithcloud.com/2022/09/19/compilation_errors_caused_by_the_new_version_of_gcc_the_external_library_input_location_when_the_command_is_executed/)

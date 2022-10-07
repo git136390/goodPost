@@ -1,0 +1,2 @@
+# codeblocks 控制台程序输出乱码问题解决
+[codeblocks 控制台程序输出乱码问题解决](https://aiwithcloud.com/2021/10/01/codeblocks-%e6%8e%a7%e5%88%b6%e5%8f%b0%e7%a8%8b%e5%ba%8f%e8%be%93%e5%87%ba%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3/)

@@ -1,0 +1,2 @@
+# 【Entry 25】Deployment of openGauss in kubernetes cluster environment
+[【Entry 25】Deployment of openGauss in kubernetes cluster environment](https://aiwithcloud.com/2022/09/16/%e3%80%90entry_25%e3%80%91deployment_of_opengauss_in_kubernetes_cluster_environment/)

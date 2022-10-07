@@ -1,0 +1,2 @@
+# Mybatis-plus3.5.1+ version code is automatically generated (FastAutoGenerator)
+[Mybatis-plus3.5.1+ version code is automatically generated (FastAutoGenerator)](https://aiwithcloud.com/2022/09/15/mybatis_plus3-5-1_version_code_is_automatically_generated_fastautogenerator/)

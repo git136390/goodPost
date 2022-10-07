@@ -1,0 +1,2 @@
+# Problems encountered in defining or declaring variables, functions, namespaces and classes in cc++ header files
+[Problems encountered in defining or declaring variables, functions, namespaces and classes in cc++ header files](https://aiwithcloud.com/2022/09/19/problems_encountered_in_defining_or_declaring_variables_functions_namespaces_and_classes_in_cc_header_files/)

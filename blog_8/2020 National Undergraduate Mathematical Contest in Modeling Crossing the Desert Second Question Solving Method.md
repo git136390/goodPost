@@ -1,0 +1,2 @@
+# 2020 National Undergraduate Mathematical Contest in Modeling Crossing the Desert Second Question Solving Method
+[2020 National Undergraduate Mathematical Contest in Modeling Crossing the Desert Second Question Solving Method](https://aiwithcloud.com/2022/09/19/2020_national_undergraduate_mathematical_contest_in_modeling_crossing_the_desert_second_question_solving_method/)

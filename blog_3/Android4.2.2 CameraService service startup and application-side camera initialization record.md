@@ -1,0 +1,2 @@
+# Android4.2.2 CameraService service startup and application-side camera initialization record
+[Android4.2.2 CameraService service startup and application-side camera initialization record](https://aiwithcloud.com/2022/09/15/android4-2-2_cameraservice_service_startup_and_application_side_camera_initialization_record/)

@@ -1,0 +1,2 @@
+# MFC window and button events - forward and reverse analysis
+[MFC window and button events - forward and reverse analysis](https://aiwithcloud.com/2022/09/19/mfc_window_and_button_events___forward_and_reverse_analysis/)

@@ -1,0 +1,2 @@
+# List of practical but not commonly used methods in pytest
+[List of practical but not commonly used methods in pytest](https://aiwithcloud.com/2022/09/16/list_of_practical_but_not_commonly_used_methods_in_pytest/)

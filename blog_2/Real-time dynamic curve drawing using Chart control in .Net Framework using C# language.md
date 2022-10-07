@@ -1,0 +1,2 @@
+# Real-time dynamic curve drawing using Chart control in .Net Framework using C# language
+[Real-time dynamic curve drawing using Chart control in .Net Framework using C# language](https://aiwithcloud.com/2022/09/15/real_time_dynamic_curve_drawing_using_chart_control_in_-net_framework_using_c_language/)

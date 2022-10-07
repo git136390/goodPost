@@ -1,0 +1,2 @@
+# Detailed steps on how to install JDK1.8 version in Linux
+[Detailed steps on how to install JDK1.8 version in Linux](https://aiwithcloud.com/2022/09/14/detailed_steps_on_how_to_install_jdk1-8_version_in_linux/)

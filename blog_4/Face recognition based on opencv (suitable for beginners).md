@@ -1,0 +1,2 @@
+# Face recognition based on opencv (suitable for beginners)
+[Face recognition based on opencv (suitable for beginners)](https://aiwithcloud.com/2022/09/15/face_recognition_based_on_opencv_suitable_for_beginners/)

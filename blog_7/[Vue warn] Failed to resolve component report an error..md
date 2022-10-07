@@ -1,0 +1,2 @@
+# [Vue warn] Failed to resolve component report an error.
+[[Vue warn] Failed to resolve component report an error.](https://aiwithcloud.com/2022/09/16/vue_warn_failed_to_resolve_component_report_an_error/)

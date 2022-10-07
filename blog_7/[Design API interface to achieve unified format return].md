@@ -1,0 +1,2 @@
+# [Design API interface to achieve unified format return]
+[[Design API interface to achieve unified format return]](https://aiwithcloud.com/2022/09/16/design_api_interface_to_achieve_unified_format_return/)

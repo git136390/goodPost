@@ -1,0 +1,2 @@
+# Java implements stream and file conversion Convert InoutStream to File output to disk
+[Java implements stream and file conversion Convert InoutStream to File output to disk](https://aiwithcloud.com/2022/09/16/java_implements_stream_and_file_conversion_convert_inoutstream_to_file_output_to_disk/)

@@ -1,0 +1,2 @@
+# pycocotools/_mask.c:547:21: fatal error: maskApi.h: No such file or directory
+[pycocotools/_mask.c:547:21: fatal error: maskApi.h: No such file or directory](https://aiwithcloud.com/2022/01/09/pycocotools-_mask-c54721-fatal-error-maskapi-h-no-such-file-or-directory/)

@@ -1,0 +1,2 @@
+# Meituan R&D Post Written Test Exercise (Programming Question 1) - Delete a single continuous repeating string
+[Meituan R&D Post Written Test Exercise (Programming Question 1) - Delete a single continuous repeating string](https://aiwithcloud.com/2022/09/15/meituan_rd_post_written_test_exercise_programming_question_1___delete_a_single_continuous_repeating_string/)

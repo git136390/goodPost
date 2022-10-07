@@ -1,0 +1,2 @@
+# Python realizes automatic sending of emails, freeing hands
+[Python realizes automatic sending of emails, freeing hands](https://aiwithcloud.com/2022/09/19/python_realizes_automatic_sending_of_emails_freeing_hands/)

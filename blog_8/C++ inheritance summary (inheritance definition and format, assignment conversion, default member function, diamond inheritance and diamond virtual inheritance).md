@@ -1,0 +1,2 @@
+# C++ inheritance summary (inheritance definition and format, assignment conversion, default member function, diamond inheritance and diamond virtual inheritance)
+[C++ inheritance summary (inheritance definition and format, assignment conversion, default member function, diamond inheritance and diamond virtual inheritance)](https://aiwithcloud.com/2022/09/19/c_inheritance_summary_inheritance_definition_and_format_assignment_conversion_default_member_function_diamond_inheritance_and_diamond_virtual_inheritance/)

@@ -1,0 +1,2 @@
+# Traverse UltraWebGrid to get rows and get column values from rows
+[Traverse UltraWebGrid to get rows and get column values from rows](https://aiwithcloud.com/2022/09/19/traverse_ultrawebgrid_to_get_rows_and_get_column_values_from_rows/)

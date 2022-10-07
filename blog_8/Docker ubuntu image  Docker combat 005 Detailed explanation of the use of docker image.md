@@ -1,0 +1,2 @@
+# Docker ubuntu image  Docker combat 005 Detailed explanation of the use of docker image
+[Docker ubuntu image  Docker combat 005 Detailed explanation of the use of docker image](https://aiwithcloud.com/2022/09/19/docker_ubuntu_image__docker_combat_005_detailed_explanation_of_the_use_of_docker_image/)

@@ -1,0 +1,2 @@
+# The web implements the current page to download the file
+[The web implements the current page to download the file](https://aiwithcloud.com/2022/09/15/the_web_implements_the_current_page_to_download_the_file/)

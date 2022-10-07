@@ -1,0 +1,2 @@
+# How to use Git to automate the deployment of enterprise projects
+[How to use Git to automate the deployment of enterprise projects](https://aiwithcloud.com/2022/09/15/how_to_use_git_to_automate_the_deployment_of_enterprise_projects/)

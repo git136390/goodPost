@@ -1,0 +1,2 @@
+# Static keyword in Java - Static definition code block - singleton design pattern
+[Static keyword in Java - Static definition code block - singleton design pattern](https://aiwithcloud.com/2022/09/16/static_keyword_in_java___static_definition_code_block___singleton_design_pattern/)

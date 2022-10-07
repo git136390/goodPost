@@ -1,0 +1,2 @@
+# Application of Responsibility Chain Mode in Computer Room Reconstruction
+[Application of Responsibility Chain Mode in Computer Room Reconstruction](https://aiwithcloud.com/2022/09/15/application_of_responsibility_chain_mode_in_computer_room_reconstruction/)

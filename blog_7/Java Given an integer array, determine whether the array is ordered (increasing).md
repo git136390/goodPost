@@ -1,0 +1,2 @@
+# Java Given an integer array, determine whether the array is ordered (increasing)
+[Java Given an integer array, determine whether the array is ordered (increasing)](https://aiwithcloud.com/2022/09/19/java_given_an_integer_array_determine_whether_the_array_is_ordered_increasing/)

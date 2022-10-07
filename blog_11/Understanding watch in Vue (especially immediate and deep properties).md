@@ -1,0 +1,2 @@
+# Understanding watch in Vue (especially immediate and deep properties)
+[Understanding watch in Vue (especially immediate and deep properties)](https://aiwithcloud.com/2022/09/19/understanding_watch_in_vue_especially_immediate_and_deep_properties/)

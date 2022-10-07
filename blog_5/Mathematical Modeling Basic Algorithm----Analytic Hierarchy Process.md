@@ -1,0 +1,2 @@
+# Mathematical Modeling Basic Algorithm----Analytic Hierarchy Process
+[Mathematical Modeling Basic Algorithm----Analytic Hierarchy Process](https://aiwithcloud.com/2022/09/16/mathematical_modeling_basic_algorithm____analytic_hierarchy_process/)

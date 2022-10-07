@@ -1,0 +1,2 @@
+# Briefly describe https (2) openssl under linux to generate ssl certificate
+[Briefly describe https (2) openssl under linux to generate ssl certificate](https://aiwithcloud.com/2022/09/19/briefly_describe_https_2_openssl_under_linux_to_generate_ssl_certificate/)

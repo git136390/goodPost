@@ -1,0 +1,2 @@
+# ElasticSearch client Kibana7.6.1 installation tutorial
+[ElasticSearch client Kibana7.6.1 installation tutorial](https://aiwithcloud.com/2022/09/15/elasticsearch_client_kibana7-6-1_installation_tutorial/)

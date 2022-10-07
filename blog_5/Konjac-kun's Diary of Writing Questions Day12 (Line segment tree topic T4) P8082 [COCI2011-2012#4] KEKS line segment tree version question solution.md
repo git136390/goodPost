@@ -1,0 +1,2 @@
+# Konjac-kun's Diary of Writing Questions Day12 (Line segment tree topic T4) P8082 [COCI2011-2012#4] KEKS line segment tree version question solution
+[Konjac-kun's Diary of Writing Questions Day12 (Line segment tree topic T4) P8082 [COCI2011-2012#4] KEKS line segment tree version question solution](https://aiwithcloud.com/2022/09/16/konjac_kuns_diary_of_writing_questions_day12_line_segment_tree_topic_t4_p8082_coci2011_20124_keks_line_segment_tree_version_question_solution/)

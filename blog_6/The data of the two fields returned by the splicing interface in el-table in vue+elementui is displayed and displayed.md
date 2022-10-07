@@ -1,0 +1,2 @@
+# The data of the two fields returned by the splicing interface in el-table in vue+elementui is displayed and displayed
+[The data of the two fields returned by the splicing interface in el-table in vue+elementui is displayed and displayed](https://aiwithcloud.com/2022/09/16/the_data_of_the_two_fields_returned_by_the_splicing_interface_in_el_table_in_vueelementui_is_displayed_and_displayed/)

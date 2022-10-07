@@ -1,0 +1,2 @@
+# How to dynamically get all the pictures in the local folder in JS
+[How to dynamically get all the pictures in the local folder in JS](https://aiwithcloud.com/2022/09/19/how_to_dynamically_get_all_the_pictures_in_the_local_folder_in_js/)

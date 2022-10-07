@@ -1,0 +1,2 @@
+# Nacos integrates SpringCloud (configuration center, registration center)
+[Nacos integrates SpringCloud (configuration center, registration center)](https://aiwithcloud.com/2022/09/19/nacos_integrates_springcloud_configuration_center_registration_center/)

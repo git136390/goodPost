@@ -1,0 +1,2 @@
+# Elasticsearch Advanced (Shards, High Availability Cluster Construction)
+[Elasticsearch Advanced (Shards, High Availability Cluster Construction)](https://aiwithcloud.com/2022/09/15/elasticsearch_advanced_shards_high_availability_cluster_construction/)

@@ -1,0 +1,2 @@
+# Docker uses docker compose to implement NextCloud private network disk integration Online Office software onlyoffice installation and deployment
+[Docker uses docker compose to implement NextCloud private network disk integration Online Office software onlyoffice installation and deployment](https://aiwithcloud.com/2022/09/15/docker_uses_docker_compose_to_implement_nextcloud_private_network_disk_integration_online_office_software_onlyoffice_installation_and_deployment/)

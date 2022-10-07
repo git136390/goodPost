@@ -1,0 +1,2 @@
+# Teach you to use Python to crawl Baidu search results and save them
+[Teach you to use Python to crawl Baidu search results and save them](https://aiwithcloud.com/2022/09/15/teach_you_to_use_python_to_crawl_baidu_search_results_and_save_them/)

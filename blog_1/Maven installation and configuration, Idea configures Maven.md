@@ -1,0 +1,2 @@
+# Maven installation and configuration, Idea configures Maven
+[Maven installation and configuration, Idea configures Maven](https://aiwithcloud.com/2022/09/15/maven_installation_and_configuration_idea_configures_maven/)

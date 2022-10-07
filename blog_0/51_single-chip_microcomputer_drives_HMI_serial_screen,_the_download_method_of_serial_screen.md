@@ -1,0 +1,2 @@
+# 51_single-chip_microcomputer_drives_HMI_serial_screen,_the_download_method_of_serial_screen
+[51_single-chip_microcomputer_drives_HMI_serial_screen,_the_download_method_of_serial_screen](https://aiwithcloud.com/2022/09/14/51_single_chip_microcomputer_drives_hmi_serial_screen_the_download_method_of_serial_screen/)

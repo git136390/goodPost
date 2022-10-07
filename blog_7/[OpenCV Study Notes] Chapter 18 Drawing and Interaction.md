@@ -1,0 +1,2 @@
+# [OpenCV Study Notes] Chapter 18 Drawing and Interaction
+[[OpenCV Study Notes] Chapter 18 Drawing and Interaction](https://aiwithcloud.com/2022/09/16/opencv_study_notes_chapter_18_drawing_and_interaction/)

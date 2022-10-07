@@ -1,0 +1,2 @@
+# SpringBoot multi-module project packaging exception Unable to find main class
+[SpringBoot multi-module project packaging exception Unable to find main class](https://aiwithcloud.com/2022/09/16/springboot_multi_module_project_packaging_exception_unable_to_find_main_class/)

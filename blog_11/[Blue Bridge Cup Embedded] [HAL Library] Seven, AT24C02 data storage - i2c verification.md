@@ -1,0 +1,2 @@
+# [Blue Bridge Cup Embedded] [HAL Library] Seven, AT24C02 data storage - i2c verification
+[[Blue Bridge Cup Embedded] [HAL Library] Seven, AT24C02 data storage - i2c verification](https://aiwithcloud.com/2022/09/19/blue_bridge_cup_embedded_hal_library_seven_at24c02_data_storage___i2c_verification/)

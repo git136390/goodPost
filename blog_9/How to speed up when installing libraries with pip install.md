@@ -1,0 +1,2 @@
+# How to speed up when installing libraries with pip install
+[How to speed up when installing libraries with pip install](https://aiwithcloud.com/2022/09/19/how_to_speed_up_when_installing_libraries_with_pip_install/)

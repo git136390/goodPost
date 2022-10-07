@@ -1,0 +1,2 @@
+# [Kingdao data structure programming question] - delete elements with values between the given values + delete duplicate elements with values
+[[Kingdao data structure programming question] - delete elements with values between the given values + delete duplicate elements with values](https://aiwithcloud.com/2022/09/15/kingdao_data_structure_programming_question___delete_elements_with_values_between_the_given_values__delete_duplicate_elements_with_values/)

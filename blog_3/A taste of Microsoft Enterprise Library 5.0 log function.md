@@ -1,0 +1,2 @@
+# A taste of Microsoft Enterprise Library 5.0 log function
+[A taste of Microsoft Enterprise Library 5.0 log function](https://aiwithcloud.com/2022/09/15/a_taste_of_microsoft_enterprise_library_5-0_log_function/)

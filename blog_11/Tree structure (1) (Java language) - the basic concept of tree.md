@@ -1,0 +1,2 @@
+# Tree structure (1) (Java language) - the basic concept of tree
+[Tree structure (1) (Java language) - the basic concept of tree](https://aiwithcloud.com/2022/09/19/tree_structure_1_java_language___the_basic_concept_of_tree/)

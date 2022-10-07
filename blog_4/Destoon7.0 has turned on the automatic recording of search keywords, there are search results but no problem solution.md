@@ -1,0 +1,2 @@
+# Destoon7.0 has turned on the automatic recording of search keywords, there are search results but no problem solution
+[Destoon7.0 has turned on the automatic recording of search keywords, there are search results but no problem solution](https://aiwithcloud.com/2022/09/15/destoon7-0_has_turned_on_the_automatic_recording_of_search_keywords_there_are_search_results_but_no_problem_solution/)

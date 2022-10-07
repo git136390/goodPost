@@ -1,0 +1,2 @@
+# The difference between parsing large Excel files with EasyExcel and POI
+[The difference between parsing large Excel files with EasyExcel and POI](https://aiwithcloud.com/2022/09/15/the_difference_between_parsing_large_excel_files_with_easyexcel_and_poi/)

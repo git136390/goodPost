@@ -1,0 +1,2 @@
+# [Blockchain Note 8] Front-end js interacts with smart contracts through web3 of metamask
+[[Blockchain Note 8] Front-end js interacts with smart contracts through web3 of metamask](https://aiwithcloud.com/2022/09/19/blockchain_note_8_front_end_js_interacts_with_smart_contracts_through_web3_of_metamask/)

@@ -1,0 +1,2 @@
+# Write a function, find 1 at the leftmost side of the position vector, and then all the later positions 0
+[Write a function, find 1 at the leftmost side of the position vector, and then all the later positions 0](https://aiwithcloud.com/?p=1716)

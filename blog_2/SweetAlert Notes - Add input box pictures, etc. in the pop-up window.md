@@ -1,0 +1,2 @@
+# SweetAlert Notes - Add input box pictures, etc. in the pop-up window
+[SweetAlert Notes - Add input box pictures, etc. in the pop-up window](https://aiwithcloud.com/2022/09/15/sweetalert_notes___add_input_box_pictures_etc-_in_the_pop_up_window/)

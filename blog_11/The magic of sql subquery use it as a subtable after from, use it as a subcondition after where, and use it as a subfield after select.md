@@ -1,0 +1,2 @@
+# The magic of sql subquery use it as a subtable after from, use it as a subcondition after where, and use it as a subfield after select
+[The magic of sql subquery use it as a subtable after from, use it as a subcondition after where, and use it as a subfield after select](https://aiwithcloud.com/2022/09/19/the_magic_of_sql_subquery_use_it_as_a_subtable_after_from_use_it_as_a_subcondition_after_where_and_use_it_as_a_subfield_after_select/)

@@ -1,0 +1,2 @@
+# QT basic second day (2) Qt basic components button class, layout class, output class, input class, container and other individual examples
+[QT basic second day (2) Qt basic components button class, layout class, output class, input class, container and other individual examples](https://aiwithcloud.com/2022/09/19/qt_basic_second_day_2_qt_basic_components_button_class_layout_class_output_class_input_class_container_and_other_individual_examples/)

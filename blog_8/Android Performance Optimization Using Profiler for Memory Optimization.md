@@ -1,0 +1,2 @@
+# Android Performance Optimization Using Profiler for Memory Optimization
+[Android Performance Optimization Using Profiler for Memory Optimization](https://aiwithcloud.com/2022/09/19/android_performance_optimization_using_profiler_for_memory_optimization/)

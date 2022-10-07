@@ -1,0 +1,2 @@
+# Two schemes for database password encryption in SpringBoot configuration file
+[Two schemes for database password encryption in SpringBoot configuration file](https://aiwithcloud.com/2022/09/15/two_schemes_for_database_password_encryption_in_springboot_configuration_file/)

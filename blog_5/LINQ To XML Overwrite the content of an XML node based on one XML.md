@@ -1,0 +1,2 @@
+# LINQ To XML Overwrite the content of an XML node based on one XML
+[LINQ To XML Overwrite the content of an XML node based on one XML](https://aiwithcloud.com/2022/09/16/linq_to_xml_overwrite_the_content_of_an_xml_node_based_on_one_xml/)

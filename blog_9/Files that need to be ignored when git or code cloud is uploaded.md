@@ -1,0 +1,2 @@
+# Files that need to be ignored when git or code cloud is uploaded
+[Files that need to be ignored when git or code cloud is uploaded](https://aiwithcloud.com/2022/09/19/files_that_need_to_be_ignored_when_git_or_code_cloud_is_uploaded/)

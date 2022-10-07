@@ -1,0 +1,2 @@
+# Konjac-kun's writing diary day10 (DP topic T1) CF453A Little Pony and Expected Maximum
+[Konjac-kun's writing diary day10 (DP topic T1) CF453A Little Pony and Expected Maximum](https://aiwithcloud.com/2022/09/16/konjac_kuns_writing_diary_day10_dp_topic_t1_cf453a_little_pony_and_expected_maximum/)

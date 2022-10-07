@@ -1,0 +1,2 @@
+# Magic Change YOLOv5 Algorithm Series (1) - Attention Mechanism Added
+[Magic Change YOLOv5 Algorithm Series (1) - Attention Mechanism Added](https://aiwithcloud.com/2022/09/19/magic_change_yolov5_algorithm_series_1___attention_mechanism_added/)

@@ -1,0 +1,2 @@
+# [Learning Challenge] Direct Selection Sorting of Classic Algorithms
+[[Learning Challenge] Direct Selection Sorting of Classic Algorithms](https://aiwithcloud.com/2022/09/16/learning_challenge_direct_selection_sorting_of_classic_algorithms/)

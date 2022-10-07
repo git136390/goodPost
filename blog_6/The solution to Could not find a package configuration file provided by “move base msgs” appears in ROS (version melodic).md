@@ -1,0 +1,2 @@
+# The solution to Could not find a package configuration file provided by “move base msgs” appears in ROS (version melodic)
+[The solution to Could not find a package configuration file provided by “move base msgs” appears in ROS (version melodic)](https://aiwithcloud.com/2022/09/16/the_solution_to_could_not_find_a_package_configuration_file_provided_by_move_base_msgs_appears_in_ros_version_melodic/)

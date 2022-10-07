@@ -1,0 +1,2 @@
+# javaphpnetpythont fixed asset management system design
+[javaphpnetpythont fixed asset management system design](https://aiwithcloud.com/2022/09/19/javaphpnetpythont_fixed_asset_management_system_design/)

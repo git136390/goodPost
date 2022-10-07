@@ -1,0 +1,2 @@
+# Arduino project combat - based on Arduino [smart trash can] design
+[Arduino project combat - based on Arduino [smart trash can] design](https://aiwithcloud.com/2022/09/15/arduino_project_combat___based_on_arduino_smart_trash_can_design/)

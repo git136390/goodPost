@@ -1,0 +1,2 @@
+# Python Data Visualization Adding Text to Charts Is That Simple
+[Python Data Visualization Adding Text to Charts Is That Simple](https://aiwithcloud.com/2022/09/19/python_data_visualization_adding_text_to_charts_is_that_simple/)

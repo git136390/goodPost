@@ -1,0 +1,2 @@
+# Recognition of license plate numbers based on CNN, (2)
+[Recognition of license plate numbers based on CNN, (2)](https://aiwithcloud.com/2022/09/19/recognition_of_license_plate_numbers_based_on_cnn_2/)

@@ -1,0 +1,2 @@
+# Java batch converts String type numbers to Double type based on regularization
+[Java batch converts String type numbers to Double type based on regularization](https://aiwithcloud.com/2022/09/15/java_batch_converts_string_type_numbers_to_double_type_based_on_regularization/)

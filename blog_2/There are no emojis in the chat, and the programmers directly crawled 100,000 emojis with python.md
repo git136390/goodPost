@@ -1,0 +1,2 @@
+# There are no emojis in the chat, and the programmers directly crawled 100,000 emojis with python
+[There are no emojis in the chat, and the programmers directly crawled 100,000 emojis with python](https://aiwithcloud.com/2022/09/15/there_are_no_emojis_in_the_chat_and_the_programmers_directly_crawled_100000_emojis_with_python/)

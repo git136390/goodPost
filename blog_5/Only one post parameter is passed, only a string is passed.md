@@ -1,0 +1,2 @@
+# Only one post parameter is passed, only a string is passed
+[Only one post parameter is passed, only a string is passed](https://aiwithcloud.com/2022/09/16/only_one_post_parameter_is_passed_only_a_string_is_passed/)

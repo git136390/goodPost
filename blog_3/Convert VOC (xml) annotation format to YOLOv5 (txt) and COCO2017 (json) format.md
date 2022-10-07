@@ -1,0 +1,2 @@
+# Convert VOC (xml) annotation format to YOLOv5 (txt) and COCO2017 (json) format
+[Convert VOC (xml) annotation format to YOLOv5 (txt) and COCO2017 (json) format](https://aiwithcloud.com/2022/09/15/convert_voc_xml_annotation_format_to_yolov5_txt_and_coco2017_json_format/)

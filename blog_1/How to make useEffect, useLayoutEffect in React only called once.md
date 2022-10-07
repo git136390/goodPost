@@ -1,0 +1,2 @@
+# How to make useEffect, useLayoutEffect in React only called once
+[How to make useEffect, useLayoutEffect in React only called once](https://aiwithcloud.com/2022/09/15/how_to_make_useeffect_uselayouteffect_in_react_only_called_once/)

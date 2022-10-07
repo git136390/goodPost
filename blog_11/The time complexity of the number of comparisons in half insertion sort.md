@@ -1,0 +1,2 @@
+# The time complexity of the number of comparisons in half insertion sort
+[The time complexity of the number of comparisons in half insertion sort](https://aiwithcloud.com/2022/09/19/the_time_complexity_of_the_number_of_comparisons_in_half_insertion_sort/)

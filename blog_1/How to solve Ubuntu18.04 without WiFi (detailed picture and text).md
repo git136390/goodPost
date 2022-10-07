@@ -1,0 +1,2 @@
+# How to solve Ubuntu18.04 without WiFi (detailed picture and text)
+[How to solve Ubuntu18.04 without WiFi (detailed picture and text)](https://aiwithcloud.com/2022/09/15/how_to_solve_ubuntu18-04_without_wifi_detailed_picture_and_text/)

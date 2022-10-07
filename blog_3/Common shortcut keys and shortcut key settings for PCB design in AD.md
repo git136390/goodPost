@@ -1,0 +1,2 @@
+# Common shortcut keys and shortcut key settings for PCB design in AD
+[Common shortcut keys and shortcut key settings for PCB design in AD](https://aiwithcloud.com/2022/09/15/common_shortcut_keys_and_shortcut_key_settings_for_pcb_design_in_ad/)

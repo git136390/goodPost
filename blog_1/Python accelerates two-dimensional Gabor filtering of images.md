@@ -1,0 +1,2 @@
+# Python accelerates two-dimensional Gabor filtering of images
+[Python accelerates two-dimensional Gabor filtering of images](https://aiwithcloud.com/2022/09/15/python_accelerates_two_dimensional_gabor_filtering_of_images/)

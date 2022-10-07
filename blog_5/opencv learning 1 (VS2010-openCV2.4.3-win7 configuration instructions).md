@@ -1,0 +1,2 @@
+# opencv learning 1 (VS2010-openCV2.4.3-win7 configuration instructions)
+[opencv learning 1 (VS2010-openCV2.4.3-win7 configuration instructions)](https://aiwithcloud.com/2022/09/16/opencv_learning_1_vs2010_opencv2-4-3_win7_configuration_instructions/)

@@ -1,0 +1,2 @@
+# About_using_tesseract-ocr_to_develop_simple_graphic_recognition_(transfer)
+[About_using_tesseract-ocr_to_develop_simple_graphic_recognition_(transfer)](https://aiwithcloud.com/2022/09/14/about_using_tesseract_ocr_to_develop_simple_graphic_recognition_transfer/)

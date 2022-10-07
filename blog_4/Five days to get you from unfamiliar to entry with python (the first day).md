@@ -1,0 +1,2 @@
+# Five days to get you from unfamiliar to entry with python (the first day)
+[Five days to get you from unfamiliar to entry with python (the first day)](https://aiwithcloud.com/2022/09/15/five_days_to_get_you_from_unfamiliar_to_entry_with_python_the_first_day/)

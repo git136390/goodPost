@@ -1,0 +1,2 @@
+# [JS] 6 ways to create arrays in JavaScript (code example collection)
+[[JS] 6 ways to create arrays in JavaScript (code example collection)](https://aiwithcloud.com/2022/09/16/js_6_ways_to_create_arrays_in_javascript_code_example_collection/)

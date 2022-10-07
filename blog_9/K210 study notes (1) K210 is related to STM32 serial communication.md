@@ -1,0 +1,2 @@
+# K210 study notes (1) K210 is related to STM32 serial communication
+[K210 study notes (1) K210 is related to STM32 serial communication](https://aiwithcloud.com/2022/09/19/k210_study_notes_1_k210_is_related_to_stm32_serial_communication/)

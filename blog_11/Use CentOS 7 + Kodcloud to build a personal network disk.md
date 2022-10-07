@@ -1,0 +1,2 @@
+# Use CentOS 7 + Kodcloud to build a personal network disk
+[Use CentOS 7 + Kodcloud to build a personal network disk](https://aiwithcloud.com/2022/09/19/use_centos_7__kodcloud_to_build_a_personal_network_disk/)

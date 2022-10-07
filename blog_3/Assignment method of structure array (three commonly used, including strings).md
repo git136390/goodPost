@@ -1,0 +1,2 @@
+# Assignment method of structure array (three commonly used, including strings)
+[Assignment method of structure array (three commonly used, including strings)](https://aiwithcloud.com/2022/09/15/assignment_method_of_structure_array_three_commonly_used_including_strings/)

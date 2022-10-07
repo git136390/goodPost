@@ -1,0 +1,2 @@
+# git resolves The authenticity of host 'github.com (192.30.255.112)' can't be established issue
+[git resolves The authenticity of host 'github.com (192.30.255.112)' can't be established issue](https://aiwithcloud.com/2022/09/19/git_resolves_the_authenticity_of_host_github-com_192-30-255-112_cant_be_established_issue/)

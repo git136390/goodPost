@@ -1,0 +1,2 @@
+# [Compass Clock---Use html, js, css to write. With source code and effects]
+[[Compass Clock---Use html, js, css to write. With source code and effects]](https://aiwithcloud.com/2022/09/16/compass_clock___use_html_js_css_to_write-_with_source_code_and_effects/)

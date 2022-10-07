@@ -1,0 +1,2 @@
+# android_get_an_intent_for_opening_a_Word_file
+[android_get_an_intent_for_opening_a_Word_file](https://aiwithcloud.com/2022/09/14/android_get_an_intent_for_opening_a_word_file/)

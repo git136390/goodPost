@@ -1,0 +1,2 @@
+# STM32 Note 01 How to use CubeMX to configure serial port interrupt to receive variable length data
+[STM32 Note 01 How to use CubeMX to configure serial port interrupt to receive variable length data](https://aiwithcloud.com/2022/09/19/stm32_note_01_how_to_use_cubemx_to_configure_serial_port_interrupt_to_receive_variable_length_data/)

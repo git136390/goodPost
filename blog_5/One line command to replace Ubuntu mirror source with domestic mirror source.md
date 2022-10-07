@@ -1,0 +1,2 @@
+# One line command to replace Ubuntu mirror source with domestic mirror source
+[One line command to replace Ubuntu mirror source with domestic mirror source](https://aiwithcloud.com/2022/09/16/one_line_command_to_replace_ubuntu_mirror_source_with_domestic_mirror_source/)

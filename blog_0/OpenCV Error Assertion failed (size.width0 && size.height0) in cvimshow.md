@@ -1,0 +1,2 @@
+# OpenCV Error: Assertion failed (size.width>0 && size.height>0) in cv::imshow
+[OpenCV Error: Assertion failed (size.width>0 && size.height>0) in cv::imshow](https://aiwithcloud.com/2022/04/16/opencv-error-assertion-failed-size-width0-size-height0-in-cvimshow/)

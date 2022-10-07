@@ -1,0 +1,2 @@
+# Nginx combines NJS to obtain request headers and URL parameters for interception verification and forwarding
+[Nginx combines NJS to obtain request headers and URL parameters for interception verification and forwarding](https://aiwithcloud.com/2022/09/16/nginx_combines_njs_to_obtain_request_headers_and_url_parameters_for_interception_verification_and_forwarding/)

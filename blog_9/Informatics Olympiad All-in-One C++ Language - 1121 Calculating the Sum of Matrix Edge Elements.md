@@ -1,0 +1,2 @@
+# Informatics Olympiad All-in-One C++ Language - 1121 Calculating the Sum of Matrix Edge Elements
+[Informatics Olympiad All-in-One C++ Language - 1121 Calculating the Sum of Matrix Edge Elements](https://aiwithcloud.com/2022/09/19/informatics_olympiad_all_in_one_c_language___1121_calculating_the_sum_of_matrix_edge_elements/)

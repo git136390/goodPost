@@ -1,0 +1,2 @@
+# git add command for multiple files or multiple folders
+[git add command for multiple files or multiple folders](https://aiwithcloud.com/2022/09/15/git_add_command_for_multiple_files_or_multiple_folders/)

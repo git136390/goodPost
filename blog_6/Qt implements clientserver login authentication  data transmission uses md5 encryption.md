@@ -1,0 +1,2 @@
+# Qt implements clientserver login authentication  data transmission uses md5 encryption
+[Qt implements clientserver login authentication  data transmission uses md5 encryption](https://aiwithcloud.com/2022/09/16/qt_implements_clientserver_login_authentication__data_transmission_uses_md5_encryption/)

@@ -1,0 +1,2 @@
+# [Illustration] Summary of Python basics that even dogs can understand (2) What are libraries, packages, and modules
+[[Illustration] Summary of Python basics that even dogs can understand (2) What are libraries, packages, and modules](https://aiwithcloud.com/2022/09/19/illustration_summary_of_python_basics_that_even_dogs_can_understand_2_what_are_libraries_packages_and_modules/)

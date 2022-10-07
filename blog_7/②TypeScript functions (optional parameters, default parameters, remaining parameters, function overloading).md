@@ -1,0 +1,2 @@
+# ②TypeScript functions (optional parameters, default parameters, remaining parameters, function overloading)
+[②TypeScript functions (optional parameters, default parameters, remaining parameters, function overloading)](https://aiwithcloud.com/2022/09/16/%e2%91%a1typescript_functions_optional_parameters_default_parameters_remaining_parameters_function_overloading/)

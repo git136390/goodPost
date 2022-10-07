@@ -1,0 +1,2 @@
+# How to understand the Map collection in Java (4) - streamlining
+[How to understand the Map collection in Java (4) - streamlining](https://aiwithcloud.com/2022/09/15/how_to_understand_the_map_collection_in_java_4___streamlining/)

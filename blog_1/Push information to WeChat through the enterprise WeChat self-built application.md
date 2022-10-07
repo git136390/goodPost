@@ -1,0 +1,2 @@
+# Push information to WeChat through the enterprise WeChat self-built application
+[Push information to WeChat through the enterprise WeChat self-built application](https://aiwithcloud.com/2022/09/15/push_information_to_wechat_through_the_enterprise_wechat_self_built_application/)

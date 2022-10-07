@@ -1,0 +1,2 @@
+# Configure the element-plus component to display English problems
+[Configure the element-plus component to display English problems](https://aiwithcloud.com/2022/09/15/configure_the_element_plus_component_to_display_english_problems/)

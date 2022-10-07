@@ -1,0 +1,2 @@
+# [Design Patterns] Practical Explanation of Chain of Responsibility Patterns
+[[Design Patterns] Practical Explanation of Chain of Responsibility Patterns](https://aiwithcloud.com/2022/09/19/design_patterns_practical_explanation_of_chain_of_responsibility_patterns/)

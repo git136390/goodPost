@@ -1,0 +1,2 @@
+# [Algorithm Fundamentals 1] The roommate went to the toilet between classes, and when he came back, he told me that he mastered binary search [Search template included]
+[[Algorithm Fundamentals 1] The roommate went to the toilet between classes, and when he came back, he told me that he mastered binary search [Search template included]](https://aiwithcloud.com/2022/09/15/algorithm_fundamentals_1_the_roommate_went_to_the_toilet_between_classes_and_when_he_came_back_he_told_me_that_he_mastered_binary_search_search_template_included/)

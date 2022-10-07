@@ -1,0 +1,2 @@
+# QT Click the button to change the text display in the input box (plaintext or ciphertext)
+[QT Click the button to change the text display in the input box (plaintext or ciphertext)](https://aiwithcloud.com/2022/09/15/qt_click_the_button_to_change_the_text_display_in_the_input_box_plaintext_or_ciphertext/)

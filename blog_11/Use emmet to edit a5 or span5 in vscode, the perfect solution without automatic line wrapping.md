@@ -1,0 +1,2 @@
+# Use emmet to edit a5 or span5 in vscode, the perfect solution without automatic line wrapping
+[Use emmet to edit a5 or span5 in vscode, the perfect solution without automatic line wrapping](https://aiwithcloud.com/2022/09/19/use_emmet_to_edit_a5_or_span5_in_vscode_the_perfect_solution_without_automatic_line_wrapping/)

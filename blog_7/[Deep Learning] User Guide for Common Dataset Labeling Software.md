@@ -1,0 +1,2 @@
+# [Deep Learning] User Guide for Common Dataset Labeling Software
+[[Deep Learning] User Guide for Common Dataset Labeling Software](https://aiwithcloud.com/2022/09/16/deep_learning_user_guide_for_common_dataset_labeling_software/)

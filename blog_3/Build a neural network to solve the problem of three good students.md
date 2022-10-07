@@ -1,0 +1,2 @@
+# Build a neural network to solve the problem of three good students
+[Build a neural network to solve the problem of three good students](https://aiwithcloud.com/2022/09/15/build_a_neural_network_to_solve_the_problem_of_three_good_students/)

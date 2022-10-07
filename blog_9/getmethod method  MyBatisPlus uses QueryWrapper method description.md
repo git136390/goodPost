@@ -1,0 +1,2 @@
+# getmethod method  MyBatisPlus uses QueryWrapper method description
+[getmethod method  MyBatisPlus uses QueryWrapper method description](https://aiwithcloud.com/2022/09/19/getmethod_method__mybatisplus_uses_querywrapper_method_description/)

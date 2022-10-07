@@ -1,0 +1,2 @@
+# C language memory partition and storage of variables, constants, etc. in the partition
+[C language memory partition and storage of variables, constants, etc. in the partition](https://aiwithcloud.com/2022/09/19/c_language_memory_partition_and_storage_of_variables_constants_etc-_in_the_partition/)

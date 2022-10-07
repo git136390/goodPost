@@ -1,0 +1,2 @@
+# Crawlers from entry to abandonment - grab front-end rendered pages
+[Crawlers from entry to abandonment - grab front-end rendered pages](https://aiwithcloud.com/2022/09/15/crawlers_from_entry_to_abandonment___grab_front_end_rendered_pages/)

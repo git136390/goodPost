@@ -1,0 +1,2 @@
+# SpringBoot+Vue project from the media community platform
+[SpringBoot+Vue project from the media community platform](https://aiwithcloud.com/2022/09/16/springbootvue_project_from_the_media_community_platform/)

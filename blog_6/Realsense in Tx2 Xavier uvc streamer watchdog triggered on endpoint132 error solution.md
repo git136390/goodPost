@@ -1,0 +1,2 @@
+# Realsense in Tx2 Xavier uvc streamer watchdog triggered on endpoint132 error solution
+[Realsense in Tx2 Xavier uvc streamer watchdog triggered on endpoint132 error solution](https://aiwithcloud.com/2022/09/16/realsense_in_tx2_xavier_uvc_streamer_watchdog_triggered_on_endpoint132_error_solution/)

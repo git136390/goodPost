@@ -1,0 +1,2 @@
+# Android mobile development  Three ways to clear the Canvas canvas with one click
+[Android mobile development  Three ways to clear the Canvas canvas with one click](https://aiwithcloud.com/2022/09/19/android_mobile_development__three_ways_to_clear_the_canvas_canvas_with_one_click/)

@@ -1,0 +1,2 @@
+# ImportError: 'module' object has no attribute 'check_specifier'
+[ImportError: 'module' object has no attribute 'check_specifier'](https://aiwithcloud.com/2021/07/13/importerror-module-object-has-no-attribute-check_specifier/)

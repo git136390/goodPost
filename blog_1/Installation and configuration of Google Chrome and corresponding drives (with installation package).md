@@ -1,0 +1,2 @@
+# Installation and configuration of Google Chrome and corresponding drives (with installation package)
+[Installation and configuration of Google Chrome and corresponding drives (with installation package)](https://aiwithcloud.com/2022/09/15/installation_and_configuration_of_google_chrome_and_corresponding_drives_with_installation_package/)

@@ -1,0 +1,2 @@
+# How to batch process the size of images in MATLAB Technical Salon
+[How to batch process the size of images in MATLAB Technical Salon](https://aiwithcloud.com/2022/09/19/how_to_batch_process_the_size_of_images_in_matlab_technical_salon/)

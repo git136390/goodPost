@@ -1,0 +1,2 @@
+# uni-app develops WeChat applet open the built-in map to view the location
+[uni-app develops WeChat applet open the built-in map to view the location](https://aiwithcloud.com/2022/09/19/uni_app_develops_wechat_applet_open_the_built_in_map_to_view_the_location/)

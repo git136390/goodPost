@@ -1,0 +1,2 @@
+# OpenCV-Python graphics and image processing some self-use tool functions and calling syntax introduction
+[OpenCV-Python graphics and image processing some self-use tool functions and calling syntax introduction](https://aiwithcloud.com/2022/09/16/opencv_python_graphics_and_image_processing_some_self_use_tool_functions_and_calling_syntax_introduction/)

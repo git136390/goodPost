@@ -1,0 +1,2 @@
+# The influence and relationship of successive registration of device device register and driver driver register under linux
+[The influence and relationship of successive registration of device device register and driver driver register under linux](https://aiwithcloud.com/2022/09/19/the_influence_and_relationship_of_successive_registration_of_device_device_register_and_driver_driver_register_under_linux/)

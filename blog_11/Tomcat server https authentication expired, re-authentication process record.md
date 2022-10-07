@@ -1,0 +1,2 @@
+# Tomcat server https authentication expired, re-authentication process record
+[Tomcat server https authentication expired, re-authentication process record](https://aiwithcloud.com/2022/09/19/tomcat_server_https_authentication_expired_re_authentication_process_record/)

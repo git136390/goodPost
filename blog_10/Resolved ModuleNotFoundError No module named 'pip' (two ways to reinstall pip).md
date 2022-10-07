@@ -1,0 +1,2 @@
+# Resolved ModuleNotFoundError No module named 'pip' (two ways to reinstall pip)
+[Resolved ModuleNotFoundError No module named 'pip' (two ways to reinstall pip)](https://aiwithcloud.com/2022/09/19/resolved_modulenotfounderror_no_module_named_pip_two_ways_to_reinstall_pip/)

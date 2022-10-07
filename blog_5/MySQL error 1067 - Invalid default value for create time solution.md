@@ -1,0 +1,2 @@
+# MySQL error 1067 - Invalid default value for create time solution
+[MySQL error 1067 - Invalid default value for create time solution](https://aiwithcloud.com/2022/09/16/mysql_error_1067___invalid_default_value_for_create_time_solution/)

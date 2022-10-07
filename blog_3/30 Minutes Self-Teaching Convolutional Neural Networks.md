@@ -1,0 +1,2 @@
+# 30 Minutes Self-Teaching Convolutional Neural Networks
+[30 Minutes Self-Teaching Convolutional Neural Networks](https://aiwithcloud.com/2022/09/15/30_minutes_self_teaching_convolutional_neural_networks/)

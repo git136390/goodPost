@@ -1,0 +1,2 @@
+# Win11 system builds FTP server super detailed process
+[Win11 system builds FTP server super detailed process](https://aiwithcloud.com/2022/09/15/win11_system_builds_ftp_server_super_detailed_process/)

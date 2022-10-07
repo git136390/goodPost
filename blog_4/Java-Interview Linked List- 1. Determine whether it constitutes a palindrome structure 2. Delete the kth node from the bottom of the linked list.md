@@ -1,0 +1,2 @@
+# Java-Interview Linked List- 1. Determine whether it constitutes a palindrome structure 2. Delete the kth node from the bottom of the linked list
+[Java-Interview Linked List- 1. Determine whether it constitutes a palindrome structure 2. Delete the kth node from the bottom of the linked list](https://aiwithcloud.com/2022/09/16/java_interview_linked_list__1-_determine_whether_it_constitutes_a_palindrome_structure_2-_delete_the_kth_node_from_the_bottom_of_the_linked_list/)

@@ -1,0 +1,2 @@
+# Create a new STM32F4XX project template in MDK5 (based on firmware library)
+[Create a new STM32F4XX project template in MDK5 (based on firmware library)](https://aiwithcloud.com/2022/09/15/create_a_new_stm32f4xx_project_template_in_mdk5_based_on_firmware_library/)

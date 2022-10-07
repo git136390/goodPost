@@ -1,0 +1,2 @@
+# linux finds file names with keyword strings in a directory.
+[linux finds file names with keyword strings in a directory.](https://aiwithcloud.com/2022/09/16/linux_finds_file_names_with_keyword_strings_in_a_directory/)

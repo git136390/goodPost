@@ -1,0 +1,2 @@
+# Selenium learning (6) Detailed explanation of the assert series of selenium IDE commands
+[Selenium learning (6) Detailed explanation of the assert series of selenium IDE commands](https://aiwithcloud.com/2022/09/19/selenium_learning_6_detailed_explanation_of_the_assert_series_of_selenium_ide_commands/)

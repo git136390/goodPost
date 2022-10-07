@@ -1,0 +1,2 @@
+# [Python] OpenCV reads video frames and saves them as pictures
+[[Python] OpenCV reads video frames and saves them as pictures](https://aiwithcloud.com/2022/09/15/python_opencv_reads_video_frames_and_saves_them_as_pictures/)

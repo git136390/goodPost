@@ -1,0 +1,2 @@
+# Detailed explanation of common file permission commands in Linux
+[Detailed explanation of common file permission commands in Linux](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_common_file_permission_commands_in_linux/)

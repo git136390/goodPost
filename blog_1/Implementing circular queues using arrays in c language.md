@@ -1,0 +1,2 @@
+# Implementing circular queues using arrays in c language
+[Implementing circular queues using arrays in c language](https://aiwithcloud.com/2022/09/15/implementing_circular_queues_using_arrays_in_c_language/)

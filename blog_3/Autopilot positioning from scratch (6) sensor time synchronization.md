@@ -1,0 +1,2 @@
+# Autopilot positioning from scratch (6) sensor time synchronization
+[Autopilot positioning from scratch (6) sensor time synchronization](https://aiwithcloud.com/2022/09/15/autopilot_positioning_from_scratch_6_sensor_time_synchronization/)

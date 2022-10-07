@@ -1,0 +1,2 @@
+# Diabetes Genetic Risk Detection Challenge (Coggle 30 Days of ML)
+[Diabetes Genetic Risk Detection Challenge (Coggle 30 Days of ML)](https://aiwithcloud.com/2022/09/19/diabetes_genetic_risk_detection_challenge_coggle_30_days_of_ml/)

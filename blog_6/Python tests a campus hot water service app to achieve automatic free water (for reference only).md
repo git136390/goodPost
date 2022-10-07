@@ -1,0 +1,2 @@
+# Python tests a campus hot water service app to achieve automatic free water (for reference only)
+[Python tests a campus hot water service app to achieve automatic free water (for reference only)](https://aiwithcloud.com/2022/09/16/python_tests_a_campus_hot_water_service_app_to_achieve_automatic_free_water_for_reference_only/)

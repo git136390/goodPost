@@ -1,0 +1,2 @@
+# Deep Understanding of Computers - Chapter 3 Machine-Level Representation of Programs Exercise 3.10
+[Deep Understanding of Computers - Chapter 3 Machine-Level Representation of Programs Exercise 3.10](https://aiwithcloud.com/2022/09/14/deep_understanding_of_computers___chapter_3_machine_level_representation_of_programs_exercise_3-10/)

@@ -1,0 +1,2 @@
+# Xilinx FPGA Platform DDR3 Design Nanny Tutorial (1) Introduction to DDR3 Basics
+[Xilinx FPGA Platform DDR3 Design Nanny Tutorial (1) Introduction to DDR3 Basics](https://aiwithcloud.com/2022/09/16/xilinx_fpga_platform_ddr3_design_nanny_tutorial_1_introduction_to_ddr3_basics/)

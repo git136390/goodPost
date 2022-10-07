@@ -1,0 +1,2 @@
+# The method of installing PHP7.4 in Centos8 and the solution of how to upgrade php
+[The method of installing PHP7.4 in Centos8 and the solution of how to upgrade php](https://aiwithcloud.com/2022/09/16/the_method_of_installing_php7-4_in_centos8_and_the_solution_of_how_to_upgrade_php/)

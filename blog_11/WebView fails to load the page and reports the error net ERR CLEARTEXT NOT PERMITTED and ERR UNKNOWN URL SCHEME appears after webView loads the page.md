@@ -1,0 +1,2 @@
+# WebView fails to load the page and reports the error net ERR CLEARTEXT NOT PERMITTED and ERR UNKNOWN URL SCHEME appears after webView loads the page
+[WebView fails to load the page and reports the error net ERR CLEARTEXT NOT PERMITTED and ERR UNKNOWN URL SCHEME appears after webView loads the page](https://aiwithcloud.com/2022/09/19/webview_fails_to_load_the_page_and_reports_the_error_net_err_cleartext_not_permitted_and_err_unknown_url_scheme_appears_after_webview_loads_the_page/)

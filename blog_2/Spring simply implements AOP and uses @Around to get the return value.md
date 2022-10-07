@@ -1,0 +1,2 @@
+# Spring simply implements AOP and uses @Around to get the return value
+[Spring simply implements AOP and uses @Around to get the return value](https://aiwithcloud.com/2022/09/15/spring_simply_implements_aop_and_uses_around_to_get_the_return_value/)

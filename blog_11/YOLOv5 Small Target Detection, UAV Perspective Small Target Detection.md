@@ -1,0 +1,2 @@
+# YOLOv5 Small Target Detection, UAV Perspective Small Target Detection
+[YOLOv5 Small Target Detection, UAV Perspective Small Target Detection](https://aiwithcloud.com/2022/09/19/yolov5_small_target_detection_uav_perspective_small_target_detection/)

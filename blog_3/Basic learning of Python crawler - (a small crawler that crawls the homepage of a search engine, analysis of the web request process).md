@@ -1,0 +1,2 @@
+# Basic learning of Python crawler - (a small crawler that crawls the homepage of a search engine, analysis of the web request process)
+[Basic learning of Python crawler - (a small crawler that crawls the homepage of a search engine, analysis of the web request process)](https://aiwithcloud.com/2022/09/15/basic_learning_of_python_crawler___a_small_crawler_that_crawls_the_homepage_of_a_search_engine_analysis_of_the_web_request_process/)

@@ -1,0 +1,2 @@
+# vite-plugin-style-import reports an error require.resolve is not a function when vite builds a project to import vant on demand
+[vite-plugin-style-import reports an error require.resolve is not a function when vite builds a project to import vant on demand](https://aiwithcloud.com/2022/09/15/vite_plugin_style_import_reports_an_error_require-resolve_is_not_a_function_when_vite_builds_a_project_to_import_vant_on_demand/)

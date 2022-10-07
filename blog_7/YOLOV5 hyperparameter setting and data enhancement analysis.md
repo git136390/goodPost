@@ -1,0 +1,2 @@
+# YOLOV5 hyperparameter setting and data enhancement analysis
+[YOLOV5 hyperparameter setting and data enhancement analysis](https://aiwithcloud.com/2022/09/16/yolov5_hyperparameter_setting_and_data_enhancement_analysis/)

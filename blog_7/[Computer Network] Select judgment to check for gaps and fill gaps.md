@@ -1,0 +1,2 @@
+# [Computer Network] Select judgment to check for gaps and fill gaps
+[[Computer Network] Select judgment to check for gaps and fill gaps](https://aiwithcloud.com/2022/09/16/computer_network_select_judgment_to_check_for_gaps_and_fill_gaps/)

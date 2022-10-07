@@ -1,0 +1,2 @@
+# [language environment] win2008R2SP1+WAMP environment deployment
+[[language environment] win2008R2SP1+WAMP environment deployment](https://aiwithcloud.com/2022/09/19/language_environment_win2008r2sp1wamp_environment_deployment/)

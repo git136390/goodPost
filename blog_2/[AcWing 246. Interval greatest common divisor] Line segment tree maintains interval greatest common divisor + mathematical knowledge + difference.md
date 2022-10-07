@@ -1,0 +1,2 @@
+# [AcWing 246. Interval greatest common divisor] Line segment tree maintains interval greatest common divisor + mathematical knowledge + difference
+[[AcWing 246. Interval greatest common divisor] Line segment tree maintains interval greatest common divisor + mathematical knowledge + difference](https://aiwithcloud.com/2022/09/15/acwing_246-_interval_greatest_common_divisor_line_segment_tree_maintains_interval_greatest_common_divisor__mathematical_knowledge__difference/)

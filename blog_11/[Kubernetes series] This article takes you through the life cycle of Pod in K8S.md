@@ -1,0 +1,2 @@
+# [Kubernetes series] This article takes you through the life cycle of Pod in K8S
+[[Kubernetes series] This article takes you through the life cycle of Pod in K8S](https://aiwithcloud.com/2022/09/19/kubernetes_series_this_article_takes_you_through_the_life_cycle_of_pod_in_k8s/)

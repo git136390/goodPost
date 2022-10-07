@@ -1,0 +1,2 @@
+# Element cell total (multi-row total, total column merge)
+[Element cell total (multi-row total, total column merge)](https://aiwithcloud.com/2022/09/15/element_cell_total_multi_row_total_total_column_merge/)

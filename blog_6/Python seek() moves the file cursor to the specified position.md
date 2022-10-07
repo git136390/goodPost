@@ -1,0 +1,2 @@
+# Python seek() moves the file cursor to the specified position
+[Python seek() moves the file cursor to the specified position](https://aiwithcloud.com/2022/09/16/python_seek_moves_the_file_cursor_to_the_specified_position/)

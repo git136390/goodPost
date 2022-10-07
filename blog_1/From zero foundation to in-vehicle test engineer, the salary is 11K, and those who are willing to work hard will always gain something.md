@@ -1,0 +1,2 @@
+# From zero foundation to in-vehicle test engineer, the salary is 11K, and those who are willing to work hard will always gain something
+[From zero foundation to in-vehicle test engineer, the salary is 11K, and those who are willing to work hard will always gain something](https://aiwithcloud.com/2022/09/14/from_zero_foundation_to_in_vehicle_test_engineer_the_salary_is_11k_and_those_who_are_willing_to_work_hard_will_always_gain_something/)

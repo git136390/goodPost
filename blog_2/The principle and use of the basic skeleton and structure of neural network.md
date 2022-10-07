@@ -1,0 +1,2 @@
+# The principle and use of the basic skeleton and structure of neural network
+[The principle and use of the basic skeleton and structure of neural network](https://aiwithcloud.com/2022/09/15/the_principle_and_use_of_the_basic_skeleton_and_structure_of_neural_network/)

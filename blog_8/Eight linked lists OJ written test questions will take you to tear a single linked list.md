@@ -1,0 +1,2 @@
+# Eight linked lists OJ written test questions will take you to tear a single linked list
+[Eight linked lists OJ written test questions will take you to tear a single linked list](https://aiwithcloud.com/2022/09/19/eight_linked_lists_oj_written_test_questions_will_take_you_to_tear_a_single_linked_list/)

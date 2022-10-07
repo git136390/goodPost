@@ -1,0 +1,2 @@
+# Definition and Implementation of Linear Table of Algorithms and Data Structures
+[Definition and Implementation of Linear Table of Algorithms and Data Structures](https://aiwithcloud.com/2022/09/19/definition_and_implementation_of_linear_table_of_algorithms_and_data_structures/)

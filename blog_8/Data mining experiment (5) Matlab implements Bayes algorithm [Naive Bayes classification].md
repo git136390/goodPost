@@ -1,0 +1,2 @@
+# Data mining experiment (5) Matlab implements Bayes algorithm [Naive Bayes classification]
+[Data mining experiment (5) Matlab implements Bayes algorithm [Naive Bayes classification]](https://aiwithcloud.com/2022/09/19/data_mining_experiment_5_matlab_implements_bayes_algorithm_naive_bayes_classification/)

@@ -1,0 +1,2 @@
+# Share an open source database modeling tool--PDMan (can replace powerdesigner)
+[Share an open source database modeling tool--PDMan (can replace powerdesigner)](https://aiwithcloud.com/2022/09/16/share_an_open_source_database_modeling_tool__pdman_can_replace_powerdesigner/)

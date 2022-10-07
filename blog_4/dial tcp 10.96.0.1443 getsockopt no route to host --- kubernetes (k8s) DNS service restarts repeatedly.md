@@ -1,0 +1,2 @@
+# dial tcp 10.96.0.1443 getsockopt no route to host --- kubernetes (k8s) DNS service restarts repeatedly
+[dial tcp 10.96.0.1443 getsockopt no route to host --- kubernetes (k8s) DNS service restarts repeatedly](https://aiwithcloud.com/2022/09/15/dial_tcp_10-96-0-1443_getsockopt_no_route_to_host_____kubernetes_k8s_dns_service_restarts_repeatedly/)

@@ -1,0 +1,2 @@
+# Image filtering of Opencv 5. Median filtering (cv2.medianBlur)
+[Image filtering of Opencv 5. Median filtering (cv2.medianBlur)](https://aiwithcloud.com/2022/09/19/image_filtering_of_opencv_5-_median_filtering_cv2-medianblur/)

@@ -1,0 +1,2 @@
+# Linux system initialization update (replace Alibaba source) (centos7mini)
+[Linux system initialization update (replace Alibaba source) (centos7mini)](https://aiwithcloud.com/2022/09/19/linux_system_initialization_update_replace_alibaba_source_centos7mini/)

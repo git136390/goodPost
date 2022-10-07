@@ -1,0 +1,2 @@
+# Unity explores block access design analysis & process + code specific implementation
+[Unity explores block access design analysis & process + code specific implementation](https://aiwithcloud.com/2022/09/16/unity_explores_block_access_design_analysis__process__code_specific_implementation/)

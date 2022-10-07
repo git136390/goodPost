@@ -1,0 +1,2 @@
+# RuntimeError Attempting to deserialize object on a CUDA device but torch.cuda.is available() is Fal
+[RuntimeError Attempting to deserialize object on a CUDA device but torch.cuda.is available() is Fal](https://aiwithcloud.com/2022/09/19/runtimeerror_attempting_to_deserialize_object_on_a_cuda_device_but_torch-cuda-is_available_is_fal/)

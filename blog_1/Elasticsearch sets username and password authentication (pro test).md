@@ -1,0 +1,2 @@
+# Elasticsearch sets username and password authentication (pro test)
+[Elasticsearch sets username and password authentication (pro test)](https://aiwithcloud.com/2022/09/14/elasticsearch_sets_username_and_password_authentication_pro_test/)

@@ -1,0 +1,2 @@
+# 基于scikit-learn求向量/矩阵的L1范数和L2范数
+[基于scikit-learn求向量/矩阵的L1范数和L2范数](https://aiwithcloud.com/2021/04/25/%e5%9f%ba%e4%ba%8escikit-learn%e6%b1%82%e5%90%91%e9%87%8f-%e7%9f%a9%e9%98%b5%e7%9a%84l1%e8%8c%83%e6%95%b0%e5%92%8cl2%e8%8c%83%e6%95%b0/)

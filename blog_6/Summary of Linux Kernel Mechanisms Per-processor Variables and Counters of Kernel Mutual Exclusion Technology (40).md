@@ -1,0 +1,2 @@
+# Summary of Linux Kernel Mechanisms Per-processor Variables and Counters of Kernel Mutual Exclusion Technology (40)
+[Summary of Linux Kernel Mechanisms Per-processor Variables and Counters of Kernel Mutual Exclusion Technology (40)](https://aiwithcloud.com/2022/09/16/summary_of_linux_kernel_mechanisms_per_processor_variables_and_counters_of_kernel_mutual_exclusion_technology_40/)

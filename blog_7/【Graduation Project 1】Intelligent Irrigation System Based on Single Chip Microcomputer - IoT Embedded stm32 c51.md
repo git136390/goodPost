@@ -1,0 +1,2 @@
+# 【Graduation Project 1】Intelligent Irrigation System Based on Single Chip Microcomputer - IoT Embedded stm32 c51
+[【Graduation Project 1】Intelligent Irrigation System Based on Single Chip Microcomputer - IoT Embedded stm32 c51](https://aiwithcloud.com/2022/09/16/%e3%80%90graduation_project_1%e3%80%91intelligent_irrigation_system_based_on_single_chip_microcomputer___iot_embedded_stm32_c51/)

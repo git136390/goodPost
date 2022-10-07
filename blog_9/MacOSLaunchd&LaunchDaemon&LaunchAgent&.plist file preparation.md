@@ -1,0 +1,2 @@
+# MacOSLaunchd&LaunchDaemon&LaunchAgent&.plist file preparation
+[MacOSLaunchd&LaunchDaemon&LaunchAgent&.plist file preparation](https://aiwithcloud.com/2022/09/19/macoslaunchdlaunchdaemonlaunchagent-plist_file_preparation/)

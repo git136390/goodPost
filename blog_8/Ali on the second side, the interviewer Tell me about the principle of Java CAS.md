@@ -1,0 +1,2 @@
+# Ali on the second side, the interviewer Tell me about the principle of Java CAS
+[Ali on the second side, the interviewer Tell me about the principle of Java CAS](https://aiwithcloud.com/2022/09/19/ali_on_the_second_side_the_interviewer_tell_me_about_the_principle_of_java_cas/)

@@ -1,0 +1,2 @@
+# Remember to unpack the WeChat applet source code once
+[Remember to unpack the WeChat applet source code once](https://aiwithcloud.com/2022/09/15/remember_to_unpack_the_wechat_applet_source_code_once/)

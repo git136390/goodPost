@@ -1,0 +1,2 @@
+# 0_Basic_learning_audio_and_video_programming_technology_(3)_Qt+ffmpeg_development_environment_construction_+_simple_QT_project_calling_ffmpeg
+[0_Basic_learning_audio_and_video_programming_technology_(3)_Qt+ffmpeg_development_environment_construction_+_simple_QT_project_calling_ffmpeg](https://aiwithcloud.com/?p=1809)

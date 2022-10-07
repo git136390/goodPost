@@ -1,0 +1,2 @@
+# Director Ali teaches you how to write test cases in 10 minutes
+[Director Ali teaches you how to write test cases in 10 minutes](https://aiwithcloud.com/2022/09/14/director_ali_teaches_you_how_to_write_test_cases_in_10_minutes/)

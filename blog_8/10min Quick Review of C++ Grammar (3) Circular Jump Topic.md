@@ -1,0 +1,2 @@
+# 10min Quick Review of C++ Grammar (3) Circular Jump Topic
+[10min Quick Review of C++ Grammar (3) Circular Jump Topic](https://aiwithcloud.com/2022/09/19/10min_quick_review_of_c_grammar_3_circular_jump_topic/)

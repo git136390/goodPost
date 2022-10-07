@@ -1,0 +1,2 @@
+# Understanding of pointers (pointers and pointer variables)
+[Understanding of pointers (pointers and pointer variables)](https://aiwithcloud.com/2022/09/16/understanding_of_pointers_pointers_and_pointer_variables/)

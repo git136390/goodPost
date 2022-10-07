@@ -1,0 +1,2 @@
+# The meaning of adding and subtracting string pointers
+[The meaning of adding and subtracting string pointers](https://aiwithcloud.com/2022/09/16/the_meaning_of_adding_and_subtracting_string_pointers/)

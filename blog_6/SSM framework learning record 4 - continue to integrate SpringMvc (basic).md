@@ -1,0 +1,2 @@
+# SSM framework learning record 4 - continue to integrate SpringMvc (basic)
+[SSM framework learning record 4 - continue to integrate SpringMvc (basic)](https://aiwithcloud.com/2022/09/16/ssm_framework_learning_record_4___continue_to_integrate_springmvc_basic/)

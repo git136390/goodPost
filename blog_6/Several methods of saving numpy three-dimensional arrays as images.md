@@ -1,0 +1,2 @@
+# Several methods of saving numpy three-dimensional arrays as images
+[Several methods of saving numpy three-dimensional arrays as images](https://aiwithcloud.com/2022/09/16/several_methods_of_saving_numpy_three_dimensional_arrays_as_images/)

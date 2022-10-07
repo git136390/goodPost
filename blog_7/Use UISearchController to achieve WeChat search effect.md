@@ -1,0 +1,2 @@
+# Use UISearchController to achieve WeChat search effect
+[Use UISearchController to achieve WeChat search effect](https://aiwithcloud.com/2022/09/16/use_uisearchcontroller_to_achieve_wechat_search_effect/)

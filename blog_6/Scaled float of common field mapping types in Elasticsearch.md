@@ -1,0 +1,2 @@
+# Scaled float of common field mapping types in Elasticsearch
+[Scaled float of common field mapping types in Elasticsearch](https://aiwithcloud.com/2022/09/16/scaled_float_of_common_field_mapping_types_in_elasticsearch/)

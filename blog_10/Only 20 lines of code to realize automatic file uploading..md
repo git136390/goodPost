@@ -1,0 +1,2 @@
+# Only 20 lines of code to realize automatic file uploading.
+[Only 20 lines of code to realize automatic file uploading.](https://aiwithcloud.com/2022/09/19/only_20_lines_of_code_to_realize_automatic_file_uploading/)

@@ -1,0 +1,2 @@
+# Use the annotation @Transactional to identify the correct usage of a transactional method
+[Use the annotation @Transactional to identify the correct usage of a transactional method](https://aiwithcloud.com/2022/09/16/use_the_annotation_transactional_to_identify_the_correct_usage_of_a_transactional_method/)

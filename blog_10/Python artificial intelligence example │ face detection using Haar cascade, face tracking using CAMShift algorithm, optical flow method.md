@@ -1,0 +1,2 @@
+# Python artificial intelligence example │ face detection using Haar cascade, face tracking using CAMShift algorithm, optical flow method
+[Python artificial intelligence example │ face detection using Haar cascade, face tracking using CAMShift algorithm, optical flow method](https://aiwithcloud.com/2022/09/19/python_artificial_intelligence_example_%e2%94%82_face_detection_using_haar_cascade_face_tracking_using_camshift_algorithm_optical_flow_method/)

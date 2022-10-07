@@ -1,0 +1,2 @@
+# Set language level to 8 - Lambdas, type annotations etc. A grammar needs to set the jdk1.8 version
+[Set language level to 8 - Lambdas, type annotations etc. A grammar needs to set the jdk1.8 version](https://aiwithcloud.com/2022/09/16/set_language_level_to_8___lambdas_type_annotations_etc-_a_grammar_needs_to_set_the_jdk1-8_version/)

@@ -1,0 +1,2 @@
+# WeChat applet - parent component binding child component external event communication
+[WeChat applet - parent component binding child component external event communication](https://aiwithcloud.com/2022/09/15/wechat_applet___parent_component_binding_child_component_external_event_communication/)

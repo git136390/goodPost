@@ -1,0 +1,2 @@
+# The solution of netERR CLEARTEXT NOT PERMITTED when the WebView in Hongmeng system loads the H5 page
+[The solution of netERR CLEARTEXT NOT PERMITTED when the WebView in Hongmeng system loads the H5 page](https://aiwithcloud.com/2022/09/19/the_solution_of_neterr_cleartext_not_permitted_when_the_webview_in_hongmeng_system_loads_the_h5_page/)

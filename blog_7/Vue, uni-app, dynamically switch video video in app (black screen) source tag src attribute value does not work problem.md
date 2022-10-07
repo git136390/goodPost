@@ -1,0 +1,2 @@
+# Vue, uni-app, dynamically switch video video in app (black screen) source tag src attribute value does not work problem
+[Vue, uni-app, dynamically switch video video in app (black screen) source tag src attribute value does not work problem](https://aiwithcloud.com/2022/09/16/vue_uni_app_dynamically_switch_video_video_in_app_black_screen_source_tag_src_attribute_value_does_not_work_problem/)

@@ -1,0 +1,2 @@
+# Why do programmers only turn off the monitor and never turn off the computer after get off work Check out the answers on the major websites~
+[Why do programmers only turn off the monitor and never turn off the computer after get off work Check out the answers on the major websites~](https://aiwithcloud.com/2022/09/19/why_do_programmers_only_turn_off_the_monitor_and_never_turn_off_the_computer_after_get_off_work_check_out_the_answers_on_the_major_websites/)

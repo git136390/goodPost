@@ -1,0 +1,2 @@
+# There is a difference between Android drawable and mipmap folder storing pictures
+[There is a difference between Android drawable and mipmap folder storing pictures](https://aiwithcloud.com/2022/09/15/there_is_a_difference_between_android_drawable_and_mipmap_folder_storing_pictures/)

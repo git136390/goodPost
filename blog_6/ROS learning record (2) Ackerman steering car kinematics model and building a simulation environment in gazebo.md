@@ -1,0 +1,2 @@
+# ROS learning record (2) Ackerman steering car kinematics model and building a simulation environment in gazebo
+[ROS learning record (2) Ackerman steering car kinematics model and building a simulation environment in gazebo](https://aiwithcloud.com/2022/09/16/ros_learning_record_2_ackerman_steering_car_kinematics_model_and_building_a_simulation_environment_in_gazebo/)

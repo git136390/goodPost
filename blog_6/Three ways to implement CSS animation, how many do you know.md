@@ -1,0 +1,2 @@
+# Three ways to implement CSS animation, how many do you know
+[Three ways to implement CSS animation, how many do you know](https://aiwithcloud.com/2022/09/16/three_ways_to_implement_css_animation_how_many_do_you_know/)

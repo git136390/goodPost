@@ -1,0 +1,2 @@
+# Algorithm Competition Advanced Guide Punch Series 0x00 7. Recursive implementation of permutation enumeration
+[Algorithm Competition Advanced Guide Punch Series 0x00 7. Recursive implementation of permutation enumeration](https://aiwithcloud.com/2022/09/15/algorithm_competition_advanced_guide_punch_series_0x00_7-_recursive_implementation_of_permutation_enumeration/)

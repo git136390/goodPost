@@ -1,0 +1,2 @@
+# Use Opencv's opencv traincascade to train your own classifier and detect what you want to detect, 666, from use to abandonment.
+[Use Opencv's opencv traincascade to train your own classifier and detect what you want to detect, 666, from use to abandonment.](https://aiwithcloud.com/2022/09/16/use_opencvs_opencv_traincascade_to_train_your_own_classifier_and_detect_what_you_want_to_detect_666_from_use_to_abandonment/)

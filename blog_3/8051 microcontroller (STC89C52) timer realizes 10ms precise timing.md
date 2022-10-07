@@ -1,0 +1,2 @@
+# 8051 microcontroller (STC89C52) timer realizes 10ms precise timing
+[8051 microcontroller (STC89C52) timer realizes 10ms precise timing](https://aiwithcloud.com/2022/09/15/8051_microcontroller_stc89c52_timer_realizes_10ms_precise_timing/)

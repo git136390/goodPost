@@ -1,0 +1,2 @@
+# Hdu 2121 Ice cream's world II rootless minimal tree diagram
+[Hdu 2121 Ice cream's world II rootless minimal tree diagram](https://aiwithcloud.com/2022/09/15/hdu_2121_ice_creams_world_ii_rootless_minimal_tree_diagram/)

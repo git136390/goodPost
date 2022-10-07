@@ -1,0 +1,2 @@
+# Win10 compiles the x264 library (there are also generated lib files)
+[Win10 compiles the x264 library (there are also generated lib files)](https://aiwithcloud.com/2022/09/19/win10_compiles_the_x264_library_there_are_also_generated_lib_files/)

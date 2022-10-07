@@ -1,0 +1,2 @@
+# [Java deserialization] 10. Basics of deserialization vulnerabilities
+[[Java deserialization] 10. Basics of deserialization vulnerabilities](https://aiwithcloud.com/2022/09/19/java_deserialization_10-_basics_of_deserialization_vulnerabilities/)

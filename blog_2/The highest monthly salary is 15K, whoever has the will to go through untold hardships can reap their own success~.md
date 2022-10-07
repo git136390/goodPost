@@ -1,0 +1,2 @@
+# The highest monthly salary is 15K, whoever has the will to go through untold hardships can reap their own success~
+[The highest monthly salary is 15K, whoever has the will to go through untold hardships can reap their own success~](https://aiwithcloud.com/2022/09/15/the_highest_monthly_salary_is_15k_whoever_has_the_will_to_go_through_untold_hardships_can_reap_their_own_success/)

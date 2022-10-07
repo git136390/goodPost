@@ -1,0 +1,2 @@
+# The realization method of mutual assignment between dynamic assignment  PaddlePaddle and Pytoch model parameters
+[The realization method of mutual assignment between dynamic assignment  PaddlePaddle and Pytoch model parameters](https://aiwithcloud.com/2022/09/16/the_realization_method_of_mutual_assignment_between_dynamic_assignment__paddlepaddle_and_pytoch_model_parameters/)

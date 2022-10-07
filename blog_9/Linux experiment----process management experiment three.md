@@ -1,0 +1,2 @@
+# Linux experiment----process management experiment three
+[Linux experiment----process management experiment three](https://aiwithcloud.com/2022/09/19/linux_experiment____process_management_experiment_three/)

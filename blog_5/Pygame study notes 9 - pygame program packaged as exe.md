@@ -1,0 +1,2 @@
+# Pygame study notes 9 - pygame program packaged as exe
+[Pygame study notes 9 - pygame program packaged as exe](https://aiwithcloud.com/2022/09/16/pygame_study_notes_9___pygame_program_packaged_as_exe/)

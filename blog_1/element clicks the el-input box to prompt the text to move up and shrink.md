@@ -1,0 +1,2 @@
+# element clicks the el-input box to prompt the text to move up and shrink
+[element clicks the el-input box to prompt the text to move up and shrink](https://aiwithcloud.com/2022/09/14/element_clicks_the_el_input_box_to_prompt_the_text_to_move_up_and_shrink/)

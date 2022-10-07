@@ -1,0 +1,2 @@
+# Detailed description of all properties of CSS background
+[Detailed description of all properties of CSS background](https://aiwithcloud.com/2022/09/19/detailed_description_of_all_properties_of_css_background/)

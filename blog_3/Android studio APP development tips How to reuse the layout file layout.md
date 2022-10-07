@@ -1,0 +1,2 @@
+# Android studio APP development tips How to reuse the layout file layout
+[Android studio APP development tips How to reuse the layout file layout](https://aiwithcloud.com/2022/09/15/android_studio_app_development_tips_how_to_reuse_the_layout_file_layout/)

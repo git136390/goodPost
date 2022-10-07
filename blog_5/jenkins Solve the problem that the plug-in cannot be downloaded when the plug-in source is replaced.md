@@ -1,0 +1,2 @@
+# jenkins Solve the problem that the plug-in cannot be downloaded when the plug-in source is replaced
+[jenkins Solve the problem that the plug-in cannot be downloaded when the plug-in source is replaced](https://aiwithcloud.com/2022/09/16/jenkins_solve_the_problem_that_the_plug_in_cannot_be_downloaded_when_the_plug_in_source_is_replaced/)

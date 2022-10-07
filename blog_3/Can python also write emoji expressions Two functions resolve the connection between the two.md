@@ -1,0 +1,2 @@
+# Can python also write emoji expressions Two functions resolve the connection between the two
+[Can python also write emoji expressions Two functions resolve the connection between the two](https://aiwithcloud.com/2022/09/15/can_python_also_write_emoji_expressions_two_functions_resolve_the_connection_between_the_two/)

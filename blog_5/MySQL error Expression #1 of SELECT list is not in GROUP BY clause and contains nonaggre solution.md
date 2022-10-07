@@ -1,0 +1,2 @@
+# MySQL error Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggre solution
+[MySQL error Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggre solution](https://aiwithcloud.com/2022/09/16/mysql_error_expression_1_of_select_list_is_not_in_group_by_clause_and_contains_nonaggre_solution/)

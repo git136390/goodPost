@@ -1,0 +1,2 @@
+# Implement the function of queue with two stacks in JAVA
+[Implement the function of queue with two stacks in JAVA](https://aiwithcloud.com/2022/09/19/implement_the_function_of_queue_with_two_stacks_in_java/)

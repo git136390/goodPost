@@ -1,0 +1,2 @@
+# vs2019 uses gitee (code cloud) for collaborative development
+[vs2019 uses gitee (code cloud) for collaborative development](https://aiwithcloud.com/2022/09/19/vs2019_uses_gitee_code_cloud_for_collaborative_development/)

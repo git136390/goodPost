@@ -1,0 +1,2 @@
+# 〖Python database development practice - MySQL chapter ⑱〗 - application of group query
+[〖Python database development practice - MySQL chapter ⑱〗 - application of group query](https://aiwithcloud.com/2022/09/16/%e3%80%96python_database_development_practice___mysql_chapter_%e2%91%b1%e3%80%97___application_of_group_query/)

@@ -1,0 +1,2 @@
+# Introduction to Deep Learning Python Edition Xiaoyushu Notes 1 Perceptron
+[Introduction to Deep Learning Python Edition Xiaoyushu Notes 1 Perceptron](https://aiwithcloud.com/2022/09/19/introduction_to_deep_learning_python_edition_xiaoyushu_notes_1_perceptron/)

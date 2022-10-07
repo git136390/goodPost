@@ -1,0 +1,2 @@
+# Python - Scrapy crawler framework environment configuration and project creation under Windows
+[Python - Scrapy crawler framework environment configuration and project creation under Windows](https://aiwithcloud.com/2022/09/16/python___scrapy_crawler_framework_environment_configuration_and_project_creation_under_windows/)

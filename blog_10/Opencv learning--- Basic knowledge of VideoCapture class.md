@@ -1,0 +1,2 @@
+# Opencv learning--- Basic knowledge of VideoCapture class
+[Opencv learning--- Basic knowledge of VideoCapture class](https://aiwithcloud.com/2022/09/19/opencv_learning____basic_knowledge_of_videocapture_class/)

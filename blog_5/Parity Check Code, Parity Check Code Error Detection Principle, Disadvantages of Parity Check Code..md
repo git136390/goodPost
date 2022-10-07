@@ -1,0 +1,2 @@
+# Parity Check Code, Parity Check Code Error Detection Principle, Disadvantages of Parity Check Code.
+[Parity Check Code, Parity Check Code Error Detection Principle, Disadvantages of Parity Check Code.](https://aiwithcloud.com/2022/09/16/parity_check_code_parity_check_code_error_detection_principle_disadvantages_of_parity_check_code/)

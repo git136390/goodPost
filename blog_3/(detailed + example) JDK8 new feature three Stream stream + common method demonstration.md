@@ -1,0 +1,2 @@
+# (detailed + example) JDK8 new feature three Stream stream + common method demonstration
+[(detailed + example) JDK8 new feature three Stream stream + common method demonstration](https://aiwithcloud.com/2022/09/15/detailed__example_jdk8_new_feature_three_stream_stream__common_method_demonstration/)

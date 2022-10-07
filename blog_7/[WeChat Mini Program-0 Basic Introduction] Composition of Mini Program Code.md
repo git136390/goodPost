@@ -1,0 +1,2 @@
+# [WeChat Mini Program-0 Basic Introduction] Composition of Mini Program Code
+[[WeChat Mini Program-0 Basic Introduction] Composition of Mini Program Code](https://aiwithcloud.com/2022/09/16/wechat_mini_program_0_basic_introduction_composition_of_mini_program_code/)

@@ -1,0 +1,2 @@
+# Actual_project_(2)_STM32cubeMX_configuration_Bluetooth_module
+[Actual_project_(2)_STM32cubeMX_configuration_Bluetooth_module](https://aiwithcloud.com/2022/09/14/actual_project_2_stm32cubemx_configuration_bluetooth_module/)

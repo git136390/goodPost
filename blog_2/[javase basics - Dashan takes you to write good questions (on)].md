@@ -1,0 +1,2 @@
+# [javase basics - Dashan takes you to write good questions (on)]
+[[javase basics - Dashan takes you to write good questions (on)]](https://aiwithcloud.com/2022/09/15/javase_basics___dashan_takes_you_to_write_good_questions_on/)

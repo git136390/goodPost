@@ -1,0 +1,2 @@
+# git rm removes tracking of files from Git repository (7)
+[git rm removes tracking of files from Git repository (7)](https://aiwithcloud.com/2022/09/15/git_rm_removes_tracking_of_files_from_git_repository_7/)

@@ -1,0 +1,2 @@
+# Intel Neural Compute Stick 2nd Generation Deployment - Ubuntu 16.04 Appears Problem executing scripts APTUpdatePost
+[Intel Neural Compute Stick 2nd Generation Deployment - Ubuntu 16.04 Appears Problem executing scripts APTUpdatePost](https://aiwithcloud.com/2022/09/15/intel_neural_compute_stick_2nd_generation_deployment___ubuntu_16-04_appears_problem_executing_scripts_aptupdatepost/)

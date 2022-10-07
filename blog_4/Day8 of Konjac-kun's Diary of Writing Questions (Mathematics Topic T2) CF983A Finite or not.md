@@ -1,0 +1,2 @@
+# Day8 of Konjac-kun's Diary of Writing Questions (Mathematics Topic T2) CF983A Finite or not
+[Day8 of Konjac-kun's Diary of Writing Questions (Mathematics Topic T2) CF983A Finite or not](https://aiwithcloud.com/2022/09/15/day8_of_konjac_kuns_diary_of_writing_questions_mathematics_topic_t2_cf983a_finite_or_not/)

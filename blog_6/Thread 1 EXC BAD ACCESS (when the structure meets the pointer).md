@@ -1,0 +1,2 @@
+# Thread 1 EXC BAD ACCESS (when the structure meets the pointer)
+[Thread 1 EXC BAD ACCESS (when the structure meets the pointer)](https://aiwithcloud.com/2022/09/16/thread_1_exc_bad_access_when_the_structure_meets_the_pointer/)

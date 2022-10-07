@@ -1,0 +1,2 @@
+# python save the training model, extract and use the training model
+[python save the training model, extract and use the training model](https://aiwithcloud.com/2022/09/19/python_save_the_training_model_extract_and_use_the_training_model/)

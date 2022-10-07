@@ -1,0 +1,2 @@
+# I go, thick-skinned, you actually use == to compare floating point numbers
+[I go, thick-skinned, you actually use == to compare floating point numbers](https://aiwithcloud.com/2022/09/19/i_go_thick_skinned_you_actually_use__to_compare_floating_point_numbers/)

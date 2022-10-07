@@ -1,0 +1,2 @@
+# java data structure---PriorityQueue (priority queue, heap)
+[java data structure---PriorityQueue (priority queue, heap)](https://aiwithcloud.com/2022/09/19/java_data_structure___priorityqueue_priority_queue_heap/)

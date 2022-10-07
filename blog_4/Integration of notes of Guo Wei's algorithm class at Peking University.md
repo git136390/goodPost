@@ -1,0 +1,2 @@
+# Integration of notes of Guo Wei's algorithm class at Peking University
+[Integration of notes of Guo Wei's algorithm class at Peking University](https://aiwithcloud.com/2022/09/15/integration_of_notes_of_guo_weis_algorithm_class_at_peking_university/)

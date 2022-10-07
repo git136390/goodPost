@@ -1,0 +1,2 @@
+# Linux does not display ip address solution through ifconfig command ens33
+[Linux does not display ip address solution through ifconfig command ens33](https://aiwithcloud.com/2022/09/16/linux_does_not_display_ip_address_solution_through_ifconfig_command_ens33/)

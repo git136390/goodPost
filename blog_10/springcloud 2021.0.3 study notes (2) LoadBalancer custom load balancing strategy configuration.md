@@ -1,0 +1,2 @@
+# springcloud 2021.0.3 study notes (2) LoadBalancer custom load balancing strategy configuration
+[springcloud 2021.0.3 study notes (2) LoadBalancer custom load balancing strategy configuration](https://aiwithcloud.com/2022/09/19/springcloud_2021-0-3_study_notes_2_loadbalancer_custom_load_balancing_strategy_configuration/)

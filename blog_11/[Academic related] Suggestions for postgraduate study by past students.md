@@ -1,0 +1,2 @@
+# [Academic related] Suggestions for postgraduate study by past students
+[[Academic related] Suggestions for postgraduate study by past students](https://aiwithcloud.com/2022/09/19/academic_related_suggestions_for_postgraduate_study_by_past_students/)

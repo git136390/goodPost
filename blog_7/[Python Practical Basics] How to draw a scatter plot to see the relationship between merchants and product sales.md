@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a scatter plot to see the relationship between merchants and product sales
+[[Python Practical Basics] How to draw a scatter plot to see the relationship between merchants and product sales](https://aiwithcloud.com/2022/09/16/python_practical_basics_how_to_draw_a_scatter_plot_to_see_the_relationship_between_merchants_and_product_sales/)

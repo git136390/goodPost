@@ -1,0 +1,2 @@
+# C language Lianliankan mini game based on Easyx library
+[C language Lianliankan mini game based on Easyx library](https://aiwithcloud.com/2022/09/15/c_language_lianliankan_mini_game_based_on_easyx_library/)

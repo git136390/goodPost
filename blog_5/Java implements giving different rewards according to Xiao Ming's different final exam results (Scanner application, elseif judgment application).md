@@ -1,0 +1,2 @@
+# Java implements giving different rewards according to Xiao Ming's different final exam results (Scanner application, elseif judgment application)
+[Java implements giving different rewards according to Xiao Ming's different final exam results (Scanner application, elseif judgment application)](https://aiwithcloud.com/2022/09/16/java_implements_giving_different_rewards_according_to_xiao_mings_different_final_exam_results_scanner_application_elseif_judgment_application/)

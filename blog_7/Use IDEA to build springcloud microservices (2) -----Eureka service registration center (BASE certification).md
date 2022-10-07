@@ -1,0 +1,2 @@
+# Use IDEA to build springcloud microservices (2) -----Eureka service registration center (BASE certification)
+[Use IDEA to build springcloud microservices (2) -----Eureka service registration center (BASE certification)](https://aiwithcloud.com/2022/09/16/use_idea_to_build_springcloud_microservices_2______eureka_service_registration_center_base_certification/)

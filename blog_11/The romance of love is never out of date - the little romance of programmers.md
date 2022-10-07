@@ -1,0 +1,2 @@
+# The romance of love is never out of date - the little romance of programmers
+[The romance of love is never out of date - the little romance of programmers](https://aiwithcloud.com/2022/09/19/the_romance_of_love_is_never_out_of_date___the_little_romance_of_programmers/)

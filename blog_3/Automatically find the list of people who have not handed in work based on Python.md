@@ -1,0 +1,2 @@
+# Automatically find the list of people who have not handed in work based on Python
+[Automatically find the list of people who have not handed in work based on Python](https://aiwithcloud.com/2022/09/15/automatically_find_the_list_of_people_who_have_not_handed_in_work_based_on_python/)

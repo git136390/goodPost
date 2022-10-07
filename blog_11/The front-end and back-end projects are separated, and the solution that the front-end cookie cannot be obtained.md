@@ -1,0 +1,2 @@
+# The front-end and back-end projects are separated, and the solution that the front-end cookie cannot be obtained
+[The front-end and back-end projects are separated, and the solution that the front-end cookie cannot be obtained](https://aiwithcloud.com/2022/09/19/the_front_end_and_back_end_projects_are_separated_and_the_solution_that_the_front_end_cookie_cannot_be_obtained/)

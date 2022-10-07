@@ -1,0 +1,2 @@
+# [Unity post-rendering] The most complete instructions for the Post Processing post-processing plugin
+[[Unity post-rendering] The most complete instructions for the Post Processing post-processing plugin](https://aiwithcloud.com/2022/09/16/unity_post_rendering_the_most_complete_instructions_for_the_post_processing_post_processing_plugin/)

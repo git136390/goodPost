@@ -1,0 +1,2 @@
+# Eclipse installation Activiti plugin tutorial plugin version Eclipse compressed package download
+[Eclipse installation Activiti plugin tutorial plugin version Eclipse compressed package download](https://aiwithcloud.com/2022/09/19/eclipse_installation_activiti_plugin_tutorial_plugin_version_eclipse_compressed_package_download/)

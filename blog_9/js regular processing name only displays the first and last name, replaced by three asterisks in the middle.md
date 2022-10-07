@@ -1,0 +1,2 @@
+# js regular processing name only displays the first and last name, replaced by three asterisks in the middle
+[js regular processing name only displays the first and last name, replaced by three asterisks in the middle](https://aiwithcloud.com/2022/09/19/js_regular_processing_name_only_displays_the_first_and_last_name_replaced_by_three_asterisks_in_the_middle/)

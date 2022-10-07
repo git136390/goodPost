@@ -1,0 +1,2 @@
+# Idea connects to MySQL, 'Server returns invalid timezone' or unknown variable 'default-time-zone='+800', permanently solves the time zone problem
+[Idea connects to MySQL, 'Server returns invalid timezone' or unknown variable 'default-time-zone='+800', permanently solves the time zone problem](https://aiwithcloud.com/2022/09/19/idea_connects_to_mysql_server_returns_invalid_timezone_or_unknown_variable_default_time_zone800_permanently_solves_the_time_zone_problem/)

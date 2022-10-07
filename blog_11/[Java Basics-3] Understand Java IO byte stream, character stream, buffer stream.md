@@ -1,0 +1,2 @@
+# [Java Basics-3] Understand Java IO byte stream, character stream, buffer stream
+[[Java Basics-3] Understand Java IO byte stream, character stream, buffer stream](https://aiwithcloud.com/2022/09/19/java_basics_3_understand_java_io_byte_stream_character_stream_buffer_stream/)

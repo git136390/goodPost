@@ -1,0 +1,2 @@
+# Ubuntu install MySQL8.0.29 set case insensitive and completely uninstall MySQL
+[Ubuntu install MySQL8.0.29 set case insensitive and completely uninstall MySQL](https://aiwithcloud.com/2022/09/15/ubuntu_install_mysql8-0-29_set_case_insensitive_and_completely_uninstall_mysql/)

@@ -1,0 +1,2 @@
+# Python Dictionary Also I don't know advanced gameplay
+[Python Dictionary Also I don't know advanced gameplay](https://aiwithcloud.com/2022/09/19/python_dictionary_also_i_dont_know_advanced_gameplay/)

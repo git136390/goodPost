@@ -1,0 +1,2 @@
+# How HaaS200 (HaaS201) uses three serial ports for communication
+[How HaaS200 (HaaS201) uses three serial ports for communication](https://aiwithcloud.com/2022/09/15/how_haas200_haas201_uses_three_serial_ports_for_communication/)

@@ -1,0 +1,2 @@
+# The request is executed normally but the js syntax error is Uncaught (in promise) TypeError Cannot read properties of undefined (reading 'code')
+[The request is executed normally but the js syntax error is Uncaught (in promise) TypeError Cannot read properties of undefined (reading 'code')](https://aiwithcloud.com/2022/09/19/the_request_is_executed_normally_but_the_js_syntax_error_is_uncaught_in_promise_typeerror_cannot_read_properties_of_undefined_reading_code/)

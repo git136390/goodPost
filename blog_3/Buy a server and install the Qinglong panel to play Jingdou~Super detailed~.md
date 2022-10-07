@@ -1,0 +1,2 @@
+# Buy a server and install the Qinglong panel to play Jingdou~Super detailed~
+[Buy a server and install the Qinglong panel to play Jingdou~Super detailed~](https://aiwithcloud.com/2022/09/15/buy_a_server_and_install_the_qinglong_panel_to_play_jingdousuper_detailed/)

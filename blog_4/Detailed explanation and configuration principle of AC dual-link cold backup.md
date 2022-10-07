@@ -1,0 +1,2 @@
+# Detailed explanation and configuration principle of AC dual-link cold backup
+[Detailed explanation and configuration principle of AC dual-link cold backup](https://aiwithcloud.com/2022/09/15/detailed_explanation_and_configuration_principle_of_ac_dual_link_cold_backup/)

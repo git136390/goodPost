@@ -1,0 +1,2 @@
+# C language - vernacular to understand the original code, inverse code and complement code
+[C language - vernacular to understand the original code, inverse code and complement code](https://aiwithcloud.com/2022/09/15/c_language___vernacular_to_understand_the_original_code_inverse_code_and_complement_code/)

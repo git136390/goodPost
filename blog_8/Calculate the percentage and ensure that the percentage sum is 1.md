@@ -1,0 +1,2 @@
+# Calculate the percentage and ensure that the percentage sum is 1
+[Calculate the percentage and ensure that the percentage sum is 1](https://aiwithcloud.com/2022/09/19/calculate_the_percentage_and_ensure_that_the_percentage_sum_is_1/)

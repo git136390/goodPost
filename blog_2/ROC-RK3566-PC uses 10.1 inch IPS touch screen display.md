@@ -1,0 +1,2 @@
+# ROC-RK3566-PC uses 10.1 inch IPS touch screen display
+[ROC-RK3566-PC uses 10.1 inch IPS touch screen display](https://aiwithcloud.com/2022/09/15/roc_rk3566_pc_uses_10-1_inch_ips_touch_screen_display/)

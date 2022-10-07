@@ -1,0 +1,2 @@
+# [Efficiency Platform] Built-in function management module - get built-in function list data, view built-in function detailed data (8)
+[[Efficiency Platform] Built-in function management module - get built-in function list data, view built-in function detailed data (8)](https://aiwithcloud.com/2022/09/19/efficiency_platform_built_in_function_management_module___get_built_in_function_list_data_view_built_in_function_detailed_data_8/)

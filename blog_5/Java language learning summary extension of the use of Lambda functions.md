@@ -1,0 +1,2 @@
+# Java language learning summary extension of the use of Lambda functions
+[Java language learning summary extension of the use of Lambda functions](https://aiwithcloud.com/2022/09/16/java_language_learning_summary_extension_of_the_use_of_lambda_functions/)

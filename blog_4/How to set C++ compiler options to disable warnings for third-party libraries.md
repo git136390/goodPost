@@ -1,0 +1,2 @@
+# How to set C++ compiler options to disable warnings for third-party libraries
+[How to set C++ compiler options to disable warnings for third-party libraries](https://aiwithcloud.com/2022/09/15/how_to_set_c_compiler_options_to_disable_warnings_for_third_party_libraries/)

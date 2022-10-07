@@ -1,0 +1,2 @@
+# [Javase basics] Part 12 Construction of a singly linked list framework
+[[Javase basics] Part 12 Construction of a singly linked list framework](https://aiwithcloud.com/2022/09/16/javase_basics_part_12_construction_of_a_singly_linked_list_framework/)

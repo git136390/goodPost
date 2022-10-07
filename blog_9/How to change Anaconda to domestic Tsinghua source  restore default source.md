@@ -1,0 +1,2 @@
+# How to change Anaconda to domestic Tsinghua source  restore default source
+[How to change Anaconda to domestic Tsinghua source  restore default source](https://aiwithcloud.com/2022/09/19/how_to_change_anaconda_to_domestic_tsinghua_source__restore_default_source/)

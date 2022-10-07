@@ -1,0 +1,2 @@
+# MySQL 8.0.29 decompressed version installation tutorial (valid for personal testing)
+[MySQL 8.0.29 decompressed version installation tutorial (valid for personal testing)](https://aiwithcloud.com/2022/09/15/mysql_8-0-29_decompressed_version_installation_tutorial_valid_for_personal_testing/)

@@ -1,0 +1,2 @@
+# [STM32] HAL library STM32CubeMX tutorial four --- UART serial communication detailed
+[[STM32] HAL library STM32CubeMX tutorial four --- UART serial communication detailed](https://aiwithcloud.com/2022/09/16/stm32_hal_library_stm32cubemx_tutorial_four_____uart_serial_communication_detailed/)

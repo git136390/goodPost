@@ -1,0 +1,2 @@
+# [Data Structure Summary] Detailed explanation of Prim's algorithm and C++ implementation
+[[Data Structure Summary] Detailed explanation of Prim's algorithm and C++ implementation](https://aiwithcloud.com/2022/09/16/data_structure_summary_detailed_explanation_of_prims_algorithm_and_c_implementation/)

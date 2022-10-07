@@ -1,0 +1,2 @@
+# Make a txt file with the corresponding image subscript in the dataset
+[Make a txt file with the corresponding image subscript in the dataset](https://aiwithcloud.com/2022/09/19/make_a_txt_file_with_the_corresponding_image_subscript_in_the_dataset/)

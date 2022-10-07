@@ -1,0 +1,2 @@
+# VS 2019 uses C# language to develop simple serial port sending data software on .Net Framework 4.5 framework
+[VS 2019 uses C# language to develop simple serial port sending data software on .Net Framework 4.5 framework](https://aiwithcloud.com/2022/09/15/vs_2019_uses_c_language_to_develop_simple_serial_port_sending_data_software_on_-net_framework_4-5_framework/)

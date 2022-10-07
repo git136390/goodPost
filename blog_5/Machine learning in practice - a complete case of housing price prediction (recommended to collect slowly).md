@@ -1,0 +1,2 @@
+# Machine learning in practice - a complete case of housing price prediction (recommended to collect slowly)
+[Machine learning in practice - a complete case of housing price prediction (recommended to collect slowly)](https://aiwithcloud.com/2022/09/16/machine_learning_in_practice___a_complete_case_of_housing_price_prediction_recommended_to_collect_slowly/)

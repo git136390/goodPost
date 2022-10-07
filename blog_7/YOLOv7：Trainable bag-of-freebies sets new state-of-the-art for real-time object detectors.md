@@ -1,0 +1,2 @@
+# YOLOv7：Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+[YOLOv7：Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://aiwithcloud.com/2022/09/16/yolov7%ef%bc%9atrainable_bag_of_freebies_sets_new_state_of_the_art_for_real_time_object_detectors/)

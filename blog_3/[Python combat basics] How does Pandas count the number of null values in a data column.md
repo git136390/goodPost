@@ -1,0 +1,2 @@
+# [Python combat basics] How does Pandas count the number of null values in a data column
+[[Python combat basics] How does Pandas count the number of null values in a data column](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_does_pandas_count_the_number_of_null_values_in_a_data_column/)

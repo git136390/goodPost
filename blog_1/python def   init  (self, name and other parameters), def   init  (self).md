@@ -1,0 +1,2 @@
+# python def   init  (self, name and other parameters), def   init  (self)
+[python def   init  (self, name and other parameters), def   init  (self)](https://aiwithcloud.com/2022/09/15/python_def___init__self_name_and_other_parameters_def___init__self/)

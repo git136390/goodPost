@@ -1,0 +1,2 @@
+# Three ways to find prime numbers (Java implementation)
+[Three ways to find prime numbers (Java implementation)](https://aiwithcloud.com/2022/09/16/three_ways_to_find_prime_numbers_java_implementation/)

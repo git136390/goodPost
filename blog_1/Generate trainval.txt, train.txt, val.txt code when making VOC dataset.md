@@ -1,0 +1,2 @@
+# Generate trainval.txt, train.txt, val.txt code when making VOC dataset
+[Generate trainval.txt, train.txt, val.txt code when making VOC dataset](https://aiwithcloud.com/2022/09/15/generate_trainval-txt_train-txt_val-txt_code_when_making_voc_dataset/)

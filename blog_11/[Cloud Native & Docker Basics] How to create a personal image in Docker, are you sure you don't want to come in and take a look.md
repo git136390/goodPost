@@ -1,0 +1,2 @@
+# [Cloud Native & Docker Basics] How to create a personal image in Docker, are you sure you don't want to come in and take a look
+[[Cloud Native & Docker Basics] How to create a personal image in Docker, are you sure you don't want to come in and take a look](https://aiwithcloud.com/2022/09/19/cloud_native__docker_basics_how_to_create_a_personal_image_in_docker_are_you_sure_you_dont_want_to_come_in_and_take_a_look/)

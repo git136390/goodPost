@@ -1,0 +1,2 @@
+# Hardcore, the robot only needs 5 seconds to track the love curve
+[Hardcore, the robot only needs 5 seconds to track the love curve](https://aiwithcloud.com/2022/09/19/hardcore_the_robot_only_needs_5_seconds_to_track_the_love_curve/)

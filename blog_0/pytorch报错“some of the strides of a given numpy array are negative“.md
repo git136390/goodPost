@@ -1,0 +1,2 @@
+# pytorch报错“some of the strides of a given numpy array are negative“
+[pytorch报错“some of the strides of a given numpy array are negative“](https://aiwithcloud.com/2021/10/30/pytorch%e6%8a%a5%e9%94%99some-of-the-strides-of-a-given-numpy-array-are-negative/)

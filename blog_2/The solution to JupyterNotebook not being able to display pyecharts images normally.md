@@ -1,0 +1,2 @@
+# The solution to JupyterNotebook not being able to display pyecharts images normally
+[The solution to JupyterNotebook not being able to display pyecharts images normally](https://aiwithcloud.com/2022/09/15/the_solution_to_jupyternotebook_not_being_able_to_display_pyecharts_images_normally/)

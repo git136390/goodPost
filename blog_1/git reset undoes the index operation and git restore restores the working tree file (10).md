@@ -1,0 +1,2 @@
+# git reset undoes the index operation and git restore restores the working tree file (10)
+[git reset undoes the index operation and git restore restores the working tree file (10)](https://aiwithcloud.com/2022/09/15/git_reset_undoes_the_index_operation_and_git_restore_restores_the_working_tree_file_10/)

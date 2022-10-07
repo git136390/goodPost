@@ -1,0 +1,2 @@
+# Ultra-detailed VMware installation openEuler21.09 system
+[Ultra-detailed VMware installation openEuler21.09 system](https://aiwithcloud.com/2022/09/16/ultra_detailed_vmware_installation_openeuler21-09_system/)

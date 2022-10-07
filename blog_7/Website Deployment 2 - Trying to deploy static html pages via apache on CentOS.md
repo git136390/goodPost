@@ -1,0 +1,2 @@
+# Website Deployment 2 - Trying to deploy static html pages via apache on CentOS
+[Website Deployment 2 - Trying to deploy static html pages via apache on CentOS](https://aiwithcloud.com/2022/09/16/website_deployment_2___trying_to_deploy_static_html_pages_via_apache_on_centos/)

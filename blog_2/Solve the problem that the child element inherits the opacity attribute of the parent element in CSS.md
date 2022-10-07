@@ -1,0 +1,2 @@
+# Solve the problem that the child element inherits the opacity attribute of the parent element in CSS
+[Solve the problem that the child element inherits the opacity attribute of the parent element in CSS](https://aiwithcloud.com/2022/09/15/solve_the_problem_that_the_child_element_inherits_the_opacity_attribute_of_the_parent_element_in_css/)

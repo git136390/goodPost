@@ -1,0 +1,2 @@
+# Sorting algorithm (python) - bubble sort, selection sort
+[Sorting algorithm (python) - bubble sort, selection sort](https://aiwithcloud.com/2022/09/16/sorting_algorithm_python___bubble_sort_selection_sort/)

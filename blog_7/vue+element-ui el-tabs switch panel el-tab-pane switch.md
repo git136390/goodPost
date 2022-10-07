@@ -1,0 +1,2 @@
+# vue+element-ui el-tabs switch panel el-tab-pane switch
+[vue+element-ui el-tabs switch panel el-tab-pane switch](https://aiwithcloud.com/2022/09/16/vueelement_ui_el_tabs_switch_panel_el_tab_pane_switch/)

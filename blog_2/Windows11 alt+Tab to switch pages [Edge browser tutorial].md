@@ -1,0 +1,2 @@
+# Windows11 alt+Tab to switch pages [Edge browser tutorial]
+[Windows11 alt+Tab to switch pages [Edge browser tutorial]](https://aiwithcloud.com/2022/09/15/windows11_alttab_to_switch_pages_edge_browser_tutorial/)

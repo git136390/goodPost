@@ -1,0 +1,2 @@
+# Springboot integrates SpringCloud components - Eureka registry EurekaServer (1)
+[Springboot integrates SpringCloud components - Eureka registry EurekaServer (1)](https://aiwithcloud.com/2022/09/15/springboot_integrates_springcloud_components___eureka_registry_eurekaserver_1/)

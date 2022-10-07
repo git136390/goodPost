@@ -1,0 +1,2 @@
+# centos 8 remote distribution copy jdk to another virtual machine
+[centos 8 remote distribution copy jdk to another virtual machine](https://aiwithcloud.com/2022/09/19/centos_8_remote_distribution_copy_jdk_to_another_virtual_machine/)

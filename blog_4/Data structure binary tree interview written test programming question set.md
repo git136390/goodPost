@@ -1,0 +1,2 @@
+# Data structure binary tree interview written test programming question set
+[Data structure binary tree interview written test programming question set](https://aiwithcloud.com/2022/09/15/data_structure_binary_tree_interview_written_test_programming_question_set/)

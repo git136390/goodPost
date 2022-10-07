@@ -1,0 +1,2 @@
+# element dialog vertical and horizontal center display
+[element dialog vertical and horizontal center display](https://aiwithcloud.com/2022/09/19/element_dialog_vertical_and_horizontal_center_display/)

@@ -1,0 +1,2 @@
+# Arduino mega 2560 uploading project always fails the most complete solution and serial port test tutorial
+[Arduino mega 2560 uploading project always fails the most complete solution and serial port test tutorial](https://aiwithcloud.com/2022/09/19/arduino_mega_2560_uploading_project_always_fails_the_most_complete_solution_and_serial_port_test_tutorial/)

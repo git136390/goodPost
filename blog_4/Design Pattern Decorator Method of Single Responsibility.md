@@ -1,0 +1,2 @@
+# Design Pattern Decorator Method of Single Responsibility
+[Design Pattern Decorator Method of Single Responsibility](https://aiwithcloud.com/2022/09/15/design_pattern_decorator_method_of_single_responsibility/)

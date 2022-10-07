@@ -1,0 +1,2 @@
+# Solution to TypeError Assignment to constant variable
+[Solution to TypeError Assignment to constant variable](https://aiwithcloud.com/2022/09/19/solution_to_typeerror_assignment_to_constant_variable/)

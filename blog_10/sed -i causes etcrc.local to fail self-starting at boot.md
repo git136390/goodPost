@@ -1,0 +1,2 @@
+# sed -i causes etcrc.local to fail self-starting at boot
+[sed -i causes etcrc.local to fail self-starting at boot](https://aiwithcloud.com/2022/09/19/sed__i_causes_etcrc-local_to_fail_self_starting_at_boot/)

@@ -1,0 +1,2 @@
+# CSS The image is not stretched and is displayed vertically centered
+[CSS The image is not stretched and is displayed vertically centered](https://aiwithcloud.com/2022/09/19/css_the_image_is_not_stretched_and_is_displayed_vertically_centered/)

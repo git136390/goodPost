@@ -1,0 +1,2 @@
+# CRC check (check table method) Universal source code (compatible with CRC456781632custom), including the calculation code of CRC table data
+[CRC check (check table method) Universal source code (compatible with CRC456781632custom), including the calculation code of CRC table data](https://aiwithcloud.com/2022/09/19/crc_check_check_table_method_universal_source_code_compatible_with_crc456781632custom_including_the_calculation_code_of_crc_table_data/)

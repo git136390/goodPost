@@ -1,0 +1,2 @@
+# [Network Fundamentals] Windows remote connection to linux machine && Windows remote connection to windows machine (detailed)
+[[Network Fundamentals] Windows remote connection to linux machine && Windows remote connection to windows machine (detailed)](https://aiwithcloud.com/2022/09/16/network_fundamentals_windows_remote_connection_to_linux_machine__windows_remote_connection_to_windows_machine_detailed/)

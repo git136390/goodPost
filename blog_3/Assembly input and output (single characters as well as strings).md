@@ -1,0 +1,2 @@
+# Assembly input and output (single characters as well as strings)
+[Assembly input and output (single characters as well as strings)](https://aiwithcloud.com/2022/09/15/assembly_input_and_output_single_characters_as_well_as_strings/)

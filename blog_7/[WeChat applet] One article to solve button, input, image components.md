@@ -1,0 +1,2 @@
+# [WeChat applet] One article to solve button, input, image components
+[[WeChat applet] One article to solve button, input, image components](https://aiwithcloud.com/2022/09/16/wechat_applet_one_article_to_solve_button_input_image_components/)

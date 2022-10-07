@@ -1,0 +1,2 @@
+# [Strongly connected && can add up to a few edges to make the graph not strongly connected] HDU - 4635 Strongly connected
+[[Strongly connected && can add up to a few edges to make the graph not strongly connected] HDU - 4635 Strongly connected](https://aiwithcloud.com/2022/09/15/strongly_connected__can_add_up_to_a_few_edges_to_make_the_graph_not_strongly_connected_hdu___4635_strongly_connected/)

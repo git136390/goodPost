@@ -1,0 +1,2 @@
+# Wechat applet development json configuration file detailed navigation bar settings tabbar settings, theme color settings
+[Wechat applet development json configuration file detailed navigation bar settings tabbar settings, theme color settings](https://aiwithcloud.com/2022/09/15/wechat_applet_development_json_configuration_file_detailed_navigation_bar_settings_tabbar_settings_theme_color_settings/)

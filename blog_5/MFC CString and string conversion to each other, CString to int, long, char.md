@@ -1,0 +1,2 @@
+# MFC CString and string conversion to each other, CString to int, long, char
+[MFC CString and string conversion to each other, CString to int, long, char](https://aiwithcloud.com/2022/09/16/mfc_cstring_and_string_conversion_to_each_other_cstring_to_int_long_char/)

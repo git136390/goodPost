@@ -1,0 +1,2 @@
+# Wei Dongshan RTOS learning--The concept of heap void  type value cannot be used to initialize char  type entity
+[Wei Dongshan RTOS learning--The concept of heap void  type value cannot be used to initialize char  type entity](https://aiwithcloud.com/2022/09/16/wei_dongshan_rtos_learning__the_concept_of_heap_void__type_value_cannot_be_used_to_initialize_char__type_entity/)

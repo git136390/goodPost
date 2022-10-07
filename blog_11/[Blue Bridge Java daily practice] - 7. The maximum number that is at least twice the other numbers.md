@@ -1,0 +1,2 @@
+# [Blue Bridge Java daily practice] - 7. The maximum number that is at least twice the other numbers
+[[Blue Bridge Java daily practice] - 7. The maximum number that is at least twice the other numbers](https://aiwithcloud.com/2022/09/19/blue_bridge_java_daily_practice___7-_the_maximum_number_that_is_at_least_twice_the_other_numbers/)

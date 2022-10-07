@@ -1,0 +1,2 @@
+# Konjac-jun's Diary of Writing Questions Day9 (Mathematics Topic T3) CF294C Shaass and Lights
+[Konjac-jun's Diary of Writing Questions Day9 (Mathematics Topic T3) CF294C Shaass and Lights](https://aiwithcloud.com/2022/09/16/konjac_juns_diary_of_writing_questions_day9_mathematics_topic_t3_cf294c_shaass_and_lights/)

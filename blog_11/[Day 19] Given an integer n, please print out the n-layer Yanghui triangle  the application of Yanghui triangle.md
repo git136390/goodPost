@@ -1,0 +1,2 @@
+# [Day 19] Given an integer n, please print out the n-layer Yanghui triangle  the application of Yanghui triangle
+[[Day 19] Given an integer n, please print out the n-layer Yanghui triangle  the application of Yanghui triangle](https://aiwithcloud.com/2022/09/19/day_19_given_an_integer_n_please_print_out_the_n_layer_yanghui_triangle__the_application_of_yanghui_triangle/)

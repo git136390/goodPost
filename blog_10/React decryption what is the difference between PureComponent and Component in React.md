@@ -1,0 +1,2 @@
+# React decryption what is the difference between PureComponent and Component in React
+[React decryption what is the difference between PureComponent and Component in React](https://aiwithcloud.com/2022/09/19/react_decryption_what_is_the_difference_between_purecomponent_and_component_in_react/)

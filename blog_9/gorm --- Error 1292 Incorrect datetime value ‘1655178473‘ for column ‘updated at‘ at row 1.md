@@ -1,0 +1,2 @@
+# gorm --- Error 1292 Incorrect datetime value ‘1655178473‘ for column ‘updated at‘ at row 1
+[gorm --- Error 1292 Incorrect datetime value ‘1655178473‘ for column ‘updated at‘ at row 1](https://aiwithcloud.com/2022/09/19/gorm_____error_1292_incorrect_datetime_value_1655178473_for_column_updated_at_at_row_1/)

@@ -1,0 +1,2 @@
+# Unity makes prefabs, dynamically loads prefabs, and exports practical resources
+[Unity makes prefabs, dynamically loads prefabs, and exports practical resources](https://aiwithcloud.com/2022/09/16/unity_makes_prefabs_dynamically_loads_prefabs_and_exports_practical_resources/)

@@ -1,0 +1,2 @@
+# Spring from entry to proficient (11) static proxy debut
+[Spring from entry to proficient (11) static proxy debut](https://aiwithcloud.com/2022/09/16/spring_from_entry_to_proficient_11_static_proxy_debut/)

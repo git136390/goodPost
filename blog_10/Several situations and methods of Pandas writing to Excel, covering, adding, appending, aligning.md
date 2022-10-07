@@ -1,0 +1,2 @@
+# Several situations and methods of Pandas writing to Excel, covering, adding, appending, aligning
+[Several situations and methods of Pandas writing to Excel, covering, adding, appending, aligning](https://aiwithcloud.com/2022/09/19/several_situations_and_methods_of_pandas_writing_to_excel_covering_adding_appending_aligning/)

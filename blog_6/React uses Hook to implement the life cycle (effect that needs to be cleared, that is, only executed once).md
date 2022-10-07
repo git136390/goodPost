@@ -1,0 +1,2 @@
+# React uses Hook to implement the life cycle (effect that needs to be cleared, that is, only executed once)
+[React uses Hook to implement the life cycle (effect that needs to be cleared, that is, only executed once)](https://aiwithcloud.com/2022/09/16/react_uses_hook_to_implement_the_life_cycle_effect_that_needs_to_be_cleared_that_is_only_executed_once/)

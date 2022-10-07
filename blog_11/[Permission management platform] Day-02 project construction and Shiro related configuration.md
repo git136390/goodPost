@@ -1,0 +1,2 @@
+# [Permission management platform] Day-02 project construction and Shiro related configuration
+[[Permission management platform] Day-02 project construction and Shiro related configuration](https://aiwithcloud.com/2022/09/19/permission_management_platform_day_02_project_construction_and_shiro_related_configuration/)

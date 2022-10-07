@@ -1,0 +1,2 @@
+# The solution of the first preliminary round of the Acwing College League
+[The solution of the first preliminary round of the Acwing College League](https://aiwithcloud.com/2022/09/19/the_solution_of_the_first_preliminary_round_of_the_acwing_college_league/)

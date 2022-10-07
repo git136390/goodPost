@@ -1,0 +1,2 @@
+# Java implements a simple and easy-to-understand number-guessing game with complete code
+[Java implements a simple and easy-to-understand number-guessing game with complete code](https://aiwithcloud.com/2022/09/19/java_implements_a_simple_and_easy_to_understand_number_guessing_game_with_complete_code/)

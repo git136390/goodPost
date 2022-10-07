@@ -1,0 +1,2 @@
+# Detailed explanation of TOP command parameters---10 minutes to learn top usage
+[Detailed explanation of TOP command parameters---10 minutes to learn top usage](https://aiwithcloud.com/2022/09/15/detailed_explanation_of_top_command_parameters___10_minutes_to_learn_top_usage/)

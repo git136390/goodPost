@@ -1,0 +1,2 @@
+# [Java] The use of collection classes, have you learned
+[[Java] The use of collection classes, have you learned](https://aiwithcloud.com/2022/09/16/java_the_use_of_collection_classes_have_you_learned/)

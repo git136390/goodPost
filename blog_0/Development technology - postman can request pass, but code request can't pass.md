@@ -1,0 +1,2 @@
+# Development technology - postman can request pass, but code request can't pass
+[Development technology - postman can request pass, but code request can't pass](https://aiwithcloud.com/2022/09/14/development_technology___postman_can_request_pass_but_code_request_cant_pass/)

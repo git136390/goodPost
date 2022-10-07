@@ -1,0 +1,2 @@
+# Entry-level Bluetooth remote control car making tutorial
+[Entry-level Bluetooth remote control car making tutorial](https://aiwithcloud.com/2022/09/15/entry_level_bluetooth_remote_control_car_making_tutorial/)

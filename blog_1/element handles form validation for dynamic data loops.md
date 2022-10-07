@@ -1,0 +1,2 @@
+# element handles form validation for dynamic data loops
+[element handles form validation for dynamic data loops](https://aiwithcloud.com/2022/09/14/element_handles_form_validation_for_dynamic_data_loops/)

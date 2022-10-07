@@ -1,0 +1,2 @@
+# [TypeScript] This article will show you what TypeScript is
+[[TypeScript] This article will show you what TypeScript is](https://aiwithcloud.com/2022/09/15/typescript_this_article_will_show_you_what_typescript_is/)

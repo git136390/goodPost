@@ -1,0 +1,2 @@
+# SQL remove spaces Trim function (RTrim, LTrim) with trim prefix= suffix= suffixOverrides= prefixOverrides=trim
+[SQL remove spaces Trim function (RTrim, LTrim) with trim prefix= suffix= suffixOverrides= prefixOverrides=trim](https://aiwithcloud.com/2022/09/16/sql_remove_spaces_trim_function_rtrim_ltrim_with_trim_prefix_suffix_suffixoverrides_prefixoverridestrim/)

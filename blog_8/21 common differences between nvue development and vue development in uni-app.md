@@ -1,0 +1,2 @@
+# 21 common differences between nvue development and vue development in uni-app
+[21 common differences between nvue development and vue development in uni-app](https://aiwithcloud.com/2022/09/19/21_common_differences_between_nvue_development_and_vue_development_in_uni_app/)

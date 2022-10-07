@@ -1,0 +1,2 @@
+# Python interview questions - define multiple constructors in a class
+[Python interview questions - define multiple constructors in a class](https://aiwithcloud.com/2022/09/19/python_interview_questions___define_multiple_constructors_in_a_class/)

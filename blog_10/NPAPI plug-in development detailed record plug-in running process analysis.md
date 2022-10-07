@@ -1,0 +1,2 @@
+# NPAPI plug-in development detailed record plug-in running process analysis
+[NPAPI plug-in development detailed record plug-in running process analysis](https://aiwithcloud.com/2022/09/19/npapi_plug_in_development_detailed_record_plug_in_running_process_analysis/)

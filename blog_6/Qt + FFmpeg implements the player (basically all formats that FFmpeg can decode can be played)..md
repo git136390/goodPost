@@ -1,0 +1,2 @@
+# Qt + FFmpeg implements the player (basically all formats that FFmpeg can decode can be played).
+[Qt + FFmpeg implements the player (basically all formats that FFmpeg can decode can be played).](https://aiwithcloud.com/2022/09/16/qt__ffmpeg_implements_the_player_basically_all_formats_that_ffmpeg_can_decode_can_be_played/)

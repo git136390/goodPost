@@ -1,0 +1,2 @@
+# Product ManagerDemand Analysis (with Demand Pool Form download)
+[Product ManagerDemand Analysis (with Demand Pool Form download)](https://aiwithcloud.com/2022/09/19/product_managerdemand_analysis_with_demand_pool_form_download/)

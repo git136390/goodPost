@@ -1,0 +1,2 @@
+# mac for m1 (arm) three ways to install mysql (local installation, virtual machine installation, docker installation)
+[mac for m1 (arm) three ways to install mysql (local installation, virtual machine installation, docker installation)](https://aiwithcloud.com/2022/09/16/mac_for_m1_arm_three_ways_to_install_mysql_local_installation_virtual_machine_installation_docker_installation/)

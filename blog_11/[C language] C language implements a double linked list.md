@@ -1,0 +1,2 @@
+# [C language] C language implements a double linked list
+[[C language] C language implements a double linked list](https://aiwithcloud.com/2022/09/19/c_language_c_language_implements_a_double_linked_list/)

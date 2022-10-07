@@ -1,0 +1,2 @@
+# [Bluetooth development] Eight, BLE protocol transport layer
+[[Bluetooth development] Eight, BLE protocol transport layer](https://aiwithcloud.com/2022/09/16/bluetooth_development_eight_ble_protocol_transport_layer/)

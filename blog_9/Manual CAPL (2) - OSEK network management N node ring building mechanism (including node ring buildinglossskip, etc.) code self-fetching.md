@@ -1,0 +1,2 @@
+# Manual CAPL (2) - OSEK network management N node ring building mechanism (including node ring buildinglossskip, etc.) code self-fetching
+[Manual CAPL (2) - OSEK network management N node ring building mechanism (including node ring buildinglossskip, etc.) code self-fetching](https://aiwithcloud.com/2022/09/19/manual_capl_2___osek_network_management_n_node_ring_building_mechanism_including_node_ring_buildinglossskip_etc-_code_self_fetching/)

@@ -1,0 +1,2 @@
+# EDR Distance Thesis Understanding and JAVA Implementation
+[EDR Distance Thesis Understanding and JAVA Implementation](https://aiwithcloud.com/2022/09/14/edr_distance_thesis_understanding_and_java_implementation/)

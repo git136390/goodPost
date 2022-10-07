@@ -1,0 +1,2 @@
+# Making reports turned out to be so simple—using and sharing building blocks reports
+[Making reports turned out to be so simple—using and sharing building blocks reports](https://aiwithcloud.com/2022/09/15/making_reports_turned_out_to_be_so_simple-using_and_sharing_building_blocks_reports/)

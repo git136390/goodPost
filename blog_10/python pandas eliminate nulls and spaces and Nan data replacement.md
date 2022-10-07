@@ -1,0 +1,2 @@
+# python pandas eliminate nulls and spaces and Nan data replacement
+[python pandas eliminate nulls and spaces and Nan data replacement](https://aiwithcloud.com/2022/09/19/python_pandas_eliminate_nulls_and_spaces_and_nan_data_replacement/)

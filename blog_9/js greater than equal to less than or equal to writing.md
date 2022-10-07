@@ -1,0 +1,2 @@
+# js greater than equal to less than or equal to writing
+[js greater than equal to less than or equal to writing](https://aiwithcloud.com/2022/09/19/js_greater_than_equal_to_less_than_or_equal_to_writing/)

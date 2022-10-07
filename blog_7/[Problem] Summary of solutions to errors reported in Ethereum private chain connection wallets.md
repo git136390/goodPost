@@ -1,0 +1,2 @@
+# [Problem] Summary of solutions to errors reported in Ethereum private chain connection wallets
+[[Problem] Summary of solutions to errors reported in Ethereum private chain connection wallets](https://aiwithcloud.com/2022/09/16/problem_summary_of_solutions_to_errors_reported_in_ethereum_private_chain_connection_wallets/)

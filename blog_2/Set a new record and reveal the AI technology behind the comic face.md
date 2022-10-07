@@ -1,0 +1,2 @@
+# Set a new record and reveal the AI technology behind the comic face
+[Set a new record and reveal the AI technology behind the comic face](https://aiwithcloud.com/2022/09/15/set_a_new_record_and_reveal_the_ai_technology_behind_the_comic_face/)

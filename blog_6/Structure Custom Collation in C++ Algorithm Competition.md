@@ -1,0 +1,2 @@
+# Structure Custom Collation in C++ Algorithm Competition
+[Structure Custom Collation in C++ Algorithm Competition](https://aiwithcloud.com/2022/09/16/structure_custom_collation_in_c_algorithm_competition/)

@@ -1,0 +1,2 @@
+# [Python actual combat basis] How to draw a heat map to simulate the heat map of Beijing scenic spots
+[[Python actual combat basis] How to draw a heat map to simulate the heat map of Beijing scenic spots](https://aiwithcloud.com/2022/09/15/python_actual_combat_basis_how_to_draw_a_heat_map_to_simulate_the_heat_map_of_beijing_scenic_spots/)

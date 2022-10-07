@@ -1,0 +1,2 @@
+# Install pycocotools in Anaconda virtual environment under win10
+[Install pycocotools in Anaconda virtual environment under win10](https://aiwithcloud.com/2022/09/15/install_pycocotools_in_anaconda_virtual_environment_under_win10/)

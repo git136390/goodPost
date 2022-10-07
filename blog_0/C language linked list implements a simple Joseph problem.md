@@ -1,0 +1,2 @@
+# C language linked list implements a simple Joseph problem
+[C language linked list implements a simple Joseph problem](https://aiwithcloud.com/2022/09/14/c_language_linked_list_implements_a_simple_joseph_problem/)

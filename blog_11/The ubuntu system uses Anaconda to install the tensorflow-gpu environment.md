@@ -1,0 +1,2 @@
+# The ubuntu system uses Anaconda to install the tensorflow-gpu environment
+[The ubuntu system uses Anaconda to install the tensorflow-gpu environment](https://aiwithcloud.com/2022/09/19/the_ubuntu_system_uses_anaconda_to_install_the_tensorflow_gpu_environment/)

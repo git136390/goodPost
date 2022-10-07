@@ -1,0 +1,2 @@
+# Verilog implementation of a simple LEGv8 processor [four] [single-cycle implementation basics and module design explanation]
+[Verilog implementation of a simple LEGv8 processor [four] [single-cycle implementation basics and module design explanation]](https://aiwithcloud.com/2022/09/16/verilog_implementation_of_a_simple_legv8_processor_four_single_cycle_implementation_basics_and_module_design_explanation/)

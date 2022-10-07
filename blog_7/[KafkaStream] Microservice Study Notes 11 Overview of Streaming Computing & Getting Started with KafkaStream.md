@@ -1,0 +1,2 @@
+# [KafkaStream] Microservice Study Notes 11 Overview of Streaming Computing & Getting Started with KafkaStream
+[[KafkaStream] Microservice Study Notes 11 Overview of Streaming Computing & Getting Started with KafkaStream](https://aiwithcloud.com/2022/09/16/kafkastream_microservice_study_notes_11_overview_of_streaming_computing__getting_started_with_kafkastream/)

@@ -1,0 +1,2 @@
+# WeChat applet can jump to the official account! The small program has zoomed in again late at night!
+[WeChat applet can jump to the official account! The small program has zoomed in again late at night!](https://aiwithcloud.com/2022/09/19/wechat_applet_can_jump_to_the_official_account_the_small_program_has_zoomed_in_again_late_at_night/)

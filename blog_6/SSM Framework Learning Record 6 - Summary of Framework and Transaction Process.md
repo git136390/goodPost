@@ -1,0 +1,2 @@
+# SSM Framework Learning Record 6 - Summary of Framework and Transaction Process
+[SSM Framework Learning Record 6 - Summary of Framework and Transaction Process](https://aiwithcloud.com/2022/09/16/ssm_framework_learning_record_6___summary_of_framework_and_transaction_process/)

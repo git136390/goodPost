@@ -1,0 +1,2 @@
+# How college students use their time efficiently is a must-see for the postgraduate entrance examination party!
+[How college students use their time efficiently is a must-see for the postgraduate entrance examination party!](https://aiwithcloud.com/2022/09/15/how_college_students_use_their_time_efficiently_is_a_must_see_for_the_postgraduate_entrance_examination_party/)

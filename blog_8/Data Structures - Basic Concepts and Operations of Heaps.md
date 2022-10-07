@@ -1,0 +1,2 @@
+# Data Structures - Basic Concepts and Operations of Heaps
+[Data Structures - Basic Concepts and Operations of Heaps](https://aiwithcloud.com/2022/09/19/data_structures___basic_concepts_and_operations_of_heaps/)

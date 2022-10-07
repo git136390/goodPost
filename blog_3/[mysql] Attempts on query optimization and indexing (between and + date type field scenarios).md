@@ -1,0 +1,2 @@
+# [mysql] Attempts on query optimization and indexing (between and + date type field scenarios)
+[[mysql] Attempts on query optimization and indexing (between and + date type field scenarios)](https://aiwithcloud.com/2022/09/15/mysql_attempts_on_query_optimization_and_indexing_between_and__date_type_field_scenarios/)

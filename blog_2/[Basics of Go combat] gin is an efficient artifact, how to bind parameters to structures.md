@@ -1,0 +1,2 @@
+# [Basics of Go combat] gin is an efficient artifact, how to bind parameters to structures
+[[Basics of Go combat] gin is an efficient artifact, how to bind parameters to structures](https://aiwithcloud.com/2022/09/15/basics_of_go_combat_gin_is_an_efficient_artifact_how_to_bind_parameters_to_structures/)

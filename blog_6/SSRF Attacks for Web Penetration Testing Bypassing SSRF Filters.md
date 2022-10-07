@@ -1,0 +1,2 @@
+# SSRF Attacks for Web Penetration Testing Bypassing SSRF Filters
+[SSRF Attacks for Web Penetration Testing Bypassing SSRF Filters](https://aiwithcloud.com/2022/09/16/ssrf_attacks_for_web_penetration_testing_bypassing_ssrf_filters/)

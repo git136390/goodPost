@@ -1,0 +1,2 @@
+# The difference between C++ code and executable program on x86 and arm
+[The difference between C++ code and executable program on x86 and arm](https://aiwithcloud.com/2022/09/15/the_difference_between_c_code_and_executable_program_on_x86_and_arm/)

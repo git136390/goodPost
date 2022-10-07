@@ -1,0 +1,2 @@
+# Find the length of the string [without creating a temporary variable]
+[Find the length of the string [without creating a temporary variable]](https://aiwithcloud.com/2022/09/15/find_the_length_of_the_string_without_creating_a_temporary_variable/)

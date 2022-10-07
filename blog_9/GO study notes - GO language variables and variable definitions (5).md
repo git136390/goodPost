@@ -1,0 +1,2 @@
+# GO study notes - GO language variables and variable definitions (5)
+[GO study notes - GO language variables and variable definitions (5)](https://aiwithcloud.com/2022/09/19/go_study_notes___go_language_variables_and_variable_definitions_5/)

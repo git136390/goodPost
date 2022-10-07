@@ -1,0 +1,2 @@
+# Developers, why do you say that the maturity of container technology heralds the arrival of the cloud-native era
+[Developers, why do you say that the maturity of container technology heralds the arrival of the cloud-native era](https://aiwithcloud.com/2022/09/15/developers_why_do_you_say_that_the_maturity_of_container_technology_heralds_the_arrival_of_the_cloud_native_era/)

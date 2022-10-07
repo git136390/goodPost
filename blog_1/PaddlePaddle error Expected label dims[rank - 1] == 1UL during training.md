@@ -1,0 +1,2 @@
+# PaddlePaddle error Expected label dims[rank - 1] == 1UL during training
+[PaddlePaddle error Expected label dims[rank - 1] == 1UL during training](https://aiwithcloud.com/2022/09/15/paddlepaddle_error_expected_label_dimsrank___1__1ul_during_training/)

@@ -1,0 +1,2 @@
+# How to design a beautiful dashboard - Jeecg dashboard is easy to achieve [Data Visualization Topics]
+[How to design a beautiful dashboard - Jeecg dashboard is easy to achieve [Data Visualization Topics]](https://aiwithcloud.com/2022/09/15/how_to_design_a_beautiful_dashboard___jeecg_dashboard_is_easy_to_achieve_data_visualization_topics/)

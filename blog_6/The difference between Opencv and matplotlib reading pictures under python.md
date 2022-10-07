@@ -1,0 +1,2 @@
+# The difference between Opencv and matplotlib reading pictures under python
+[The difference between Opencv and matplotlib reading pictures under python](https://aiwithcloud.com/2022/09/16/the_difference_between_opencv_and_matplotlib_reading_pictures_under_python/)

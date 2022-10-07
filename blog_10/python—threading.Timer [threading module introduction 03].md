@@ -1,0 +1,2 @@
+# python—threading.Timer [threading module introduction 03]
+[python—threading.Timer [threading module introduction 03]](https://aiwithcloud.com/2022/09/19/python-threading-timer_threading_module_introduction_03/)

@@ -1,0 +1,2 @@
+# PaddleDetection - fruit classification project combat
+[PaddleDetection - fruit classification project combat](https://aiwithcloud.com/2022/09/15/paddledetection___fruit_classification_project_combat/)

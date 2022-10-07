@@ -1,0 +1,2 @@
+# Do not watch regret for a lifetime, daily practice (Java practice)
+[Do not watch regret for a lifetime, daily practice (Java practice)](https://aiwithcloud.com/2022/09/15/do_not_watch_regret_for_a_lifetime_daily_practice_java_practice/)

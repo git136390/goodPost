@@ -1,0 +1,2 @@
+# The difference between shallow copy and deep copy in Python
+[The difference between shallow copy and deep copy in Python](https://aiwithcloud.com/2022/09/15/the_difference_between_shallow_copy_and_deep_copy_in_python/)

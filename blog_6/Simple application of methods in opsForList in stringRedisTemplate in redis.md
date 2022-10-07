@@ -1,0 +1,2 @@
+# Simple application of methods in opsForList in stringRedisTemplate in redis
+[Simple application of methods in opsForList in stringRedisTemplate in redis](https://aiwithcloud.com/2022/09/16/simple_application_of_methods_in_opsforlist_in_stringredistemplate_in_redis/)

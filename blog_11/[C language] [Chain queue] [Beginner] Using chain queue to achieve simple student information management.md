@@ -1,0 +1,2 @@
+# [C language] [Chain queue] [Beginner] Using chain queue to achieve simple student information management
+[[C language] [Chain queue] [Beginner] Using chain queue to achieve simple student information management](https://aiwithcloud.com/2022/09/19/c_language_chain_queue_beginner_using_chain_queue_to_achieve_simple_student_information_management/)

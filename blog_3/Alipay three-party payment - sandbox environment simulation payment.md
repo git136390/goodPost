@@ -1,0 +1,2 @@
+# Alipay three-party payment - sandbox environment simulation payment
+[Alipay three-party payment - sandbox environment simulation payment](https://aiwithcloud.com/2022/09/15/alipay_three_party_payment___sandbox_environment_simulation_payment/)

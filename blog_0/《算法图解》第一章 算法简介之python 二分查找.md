@@ -1,0 +1,2 @@
+# 《算法图解》第一章 算法简介之python 二分查找
+[《算法图解》第一章 算法简介之python 二分查找](https://aiwithcloud.com/2022/04/21/%e3%80%8a%e7%ae%97%e6%b3%95%e5%9b%be%e8%a7%a3%e3%80%8b%e7%ac%ac%e4%b8%80%e7%ab%a0-%e7%ae%97%e6%b3%95%e7%ae%80%e4%bb%8b%e4%b9%8bpython-%e4%ba%8c%e5%88%86%e6%9f%a5%e6%89%be/)

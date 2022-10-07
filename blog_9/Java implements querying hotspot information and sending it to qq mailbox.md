@@ -1,0 +1,2 @@
+# Java implements querying hotspot information and sending it to qq mailbox
+[Java implements querying hotspot information and sending it to qq mailbox](https://aiwithcloud.com/2022/09/19/java_implements_querying_hotspot_information_and_sending_it_to_qq_mailbox/)

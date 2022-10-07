@@ -1,0 +1,2 @@
+# Pandas plays with pivot tables, it's enough to use it~
+[Pandas plays with pivot tables, it's enough to use it~](https://aiwithcloud.com/2022/09/19/pandas_plays_with_pivot_tables_its_enough_to_use_it/)

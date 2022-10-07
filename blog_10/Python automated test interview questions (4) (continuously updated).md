@@ -1,0 +1,2 @@
+# Python automated test interview questions (4) (continuously updated)
+[Python automated test interview questions (4) (continuously updated)](https://aiwithcloud.com/2022/09/19/python_automated_test_interview_questions_4_continuously_updated/)

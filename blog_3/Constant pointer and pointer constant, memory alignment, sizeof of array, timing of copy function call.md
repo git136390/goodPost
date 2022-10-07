@@ -1,0 +1,2 @@
+# Constant pointer and pointer constant, memory alignment, sizeof of array, timing of copy function call
+[Constant pointer and pointer constant, memory alignment, sizeof of array, timing of copy function call](https://aiwithcloud.com/2022/09/15/constant_pointer_and_pointer_constant_memory_alignment_sizeof_of_array_timing_of_copy_function_call/)

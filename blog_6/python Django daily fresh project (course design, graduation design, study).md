@@ -1,0 +1,2 @@
+# python Django daily fresh project (course design, graduation design, study)
+[python Django daily fresh project (course design, graduation design, study)](https://aiwithcloud.com/2022/09/16/python_django_daily_fresh_project_course_design_graduation_design_study/)

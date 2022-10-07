@@ -1,0 +1,2 @@
+# Detailed explanation of DM644x device driver I2C bus driver under Linux (2)
+[Detailed explanation of DM644x device driver I2C bus driver under Linux (2)](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_dm644x_device_driver_i2c_bus_driver_under_linux_2/)

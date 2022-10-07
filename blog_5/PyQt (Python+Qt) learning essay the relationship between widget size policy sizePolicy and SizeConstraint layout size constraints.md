@@ -1,0 +1,2 @@
+# PyQt (Python+Qt) learning essay the relationship between widget size policy sizePolicy and SizeConstraint layout size constraints
+[PyQt (Python+Qt) learning essay the relationship between widget size policy sizePolicy and SizeConstraint layout size constraints](https://aiwithcloud.com/2022/09/16/pyqt_pythonqt_learning_essay_the_relationship_between_widget_size_policy_sizepolicy_and_sizeconstraint_layout_size_constraints/)

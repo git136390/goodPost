@@ -1,0 +1,2 @@
+# JS supports replaceAll method (some browsers do not come with it)
+[JS supports replaceAll method (some browsers do not come with it)](https://aiwithcloud.com/2022/09/16/js_supports_replaceall_method_some_browsers_do_not_come_with_it/)

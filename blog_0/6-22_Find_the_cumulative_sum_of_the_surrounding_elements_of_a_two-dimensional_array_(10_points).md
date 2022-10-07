@@ -1,0 +1,2 @@
+# 6-22_Find_the_cumulative_sum_of_the_surrounding_elements_of_a_two-dimensional_array_(10_points)
+[6-22_Find_the_cumulative_sum_of_the_surrounding_elements_of_a_two-dimensional_array_(10_points)](https://aiwithcloud.com/2022/09/14/6_22_find_the_cumulative_sum_of_the_surrounding_elements_of_a_two_dimensional_array_10_points/)

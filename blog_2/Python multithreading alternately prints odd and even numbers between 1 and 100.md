@@ -1,0 +1,2 @@
+# Python multithreading alternately prints odd and even numbers between 1 and 100
+[Python multithreading alternately prints odd and even numbers between 1 and 100](https://aiwithcloud.com/2022/09/15/python_multithreading_alternately_prints_odd_and_even_numbers_between_1_and_100/)

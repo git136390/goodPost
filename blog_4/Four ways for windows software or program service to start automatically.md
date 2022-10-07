@@ -1,0 +1,2 @@
+# Four ways for windows software or program service to start automatically
+[Four ways for windows software or program service to start automatically](https://aiwithcloud.com/2022/09/15/four_ways_for_windows_software_or_program_service_to_start_automatically/)

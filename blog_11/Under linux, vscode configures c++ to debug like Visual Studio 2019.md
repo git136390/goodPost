@@ -1,0 +1,2 @@
+# Under linux, vscode configures c++ to debug like Visual Studio 2019
+[Under linux, vscode configures c++ to debug like Visual Studio 2019](https://aiwithcloud.com/2022/09/19/under_linux_vscode_configures_c_to_debug_like_visual_studio_2019/)

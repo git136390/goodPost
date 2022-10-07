@@ -1,0 +1,2 @@
+# How to deal with the case of financial currency decimal precision error in C#
+[How to deal with the case of financial currency decimal precision error in C#](https://aiwithcloud.com/2022/09/15/how_to_deal_with_the_case_of_financial_currency_decimal_precision_error_in_c/)

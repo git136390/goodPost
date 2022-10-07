@@ -1,0 +1,2 @@
+# A quick study - detailed explanation of least squares curve fitting algorithm + project code
+[A quick study - detailed explanation of least squares curve fitting algorithm + project code](https://aiwithcloud.com/2022/09/19/a_quick_study___detailed_explanation_of_least_squares_curve_fitting_algorithm__project_code/)

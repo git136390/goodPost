@@ -1,0 +1,2 @@
+# [Project problem orientation] Talk about the difference and choice between static and singleton mode from Can not initialize class error report
+[[Project problem orientation] Talk about the difference and choice between static and singleton mode from Can not initialize class error report](https://aiwithcloud.com/2022/09/16/project_problem_orientation_talk_about_the_difference_and_choice_between_static_and_singleton_mode_from_can_not_initialize_class_error_report/)

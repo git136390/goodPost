@@ -1,0 +1,2 @@
+# State transition equation and application of knapsack problem
+[State transition equation and application of knapsack problem](https://aiwithcloud.com/2022/09/15/state_transition_equation_and_application_of_knapsack_problem/)

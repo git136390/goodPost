@@ -1,0 +1,2 @@
+# The difference between type first letter case in TypeScript and JS (String, string, Number, number, Boolean, boolean...)
+[The difference between type first letter case in TypeScript and JS (String, string, Number, number, Boolean, boolean...)](https://aiwithcloud.com/2022/09/16/the_difference_between_type_first_letter_case_in_typescript_and_js_string_string_number_number_boolean_boolean/)

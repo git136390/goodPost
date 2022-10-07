@@ -1,0 +1,2 @@
+# Returns the path of the binary tree whose sum is the target value
+[Returns the path of the binary tree whose sum is the target value](https://aiwithcloud.com/2022/09/16/returns_the_path_of_the_binary_tree_whose_sum_is_the_target_value/)

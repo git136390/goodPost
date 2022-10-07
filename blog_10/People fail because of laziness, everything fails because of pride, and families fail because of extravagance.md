@@ -1,0 +1,2 @@
+# People fail because of laziness, everything fails because of pride, and families fail because of extravagance
+[People fail because of laziness, everything fails because of pride, and families fail because of extravagance](https://aiwithcloud.com/2022/09/19/people_fail_because_of_laziness_everything_fails_because_of_pride_and_families_fail_because_of_extravagance/)

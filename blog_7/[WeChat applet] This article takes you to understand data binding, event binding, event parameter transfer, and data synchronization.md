@@ -1,0 +1,2 @@
+# [WeChat applet] This article takes you to understand data binding, event binding, event parameter transfer, and data synchronization
+[[WeChat applet] This article takes you to understand data binding, event binding, event parameter transfer, and data synchronization](https://aiwithcloud.com/2022/09/16/wechat_applet_this_article_takes_you_to_understand_data_binding_event_binding_event_parameter_transfer_and_data_synchronization/)

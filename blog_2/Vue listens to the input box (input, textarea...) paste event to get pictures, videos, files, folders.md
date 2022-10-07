@@ -1,0 +1,2 @@
+# Vue listens to the input box (input, textarea...) paste event to get pictures, videos, files, folders
+[Vue listens to the input box (input, textarea...) paste event to get pictures, videos, files, folders](https://aiwithcloud.com/2022/09/15/vue_listens_to_the_input_box_input_textarea-_paste_event_to_get_pictures_videos_files_folders/)

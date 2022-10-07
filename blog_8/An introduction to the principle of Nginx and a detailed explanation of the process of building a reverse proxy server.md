@@ -1,0 +1,2 @@
+# An introduction to the principle of Nginx and a detailed explanation of the process of building a reverse proxy server
+[An introduction to the principle of Nginx and a detailed explanation of the process of building a reverse proxy server](https://aiwithcloud.com/2022/09/19/an_introduction_to_the_principle_of_nginx_and_a_detailed_explanation_of_the_process_of_building_a_reverse_proxy_server/)

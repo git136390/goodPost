@@ -1,0 +1,2 @@
+# How does the operation and maintenance man avoid deleting the library and running away
+[How does the operation and maintenance man avoid deleting the library and running away](https://aiwithcloud.com/2022/09/19/how_does_the_operation_and_maintenance_man_avoid_deleting_the_library_and_running_away/)

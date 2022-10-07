@@ -1,0 +1,2 @@
+# FireFox, Firefox, Chrome, Google Chrome have no tabs and window closing shortcuts
+[FireFox, Firefox, Chrome, Google Chrome have no tabs and window closing shortcuts](https://aiwithcloud.com/2022/09/15/firefox_firefox_chrome_google_chrome_have_no_tabs_and_window_closing_shortcuts/)

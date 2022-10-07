@@ -1,0 +1,2 @@
+# Centos7 install Nginx tutorial, install http and https in one step
+[Centos7 install Nginx tutorial, install http and https in one step](https://aiwithcloud.com/2022/09/15/centos7_install_nginx_tutorial_install_http_and_https_in_one_step/)

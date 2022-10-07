@@ -1,0 +1,2 @@
+# Android log output (println, logv, logd, logi, logw, loge, logwtf)
+[Android log output (println, logv, logd, logi, logw, loge, logwtf)](https://aiwithcloud.com/2022/09/15/android_log_output_println_logv_logd_logi_logw_loge_logwtf/)

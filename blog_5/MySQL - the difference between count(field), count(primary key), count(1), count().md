@@ -1,0 +1,2 @@
+# MySQL - the difference between count(field), count(primary key), count(1), count()
+[MySQL - the difference between count(field), count(primary key), count(1), count()](https://aiwithcloud.com/2022/09/16/mysql___the_difference_between_countfield_countprimary_key_count1_count/)

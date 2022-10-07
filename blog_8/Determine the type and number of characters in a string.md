@@ -1,0 +1,2 @@
+# Determine the type and number of characters in a string
+[Determine the type and number of characters in a string](https://aiwithcloud.com/2022/09/19/determine_the_type_and_number_of_characters_in_a_string/)

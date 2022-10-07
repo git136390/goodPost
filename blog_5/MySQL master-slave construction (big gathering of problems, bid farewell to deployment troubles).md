@@ -1,0 +1,2 @@
+# MySQL master-slave construction (big gathering of problems, bid farewell to deployment troubles)
+[MySQL master-slave construction (big gathering of problems, bid farewell to deployment troubles)](https://aiwithcloud.com/2022/09/16/mysql_master_slave_construction_big_gathering_of_problems_bid_farewell_to_deployment_troubles/)

@@ -1,0 +1,2 @@
+# [Deep Learning - Model eval + Model Export] Use Tensorflow Slim to evaluate the trained model + export the model
+[[Deep Learning - Model eval + Model Export] Use Tensorflow Slim to evaluate the trained model + export the model](https://aiwithcloud.com/2022/09/16/deep_learning___model_eval__model_export_use_tensorflow_slim_to_evaluate_the_trained_model__export_the_model/)

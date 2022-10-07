@@ -1,0 +1,2 @@
+# ERROR 1449 (HY000) The user specified as a definer (‘mysql.infoschema‘@‘localhost‘) does not exist
+[ERROR 1449 (HY000) The user specified as a definer (‘mysql.infoschema‘@‘localhost‘) does not exist](https://aiwithcloud.com/2022/09/15/error_1449_hy000_the_user_specified_as_a_definer_mysql-infoschemalocalhost_does_not_exist/)

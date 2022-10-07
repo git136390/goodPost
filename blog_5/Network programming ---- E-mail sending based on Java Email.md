@@ -1,0 +1,2 @@
+# Network programming ---- E-mail sending based on Java Email
+[Network programming ---- E-mail sending based on Java Email](https://aiwithcloud.com/2022/09/16/network_programming______e_mail_sending_based_on_java_email/)

@@ -1,0 +1,2 @@
+# git writes .gitignore files to filter synchronized files
+[git writes .gitignore files to filter synchronized files](https://aiwithcloud.com/2022/09/15/git_writes_-gitignore_files_to_filter_synchronized_files/)

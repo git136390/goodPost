@@ -1,0 +1,2 @@
+# Linux GCC compilation, gdb debugging, makefile, creation of dynamic link library
+[Linux GCC compilation, gdb debugging, makefile, creation of dynamic link library](https://aiwithcloud.com/2022/09/15/linux_gcc_compilation_gdb_debugging_makefile_creation_of_dynamic_link_library/)

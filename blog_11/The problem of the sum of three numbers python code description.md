@@ -1,0 +1,2 @@
+# The problem of the sum of three numbers python code description
+[The problem of the sum of three numbers python code description](https://aiwithcloud.com/2022/09/19/the_problem_of_the_sum_of_three_numbers_python_code_description/)

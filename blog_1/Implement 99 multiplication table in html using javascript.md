@@ -1,0 +1,2 @@
+# Implement 99 multiplication table in html using javascript
+[Implement 99 multiplication table in html using javascript](https://aiwithcloud.com/2022/09/15/implement_99_multiplication_table_in_html_using_javascript/)

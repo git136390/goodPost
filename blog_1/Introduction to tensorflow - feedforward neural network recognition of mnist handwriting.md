@@ -1,0 +1,2 @@
+# Introduction to tensorflow - feedforward neural network recognition of mnist handwriting
+[Introduction to tensorflow - feedforward neural network recognition of mnist handwriting](https://aiwithcloud.com/2022/09/15/introduction_to_tensorflow___feedforward_neural_network_recognition_of_mnist_handwriting/)

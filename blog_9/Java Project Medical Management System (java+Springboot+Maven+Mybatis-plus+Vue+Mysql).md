@@ -1,0 +1,2 @@
+# Java Project Medical Management System (java+Springboot+Maven+Mybatis-plus+Vue+Mysql)
+[Java Project Medical Management System (java+Springboot+Maven+Mybatis-plus+Vue+Mysql)](https://aiwithcloud.com/2022/09/19/java_project_medical_management_system_javaspringbootmavenmybatis_plusvuemysql/)

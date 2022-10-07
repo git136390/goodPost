@@ -1,0 +1,2 @@
+# Software project specification (1) basic writing specification of README file
+[Software project specification (1) basic writing specification of README file](https://aiwithcloud.com/2022/09/19/software_project_specification_1_basic_writing_specification_of_readme_file/)

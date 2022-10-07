@@ -1,0 +1,2 @@
+# The Android app sets the background music to play in a loop, and the volume cannot be adjusted. The software cannot be exited (for personal learning only)
+[The Android app sets the background music to play in a loop, and the volume cannot be adjusted. The software cannot be exited (for personal learning only)](https://aiwithcloud.com/2022/09/16/the_android_app_sets_the_background_music_to_play_in_a_loop_and_the_volume_cannot_be_adjusted-_the_software_cannot_be_exited_for_personal_learning_only/)

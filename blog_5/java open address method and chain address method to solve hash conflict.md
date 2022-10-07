@@ -1,0 +1,2 @@
+# java open address method and chain address method to solve hash conflict
+[java open address method and chain address method to solve hash conflict](https://aiwithcloud.com/2022/09/16/java_open_address_method_and_chain_address_method_to_solve_hash_conflict/)

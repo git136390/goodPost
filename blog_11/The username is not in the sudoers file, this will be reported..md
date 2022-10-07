@@ -1,0 +1,2 @@
+# The username is not in the sudoers file, this will be reported.
+[The username is not in the sudoers file, this will be reported.](https://aiwithcloud.com/2022/09/19/the_username_is_not_in_the_sudoers_file_this_will_be_reported/)

@@ -1,0 +1,2 @@
+# mysql modify the table and all field encodings in the table
+[mysql modify the table and all field encodings in the table](https://aiwithcloud.com/2022/09/15/mysql_modify_the_table_and_all_field_encodings_in_the_table/)

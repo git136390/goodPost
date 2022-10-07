@@ -1,0 +1,2 @@
+# Win10 + CUDA11.7 + pytorch manual installation - version 2.0
+[Win10 + CUDA11.7 + pytorch manual installation - version 2.0](https://aiwithcloud.com/2022/09/16/win10__cuda11-7__pytorch_manual_installation___version_2-0/)

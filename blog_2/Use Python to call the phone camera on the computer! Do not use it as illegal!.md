@@ -1,0 +1,2 @@
+# Use Python to call the phone camera on the computer! Do not use it as illegal!
+[Use Python to call the phone camera on the computer! Do not use it as illegal!](https://aiwithcloud.com/2022/09/15/use_python_to_call_the_phone_camera_on_the_computer_do_not_use_it_as_illegal/)

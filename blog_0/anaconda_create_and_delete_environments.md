@@ -1,0 +1,2 @@
+# anaconda_create_and_delete_environments
+[anaconda_create_and_delete_environments](https://aiwithcloud.com/2022/09/14/anaconda_create_and_delete_environments/)

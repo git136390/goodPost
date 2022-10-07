@@ -1,0 +1,2 @@
+# Goodbye Navicat, which is the only way to operate all databases
+[Goodbye Navicat, which is the only way to operate all databases](https://aiwithcloud.com/2022/09/19/goodbye_navicat_which_is_the_only_way_to_operate_all_databases/)

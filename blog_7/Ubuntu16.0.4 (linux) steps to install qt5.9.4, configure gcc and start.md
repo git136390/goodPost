@@ -1,0 +1,2 @@
+# Ubuntu16.0.4 (linux) steps to install qt5.9.4, configure gcc and start
+[Ubuntu16.0.4 (linux) steps to install qt5.9.4, configure gcc and start](https://aiwithcloud.com/2022/09/16/ubuntu16-0-4_linux_steps_to_install_qt5-9-4_configure_gcc_and_start/)

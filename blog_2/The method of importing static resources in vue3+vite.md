@@ -1,0 +1,2 @@
+# The method of importing static resources in vue3+vite
+[The method of importing static resources in vue3+vite](https://aiwithcloud.com/2022/09/15/the_method_of_importing_static_resources_in_vue3vite/)

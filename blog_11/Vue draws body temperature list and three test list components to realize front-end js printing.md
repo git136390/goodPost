@@ -1,0 +1,2 @@
+# Vue draws body temperature list and three test list components to realize front-end js printing
+[Vue draws body temperature list and three test list components to realize front-end js printing](https://aiwithcloud.com/2022/09/19/vue_draws_body_temperature_list_and_three_test_list_components_to_realize_front_end_js_printing/)

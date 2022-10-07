@@ -1,0 +1,2 @@
+# Burpsuite's ultra-detailed installation tutorial (graphic version)
+[Burpsuite's ultra-detailed installation tutorial (graphic version)](https://aiwithcloud.com/2022/09/19/burpsuites_ultra_detailed_installation_tutorial_graphic_version/)

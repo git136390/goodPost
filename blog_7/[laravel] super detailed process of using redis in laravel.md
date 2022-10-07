@@ -1,0 +1,2 @@
+# [laravel] super detailed process of using redis in laravel
+[[laravel] super detailed process of using redis in laravel](https://aiwithcloud.com/2022/09/16/laravel_super_detailed_process_of_using_redis_in_laravel/)

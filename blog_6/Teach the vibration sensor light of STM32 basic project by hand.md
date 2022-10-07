@@ -1,0 +1,2 @@
+# Teach the vibration sensor light of STM32 basic project by hand
+[Teach the vibration sensor light of STM32 basic project by hand](https://aiwithcloud.com/2022/09/16/teach_the_vibration_sensor_light_of_stm32_basic_project_by_hand/)

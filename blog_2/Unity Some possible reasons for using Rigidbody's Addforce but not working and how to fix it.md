@@ -1,0 +1,2 @@
+# Unity Some possible reasons for using Rigidbody's Addforce but not working and how to fix it
+[Unity Some possible reasons for using Rigidbody's Addforce but not working and how to fix it](https://aiwithcloud.com/2022/09/15/unity_some_possible_reasons_for_using_rigidbodys_addforce_but_not_working_and_how_to_fix_it/)

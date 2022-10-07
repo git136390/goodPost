@@ -1,0 +1,2 @@
+# CodeForces 1348E Phoenix and Berries (dynamic programming)
+[CodeForces 1348E Phoenix and Berries (dynamic programming)](https://aiwithcloud.com/2022/09/14/codeforces_1348e_phoenix_and_berries_dynamic_programming/)

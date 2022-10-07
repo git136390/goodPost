@@ -1,0 +1,2 @@
+# MySQL hides the middle 4 digits when querying mobile phone number
+[MySQL hides the middle 4 digits when querying mobile phone number](https://aiwithcloud.com/2022/09/19/mysql_hides_the_middle_4_digits_when_querying_mobile_phone_number/)

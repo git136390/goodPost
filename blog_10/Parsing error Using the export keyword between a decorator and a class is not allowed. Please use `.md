@@ -1,0 +1,2 @@
+# Parsing error Using the export keyword between a decorator and a class is not allowed. Please use `
+[Parsing error Using the export keyword between a decorator and a class is not allowed. Please use `](https://aiwithcloud.com/2022/09/19/parsing_error_using_the_export_keyword_between_a_decorator_and_a_class_is_not_allowed-_please_use_/)

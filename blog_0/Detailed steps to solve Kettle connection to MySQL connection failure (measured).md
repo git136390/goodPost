@@ -1,0 +1,2 @@
+# Detailed steps to solve Kettle connection to MySQL connection failure (measured)
+[Detailed steps to solve Kettle connection to MySQL connection failure (measured)](https://aiwithcloud.com/2022/09/14/detailed_steps_to_solve_kettle_connection_to_mysql_connection_failure_measured/)

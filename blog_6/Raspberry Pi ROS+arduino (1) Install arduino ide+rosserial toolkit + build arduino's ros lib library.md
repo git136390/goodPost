@@ -1,0 +1,2 @@
+# Raspberry Pi ROS+arduino (1) Install arduino ide+rosserial toolkit + build arduino's ros lib library
+[Raspberry Pi ROS+arduino (1) Install arduino ide+rosserial toolkit + build arduino's ros lib library](https://aiwithcloud.com/2022/09/16/raspberry_pi_rosarduino_1_install_arduino_iderosserial_toolkit__build_arduinos_ros_lib_library/)

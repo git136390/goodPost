@@ -1,0 +1,2 @@
+# Imitate the horizontal navigation bar of Taobao homepage
+[Imitate the horizontal navigation bar of Taobao homepage](https://aiwithcloud.com/2022/09/19/imitate_the_horizontal_navigation_bar_of_taobao_homepage/)

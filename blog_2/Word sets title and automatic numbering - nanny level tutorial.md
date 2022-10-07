@@ -1,0 +1,2 @@
+# Word sets title and automatic numbering - nanny level tutorial
+[Word sets title and automatic numbering - nanny level tutorial](https://aiwithcloud.com/2022/09/15/word_sets_title_and_automatic_numbering___nanny_level_tutorial/)

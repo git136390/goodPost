@@ -1,0 +1,2 @@
+# Write annotation files to train.txt, test.txt, trainval.txt in tensorflow
+[Write annotation files to train.txt, test.txt, trainval.txt in tensorflow](https://aiwithcloud.com/2022/09/16/write_annotation_files_to_train-txt_test-txt_trainval-txt_in_tensorflow/)

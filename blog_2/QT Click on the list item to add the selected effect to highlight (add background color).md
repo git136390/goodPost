@@ -1,0 +1,2 @@
+# QT Click on the list item to add the selected effect to highlight (add background color)
+[QT Click on the list item to add the selected effect to highlight (add background color)](https://aiwithcloud.com/2022/09/15/qt_click_on_the_list_item_to_add_the_selected_effect_to_highlight_add_background_color/)

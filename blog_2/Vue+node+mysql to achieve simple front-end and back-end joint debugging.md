@@ -1,0 +1,2 @@
+# Vue+node+mysql to achieve simple front-end and back-end joint debugging
+[Vue+node+mysql to achieve simple front-end and back-end joint debugging](https://aiwithcloud.com/2022/09/15/vuenodemysql_to_achieve_simple_front_end_and_back_end_joint_debugging/)

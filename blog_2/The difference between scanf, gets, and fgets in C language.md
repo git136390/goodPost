@@ -1,0 +1,2 @@
+# The difference between scanf, gets, and fgets in C language
+[The difference between scanf, gets, and fgets in C language](https://aiwithcloud.com/2022/09/15/the_difference_between_scanf_gets_and_fgets_in_c_language/)

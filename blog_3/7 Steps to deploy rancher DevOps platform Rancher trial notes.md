@@ -1,0 +1,2 @@
+# 7 Steps to deploy rancher DevOps platform Rancher trial notes
+[7 Steps to deploy rancher DevOps platform Rancher trial notes](https://aiwithcloud.com/2022/09/15/7_steps_to_deploy_rancher_devops_platform_rancher_trial_notes/)

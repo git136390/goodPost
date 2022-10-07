@@ -1,0 +1,2 @@
+# mysql date functions and cases, which can be used as a manual
+[mysql date functions and cases, which can be used as a manual](https://aiwithcloud.com/2022/09/19/mysql_date_functions_and_cases_which_can_be_used_as_a_manual/)

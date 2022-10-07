@@ -1,0 +1,2 @@
+# WeChat applet realizes image and text recognition based on OCR plug-in (super simple)
+[WeChat applet realizes image and text recognition based on OCR plug-in (super simple)](https://aiwithcloud.com/2022/09/15/wechat_applet_realizes_image_and_text_recognition_based_on_ocr_plug_in_super_simple/)

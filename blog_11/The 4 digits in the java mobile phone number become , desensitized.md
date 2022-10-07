@@ -1,0 +1,2 @@
+# The 4 digits in the java mobile phone number become , desensitized
+[The 4 digits in the java mobile phone number become , desensitized](https://aiwithcloud.com/2022/09/19/the_4_digits_in_the_java_mobile_phone_number_become__desensitized/)

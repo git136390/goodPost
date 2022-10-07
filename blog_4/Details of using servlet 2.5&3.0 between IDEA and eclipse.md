@@ -1,0 +1,2 @@
+# Details of using servlet 2.5&3.0 between IDEA and eclipse
+[Details of using servlet 2.5&3.0 between IDEA and eclipse](https://aiwithcloud.com/2022/09/15/details_of_using_servlet_2-53-0_between_idea_and_eclipse/)

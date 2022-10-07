@@ -1,0 +1,2 @@
+# Java Data Structures and Algorithms - Linear Tables (Detailed Implementation)
+[Java Data Structures and Algorithms - Linear Tables (Detailed Implementation)](https://aiwithcloud.com/2022/09/19/java_data_structures_and_algorithms___linear_tables_detailed_implementation/)

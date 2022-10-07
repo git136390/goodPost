@@ -1,0 +1,2 @@
+# (CC++) grammar introduction problem-solving report structure, class, pointer, reference
+[(CC++) grammar introduction problem-solving report structure, class, pointer, reference](https://aiwithcloud.com/2022/09/19/cc_grammar_introduction_problem_solving_report_structure_class_pointer_reference/)

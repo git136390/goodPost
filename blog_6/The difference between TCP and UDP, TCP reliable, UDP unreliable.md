@@ -1,0 +1,2 @@
+# The difference between TCP and UDP, TCP reliable, UDP unreliable
+[The difference between TCP and UDP, TCP reliable, UDP unreliable](https://aiwithcloud.com/2022/09/16/the_difference_between_tcp_and_udp_tcp_reliable_udp_unreliable/)

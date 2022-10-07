@@ -1,0 +1,2 @@
+# [Fibonacci sequence - multiple ways to write in python]
+[[Fibonacci sequence - multiple ways to write in python]](https://aiwithcloud.com/2022/09/16/fibonacci_sequence___multiple_ways_to_write_in_python/)

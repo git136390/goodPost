@@ -1,0 +1,2 @@
+# Xshell6 or Xftp6 prompts To continue using this program, you must apply the latest update or use a new version
+[Xshell6 or Xftp6 prompts To continue using this program, you must apply the latest update or use a new version](https://aiwithcloud.com/2022/09/19/xshell6_or_xftp6_prompts_to_continue_using_this_program_you_must_apply_the_latest_update_or_use_a_new_version/)

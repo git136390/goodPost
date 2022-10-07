@@ -1,0 +1,2 @@
+# [JavaScript] JSON.stringify() The second parameter is anti-pit (filtering object properties by array matching)
+[[JavaScript] JSON.stringify() The second parameter is anti-pit (filtering object properties by array matching)](https://aiwithcloud.com/2022/09/19/javascript_json-stringify_the_second_parameter_is_anti_pit_filtering_object_properties_by_array_matching/)

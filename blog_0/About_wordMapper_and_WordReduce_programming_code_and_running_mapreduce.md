@@ -1,0 +1,2 @@
+# About_wordMapper_and_WordReduce_programming_code_and_running_mapreduce
+[About_wordMapper_and_WordReduce_programming_code_and_running_mapreduce](https://aiwithcloud.com/2022/09/14/about_wordmapper_and_wordreduce_programming_code_and_running_mapreduce/)

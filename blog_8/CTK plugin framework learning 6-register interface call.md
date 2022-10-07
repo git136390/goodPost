@@ -1,0 +1,2 @@
+# CTK plugin framework learning 6-register interface call
+[CTK plugin framework learning 6-register interface call](https://aiwithcloud.com/2022/09/19/ctk_plugin_framework_learning_6_register_interface_call/)

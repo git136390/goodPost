@@ -1,0 +1,2 @@
+# QtCreator plug-in development (8) - QtCreator project type
+[QtCreator plug-in development (8) - QtCreator project type](https://aiwithcloud.com/2022/09/16/qtcreator_plug_in_development_8___qtcreator_project_type/)

@@ -1,0 +1,2 @@
+# A ticket management system for movie theaters based on SpringBoot
+[A ticket management system for movie theaters based on SpringBoot](https://aiwithcloud.com/2022/09/15/a_ticket_management_system_for_movie_theaters_based_on_springboot/)

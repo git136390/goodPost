@@ -1,0 +1,2 @@
+# This article will take you to thoroughly understand doc values and fielddata in ES
+[This article will take you to thoroughly understand doc values and fielddata in ES](https://aiwithcloud.com/2022/09/16/this_article_will_take_you_to_thoroughly_understand_doc_values_and_fielddata_in_es/)

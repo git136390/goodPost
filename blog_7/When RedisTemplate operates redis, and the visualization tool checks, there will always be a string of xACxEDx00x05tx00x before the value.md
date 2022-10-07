@@ -1,0 +1,2 @@
+# When RedisTemplate operates redis, and the visualization tool checks, there will always be a string of xACxEDx00x05tx00x before the value
+[When RedisTemplate operates redis, and the visualization tool checks, there will always be a string of xACxEDx00x05tx00x before the value](https://aiwithcloud.com/2022/09/16/when_redistemplate_operates_redis_and_the_visualization_tool_checks_there_will_always_be_a_string_of_xacxedx00x05tx00x_before_the_value/)

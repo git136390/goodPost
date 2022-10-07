@@ -1,0 +1,2 @@
+# Encoder counting principle and motor speed measurement principle - multi-picture analysis
+[Encoder counting principle and motor speed measurement principle - multi-picture analysis](https://aiwithcloud.com/2022/09/19/encoder_counting_principle_and_motor_speed_measurement_principle___multi_picture_analysis/)

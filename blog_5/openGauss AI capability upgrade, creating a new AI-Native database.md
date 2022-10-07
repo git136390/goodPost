@@ -1,0 +1,2 @@
+# openGauss AI capability upgrade, creating a new AI-Native database
+[openGauss AI capability upgrade, creating a new AI-Native database](https://aiwithcloud.com/2022/09/16/opengauss_ai_capability_upgrade_creating_a_new_ai_native_database/)

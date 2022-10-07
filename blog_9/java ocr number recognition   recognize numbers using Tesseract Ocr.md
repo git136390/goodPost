@@ -1,0 +1,2 @@
+# java ocr number recognition   recognize numbers using Tesseract Ocr
+[java ocr number recognition   recognize numbers using Tesseract Ocr](https://aiwithcloud.com/2022/09/19/java_ocr_number_recognition___recognize_numbers_using_tesseract_ocr/)

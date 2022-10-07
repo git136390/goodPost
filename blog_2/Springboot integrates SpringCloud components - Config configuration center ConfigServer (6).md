@@ -1,0 +1,2 @@
+# Springboot integrates SpringCloud components - Config configuration center ConfigServer (6)
+[Springboot integrates SpringCloud components - Config configuration center ConfigServer (6)](https://aiwithcloud.com/2022/09/15/springboot_integrates_springcloud_components___config_configuration_center_configserver_6/)

@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a box plot to analyze movie data
+[[Python Practical Basics] How to draw a box plot to analyze movie data](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_draw_a_box_plot_to_analyze_movie_data/)

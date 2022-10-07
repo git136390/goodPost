@@ -1,0 +1,2 @@
+# ICBC bank-enterprise direct connection (dom4j+java no middleware version)
+[ICBC bank-enterprise direct connection (dom4j+java no middleware version)](https://aiwithcloud.com/2022/09/19/icbc_bank_enterprise_direct_connection_dom4jjava_no_middleware_version/)

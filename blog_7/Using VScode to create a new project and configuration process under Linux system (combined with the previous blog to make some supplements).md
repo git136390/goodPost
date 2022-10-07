@@ -1,0 +1,2 @@
+# Using VScode to create a new project and configuration process under Linux system (combined with the previous blog to make some supplements)
+[Using VScode to create a new project and configuration process under Linux system (combined with the previous blog to make some supplements)](https://aiwithcloud.com/2022/09/16/using_vscode_to_create_a_new_project_and_configuration_process_under_linux_system_combined_with_the_previous_blog_to_make_some_supplements/)

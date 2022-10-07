@@ -1,0 +1,2 @@
+# WeChat applet realizes the transparent and hidden effect of the navigation bar at the top of the page (navigationBar) Welcome to like and favorite
+[WeChat applet realizes the transparent and hidden effect of the navigation bar at the top of the page (navigationBar) Welcome to like and favorite](https://aiwithcloud.com/2022/09/19/wechat_applet_realizes_the_transparent_and_hidden_effect_of_the_navigation_bar_at_the_top_of_the_page_navigationbar_welcome_to_like_and_favorite/)

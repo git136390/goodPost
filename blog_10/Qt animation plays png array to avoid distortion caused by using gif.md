@@ -1,0 +1,2 @@
+# Qt animation plays png array to avoid distortion caused by using gif
+[Qt animation plays png array to avoid distortion caused by using gif](https://aiwithcloud.com/2022/09/19/qt_animation_plays_png_array_to_avoid_distortion_caused_by_using_gif/)

@@ -1,0 +1,2 @@
+# Introduction to the usage of the operator module in python3
+[Introduction to the usage of the operator module in python3](https://aiwithcloud.com/2022/09/15/introduction_to_the_usage_of_the_operator_module_in_python3/)

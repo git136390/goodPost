@@ -1,0 +1,2 @@
+# Problems encountered by centos installing caffe (incomplete)
+[Problems encountered by centos installing caffe (incomplete)](https://aiwithcloud.com/2022/09/16/problems_encountered_by_centos_installing_caffe_incomplete/)

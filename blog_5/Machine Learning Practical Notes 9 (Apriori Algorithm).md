@@ -1,0 +1,2 @@
+# Machine Learning Practical Notes 9 (Apriori Algorithm)
+[Machine Learning Practical Notes 9 (Apriori Algorithm)](https://aiwithcloud.com/2022/09/16/machine_learning_practical_notes_9_apriori_algorithm/)

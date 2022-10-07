@@ -1,0 +1,2 @@
+# SpringBoot integrates Shiro permission framework and has circular dependencies
+[SpringBoot integrates Shiro permission framework and has circular dependencies](https://aiwithcloud.com/2022/09/15/springboot_integrates_shiro_permission_framework_and_has_circular_dependencies/)

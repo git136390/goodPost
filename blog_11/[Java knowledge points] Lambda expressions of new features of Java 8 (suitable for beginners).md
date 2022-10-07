@@ -1,0 +1,2 @@
+# [Java knowledge points] Lambda expressions of new features of Java 8 (suitable for beginners)
+[[Java knowledge points] Lambda expressions of new features of Java 8 (suitable for beginners)](https://aiwithcloud.com/2022/09/19/java_knowledge_points_lambda_expressions_of_new_features_of_java_8_suitable_for_beginners/)

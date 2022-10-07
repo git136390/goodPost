@@ -1,0 +1,2 @@
+# Introduction to Mini Program Development 12-Server Domain Name and Business Domain Name in WeChat Mini Program Development Settings
+[Introduction to Mini Program Development 12-Server Domain Name and Business Domain Name in WeChat Mini Program Development Settings](https://aiwithcloud.com/2022/09/15/introduction_to_mini_program_development_12_server_domain_name_and_business_domain_name_in_wechat_mini_program_development_settings/)

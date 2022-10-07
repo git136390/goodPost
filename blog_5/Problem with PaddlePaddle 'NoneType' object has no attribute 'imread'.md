@@ -1,0 +1,2 @@
+# Problem with PaddlePaddle 'NoneType' object has no attribute 'imread'
+[Problem with PaddlePaddle 'NoneType' object has no attribute 'imread'](https://aiwithcloud.com/2022/09/16/problem_with_paddlepaddle_nonetype_object_has_no_attribute_imread/)

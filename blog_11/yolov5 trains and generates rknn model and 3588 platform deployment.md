@@ -1,0 +1,2 @@
+# yolov5 trains and generates rknn model and 3588 platform deployment
+[yolov5 trains and generates rknn model and 3588 platform deployment](https://aiwithcloud.com/2022/09/19/yolov5_trains_and_generates_rknn_model_and_3588_platform_deployment/)

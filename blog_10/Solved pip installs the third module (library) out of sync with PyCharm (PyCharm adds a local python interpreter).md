@@ -1,0 +1,2 @@
+# Solved pip installs the third module (library) out of sync with PyCharm (PyCharm adds a local python interpreter)
+[Solved pip installs the third module (library) out of sync with PyCharm (PyCharm adds a local python interpreter)](https://aiwithcloud.com/2022/09/19/solved_pip_installs_the_third_module_library_out_of_sync_with_pycharm_pycharm_adds_a_local_python_interpreter/)

@@ -1,0 +1,2 @@
+# The folder in the Linux system has a small lock icon, how to cancel it
+[The folder in the Linux system has a small lock icon, how to cancel it](https://aiwithcloud.com/2022/09/19/the_folder_in_the_linux_system_has_a_small_lock_icon_how_to_cancel_it/)

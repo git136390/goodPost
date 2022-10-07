@@ -1,0 +1,2 @@
+# 8_very_practical_python_code_cases,_essential_knowledge_points_for_beginners
+[8_very_practical_python_code_cases,_essential_knowledge_points_for_beginners](https://aiwithcloud.com/2022/09/14/8_very_practical_python_code_cases_essential_knowledge_points_for_beginners/)

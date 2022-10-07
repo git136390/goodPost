@@ -1,0 +1,2 @@
+# First acquaintance with c language - record my first blog
+[First acquaintance with c language - record my first blog](https://aiwithcloud.com/2022/09/14/first_acquaintance_with_c_language___record_my_first_blog/)

@@ -1,0 +1,2 @@
+# Use Phpstudy pro to implement static resources and Java war package deployment
+[Use Phpstudy pro to implement static resources and Java war package deployment](https://aiwithcloud.com/2022/09/16/use_phpstudy_pro_to_implement_static_resources_and_java_war_package_deployment/)

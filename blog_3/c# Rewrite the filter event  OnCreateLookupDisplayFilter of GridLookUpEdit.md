@@ -1,0 +1,2 @@
+# c# Rewrite the filter event  OnCreateLookupDisplayFilter of GridLookUpEdit
+[c# Rewrite the filter event  OnCreateLookupDisplayFilter of GridLookUpEdit](https://aiwithcloud.com/2022/09/15/c_rewrite_the_filter_event__oncreatelookupdisplayfilter_of_gridlookupedit/)

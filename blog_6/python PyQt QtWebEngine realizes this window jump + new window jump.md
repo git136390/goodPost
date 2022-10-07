@@ -1,0 +1,2 @@
+# python PyQt QtWebEngine realizes this window jump + new window jump
+[python PyQt QtWebEngine realizes this window jump + new window jump](https://aiwithcloud.com/2022/09/16/python_pyqt_qtwebengine_realizes_this_window_jump__new_window_jump/)

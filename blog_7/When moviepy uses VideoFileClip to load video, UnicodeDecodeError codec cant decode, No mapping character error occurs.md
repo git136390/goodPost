@@ -1,0 +1,2 @@
+# When moviepy uses VideoFileClip to load video, UnicodeDecodeError codec cant decode, No mapping character error occurs
+[When moviepy uses VideoFileClip to load video, UnicodeDecodeError codec cant decode, No mapping character error occurs](https://aiwithcloud.com/2022/09/16/when_moviepy_uses_videofileclip_to_load_video_unicodedecodeerror_codec_cant_decode_no_mapping_character_error_occurs/)

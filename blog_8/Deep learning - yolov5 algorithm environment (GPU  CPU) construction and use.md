@@ -1,0 +1,2 @@
+# Deep learning - yolov5 algorithm environment (GPU  CPU) construction and use
+[Deep learning - yolov5 algorithm environment (GPU  CPU) construction and use](https://aiwithcloud.com/2022/09/19/deep_learning___yolov5_algorithm_environment_gpu__cpu_construction_and_use/)

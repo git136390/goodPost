@@ -1,0 +1,2 @@
+# Python implements adding subtitles to the video and adding voice according to the subtitles
+[Python implements adding subtitles to the video and adding voice according to the subtitles](https://aiwithcloud.com/2022/09/16/python_implements_adding_subtitles_to_the_video_and_adding_voice_according_to_the_subtitles/)

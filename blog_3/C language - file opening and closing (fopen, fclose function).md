@@ -1,0 +1,2 @@
+# C language - file opening and closing (fopen, fclose function)
+[C language - file opening and closing (fopen, fclose function)](https://aiwithcloud.com/2022/09/15/c_language___file_opening_and_closing_fopen_fclose_function/)

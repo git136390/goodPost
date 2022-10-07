@@ -1,0 +1,2 @@
+# el-upload in Element-ui uploads pictures and has a preview function
+[el-upload in Element-ui uploads pictures and has a preview function](https://aiwithcloud.com/2022/09/19/el_upload_in_element_ui_uploads_pictures_and_has_a_preview_function/)

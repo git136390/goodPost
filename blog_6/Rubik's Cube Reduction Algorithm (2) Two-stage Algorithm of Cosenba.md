@@ -1,0 +1,2 @@
+# Rubik's Cube Reduction Algorithm (2) Two-stage Algorithm of Cosenba
+[Rubik's Cube Reduction Algorithm (2) Two-stage Algorithm of Cosenba](https://aiwithcloud.com/2022/09/16/rubiks_cube_reduction_algorithm_2_two_stage_algorithm_of_cosenba/)

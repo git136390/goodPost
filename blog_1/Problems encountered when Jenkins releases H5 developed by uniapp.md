@@ -1,0 +1,2 @@
+# Problems encountered when Jenkins releases H5 developed by uniapp
+[Problems encountered when Jenkins releases H5 developed by uniapp](https://aiwithcloud.com/2022/09/15/problems_encountered_when_jenkins_releases_h5_developed_by_uniapp/)

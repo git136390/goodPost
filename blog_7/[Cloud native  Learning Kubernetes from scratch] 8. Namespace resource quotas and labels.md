@@ -1,0 +1,2 @@
+# [Cloud native  Learning Kubernetes from scratch] 8. Namespace resource quotas and labels
+[[Cloud native  Learning Kubernetes from scratch] 8. Namespace resource quotas and labels](https://aiwithcloud.com/2022/09/16/cloud_native__learning_kubernetes_from_scratch_8-_namespace_resource_quotas_and_labels/)

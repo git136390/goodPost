@@ -1,0 +1,2 @@
+# Detailed explanation of openstack (thirteen) - Glance Keystone setup and startup
+[Detailed explanation of openstack (thirteen) - Glance Keystone setup and startup](https://aiwithcloud.com/2022/09/19/detailed_explanation_of_openstack_thirteen___glance_keystone_setup_and_startup/)

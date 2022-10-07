@@ -1,0 +1,2 @@
+# [Python Practical Basics] How to draw a timeline diagram to analyze the average grades of the 01-02 class of the 2017-2021 accounting department
+[[Python Practical Basics] How to draw a timeline diagram to analyze the average grades of the 01-02 class of the 2017-2021 accounting department](https://aiwithcloud.com/2022/09/15/python_practical_basics_how_to_draw_a_timeline_diagram_to_analyze_the_average_grades_of_the_01_02_class_of_the_2017_2021_accounting_department/)

@@ -1,0 +1,2 @@
+# Lightweight declaration-free Activity proxy framework, SystemBar integration, Activity and Frament state storage
+[Lightweight declaration-free Activity proxy framework, SystemBar integration, Activity and Frament state storage](https://aiwithcloud.com/2022/09/16/lightweight_declaration_free_activity_proxy_framework_systembar_integration_activity_and_frament_state_storage/)

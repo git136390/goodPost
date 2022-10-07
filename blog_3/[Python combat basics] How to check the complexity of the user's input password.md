@@ -1,0 +1,2 @@
+# [Python combat basics] How to check the complexity of the user's input password
+[[Python combat basics] How to check the complexity of the user's input password](https://aiwithcloud.com/2022/09/15/python_combat_basics_how_to_check_the_complexity_of_the_users_input_password/)

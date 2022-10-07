@@ -1,0 +1,2 @@
+# Common operations and examples of MongoDB aggregation (aggregate)
+[Common operations and examples of MongoDB aggregation (aggregate)](https://aiwithcloud.com/2022/09/15/common_operations_and_examples_of_mongodb_aggregation_aggregate/)

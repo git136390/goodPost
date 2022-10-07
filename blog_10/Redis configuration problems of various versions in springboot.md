@@ -1,0 +1,2 @@
+# Redis configuration problems of various versions in springboot
+[Redis configuration problems of various versions in springboot](https://aiwithcloud.com/2022/09/19/redis_configuration_problems_of_various_versions_in_springboot/)

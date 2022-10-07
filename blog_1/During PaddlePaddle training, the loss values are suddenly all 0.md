@@ -1,0 +1,2 @@
+# During PaddlePaddle training, the loss values are suddenly all 0
+[During PaddlePaddle training, the loss values are suddenly all 0](https://aiwithcloud.com/2022/09/14/during_paddlepaddle_training_the_loss_values_are_suddenly_all_0/)

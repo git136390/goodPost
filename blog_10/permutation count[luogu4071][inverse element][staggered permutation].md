@@ -1,0 +1,2 @@
+# permutation count[luogu4071][inverse element][staggered permutation]
+[permutation count[luogu4071][inverse element][staggered permutation]](https://aiwithcloud.com/2022/09/19/permutation_countluogu4071inverse_elementstaggered_permutation/)

@@ -1,0 +1,2 @@
+# [C language brush questions] Double pointers modify the array in place (analysis of the original title)
+[[C language brush questions] Double pointers modify the array in place (analysis of the original title)](https://aiwithcloud.com/2022/09/19/c_language_brush_questions_double_pointers_modify_the_array_in_place_analysis_of_the_original_title/)

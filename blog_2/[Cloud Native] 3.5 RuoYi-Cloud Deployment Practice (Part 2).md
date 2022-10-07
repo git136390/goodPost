@@ -1,0 +1,2 @@
+# [Cloud Native] 3.5 RuoYi-Cloud Deployment Practice (Part 2)
+[[Cloud Native] 3.5 RuoYi-Cloud Deployment Practice (Part 2)](https://aiwithcloud.com/2022/09/15/cloud_native_3-5_ruoyi_cloud_deployment_practice_part_2/)

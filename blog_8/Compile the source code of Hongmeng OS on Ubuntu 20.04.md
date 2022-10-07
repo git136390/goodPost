@@ -1,0 +1,2 @@
+# Compile the source code of Hongmeng OS on Ubuntu 20.04
+[Compile the source code of Hongmeng OS on Ubuntu 20.04](https://aiwithcloud.com/2022/09/19/compile_the_source_code_of_hongmeng_os_on_ubuntu_20-04/)
